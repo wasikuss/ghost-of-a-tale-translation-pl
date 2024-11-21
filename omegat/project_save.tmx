@@ -98,6 +98,97 @@ version_110716_001
       <tuv lang="en-US">
         <seg>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;!DOCTYPE simplemind-mindmaps&gt;
+&lt;simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3"&gt;
+&lt;mindmap&gt;
+&lt;meta&gt;
+&lt;guid guid="224BEF4D2CE948308403DF95B409ADC7"/&gt;
+&lt;title text="quest_escapePlanPasses" customized="True"/&gt;
+&lt;style key="system.pastel-palette"/&gt;
+&lt;auto-numbering style="disabled"/&gt;
+&lt;scrollstate zoom="140" x="952" y="694"/&gt;
+&lt;selection guid="R8jMCuVdMUeVUYHxS49UxQ" type="node" id="0"/&gt;
+&lt;main-centraltheme id="0"/&gt;
+&lt;/meta&gt;
+&lt;topics&gt;
+&lt;topic id="0" parent="-1" guid="R8jMCuVdMUeVUYHxS49UxQ" x="878.24" y="624.98" palette="2" colorinfo="2" text="Three Shall Pass"&gt;
+&lt;note&gt;
+version_03-02-18_003
+-Added renown points award to quest
+version_050115_002
+-Updated to use three checkpoint passes
+version_110715_001
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="1" parent="0" guid="JPjf--QjN06UX-RKe6RRQQ" x="879.49" y="821.23" palette="6" colorinfo="6" text="Find three Checkpoint Passes."&gt;
+&lt;note&gt;
+[taskName=getThreePasses]
+[itemCounter=paper_manuscript_pass/3]
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="2" parent="1" guid="luP72_hDgE23rS9v_t9VeA" x="1383.99" y="821.73" palette="8" colorinfo="8" text="You found three checkpoint passes."/&gt;
+&lt;topic id="3" parent="1" guid="StkQSTDEdEqeZADp6Rq0nw" x="880.49" y="1044.98" palette="4" colorinfo="4" text="Return to Gusto and Fatale."&gt;
+&lt;note&gt;
+[taskName=talkToGustoFatale]
+[grantRenown=2]
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="4" parent="3" guid="Tx1esaSobku5Y9MCd0ID9w" x="1385.24" y="1044.98" palette="8" colorinfo="8" text="You gave the checkpoint\Npasses to Gusto and Fatale."/&gt;
+&lt;topic id="5" parent="0" guid="wrCyylTsDUm1XhEzjNt3kg" x="1404.99" y="623.73" palette="8" colorinfo="8" text="Gusto and Fatale need\Nthree checkpoint passes."/&gt;
+&lt;/topics&gt;
+&lt;relations/&gt;
+&lt;/mindmap&gt;
+&lt;/simplemind-mindmaps&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="wasikuss" changedate="20241121T075100Z" creationid="wasikuss" creationdate="20241121T075100Z">
+        <seg>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE simplemind-mindmaps&gt;
+&lt;simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3"&gt;
+&lt;mindmap&gt;
+&lt;meta&gt;
+&lt;guid guid="224BEF4D2CE948308403DF95B409ADC7"/&gt;
+&lt;title text="quest_escapePlanPasses" customized="True"/&gt;
+&lt;style key="system.pastel-palette"/&gt;
+&lt;auto-numbering style="disabled"/&gt;
+&lt;scrollstate zoom="140" x="952" y="694"/&gt;
+&lt;selection guid="R8jMCuVdMUeVUYHxS49UxQ" type="node" id="0"/&gt;
+&lt;main-centraltheme id="0"/&gt;
+&lt;/meta&gt;
+&lt;topics&gt;
+&lt;topic id="0" parent="-1" guid="R8jMCuVdMUeVUYHxS49UxQ" x="878.24" y="624.98" palette="2" colorinfo="2" text="Trzy Przepustki"&gt;
+&lt;note&gt;
+version_03-02-18_003
+-Added renown points award to quest
+version_050115_002
+-Updated to use three checkpoint passes
+version_110715_001
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="1" parent="0" guid="JPjf--QjN06UX-RKe6RRQQ" x="879.49" y="821.23" palette="6" colorinfo="6" text="Znajdź trzy przepustki."&gt;
+&lt;note&gt;
+[taskName=getThreePasses]
+[itemCounter=paper_manuscript_pass/3]
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="2" parent="1" guid="luP72_hDgE23rS9v_t9VeA" x="1383.99" y="821.73" palette="8" colorinfo="8" text="Znalazłeś trzy przepustki."/&gt;
+&lt;topic id="3" parent="1" guid="StkQSTDEdEqeZADp6Rq0nw" x="880.49" y="1044.98" palette="4" colorinfo="4" text="Wróć do Gusta i Fatale."&gt;
+&lt;note&gt;
+[taskName=talkToGustoFatale]
+[grantRenown=2]
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="4" parent="3" guid="Tx1esaSobku5Y9MCd0ID9w" x="1385.24" y="1044.98" palette="8" colorinfo="8" text="Dałeś przepustki Gusto i Fatale."/&gt;
+&lt;topic id="5" parent="0" guid="wrCyylTsDUm1XhEzjNt3kg" x="1404.99" y="623.73" palette="8" colorinfo="8" text="Gusto i Fatale potrzebują trzech przepustek."/&gt;
+&lt;/topics&gt;
+&lt;relations/&gt;
+&lt;/mindmap&gt;
+&lt;/simplemind-mindmaps&gt;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE simplemind-mindmaps&gt;
 &lt;simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.0" doc-version="3"&gt;
 &lt;mindmap&gt;
 &lt;meta&gt;
