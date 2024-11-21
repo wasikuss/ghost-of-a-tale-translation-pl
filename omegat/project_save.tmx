@@ -94,6 +94,91 @@ version_110716_001
 &lt;/simplemind-mindmaps&gt;</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE simplemind-mindmaps&gt;
+&lt;simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.0" doc-version="3"&gt;
+&lt;mindmap&gt;
+&lt;meta&gt;
+&lt;guid guid="85C439FFDED64A13BCE42176B520EE51"/&gt;
+&lt;title text="quest_chapelMural" customized="True"/&gt;
+&lt;style key="system.pastel-palette"/&gt;
+&lt;auto-numbering style="disabled"/&gt;
+&lt;scrollstate zoom="100" x="740" y="275"/&gt;
+&lt;selection guid="HlO2OyyQOEeM5Cc8F9Y9hA" type="node" id="3"/&gt;
+&lt;main-centraltheme id="0"/&gt;
+&lt;/meta&gt;
+&lt;topics&gt;
+&lt;topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="896.02" y="620.54" palette="2" colorinfo="2" text="A Warning from the Past"&gt;
+&lt;note&gt;
+version_030316_001
+-First release
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="1" parent="0" guid="leSFUphX30e2MKzK6CGNeA" x="896.01" y="722.35" palette="6" colorinfo="6" text="Collect all fragments of mural."&gt;
+&lt;note&gt;
+[taskName=getMuralFragments]
+[itemCounter=muralFragments/9]
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="2" parent="1" guid="ya4S48AAck6r0s8fPxgW_g" x="1373.84" y="730.62" palette="8" colorinfo="8" text="You collected all fragments of the mural."/&gt;
+&lt;topic id="3" parent="1" guid="HlO2OyyQOEeM5Cc8F9Y9hA" x="896.01" y="873.10" text="Return the mural to the chapel."&gt;
+&lt;note&gt;
+[taskName=restoreMosaic]
+[grantRenown=5]
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="4" parent="3" guid="WH84V2vCM0SvOM9h7XD2dw" x="1373.84" y="873.10" palette="8" colorinfo="8" text="You restored the chapel&amp;apos;s mural,\Nrevealing a chilling scene..."/&gt;
+&lt;topic id="5" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1373.84" y="620.54" palette="8" colorinfo="8" text="Gather every fragment of\Na fresco mural from the Bone Shore."/&gt;
+&lt;/topics&gt;
+&lt;relations/&gt;
+&lt;/mindmap&gt;
+&lt;/simplemind-mindmaps&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="wasikuss" changedate="20241121T074445Z" creationid="wasikuss" creationdate="20241121T074445Z">
+        <seg>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE simplemind-mindmaps&gt;
+&lt;simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.0" doc-version="3"&gt;
+&lt;mindmap&gt;
+&lt;meta&gt;
+&lt;guid guid="85C439FFDED64A13BCE42176B520EE51"/&gt;
+&lt;title text="quest_chapelMural" customized="True"/&gt;
+&lt;style key="system.pastel-palette"/&gt;
+&lt;auto-numbering style="disabled"/&gt;
+&lt;scrollstate zoom="100" x="740" y="275"/&gt;
+&lt;selection guid="HlO2OyyQOEeM5Cc8F9Y9hA" type="node" id="3"/&gt;
+&lt;main-centraltheme id="0"/&gt;
+&lt;/meta&gt;
+&lt;topics&gt;
+&lt;topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="896.02" y="620.54" palette="2" colorinfo="2" text="Ostrzeżenie z przeszłości"&gt;
+&lt;note&gt;
+version_030316_001
+-First release
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="1" parent="0" guid="leSFUphX30e2MKzK6CGNeA" x="896.01" y="722.35" palette="6" colorinfo="6" text="Zbierz wszystkie fragmenty muralu."&gt;
+&lt;note&gt;
+[taskName=getMuralFragments]
+[itemCounter=muralFragments/9]
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="2" parent="1" guid="ya4S48AAck6r0s8fPxgW_g" x="1373.84" y="730.62" palette="8" colorinfo="8" text="Zebrałeś wszystkie fragmenty muralu."/&gt;
+&lt;topic id="3" parent="1" guid="HlO2OyyQOEeM5Cc8F9Y9hA" x="896.01" y="873.10" text="Odnieś mural do kaplicy."&gt;
+&lt;note&gt;
+[taskName=restoreMosaic]
+[grantRenown=5]
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="4" parent="3" guid="WH84V2vCM0SvOM9h7XD2dw" x="1373.84" y="873.10" palette="8" colorinfo="8" text="Odrestaurowałeś mural w kaplicy, ujawniając mrożącą krew w żyłach scenę..."/&gt;
+&lt;topic id="5" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1373.84" y="620.54" palette="8" colorinfo="8" text="Zbierz wszystkie fragmenty muralu z Wybrzeża Kości."/&gt;
+&lt;/topics&gt;
+&lt;relations/&gt;
+&lt;/mindmap&gt;
+&lt;/simplemind-mindmaps&gt;
+</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
