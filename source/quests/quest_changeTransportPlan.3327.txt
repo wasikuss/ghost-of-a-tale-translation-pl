@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="D6EC179BBE984FC8A5680B62B95AF910"/>
+<title text="quest_changeTransportPlan" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="80" x="148" y="399"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="R8jMCuVdMUeVUYHxS49UxQ" x="878.24" y="624.98" palette="2" colorinfo="2" text="A Change of Plan">
+<note>
+[mainQuest]version_01-16-18_002-Added renown on final node at tier 3 (temp)version_032417_001-first draft
+</note>
+</topic>
+<topic id="1" parent="0" guid="JPjf--QjN06UX-RKe6RRQQ" x="878.24" y="746.02" palette="6" colorinfo="6" text="Find the prison transport&apos;s itinerary. ">
+<note>
+[taskName=getTransportPlan]
+</note>
+</topic>
+<topic id="2" parent="1" guid="oozLG_-o60-lRnIbFZXtwA" x="1383.99" y="746.02" palette="8" colorinfo="8" text="You retrieved the itinerary from\Nthe Harbourmaster&apos;s cabin."/>
+<topic id="3" parent="1" guid="StkQSTDEdEqeZADp6Rq0nw" x="879.49" y="870.70" palette="4" colorinfo="4" text="Return to Tam and Farrow.">
+<note>
+[taskName=returnToTransport]
+</note>
+</topic>
+<topic id="4" parent="3" guid="fAfVCtTGckK5kjTTZ-Sl7Q" x="1383.99" y="870.70" palette="8" colorinfo="8" text="You returned to the prison\Ntransport with the itinerary."/>
+<topic id="5" parent="3" guid="peZayrzxY0Ooeti0DBvvfQ" x="879.49" y="988.02" palette="6" colorinfo="6" text="Choose a safe port of call.">
+<note>
+[taskName=chooseSafeHaven]
+</note>
+</topic>
+<topic id="6" parent="5" guid="vS-551pseEuFVdnqNlvivw" x="1388.10" y="988.02" palette="8" colorinfo="8" text="You added the safe port of\NGadwell to the ship&apos;s itinerary."/>
+<topic id="7" parent="5" guid="KBPA3Zw1kk64KKeYPN1O2Q" x="879.49" y="1104.63" palette="4" colorinfo="4" text="Have the new itinerary\Nsigned by the Commander.">
+<note>
+[taskName=talkToCommander]
+</note>
+</topic>
+<topic id="8" parent="7" guid="_J-YzTgdhUejQEysLhibkQ" x="1388.10" y="1104.63" palette="8" colorinfo="8" text="The Garrison Commander\Nsigned off on the new itinerary."/>
+<topic id="9" parent="7" guid="Edd7Fi4x2kuc5Mmlw8EEvA" x="879.49" y="1244.15" palette="4" colorinfo="4" text="Return to the prison\Ntransport ship.">
+<parent-relation guid="gWZtmZxoz0m3YVp7y85sHg"/>
+<note>
+[taskName=returnToRebels]
+</note>
+</topic>
+<topic id="10" parent="9" guid="01_IwkwMW0GeowDa02LK0A" x="1389.53" y="1244.15" palette="8" colorinfo="8" text="Everything is set for the Mice&apos;s escape."/>
+<topic id="11" parent="9" guid="-ZuFJeu9aEeaiL_YpMmgSA" x="1183.25" y="1586.21" palette="5" colorinfo="5" text="Learn where Merra is now.">
+<note>
+[taskName=askMerraQuestionB]
+</note>
+</topic>
+<topic id="12" parent="11" guid="3PNzYqf1u0e4PX1ah5CPSA" x="1389.53" y="1475.24" palette="8" colorinfo="8" text="Neither Mouse knows where Merra is now... but\Nthey saw her put aboard a ship, &apos;The Rathskellan&apos;."/>
+<topic id="13" parent="11" guid="m8uyBWYwukea11uFka1eFw" x="881.58" y="1845.99" text="Talk with Silas.">
+<parent-relation guid="GHjzCxcl5EeJPzPqwAiawA"/>
+<note>
+[taskName=findSilas][grantRenown=3]
+</note>
+</topic>
+<topic id="14" parent="13" guid="iXGBKYpl_EuQ51hnbgjwMA" x="450.41" y="1845.99" palette="8" colorinfo="8" text="You found Silas in the\Ncommissary--soused!"/>
+<topic id="15" parent="9" guid="-k3DDYUWqkmvu0LHvYmADw" x="571.41" y="1586.21" palette="5" colorinfo="5" text="Learn why you were arrested.">
+<note>
+[taskName=askMerraQuestionA]
+</note>
+</topic>
+<topic id="16" parent="15" guid="fV-D7jPRZ0mW0pTLSe-SZg" x="392.51" y="1475.24" palette="8" colorinfo="8" text="Merra was helping rebel Mice\Nby carrying messages for them."/>
+<topic id="17" parent="0" guid="Ia1Z_TpYi0emeoNBhXwdWg" x="1383.99" y="624.98" palette="8" colorinfo="8" text="It isn&apos;t wise for the Mice to escape here.\NAdd a safe port of call to the ship&apos;s itinerary."/>
+</topics>
+<relations>
+<relation guid="9qlfTXJkD0CdQNcMksUJww" source="15" target="13"/>
+</relations>
+</mindmap>
+</simplemind-mindmaps>

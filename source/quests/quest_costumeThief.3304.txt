@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="DE011391E9514A758889416D3ED47654"/>
+<title text="quest_costumeThief" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="80" x="86" y="203"/>
+<selection guid="zxKYENawlEmW3vzaQ04msw" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="zxKYENawlEmW3vzaQ04msw" x="883.24" y="624.98" palette="2" colorinfo="2" text="A Thief&apos;s Guile">
+<note>
+version_03-02-18_002-Added renown points award to questversion_110716_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="30Ts-EjWlk2YFOtnzaSiQQ" x="1116.80" y="894.42" palette="5" colorinfo="5" text="Find a thief&apos;s tunic.">
+<note>
+[taskName=getThiefTunic]
+</note>
+</topic>
+<topic id="2" parent="1" guid="7FltOqi7N0CYcdra9ykCnA" x="1116.80" y="1067.87" palette="8" colorinfo="8" text="You found a thief&apos;s tunic."/>
+<topic id="3" parent="0" guid="xf1Qx3dxikOThGLY_HJk6g" x="1378.74" y="624.98" palette="8" colorinfo="8" text="Find all pieces of Tulong the Thief&apos;s costume."/>
+<topic id="4" parent="0" guid="lxXxeTTdFUOgCkoRIgjqbw" x="625.80" y="894.42" palette="5" colorinfo="5" text="Find a thief&apos;s mask.">
+<note>
+[taskName=getThiefMask]
+</note>
+</topic>
+<topic id="5" parent="4" guid="ORdUul_-T06kHqxABevY7g" x="625.80" y="1067.87" palette="8" colorinfo="8" text="You found a thief&apos;s mask."/>
+<topic id="6" parent="0" guid="U_Jh9tyMB0yj5hTXVBZnCQ" x="883.24" y="894.42" palette="5" colorinfo="5" text="Find a thief&apos;s hat.">
+<note>
+[taskName=getThiefHat][grantRenown=1]
+</note>
+</topic>
+<topic id="7" parent="6" guid="rlULm9klDEi8WYoBuZMwzw" x="883.24" y="1013.87" palette="8" colorinfo="8" text="You found a thief&apos;s tricorn hat."/>
+<topic id="8" parent="0" guid="ECPKjzV1O0C8l_TtwCatYQ" x="1378.74" y="894.42" palette="5" colorinfo="5" text="Find a thief&apos;s boots.">
+<note>
+[taskName=getThiefBoots][grantRenown=1]
+</note>
+</topic>
+<topic id="9" parent="8" guid="5C4RgMQfrUWMd74B9jOQUg" x="1378.74" y="1013.87" palette="8" colorinfo="8" text="You found the boots of a thief."/>
+<topic id="10" parent="0" guid="H3M82LKmHkCtKgXoM-h5CA" x="376.79" y="894.42" palette="5" colorinfo="5" text="Find a thief&apos;s belt.">
+<note>
+[taskName=getThiefBelt][grantRenown=1]
+</note>
+</topic>
+<topic id="11" parent="10" guid="IZPPM-7UeUae2Z4-oljXiw" x="376.79" y="1013.87" palette="8" colorinfo="8" text="You found the belt of a thief."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

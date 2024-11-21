@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="02203B47F517490A994923D0E03751D9"/>
+<title text="quest_tarotCardsGetAll" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="90" x="410" y="262"/>
+<selection guid="--4lZjyoOk-yZZ96DLPUMg" type="node" id="6"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="878.24" y="624.98" palette="2" colorinfo="2" text="The Hand of Fate">
+<note>
+version_03-02-18_003-Added renown points award to questversion_07-24-16_002-Removed a final task because it caused a bug-Added a final task to return to Fataleversion_11-07-15_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="0gJfZMFkgUGAEIdEXo2DqQ" x="1372.72" y="624.98" palette="8" colorinfo="8" text="Find and collect a full hand of\Ntwelve fate cards for Fatale."/>
+<topic id="2" parent="0" guid="leSFUphX30e2MKzK6CGNeA" x="879.33" y="743.59" palette="6" colorinfo="6" text="Collect all Fate Cards.">
+<parent-relation guid="9Sbw2xH2ZEy_W1XLGynIMA"/>
+<note>
+[taskName=getAllFateCards][itemCounter=card_tarot/12]
+</note>
+</topic>
+<topic id="3" parent="2" guid="UPmgFxbiMkuYVWEk3eVRHA" x="1372.72" y="743.59" palette="8" colorinfo="8" text="You collected all twelve Fate Cards."/>
+<topic id="4" parent="2" guid="4gM3w9vGKkSIr0-4cdNElQ" x="880.00" y="877.49" palette="2" colorinfo="2" text="Return to Fatale.">
+<parent-relation guid="4mcy3eq3gEyjviO-j13k4w"/>
+<note>
+[taskName=talkToFatale]
+</note>
+</topic>
+<topic id="5" parent="4" guid="7rT6tgGQmEWitv-6Ldkwsw" x="1372.72" y="877.49" palette="8" colorinfo="8" text="You gave Fatale the &apos;Hand of Fate&apos;. She\Nasked for some time to read the cards."/>
+<topic id="6" parent="4" guid="--4lZjyoOk-yZZ96DLPUMg" x="880.00" y="1021.94" text="Receive your fate.">
+<note>
+[taskName=talkToFataleB][grantRenown=2]
+</note>
+</topic>
+<topic id="7" parent="6" guid="kvm2ZN62DU-Y_D6q2oLQlg" x="1372.72" y="1021.94" palette="8" colorinfo="8" text="The cards have spoken--Merra is still alive!"/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

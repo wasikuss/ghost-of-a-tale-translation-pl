@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="462A606EA9BD403EB651729749E1811E"/>
+<title text="quest_theApiary" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="90" x="-90" y="160"/>
+<selection guid="kW6o0OMwKEytNO54MDYHqw" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="553.80" y="551.65" palette="2" colorinfo="2" text="The Apiary">
+<note>
+version_03-02-18_003-Added renown points award to questversion_072817_002-updated to use three bee queens, and four parallel tasksversion_071817_001-First draft
+</note>
+</topic>
+<topic id="1" parent="0" guid="leSFUphX30e2MKzK6CGNeA" x="729.34" y="730.62" palette="5" colorinfo="5" text="Find a mature queen.">
+<note>
+[taskName=getMatureQueen]
+</note>
+</topic>
+<topic id="2" parent="1" guid="ya4S48AAck6r0s8fPxgW_g" x="729.34" y="857.29" palette="8" colorinfo="8" text="You collected a\Nmature queen bee."/>
+<topic id="3" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1064.90" y="551.65" palette="8" colorinfo="8" text="The garden hives have been abandoned. Find\Nthree bee queens and repopulate the apiary."/>
+<topic id="4" parent="0" guid="lgS-hhSTA0CsIIYAk6EngQ" x="1064.90" y="730.62" palette="5" colorinfo="5" text="Take a queen to\Neach hive.">
+<parent-relation guid="9IirpOz8pEibAmaLITyY9A"/>
+<note>
+[taskName=returnToApiary][interactionCounter=beehive/3][grantRenown=2]
+</note>
+</topic>
+<topic id="5" parent="4" guid="9cXuQ8epOUyjpW0a6s_FBQ" x="1064.90" y="857.29" palette="8" colorinfo="8" text="You released the three\Nqueens into the apiary."/>
+<topic id="6" parent="0" guid="vWyCTz1x_ESWIHLL6dzTUw" x="407.21" y="728.61" palette="5" colorinfo="5" text="Find a young queen.">
+<note>
+[taskName=getYoungQueen]
+</note>
+</topic>
+<topic id="7" parent="6" guid="BPOvS2TILEmvYLd9cKhtuQ" x="407.21" y="855.28" palette="8" colorinfo="8" text="You collected a\Nyoung queen bee."/>
+<topic id="8" parent="0" guid="kWVyyo3--0G62CSPDDMMWw" x="92.76" y="730.83" palette="5" colorinfo="5" text="Find a larval queen.">
+<note>
+[taskName=getLarvalQueen]
+</note>
+</topic>
+<topic id="9" parent="8" guid="DCU5sKpwiE-796kh8Bagtg" x="92.76" y="857.50" palette="8" colorinfo="8" text="You collected a larval queen."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

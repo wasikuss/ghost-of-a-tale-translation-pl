@@ -1,0 +1,1746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.2" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="4350E3ABB93F477982C4E1D92D3D49F9"/>
+<title text="dialog_faustus"/>
+<images containsImages="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="50" x="3563" y="903"/>
+<selection guid="kT8Q5vZz8EChce5vkVYGcg" type="node" id="238"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="BwPUF62HbEe9LvS7lG1YcA" x="5336.48" y="-2684.08" palette="3" colorinfo="3" text="dialog_faustus">
+<note>
+[characters:Faustus;Tilo]version_04-16-18_24-Added counter to track whether Tilo has big ears or not.version_03-28-18-23-Fixed bug where the still quest was playable twice. Required adding a new lockable thread commandversion_03-04-18_22-Added portraitsversion_01-25-18_21-Added section to receive smugglers&apos; keyversion_01-14-18_20-Moved antidote timer into main body of quest.version_01-05-18_19-Added still quest-Moved death&apos;s tongue mushroom quest to be secondversion_08-17-17_018-Added opportunity for Tilo to complain about &apos;busywork&apos;version_08-08-17_017Amended text--&apos;a simpleton&apos;Added threads to remove the big ears effectversion_08-07-17_016Added big ears command to dialog!version_07-27-17_015-Reordered mushrooms to put all night mushrooms together-Unlocked references to night-blooming mushroomsversion_06-20-17_014-Added new quest, to collect mushrooms-Added command to give all mushrooms to Faustusversion_12-05-16_013-Added command to reflect whether Tilo has found Faustus or not in Silas&apos; &apos;can&apos;t find antidote&apos; threadversion_12-01-16_012-Edited description of Faustus academic past to &apos;studied&apos; rather than &apos;taught&apos; at Keemversion_11-28-16_011-Added new task for finding spider venom-Added &apos;input links&apos; node for d-hubversion_03-30-16_010-Added footnote for &apos;the Wallowing&apos;version_08-10-16_009-Removed double dashes-Changed links for &apos;why should I help you?&apos;version_08-07-16_008-Added Faustus&apos; responses to &apos;why should I help you?&apos;version_07-21-16_007-&apos;or&apos; condition doesn&apos;t work for time of day! Added two branches to deal with evening and afternoon.version_07-19-16_006-Removed 50% of Tilo&apos;s stutteringversion_06-05-16_005-Revised mushroom count to 7.version_06-02-16_004Added candle hat as reward for completing miasma questversion_06-01-16_003Amended to catch new &apos;night&apos; time flag.version_05-03-16_002Added competeTask.talkToFaustusRevised number of mushrooms to 5version_04-26-16_001-First release
+</note>
+</topic>
+<topic id="1" parent="0" guid="wGUoaounTUqiGioZLP_nOw" x="4072.32" y="-2419.69" palette="3" colorinfo="3" text="faustus: Where have you been?\NI was expecting you hours ago.">
+<note>
+[variationIndex=0][lockableThread:firstIntro][lockThread:firstIntro][counter:metFaustus=0][updateCounter:metFaustus+1]
+</note>
+</topic>
+<topic id="2" parent="1" guid="Fa00mrHKK0qEcU-HXskT8g" x="4072.32" y="-2246.36" text="tilo: Expecting me?"/>
+<topic id="3" parent="2" guid="WCJLqmoW-kiQPTE40VuIeA" x="3142.81" y="-2122.55" text="faustus: Aye. The Master\Ntold me you&apos;d be here this morning.">
+<note>
+[reveal:timeOfDay=evening]
+</note>
+</topic>
+<topic id="4" parent="3" guid="9Wj4gwKc5Ei_4xEY7Det1w" x="3744.15" y="-1838.93" text="faustus: I\Nwas beginning to think the\Nleeches had done for you.">
+<parent-relation guid="Q5bJ6QRCpE6jV5szH8449w"/>
+</topic>
+<topic id="5" parent="4" guid="YDGtTPsDiUWZHJjCz0haqw" x="3744.15" y="-1727.42" text="faustus: Anyhow, you&apos;re here now.">
+<parent-relation guid="W9B2KOw-xUKsZptjz6OHLg"/>
+</topic>
+<topic id="6" parent="5" guid="0ABN46ycXUmhet0SsIrbFw" x="3744.27" y="-1598.28" text="faustus: Scrawny, aren&apos;t\Nyou? Soft paws, weak arms...">
+<parent-relation guid="tuINemBHOU-EPZavkqPong"/>
+<children>
+<image guid="MpH4NY6QpkiP9Jcm3YYORQ" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="188.75" y="-35.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="MpH4NY6QpkiP9Jcm3YYORQ" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="188.75" y="-35.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+</topic>
+<topic id="7" parent="6" guid="LRRfGWzvEEuOh3oIIqhlWQ" x="3744.27" y="-1485.61" text="faustus: But you&apos;ve a full set of\Nlimbs. I suppose you&apos;ll do."/>
+<topic id="8" parent="7" guid="-ldKGmBSoka4kh1_2JbSMw" x="3744.27" y="-1404.66" text="faustus: Let&apos;s get to work."/>
+<topic id="9" parent="8" guid="Ca9538wsA0yJGGPDMqwWCQ" x="3744.02" y="-1316.71" text="faustus: I promised the Master\Nthat this next batch would be\Nready in time for [the Wallowing]...">
+<parent-relation guid="6eWuThKf60u4kpOtCqQALw"/>
+<note>
+[footnote:wallowing]
+</note>
+</topic>
+<topic id="10" parent="9" guid="GUMh4JHz7UyzRODG42DRFw" x="3750.02" y="-1159.32" text="faustus: ... and I, Faustus\NRott, like to keep my word.">
+<children>
+<image guid="-sTvja-KIES92v-d6roGSA" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="187.50" y="-28.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="-sTvja-KIES92v-d6roGSA" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="187.50" y="-28.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+<note>
+[executeAction:revealTrueName=character_faustus][unlockThread:recognizeFaustus][completeTask:quest_findFaustus.findFaustus]
+</note>
+</topic>
+<topic id="11" parent="10" guid="wSn6su8UiEa5B0UqA_bigA" x="3935.94" y="-998.22" text="tilo: I won&apos;t let\Nyou down, sir."/>
+<topic id="12" parent="11" guid="LfRMzZ7w5E6yKQGZFf9WjA" x="3935.94" y="-877.13" text="faustus: We&apos;ll see..."/>
+<topic id="13" parent="12" guid="EL6x-XZOnkCyjBySYDo0lg" x="3938.44" y="-710.11" text="faustus: Now, I have some matters to\Nattend to elsewhere, so I&apos;ll need you\Nto mind the still while I&apos;m away.">
+<parent-relation guid="xBhKiKcF2kOTWoVZa8G93w"/>
+<note>
+[lockableThread:fixedStill]
+</note>
+</topic>
+<topic id="14" parent="13" guid="5YSHAL0mn0uJmNzAMhvT7A" x="3935.94" y="-543.45" text="faustus: This is a critical stage in\Nthe process! If the pressure falls\Ntoo low the batch will be ruined.">
+<note>
+[lockThread:fixedStill]
+</note>
+</topic>
+<topic id="15" parent="14" guid="dZSDEpfhSEunADtWv4oq3w" x="3935.94" y="-404.28" text="faustus: Any leaks in the pot or the\Npipe must be repaired immediately!"/>
+<topic id="16" parent="15" guid="d6OqYrJuAESq1mzxUu_g6g" x="3935.94" y="-80.11" text="faustus: Be warned, the vapours are\Nextremely noxious--so work quickly.">
+<parent-relation guid="9Jm7MeH7RU-CsZLWsVnUgA"/>
+</topic>
+<topic id="17" parent="16" guid="WF2GxNyHCUKm9pH7ot_-8Q" x="3935.94" y="63.22" text="faustus: I&apos;ll only be gone a few\Nmoments, so I can&apos;t imagine you&apos;ll\Nhave time to get into too much trouble.">
+<children>
+<image guid="6cm76zjZOESjg8ZMQGSQCA" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="235.00" y="-8.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="6cm76zjZOESjg8ZMQGSQCA" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="235.00" y="-8.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+</topic>
+<topic id="18" parent="17" guid="ZfImZefTKUC6ve6cbu2yrA" x="3935.94" y="206.55" text="faustus: Back soon!">
+<parent-relation guid="g97gmXYZtU63XBEnRbdtmA"/>
+<note>
+[startQuest:quest_tendTheStill][executeAction:startStillLeaking][unlockThread:stillTaskLose;stillTaskWin]
+</note>
+</topic>
+<topic id="19" parent="2" guid="8ifV7jLBUkqgnMof4DxHZg" x="4234.15" y="-2121.91" text="faustus: Aye. The Master told\Nme you&apos;d be here last night.">
+<note>
+[reveal:timeOfDay=afternoon]
+</note>
+</topic>
+<topic id="20" parent="2" guid="D-PEJR7iJkKLn8EVPxMO-w" x="3513.12" y="-2122.55" text="faustus: Aye. The Master\Ntold me you&apos;d be here this afternoon.">
+<note>
+[reveal:timeOfDay=night]
+</note>
+</topic>
+<topic id="21" parent="2" guid="eFAQw6srmUSTIeLWZRilMg" x="3892.37" y="-2121.91" text="faustus: Aye. The Master told\Nme you&apos;d be here yesterday evening.">
+<note>
+[reveal:timeOfDay=morning]
+</note>
+</topic>
+<topic id="22" parent="1" guid="hbxki0wUDUq6qR0FPrH_Zw" x="4510.28" y="-2121.91" text="tilo: S-sorry I&apos;m late."/>
+<topic id="23" parent="1" guid="Mk3N8ATs2066uYN2mXVuRg" x="4924.43" y="-2141.94" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="24" parent="0" guid="Lbq45I2d0ECMwUNUXh9IVg" x="5170.57" y="-2274.29" palette="3" colorinfo="3" text="faustus: Yes, what is it?">
+<note>
+[variationIndex=1][unlockThread:mushroomQuestActive;getSpiderVenomActive;fungusSearchActive][lockThread:recognizeFaustus]
+</note>
+</topic>
+<topic id="25" parent="24" guid="P6OBD2_VYUyHk0xUtqKz1A" x="5410.87" y="-439.71" text="DIALOGUE_HUB_A">
+<parent-relation guid="kncx7g0YQ0aS6qdVYD31uw"/>
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="26" parent="25" guid="31OOIxThXUGlXkGUjfLvTA" x="5592.33" y="-328.74" text="DIALOGUE_HUB_B">
+<parent-relation guid="dIm1Gbys5EG1_HR4UJiE0Q"/>
+</topic>
+<topic id="27" parent="26" guid="2MqlQk8zG0SkdKSiDyEbGQ" x="5122.19" y="1393.49" text="tilo: I&apos;m still searching for your\NDeath&apos;s Tongue mushrooms.">
+<note>
+[lockableThread:mushroomQuestActive][lockThread:mushroomQuestActive][reveal:quest_mushroomsForFaustus.talkToFaustus=inactive]
+</note>
+</topic>
+<topic id="28" parent="27" guid="p00vR0V0e0CEcEIcMz3AaA" x="4850.58" y="1704.24" text="faustus: You mean to say\Nyou don&apos;t have the samples\Nyet? Hurry, Mouse!">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="29" parent="28" guid="dwo3HQee6ke-Wdr7ODm7hQ" x="5121.08" y="2099.24" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="30" parent="27" guid="TnJz54K-qE6LavYCfzMEcg" x="5122.19" y="1803.88" text="faustus: Fool! The batch\Nwill be ruined! Go!">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="31" parent="27" guid="IiGXdEt8skeoqEEbPNmqYQ" x="5399.47" y="1702.71" text="faustus: I don&apos;t want to see you again\Nuntil you have what I asked for.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="32" parent="26" guid="axoRIFkk40ytXCEnx-2NcA" x="5957.83" y="-1548.71" text="tilo: Why should I help you?">
+<note>
+[lockableThread:whyHelp][lockThread:whyHelp]
+</note>
+</topic>
+<topic id="33" parent="32" guid="0QadLT26PEKvtcvc702bwg" x="5958.90" y="-1451.57" text="faustus: Is that not\Nwhy you&apos;re here?"/>
+<topic id="34" parent="33" guid="Q89N_uwTJkmdbsRp87KD-A" x="6079.44" y="-1226.57" text="tilo: But should I not get\Nsomething in return?"/>
+<topic id="35" parent="34" guid="JbxA2dqtskSZv3R2DOpwsw" x="6082.83" y="-1074.43" text="faustus: My work is of\Nprofound importance! Is that\Nknowledge not its own reward?">
+<parent-relation guid="QJaxpqljW0mmkOO199gmQA"/>
+<children>
+<image guid="_0FJMJ9k4kOKeySeeWxqSQ" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="175.71" y="-65.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="_0FJMJ9k4kOKeySeeWxqSQ" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="175.71" y="-65.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+</topic>
+<topic id="36" parent="35" guid="ToMkuVNYyUSdA8kZZvRLjw" x="6084.23" y="-991.89" text="tilo: ... No?"/>
+<topic id="37" parent="36" guid="Wk-lbrDdWkWqungBIqyZwg" x="6083.60" y="-909.01" text="faustus: ...">
+<children>
+<image guid="TmslcKCXT028PQkOicPASQ" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="112.86" y="-35.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="TmslcKCXT028PQkOicPASQ" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="112.86" y="-35.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+</topic>
+<topic id="38" parent="37" guid="N80XDnsp-UKhuWg53lfa6w" x="6082.97" y="-826.14" text="faustus: ... Very well. I will find some\Nsuitable recompense for your efforts.">
+<parent-relation guid="xBUMitV8i0a9ihrxCXasgA"/>
+<children>
+<image guid="CtNZq5kEgES33IPab3wcEA" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="238.21" y="37.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="CtNZq5kEgES33IPab3wcEA" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="238.21" y="37.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+</topic>
+<topic id="39" parent="33" guid="kRE7HqayqkyV5U0_GaN96w" x="5776.40" y="-1223.00" text="tilo: O-of course..."/>
+<topic id="40" parent="39" guid="Yz_ahDWjoEu28I5_XhoS8g" x="5772.90" y="-1055.85" text="Excellent, then we\Nmust delay no longer."/>
+<topic id="41" parent="26" guid="XIEjTAeZCEOMShCwNbo4Ow" x="2939.92" y="1680.61" text="tilo: I&apos;ve not yet been able to\Ncollect a sample of venom.">
+<parent-relation guid="yKKhmk0OqkObesKvE5TvMA"/>
+<note>
+[lockableThread:getSpiderVenomActive][lockThread:getSpiderVenomActive][reveal:quest_spiderAntidote.getSpiderVenom=active]
+</note>
+</topic>
+<topic id="42" parent="41" guid="O6bRftFbIEatyGZKJWApNw" x="3373.42" y="1850.11" text="faustus: *SIGH*">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="43" parent="42" guid="I2KNSIe4d0K0l6Vo11EnUg" x="3373.42" y="1943.86" text="faustus: I don&apos;t know what\Nelse to tell you. Perhaps\Nthe blacksmith can help."/>
+<topic id="44" parent="41" guid="Y-JMG6zROEa3qAXWP-iw8Q" x="2494.58" y="1850.11" text="faustus: Search the sewers. Use\Nyour wits as well as your eyes.">
+<parent-relation guid="syAd0pc9F02A6HH1iYxbSA"/>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="45" parent="44" guid="sGSDzt6Z40WpjiqPEqmQyQ" x="2494.58" y="1956.36" text="faustus: Where there&apos;s webbing,\Nyou&apos;ll usually find spiders."/>
+<topic id="46" parent="45" guid="tx1xLnmS50ORjbqDphS1pQ" x="2939.92" y="2222.30" text="NULL NODE">
+<parent-relation guid="I_b3j_1sRUa8WXHkU6YkNg"/>
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="47" parent="41" guid="H8vpga3sckCtUkmTjCKMxQ" x="2939.92" y="1910.58" text="faustus: Spiders nest deep underground,\Nin narrow tunnels burrowed high into\Ncavern walls, shrouded in cobwebs.">
+<parent-relation guid="8t_47Q2EZkqi9OeF3d2G_A"/>
+<children>
+<image guid="X7O8xVQ2xkK6JJGbpUENLg" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="2.50" y="-105.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="X7O8xVQ2xkK6JJGbpUENLg" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="2.50" y="-105.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="48" parent="47" guid="InPpt-HSDkaDDv0Gptrfhw" x="2939.92" y="2014.33" text="faustus: Try the old sewer\Ncistern hall, where the\Nblue mushrooms grow."/>
+<topic id="49" parent="26" guid="k6Z9vim5HE2ADZCuT2uTEQ" x="7198.98" y="1214.85" text="tilo: I&apos;m still searching for\Nyour fungus samples, sir.">
+<note>
+[reveal:quest_collectFungusSamplesA.talkToFaustus=inactive|quest_collectFungusSamplesB.talkToFaustus=inactive][lockableThread:fungusSearchActive][lockThread:fungusSearchActive]
+</note>
+</topic>
+<topic id="50" parent="49" guid="AjZatx_A50aR7NQfmojACQ" x="6764.23" y="1617.35" text="faustus: Have you searched the\Npathway that leads down to the\Nlakeshore?">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="51" parent="50" guid="lbeiMnf9d0GdJbfDzGaleg" x="6764.23" y="1804.85" text="faustus:  You&apos;re sure to find a\Nnumber of specimens there."/>
+<topic id="52" parent="51" guid="DMCBAP3iuUePb4igctCTSA" x="7198.98" y="2099.99" text="NULL NODE">
+<parent-relation guid="r36dN2viR0GAxO3bZ4ntMg"/>
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="53" parent="49" guid="ovTsfyP7TE-iESiSeOKJUw" x="7085.59" y="1713.42" text="faustus: It&apos;s true that some\Nare quite rare... You&apos;ll likely\Nfind some good specimens\Ngrowing in the woodlands\Nthat surround the far tower.">
+<children>
+<image guid="LRYJt8Z3-kOPuBLorcqZ2A" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="2.50" y="-122.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="LRYJt8Z3-kOPuBLorcqZ2A" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="2.50" y="-122.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="54" parent="49" guid="qS3BMuymuU2TfOTJU9MMsg" x="7537.73" y="1617.35" text="faustus: My advice to you?\NThink like a mushroom...">
+<parent-relation guid="1GfwqSh7mEW0BbEkwYdh8g"/>
+<children>
+<image guid="1Ru62UjSpECAFktCRWVthg" name="b3de621922264280615b9e61c8db20b42259b5f5" x="-0.36" y="-79.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="1Ru62UjSpECAFktCRWVthg" name="b3de621922264280615b9e61c8db20b42259b5f5" x="-0.36" y="-79.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="55" parent="49" guid="MC1GnCGo40-UrEg3nOOz_w" x="7427.62" y="1713.42" text="faustus: Don&apos;t forget, some only\Nbloom during the hours of darkness.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="56" parent="26" guid="Xh6AlY_wEkqrVZ_hPRt_3w" x="5422.27" y="1803.88" text="tilo: COMPLETE MIASMA QUEST">
+<parent-relation guid="qX0Gcq1Yd0K9TOz8fggm7g"/>
+<note>
+[debug][reveal:quest_mushroomsForFaustus.talkToFaustus=active][completeTask:quest_mushroomsForFaustus.talkToFaustus]
+</note>
+</topic>
+<topic id="57" parent="56" guid="SDBeTIoQo0SCZpXnxa3AMg" x="5422.27" y="1905.49" text="faustus: Return to quest."/>
+<topic id="58" parent="26" guid="di4RnqPBdUOG_YEXGK1Zag" x="9059.61" y="1015.69" text="tilo: I&apos;ve changed my mind--I&apos;d\Nlike to try the medicine you\Noffered me.">
+<note>
+[lockableThread:acceptMysteryMedicine=true][lockThread:acceptMysteryMedicine]
+</note>
+</topic>
+<topic id="59" parent="58" guid="d79hRG06nkKlWawTWi-g4g" x="9059.61" y="1943.69" text="faustus: Can it be?! Has the spirit\Nof discovery awoken in this simple\NMouse&apos;s heart? Come, take this--eat!">
+<children>
+<image guid="ZXKfTiG_D0SP4_yZRBcI3g" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="-6.67" y="-103.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="ZXKfTiG_D0SP4_yZRBcI3g" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="-6.67" y="-103.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+</topic>
+<topic id="60" parent="26" guid="f4xKeNmamkqphqgFcrU-wg" x="9560.66" y="863.82" text="tilo: L-look what\Nyou&apos;ve done to me!">
+<note>
+[lockableThread:removeBigEars=true][lockThread:removeBigEars]
+</note>
+</topic>
+<topic id="61" parent="60" guid="krwTNVfX0kOtKg9KzC-7Ow" x="9560.66" y="1066.32" text="faustus: ... I don&apos;t follow."/>
+<topic id="62" parent="61" guid="6HX1bupYaEegrzLwmFIXyQ" x="9834.41" y="1301.32" text="tilo: My ears--they&apos;re huge!"/>
+<topic id="63" parent="62" guid="CyhzMfLbck2JlU1Vjm_2MA" x="9834.41" y="1480.07" text="faustus: You know, big ears are\Nconsidered very desirable amongst\Nthe Jerboa of the [Porreidan Desert].">
+<children>
+<image guid="q2K8Is9T_UOhh976ffkkkA" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="205.83" y="-87.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="q2K8Is9T_UOhh976ffkkkA" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="205.83" y="-87.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+<note>
+[footnote:desert_porreidan]
+</note>
+</topic>
+<topic id="64" parent="63" guid="X6qSdTvZCEudUPb9O68-Fg" x="10042.33" y="1694.65" text="tilo: I want you to fix\Nthis--right now!"/>
+<topic id="65" parent="63" guid="j9DkKjORdkeqHy5mdJvsJQ" x="9637.33" y="1694.65" text="tilo: Do I look like a\NJerboa to you?!"/>
+<topic id="66" parent="65" guid="vWC8WHioqkqFw0XUdY4pGQ" x="9637.33" y="1904.65" text="faustus: You do indeed... I\Nthink it&apos;s the ears that do it.">
+<children>
+<image guid="gMguQ95SS0O0S9eRiGQGbw" name="b3de621922264280615b9e61c8db20b42259b5f5" x="-95.50" y="-84.54" scale="1.25" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="gMguQ95SS0O0S9eRiGQGbw" name="b3de621922264280615b9e61c8db20b42259b5f5" x="-95.50" y="-84.54" scale="1.25" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="67" parent="66" guid="bQEN3K7GRUeFLpTOvr9VKQ" x="10042.33" y="1904.65" text="faustus: *SIGH* Oh, very well."/>
+<topic id="68" parent="67" guid="7OqSn4TwuEulREWL4uCVag" x="10042.33" y="2094.65" text="Muttering to himself, the apothecarist\Nrummages through the bottles and\Nearthenware pots that clutter his table. With\Na sudden flourish, he snatches up a jar of\Nointment, and applies a generous daub of\Nits contents to each of your ears.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="69" parent="68" guid="Xy653wen80mQWRZTiSVd8Q" x="10042.33" y="2280.90" text="faustus: There--I bestow upon\Nyou the mediocrity you so crave!">
+<note>
+[executeAction:bigEars=false][updateCounter:enableBigEars=0]
+</note>
+</topic>
+<topic id="70" parent="61" guid="fSvcn9AEi0WAocCcmYP8IQ" x="9294.41" y="1302.57" text="tilo: You&apos;re telling me\Nyou don&apos;t see it?"/>
+<topic id="71" parent="70" guid="43F-BLssa0KoWY8J4Vx5OQ" x="9294.41" y="1409.89" text="faustus: ... Ah."/>
+<topic id="72" parent="71" guid="qrfTXBpfHkG7P1Lq84a34w" x="9294.41" y="1480.07" text="faustus: ..."/>
+<topic id="73" parent="26" guid="JPbgcNsU9kmXK57-F8nxdQ" x="5784.23" y="3616.09" text="tilo: All these mushrooms--this\Nhad better be worth it...">
+<note>
+[reveal:quest_collectFungusSamplesA.talkToFaustus=inactive|quest_collectFungusSamplesB.talkToFaustus=inactive][lockableThread:tooManyMushrooms][lockThread:tooManyMushrooms]
+</note>
+</topic>
+<topic id="74" parent="26" guid="Uhtq7o9XDUWNrqufnZReJw" x="10844.58" y="1933.45" text="tilo: What can you tell me about\Nthe disappearance of the Jailer?">
+<parent-relation guid="riBPqBTv-Ui_LLahTpRwFw"/>
+<note>
+[lockableThread:findJailer][lockThread:findJailer][reveal:quest_findJailer.talkToCommander=inactive]
+</note>
+</topic>
+<topic id="75" parent="74" guid="rAbT7mQSLUyjP8_76_h9wg" x="10844.58" y="2122.03" text="faustus: The Jailer is\Nmissing? I had no idea..."/>
+<topic id="76" parent="75" guid="KhTaCoVuB06ggVf1FdApyw" x="11314.78" y="4317.54" text="NULL NODE">
+<parent-relation guid="YpRjbJ0c-Eykwr0o_TSXfA"/>
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="77" parent="26" guid="-vbywo4IXUuyOEFfCaImrQ" x="11578.00" y="1781.40" text="tilo: Sir, the Jailer is dead!\NMurdered, and tossed into the well!">
+<note>
+[reveal:quest_findJailer.findBody=complete][lockableThread:jailersBodyFound][lockThread:jailersBodyFound]
+</note>
+</topic>
+<topic id="78" parent="77" guid="nNpdYs4YyESPp1ZsGO57nA" x="11578.00" y="1914.40" text="faustus: Murdered...?">
+<children>
+<image guid="iS2DZ5384ECvijGUiqUXZw" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="148.57" y="-22.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="iS2DZ5384ECvijGUiqUXZw" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="148.57" y="-22.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+</topic>
+<topic id="79" parent="78" guid="PCKXWyM4yU-DtwKzn4NARA" x="11578.00" y="2044.40" text="faustus: No more\Nthan he deserved."/>
+<topic id="80" parent="26" guid="mf4HEFekE0K9TRKmXBP_BA" x="11801.25" y="1039.74" palette="6" colorinfo="6" text="tilo: Sir--Faustus--I beg you,\Nplease! Come with me!">
+<note>
+[lockableThread:comeFightGreenFlame=true][lockThread:comeFightGreenFlame]
+</note>
+</topic>
+<topic id="81" parent="80" guid="0-WbLXtmkUeUI8PC3ByI9w" x="11801.25" y="1226.76" text="faustus: I told you Mouse,\NI dare not leave this place!">
+<children>
+<image guid="o2VQK-iSokqdtaekf0vjjQ" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="171.42" y="-50.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</children>
+<images>
+<image guid="o2VQK-iSokqdtaekf0vjjQ" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="171.42" y="-50.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</images>
+</topic>
+<topic id="82" parent="26" guid="njI-yFNBVkqKPOljqi9qpg" x="12097.76" y="1678.27" palette="6" colorinfo="6" text="tilo: The Master and the Jailer--both\Nare dead. You&apos;re free!">
+<note>
+[quest_findPirateTreasure=complete][lockableThread:faustusIsFree=true][lockThread:faustusIsFree]
+</note>
+</topic>
+<topic id="83" parent="82" x="12097.76" y="1828.27" text="faustus: Dead?\NYou&apos;re certain?"/>
+<topic id="84" parent="83" guid="Hn29mkRBME2M2D_NNsbBxg" x="11831.01" y="2102.02" text="tilo: Aye, sir, I saw it\Nwith my own eyes."/>
+<topic id="85" parent="83" x="12329.76" y="2102.02" text="tilo: What reason would I\Nhave to deceive you?"/>
+<topic id="86" parent="85" guid="-nNmdoG5oEisb_pqfDL4hQ" x="12329.76" y="2237.14" text="faustus: Well, you know the reputation\Nyou Mice have. But something in your\Neyes... Can it be true...?">
+<children>
+<image guid="1gdWUtW2E0eSevO-FvEfJQ" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="239.64" y="-19.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="1gdWUtW2E0eSevO-FvEfJQ" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="239.64" y="-19.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+</topic>
+<topic id="87" parent="86" guid="yOQh0ADpY0yMNdHjH5ziig" x="12108.65" y="2419.80" text="faustus: Then at\Nlast... I am free...">
+<parent-relation guid="RrE1i5-UkESmNHyy7bCPZw"/>
+<children>
+<image guid="CJITHlbFlkSN6OiyAZW0Wg" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="130.00" y="-13.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="CJITHlbFlkSN6OiyAZW0Wg" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="130.00" y="-13.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+</topic>
+<topic id="88" parent="87" guid="7nFRCxFssU-YI2_lC-6OvA" x="12108.65" y="2576.05" text="faustus: How long has it been since I\Nlast felt the sun&apos;s warmth, or a cool\Nnight&apos;s breeze through my fur?"/>
+<topic id="89" parent="88" guid="VVD_3_BLcUKxxQ0UaPnLEQ" x="12108.65" y="2745.61" text="faustus: I thought of you as my apprentice,\Nyet it is you who has taught me--more than\Nyou could possibly know--of the value of\Nfriendship, and-"/>
+<topic id="90" parent="89" guid="ruCnKNsAskiWBMzM-XYhzA" x="12106.65" y="2903.05" text="faustus: Aha! The last batch is almost\Nready! It would be a pity to let it spoil...">
+<children>
+<image guid="bIaBxdbISE-UccyaSvQjSw" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="244.29" y="-23.49" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</children>
+<images>
+<image guid="bIaBxdbISE-UccyaSvQjSw" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="244.29" y="-23.49" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</images>
+<note>
+[executeAction:playSound=steamWhistle]
+</note>
+</topic>
+<topic id="91" parent="90" guid="xc1h_tqSxEKjp3OlIF6WUA" x="12106.65" y="3043.05" text="faustus: You go on, Mouse. I&apos;ll\Ncatch up with you once I&apos;m finished."/>
+<topic id="92" parent="91" x="11772.90" y="3306.80" text="tilo: As you wish..."/>
+<topic id="93" parent="91" guid="fVP_C4LlDUSf_rS6fuS0ww" x="12106.65" y="3306.80" text="tilo: You&apos;ll never leave\Nthis place, will you?"/>
+<topic id="94" parent="93" guid="OIMPrPtbSkCMCkusJMrNCg" x="12106.65" y="3476.55" text="faustus: Hmm?\NWhat&apos;s that?">
+<children>
+<image guid="yCcINr4T90e7WNI6PuADPQ" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="119.64" y="-49.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="yCcINr4T90e7WNI6PuADPQ" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="119.64" y="-49.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+</topic>
+<topic id="95" parent="91" guid="LA0QRN9T3kGSE7OwedNYQw" x="12432.15" y="3306.80" text="tilo: But the\NGreen Flame...">
+<note>
+[reveal:quest_stopTheGreenFlame=active]
+</note>
+</topic>
+<topic id="96" parent="95" guid="hbYl714mlkWunH821fgWgw" x="12432.15" y="3476.55" text="faustus: I&apos;m sure\Nit&apos;s nothing."/>
+<topic id="97" parent="26" guid="pIn8lqgT40uRr3JpLhNdQg" x="11252.20" y="1873.97" text="tilo: The Commander has issued a warrant!\NThe Master will surely have fled by now.">
+<parent-relation guid="WaZBSubJmkCyJEFBAnGiNQ"/>
+<note>
+[reveal:quest_findTheMaster=complete][lockableThread:warrantForMaster][lockThread:warrantForMaster]
+</note>
+</topic>
+<topic id="98" parent="97" guid="T7nRWyLKXkqJ69NAvFFcsg" x="11252.20" y="2008.69" text="faustus: Fled? Then\Nthat means...">
+<children>
+<image guid="hXDa9NPA0kmkvvrlHbCJ4Q" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="151.07" y="-19.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="hXDa9NPA0kmkvvrlHbCJ4Q" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="151.07" y="-19.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+</topic>
+<topic id="99" parent="98" guid="RFWlu6G5pE2mqNu3Tf76Dg" x="11252.20" y="2155.68" text="faustus: No, the Cabal\Nhas too long a reach. It&apos;s\Nbest I stay here for now.">
+<children>
+<image guid="IsadRgnCikKKaIQx7e0itg" name="0bc063fa2dc97d385d64edfd341d8384a0df0091" x="161.43" y="-2.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_facePalming.png"/>
+</image>
+</children>
+<images>
+<image guid="IsadRgnCikKKaIQx7e0itg" name="0bc063fa2dc97d385d64edfd341d8384a0df0091" x="161.43" y="-2.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_facePalming.png"/>
+</image>
+</images>
+</topic>
+<topic id="100" parent="26" guid="cpCkoBLkDES2PVikv2ukHg" x="11186.15" y="1048.13" palette="6" colorinfo="6" text="tilo: Sir, do you not understand?\NThe dead have risen!">
+<parent-relation guid="FhgPMcM8R06GWDUbsGHPHg"/>
+<note>
+[lockableThread:deadHaveRisen=true][lockThread:deadHaveRisen]
+</note>
+</topic>
+<topic id="101" parent="100" guid="XuhGSB33lkSjCxetHO10IA" x="11186.15" y="1232.26" text="faustus: If you don&apos;t wish to join\Nthem I suggest you leave me be!">
+<parent-relation guid="pxeHKppyB0ybZfQnlORqsg"/>
+<children>
+<image guid="U6mpulPJGUyDDLyIA3Ulbw" name="b3de621922264280615b9e61c8db20b42259b5f5" x="-90.36" y="-69.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="U6mpulPJGUyDDLyIA3Ulbw" name="b3de621922264280615b9e61c8db20b42259b5f5" x="-90.36" y="-69.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="102" parent="26" guid="fgRchF5iJ0q_zxUH7qq-Ag" x="8803.47" y="-2105.03" text="tilo: Sir, I&apos;ve heard the\NCommander has ringtail.">
+<parent-relation guid="_jAZY9ZiDUySqPpnznzElw"/>
+<note>
+[reveal:quest_cureForRingtail.talkToFaustus=active]
+</note>
+</topic>
+<topic id="103" parent="102" guid="1lWnrvjHoUKfnBkQ3RT6hQ" x="8803.47" y="-1945.03" text="faustus: Oh? And what\Nconcern is that of mine?">
+<children>
+<image guid="bVxtPqe60EyPCmbuv2Rfxw" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="167.50" y="-32.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="bVxtPqe60EyPCmbuv2Rfxw" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="167.50" y="-32.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+</topic>
+<topic id="104" parent="103" guid="NlZJo3iwp0iysvD3Xh2jmw" x="8558.30" y="-1717.53" text="tilo: I thought you could use\Nthis time to perfect your cure."/>
+<topic id="105" parent="104" guid="S1q0lL_XLkGXptjyzVaElQ" x="8558.30" y="-1545.86" text="faustus: *SIGH*">
+<children>
+<image guid="be21PXxuB06WdkSeV9f9Mg" name="0bc063fa2dc97d385d64edfd341d8384a0df0091" x="-117.14" y="3.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_facePalming.png"/>
+</image>
+</children>
+<images>
+<image guid="be21PXxuB06WdkSeV9f9Mg" name="0bc063fa2dc97d385d64edfd341d8384a0df0091" x="-117.14" y="3.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_facePalming.png"/>
+</image>
+</images>
+</topic>
+<topic id="106" parent="105" guid="YiKRfS6ipUWS_ha9C8EESg" x="8558.30" y="-1424.20" text="faustus: Very well..."/>
+<topic id="107" parent="106" guid="9owcT1sMCUu5shPVI4_rvg" x="8558.30" y="-1293.20" text="The apothecarist takes a\Nsmall jar from the cupboard,\Nand hands it to you.">
+<note>
+[narration][executeAction:receiveItem=medicine_commander]
+</note>
+</topic>
+<topic id="108" parent="107" guid="x-fel30ArUiNQPCuCZiclw" x="8558.30" y="-1134.20" text="faustus: Give this to the\NCommander--to be\Napplied twice daily.">
+<note>
+[completeTask:quest_cureForRingtail.talkToFaustus]
+</note>
+</topic>
+<topic id="109" parent="108" guid="idHBki1j2UOTIAYz7bU56A" x="8558.30" y="-986.91" text="faustus: Let me know if\Nthere are any side-effects."/>
+<topic id="110" parent="103" guid="CbBp4a9zbUWddtQefJV1sQ" x="9032.47" y="-1717.53" text="tilo: Don&apos;t you see? This is a\Nchance to confront your fear!"/>
+<topic id="111" parent="110" guid="RHq9iVBn4kuX0HaMn7uc-Q" x="9032.47" y="-1545.86" text="faustus: Fear? Faustus\NRott fears nothing! I... I...">
+<children>
+<image guid="7uD81KNHik2jrc6wW7uu6A" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="167.14" y="-13.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="7uD81KNHik2jrc6wW7uu6A" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="167.14" y="-13.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+</topic>
+<topic id="112" parent="26" guid="S_fr1MMLXU2q9TI_JY_-wA" x="3381.09" y="-1074.47" text="tilo: You&apos;re\NFaustus Rott?">
+<parent-relation guid="PwRNDxtzXUqpD0f71HJhMg"/>
+<note>
+[lockableThread:recognizeFaustus=true][lockThread:recognizeFaustus]
+</note>
+</topic>
+<topic id="113" parent="112" guid="lM6TeErCuEKG8yuJd5eepQ" x="3381.09" y="-953.38" text="faustus: Ah, you&apos;ve\Nheard of me."/>
+<topic id="114" parent="113" guid="LENHfggOv0ymm3qaDL1TaQ" x="3126.09" y="-774.63" text="tilo: Didn&apos;t you cause the\NBaron&apos;s tail to drop off?">
+<note>
+[reveal:counter.dialog_silas.mentionedRingtail=1]
+</note>
+</topic>
+<topic id="115" parent="114" guid="Dh1oNqjxekqDTVzN4dsr7A" x="3126.09" y="-633.38" text="faustus: Excuse me?! I\Nwas trying to save it!">
+<children>
+<image guid="B7oztCW53EqknXPlH_0TvA" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="-163.75" y="-22.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</children>
+<images>
+<image guid="B7oztCW53EqknXPlH_0TvA" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="-163.75" y="-22.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</images>
+</topic>
+<topic id="116" parent="115" guid="mJYhQ-PAq0qG7AmY9DFV0Q" x="3126.09" y="-518.00" text="faustus: It wasn&apos;t MY fault the\Nbaron- Who told you that?!">
+<children>
+<image guid="99WemJGm2UaLwYxy3FJGdA" name="b3de621922264280615b9e61c8db20b42259b5f5" x="-201.25" y="10.38" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="99WemJGm2UaLwYxy3FJGdA" name="b3de621922264280615b9e61c8db20b42259b5f5" x="-201.25" y="10.38" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="117" parent="116" guid="lVRsSRwyb0yVw1wUabZl9Q" x="2839.42" y="-311.33" text="tilo: Forgive me,\NI misspoke."/>
+<topic id="118" parent="117" guid="7tmsrQghqkSyyZOU7ChKLQ" x="2839.42" y="-172.16" text="faustus: I&apos;m certain you did."/>
+<topic id="119" parent="116" guid="i_g87yHIQkebAD836tEmtw" x="3391.09" y="-311.33" text="tilo: I-it&apos;s not\Nimportant."/>
+<topic id="120" parent="119" guid="0LzLjkJoekayWOLGAHVZiA" x="3391.09" y="-172.16" text="faustus: It&apos;s you\Nwho is unimportant.\NDon&apos;t forget that."/>
+<topic id="121" parent="116" guid="5Bu7-QVYkkGxkQoL69CkVQ" x="3126.09" y="-311.33" text="tilo: Silas, the\NSignal Guard."/>
+<topic id="122" parent="121" guid="tw7NWU5krkWS9hNBhWzqXg" x="3126.09" y="-172.16" text="faustus: A Signal Guard\Nshould know better than\Nmost that words have\Nconsequences..."/>
+<topic id="123" parent="113" guid="-F9V4MSRLEafcn5QGf9gRw" x="3613.97" y="-774.63" text="tilo: I have, indeed."/>
+<topic id="124" parent="123" guid="LTtKqfTIik6ICDLgN-FtDA" x="3613.97" y="-640.88" text="faustus: Well, I&apos;m\Nnot surprised..."/>
+<topic id="125" parent="113" guid="IzRVDiGONUWkflUsQX1C0Q" x="3381.09" y="-774.63" text="tilo: Who hasn&apos;t heard of\Nthe great Faustus Rott?"/>
+<topic id="126" parent="125" guid="THjyfO_-JUWGHfm8gO29uA" x="3353.59" y="-645.88" text="faustus: Well... it&apos;s\Ngratifying to have one&apos;s\Nwork appreciated."/>
+<topic id="127" parent="26" guid="qJm4IdSLQUaycSUMxanjYA" x="5825.08" y="-194.99" text="DIALOGUE_HUB_C"/>
+<topic id="128" parent="127" guid="8IXp-6UFd02v1dHo9JIRRQ" x="973.29" y="758.13" text="tilo: What is it you&apos;re making here, sir?">
+<note>
+[lockableThread:roogag][lockThread:roogag]
+</note>
+</topic>
+<topic id="129" parent="128" guid="gKOrTubir0ui7KGIbCa5zw" x="973.29" y="893.54" text="faustus: &quot;Roogag&quot;--a unique\Nbrew of my own creation!">
+<children>
+<image guid="DBqmzZY5vkqw1_HbUIz5Rg" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="191.43" y="-19.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="DBqmzZY5vkqw1_HbUIz5Rg" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="191.43" y="-19.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+</topic>
+<topic id="130" parent="129" guid="pJJJT6P_KEqH76d6A342tQ" x="731.79" y="1483.38" text="tilo: I see... &quot;Roogag&quot;."/>
+<topic id="131" parent="130" guid="9yxCcbnpMEyfpqZMBkGE1w" x="731.79" y="1586.74" text="faustus: Aye. Roogag."/>
+<topic id="132" parent="129" guid="I6FF3_Qio0eBpAqJkKEsAA" x="1132.62" y="1107.29" text="tilo: &quot;Roogag&quot;, sir? What&apos;s that?"/>
+<topic id="133" parent="132" guid="EKrZL_xoJ0mmpur2zWz7sw" x="1132.62" y="1211.05" text="faustus: A potent form of [rotgut] distilled\Nfrom fungus--nature&apos;s most wondrous gift!">
+<children>
+<image guid="F-c6TJr_CUuY98q1BHwKow" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="250.00" y="-12.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</children>
+<images>
+<image guid="F-c6TJr_CUuY98q1BHwKow" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="250.00" y="-12.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</images>
+<note>
+[footnote:rotgut]
+</note>
+</topic>
+<topic id="134" parent="133" guid="HCnyr_NUMUuLY8GgQovMKw" x="1132.62" y="1309.38" text="faustus: I call it &quot;roogag&quot;, in\Nmemory of my first assistant."/>
+<topic id="135" parent="134" x="1302.62" y="1483.38" text="tilo: His name was Roogag?">
+<parent-relation guid="-WPe4liQGkGWkJGr8f_XhA"/>
+</topic>
+<topic id="136" parent="135" guid="j8ufejrWfE2DzwQ_tT7iyg" x="1302.62" y="1586.74" text="faustus: No, no! He was\Nthe first to sample it!"/>
+<topic id="137" parent="136" x="1302.62" y="1725.83" text="faustus: The name derives\Nfrom his attempt to say the\Nword &apos;rotgut&apos; afterwards."/>
+<topic id="138" parent="137" guid="7HskSCE630GbiyNT6xTpJw" x="1302.62" y="1859.99" text="faustus: I thought it a fitting\Ntribute to his sacrifice."/>
+<topic id="139" parent="127" guid="VkS5LmcfYkCQpfSmkcb_Mg" x="6089.94" y="-53.35" text="tilo: Forgive me,\Nbut I should go.">
+<parent-relation guid="pTD3b88cK0GofYEHYsnLOQ"/>
+</topic>
+<topic id="140" parent="139" guid="lwgufOIwB0OWI2TysnZ2-g" x="6089.94" y="65.74" text="faustus: Aye, go and\Nrevel in your ignorance!">
+<note>
+[lockableThread:greenFlameIgnorance=true][lockThread:greenFlameIgnorance]
+</note>
+</topic>
+<topic id="141" parent="25" guid="R0X_lBpTTUaSS7viUiXIWw" x="2065.95" y="1843.82" text="tilo: Sir, I need your help, to make an\Nantidote for a spider&apos;s venom.">
+<parent-relation guid="mzMxTPjn0UexJQSN7_nMng"/>
+<note>
+[lockableThread:venomQuestIntro][lockThread:venomQuestIntro][reveal:quest_prepareForCatacombs.getSpiderAntidote=active;quest_tendTheStill=complete]
+</note>
+</topic>
+<topic id="142" parent="141" guid="WDi6-IpO7E-WXTpWeBxHIA" x="2065.95" y="1966.85" text="faustus: I see. And what possible\Nreason would I have to prepare for\Nyou this antivenin?"/>
+<topic id="143" parent="142" guid="X8_Ghnk9xEewykO9ChkRgw" x="1789.56" y="2181.36" text="tilo: If it&apos;s beyond your\Nabilities, I understand..."/>
+<topic id="144" parent="143" guid="ZBKft6KO6ku0HCXCA2JeBw" x="1789.56" y="2317.07" text="faustus: Beyond my-? I studied Physic\Nat the [University of Keem], and I will NOT-!">
+<children>
+<image guid="K7lvGQtEmEW1HvdXOvD6zg" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="251.25" y="-8.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="K7lvGQtEmEW1HvdXOvD6zg" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="251.25" y="-8.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+<note>
+[footnote:keem]
+</note>
+</topic>
+<topic id="145" parent="144" guid="e8xq2-2Ed0armx8gPUMTUA" x="2382.95" y="2317.07" text="faustus: *SIGH*">
+<children>
+<image guid="V9b2S8iXH06Z8wq7goGdZA" name="0bc063fa2dc97d385d64edfd341d8384a0df0091" x="115.00" y="-9.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_facePalming.png"/>
+</image>
+</children>
+<images>
+<image guid="V9b2S8iXH06Z8wq7goGdZA" name="0bc063fa2dc97d385d64edfd341d8384a0df0091" x="115.00" y="-9.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_facePalming.png"/>
+</image>
+</images>
+</topic>
+<topic id="146" parent="145" guid="jNbhOr_dXE-lZriDoFQQ3w" x="2382.95" y="2447.07" text="faustus: ... You have a sample of\Nthe venom to work with, of course?">
+<parent-relation guid="NCHorsWNhkSs2n265QNCzA"/>
+</topic>
+<topic id="147" parent="146" guid="k9o2l4gyh0ed-UF3-Y1w7A" x="2148.52" y="2648.50" text="tilo: ... I don&apos;t."/>
+<topic id="148" parent="147" guid="rCYUSwFC30O534qhOUqIXQ" x="2148.52" y="2751.36" text="faustus: Yes, I assumed as much."/>
+<topic id="149" parent="148" guid="RglVzJZ_d0KgO0b1DRZQ-Q" x="2147.09" y="2890.81" text="faustus: Check the traps that are laid\Nabout the sewers. You might be in luck.">
+<children>
+<image guid="Zp3Kt14Uq0ug2s_eqWnjUw" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="232.50" y="-22.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="Zp3Kt14Uq0ug2s_eqWnjUw" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="232.50" y="-22.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+</topic>
+<topic id="150" parent="149" guid="HixSveNp3kSBbHQlM9IiNw" x="1921.62" y="3028.66" text="tilo: You have a strange\Nidea of luck, don&apos;t you think?"/>
+<topic id="151" parent="150" guid="rdbrvA6yv0iXJY0uu0D2RA" x="1921.62" y="3123.39" text="faustus: Do you want\Nmy help, or not?"/>
+<topic id="152" parent="151" guid="TFEON19dLUim0CJxNKGFHA" x="2133.59" y="3233.29" text="faustus: Here, for the venom."/>
+<topic id="153" parent="152" x="2131.44" y="3316.68" text="The Rat hands you a\Nsmall glass phial.">
+<note>
+[narration][executeAction:receiveItem=phial_spiderVenom_empty]
+</note>
+</topic>
+<topic id="154" parent="153" guid="8bcxtXVMqkCKhaEJD1l0ag" x="2134.23" y="3437.08" text="faustus: Bring the sample\Nto me. I&apos;ll do the rest.">
+<note>
+[startQuest:quest_spiderAntidote]
+</note>
+</topic>
+<topic id="155" parent="149" guid="m-a1VQtKl0-DRG5Ww6RAQA" x="2284.92" y="3062.24" text="tilo: Alright."/>
+<topic id="156" parent="146" guid="CdDmKn8vXkKW8K0Q5cDRCA" x="2664.23" y="2893.65" text="tilo: It shouldn&apos;t be too\Ndifficult to find."/>
+<topic id="157" parent="156" x="2664.23" y="3012.22" text="faustus: Then you won&apos;t need\Nany direction from me."/>
+<topic id="158" parent="142" guid="rWO-7YbqpkOBL0lWkuzPtg" x="2382.95" y="2181.36" text="tilo: The spiders are growing\Nbolder. Do you want to have to\Nfind another assistant?"/>
+<topic id="159" parent="142" guid="vcI7NZS-XEqrgetAZjblOQ" x="2643.23" y="3210.11" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="160" parent="25" guid="6wAjiOVjekisIKFVWMWFEw" x="3371.42" y="1486.97" text="tilo: Here, I found a\Nsample of venom!">
+<parent-relation guid="uoQUBW0R_UGQxT0X3VgAGA"/>
+<note>
+[reveal:quest_spiderAntidote.talkToFaustus=active]
+</note>
+</topic>
+<topic id="161" parent="160" guid="nIhj4oPWMkWk8icaG55zSQ" x="3371.42" y="1611.89" text="faustus: Excellent! Now, it will take\Na while to prepare the\Nantivenin. I&apos;ll need, oh... three hours.">
+<note>
+[executeAction:giveItem=phial_spiderVenom][completeTask:quest_spiderAntidote.talkToFaustus]
+</note>
+</topic>
+<topic id="162" parent="161" guid="PVW8IpLDT0imiPmrJtQIag" x="3373.42" y="1739.22" text="faustus: One cannot rush\Nthese things, after all.">
+<note>
+[startTimer:makeAntidote=450;quest_spiderAntidote.waitForTimer]
+</note>
+</topic>
+<topic id="163" parent="25" guid="wECFOHRE1EWX20qL6ED17A" x="3609.45" y="2230.54" text="tilo: How goes it with\Nthe antidote?">
+<parent-relation guid="R51X12rNIEO7RxxwMinLpA"/>
+<note>
+[reveal:quest_spiderAntidote.getSpiderAntidote=active|quest_spiderAntidote.waitForTimer=active]
+</note>
+</topic>
+<topic id="164" parent="163" guid="wQlrkPgcAUe3VHIX5BwUPg" x="3988.38" y="2599.99" text="faustus: The antivenin is ready. Now,\Ntake this...">
+<parent-relation guid="wxnz9IuUpUSzyIDDHY5HfQ"/>
+<note>
+[priorityOverride][reveal:quest_spiderAntidote.getSpiderAntidote=active]
+</note>
+</topic>
+<topic id="165" parent="164" guid="1xdOmuS6UE6Ok1LLL9lWaw" x="3988.38" y="2718.94" text="The apothecarist hands\Nyou a flask of antivenin.">
+<note>
+[narration] [executeAction:receiveItem=antidote_spider]
+</note>
+</topic>
+<topic id="166" parent="165" guid="tvwRGYer0kegWpcvpFYNZA" x="3988.38" y="2847.88" text="faustus: Carry it with you, and use it\Nsparingly. It could save your life.">
+<note>
+[completeTask:quest_spiderAntidote.getSpiderAntidote]
+</note>
+</topic>
+<topic id="167" parent="163" guid="aPB4GfDJ9ECnPDjPNhVPiA" x="3171.52" y="2607.08" text="faustus: Did you not\Nlisten, Mouse? I asked that\Nthere be no interruptions!">
+<parent-relation guid="snS7mGUaSEaMjkjfJ_ghZA"/>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="168" parent="167" guid="YLtUWUiZRUWzLzzMVQQmSg" x="3431.80" y="2776.35" text="faustus: Come back later and\Nyou&apos;ll have your antidote!"/>
+<topic id="169" parent="163" x="3431.80" y="2648.81" text="faustus: I said three\Nhours, and I meant it!">
+<parent-relation guid="e8lo5s9TZEe76ujPt1jCSg"/>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="170" parent="163" guid="8A9q6RksTkekzgaOIpbm8g" x="3675.03" y="2607.08" text="faustus: This is\Ndelicate work! Do you\Nwant to be poisoned?">
+<parent-relation guid="9eOf3JtF6kyN7QGeKAVyiA"/>
+<children>
+<image guid="5Sj1KgBeHkWqyNWW2gUHHA" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="-2.50" y="-102.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</children>
+<images>
+<image guid="5Sj1KgBeHkWqyNWW2gUHHA" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="-2.50" y="-102.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="171" parent="25" guid="EF44Xo5DWEmr23CajSXRMw" x="4477.58" y="1472.99" text="tilo: What else can I\Ndo for you, sir?">
+<parent-relation guid="TvsF8SuKzECX-ct-tfroEQ"/>
+<note>
+[lockableThread:mushroomQuestIntro][reveal:quest_tendTheStill=complete;quest_mushroomsForFaustus=inactive]
+</note>
+</topic>
+<topic id="172" parent="171" guid="DJssYa6SM0yO1KSHhSzYbQ" x="4477.61" y="1614.55" text="faustus: I&apos;ll need you to gather samples\Nof mycelium from the Death&apos;s Tongue\Nmushroom. Seven should do it.">
+<children>
+<image guid="9OUGfIdjMEqtX6X7oW9ILg" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="237.78" y="-54.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="9OUGfIdjMEqtX6X7oW9ILg" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="237.78" y="-54.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+<note>
+[lockThread:mushroomQuestIntro;whyHelp]
+</note>
+</topic>
+<topic id="173" parent="172" guid="vbjaR5OEgUqfgKj7FAOhvQ" x="4267.83" y="1819.99" text="tilo: Mycelium?"/>
+<topic id="174" parent="173" guid="7jzz-8FzWUKHjDx3gSByJQ" x="4267.83" y="1905.99" text="faustus: Yes, the branching network of\Nhyphae that-... Never mind. Just bring me\Nseven Death&apos;s Tongue mushrooms."/>
+<topic id="175" parent="174" guid="aTD8iw1SQUWg8apsmCHimw" x="4262.83" y="2151.74" text="tilo: Alright."/>
+<topic id="176" parent="172" guid="gDOjX1GutEyLLSmu7LGE1A" x="4713.58" y="1905.49" text="tilo: Death&apos;s\NTongue mushroom?"/>
+<topic id="177" parent="176" guid="SxiKkkYDMEq_2go6x9wYOQ" x="4711.39" y="2145.19" text="faustus: The [purple-capped\Nmushrooms] that grow out there in\Nthe sewers. You&apos;ll have no doubt\Nseen a few on your way here.">
+<note>
+[footnote:deathsTongue_mushroom]
+</note>
+</topic>
+<topic id="178" parent="177" guid="ciFsMxdQZkarV3jKonGtLg" x="4491.39" y="2893.30" text="faustus: Take this...">
+<parent-relation guid="0e4R9wa6RUaPBxiadQBD7g"/>
+<note>
+[reveal:hasItem=mask_plagueDoctor*0]
+</note>
+</topic>
+<topic id="179" parent="178" guid="1a4SRBvKYkWlk0ryhjcyOA" x="4491.39" y="3064.78" text="The apothecarist passes you a\Nleather mask, much like his own.">
+<note>
+[narration][executeAction:receiveItem=mask_plagueDoctor]
+</note>
+</topic>
+<topic id="180" parent="179" guid="EZN_Akm8-kmDYlSfq6tIbQ" x="4491.39" y="3267.69" text="faustus: ... you&apos;ll need it to\Nprotect you from the miasma.">
+<parent-relation guid="hRbQtHcv1ky9JsnF9_Zflw"/>
+</topic>
+<topic id="181" parent="180" guid="KXCMRJY9LEes-o52d_ZnmQ" x="4319.64" y="3552.69" text="tilo: Miasma?">
+<parent-relation guid="oP6pjqFls0yZO2sbsYak0Q"/>
+</topic>
+<topic id="182" parent="181" guid="pFO-CKOayE6CcilQlkE6hg" x="4319.64" y="3691.44" text="faustus: Will you be repeating everything I say?\NThe miasma--the noxious spores--given off by the\N[Death&apos;s Tongue mushrooms].">
+<note>
+[footnote:deathsTongue_mushroom]
+</note>
+</topic>
+<topic id="183" parent="180" guid="zSO7lMswN0aWCU3BC2JroA" x="4715.64" y="3690.19" text="tilo: Very well.">
+<parent-relation guid="hZFBeDCOD0KqxWulqx_i8g"/>
+</topic>
+<topic id="184" parent="183" guid="AS3k84sMQE2bJ4S18oU-1w" x="4479.89" y="4095.19" text="faustus: Now go.\NI have much to do.">
+<children>
+<image guid="p0h3-37lw0mWDF9QCYFZ3w" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="118.75" y="-78.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="p0h3-37lw0mWDF9QCYFZ3w" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="118.75" y="-78.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+<note>
+[startQuest:quest_mushroomsForFaustus]
+</note>
+</topic>
+<topic id="185" parent="184" guid="ZvazxPfg9kWdUN1m8gSVSQ" x="4479.89" y="4258.08" text="DIALOGUE_HUB"/>
+<topic id="186" parent="185" guid="hVOM2GIUSEK_YrplqH_1Yw" x="4247.64" y="4425.19" text="tilo: Alright,\NI&apos;ll be back.">
+<parent-relation guid="pHLXhFXpbk-gJX0CC_tBVQ"/>
+<note>
+[reveal:quest_mushroomsForFaustus.talkToFaustus=active]
+</note>
+</topic>
+<topic id="187" parent="185" guid="MYF3OTCwzUC8Gk-GxiVb5Q" x="4732.28" y="4370.19" text="tilo: A protective mask? You could have\Ngiven me this before I worked with the still!">
+<parent-relation guid="IBeDTXNH-EGQe8vaIKclaQ"/>
+<note>
+[lockableThread:notGivenMask][lockThread:notGivenMask][reveal:quest_mushroomsForFaustus.talkToFaustus=active]
+</note>
+</topic>
+<topic id="188" parent="187" guid="rF6SqforrkSuqt-Fw1f3pw" x="4732.28" y="4511.30" text="faustus: I suppose I\Ncould have, couldn&apos;t I?"/>
+<topic id="189" parent="25" guid="s_Z2rcPOzUqzQkrEWG8CEA" x="5689.51" y="1515.56" text="tilo: Here, I have the Death&apos;s\NTongue Mushrooms you needed.">
+<parent-relation guid="FIRbh0emYEqDpjgiVQSoLA"/>
+<note>
+[reveal:quest_mushroomsForFaustus.talkToFaustus=active][CompleteTask:quest_mushroomsForFaustus.talkToFaustus][executeAction:giveItem=mushroom_miasma_chunk*7][lockableThread:mushroomQuestComplete][lockThread:mushroomQuestComplete]
+</note>
+</topic>
+<topic id="190" parent="189" guid="inSZH_SCKUyP5R7O3XB4og" x="5681.89" y="2019.78" text="faustus: You&apos;re not a complete fool,\Nthen. I suppose you&apos;ll want payment."/>
+<topic id="191" parent="190" guid="qCTz-9t8AkuAVIdZHHl0aw" x="5678.54" y="2321.59" text="faustus: I can&apos;t give you much--a few\N[florins] at the most. But I have something\Nfar more valuable for you. Here...">
+<children>
+<image guid="Jp1wwY4BgUOTvX_TrLoYMQ" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="139.64" y="-102.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="Jp1wwY4BgUOTvX_TrLoYMQ" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="139.64" y="-102.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+<note>
+[footnote:florin]
+</note>
+</topic>
+<topic id="192" parent="191" guid="f_uwMVu9o06KlcCr-IEhcA" x="5675.20" y="2457.74" text="Faustus hands you a worn leather cap, with\Na curious red candle affixed to its crown.">
+<note>
+[narration] [executeAction:receiveItem=hat_candle]
+</note>
+</topic>
+<topic id="193" parent="192" guid="tn7Zy3L5s0q06Vqs0M0G8Q" x="5673.53" y="2577.24" text="faustus: ... this should prove to\Nbe quite useful.">
+<children>
+<image guid="vK30aPrvJkGEJEs1uuYvAw" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="213.93" y="-13.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="vK30aPrvJkGEJEs1uuYvAw" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="213.93" y="-13.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+</topic>
+<topic id="194" parent="193" guid="HuGvGosMQ0qRIwQ6DP-NdQ" x="5451.27" y="2871.98" text="tilo: Thank you."/>
+<topic id="195" parent="193" guid="hYpJnJaWiUuVvT2KWWM8pQ" x="5868.75" y="2807.24" text="tilo: What is it?"/>
+<topic id="196" parent="195" guid="kseFGLITF0aAFBDoOI3uhw" x="5870.61" y="2928.67" text="faustus: A [Saltarian] miner&apos;s hat.\NThe candle&apos;s wax is mixed with salt\Ntar, so will burn almost indefinitely.">
+<note>
+[footnote:ferrets_saltar]
+</note>
+</topic>
+<topic id="197" parent="196" guid="VKuEc_UZ1Eyv89FKez_ryw" x="5870.61" y="3071.79" text="faustus: Of course, the\Nvapours it emits are quite\Nnoxious. They may leave you\Nfeeling drained, so be careful.">
+<parent-relation guid="VshQjmBPxkmKm3CHSS5_1Q"/>
+</topic>
+<topic id="198" parent="197" guid="sBVZqMLWYkW_8RTHGWkWnQ" x="5642.93" y="3279.48" text="faustus: All right, that will be all. You can go, but\NI&apos;ll need you again once this batch is finished."/>
+<topic id="199" parent="25" guid="xuOV5fyOqEOa26dzfPmF6w" x="6381.30" y="1446.15" text="tilo: Is there anything\Nmore I can do to help?">
+<parent-relation guid="nTgkHu8Zy0SvvCRjyYFLqA"/>
+<note>
+[reveal:quest_mushroomsForFaustus=complete][lockableThread:offerHelp][lockThread:offerHelp]
+</note>
+</topic>
+<topic id="200" parent="199" guid="wc5NyO6se0-ZyS_zOsSfug" x="6381.30" y="1604.15" text="faustus: This keep.\NYou must know it rather\Nwell by now, I imagine."/>
+<topic id="201" parent="200" guid="nREEcp1DnUCAFlnQaGYeMQ" x="6381.30" y="1713.42" text="faustus: While you&apos;re going about, I want you\Nto find me samples of the fruiting body of\Ntwelve different species of Basidiomycota..."/>
+<topic id="202" parent="201" guid="eOZ4th8YZkqSgy82HcBcPg" x="6381.30" y="1865.12" text="faustus: ... or, in terms a simpleton--I\Nmean a simple Mouse--might\Nunderstand...">
+<parent-relation guid="ce0n4OWQZUq1raAQUphOFA"/>
+</topic>
+<topic id="203" parent="202" guid="ojdnz_TVuke9jk-bzjKC9g" x="6381.30" y="1971.02" text="faustus: ... mushrooms."/>
+<topic id="204" parent="203" guid="YaF2PW8TXUmvAL3Y2xq62w" x="6381.30" y="2076.93" text="NULL NODE">
+<parent-relation guid="U1p9MXPDyUqX7s_fdSHAeQ"/>
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="205" parent="204" guid="9Q5myRkMxUSWrLRsL7TxlA" x="6724.30" y="2300.82" text="tilo: Are they for eating?">
+<parent-relation guid="sDVEofVBTUqGdQdAWNFXzA"/>
+<note>
+[lockableThread:areMushroomsEdible][lockThread:areMushroomsEdible]
+</note>
+</topic>
+<topic id="206" parent="205" guid="J6axINy5qE-2eGEYKT6gYw" x="6724.30" y="2504.15" text="faustus: Eating?! Do I look\Nlike a mycophagist to you?">
+<children>
+<image guid="1XrEi5etRk-kM_tSeMB1Dw" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="178.57" y="-75.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="1XrEi5etRk-kM_tSeMB1Dw" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="178.57" y="-75.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+</topic>
+<topic id="207" parent="206" guid="qLSMKdryWUO0ywIIBvVNSg" x="6724.30" y="2735.26" text="faustus: You&apos;re welcome to eat\Nthem, of course--as a last meal.\NThese mushrooms are all\Nextremely poisonous."/>
+<topic id="208" parent="204" guid="7DZxBdYr7kKplW_tWPIlLw" x="6381.30" y="2301.62" text="tilo: Where can I find\Nthese mushrooms?"/>
+<topic id="209" parent="208" guid="qrTCV92ziEGRKDSaibhcFQ" x="6381.30" y="2516.76" text="faustus: Most prefer the shade. I\Noften find good specimens in the\Nwoodland areas surrounding the keep.">
+<children>
+<image guid="SmlrMHuDW0WQcvlix8MJSw" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="-156.07" y="-96.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="SmlrMHuDW0WQcvlix8MJSw" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="-156.07" y="-96.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+</topic>
+<topic id="210" parent="209" guid="cxBZdV2zWESOsL6DR_l_YQ" x="6380.30" y="2821.24" text="faustus: Look here..."/>
+<topic id="211" parent="210" guid="_EhYBnc3e0Wwd1Q5oTHWnA" x="6380.30" y="2929.39" text="The apothecarist hands you a journal,\Nfilled with sketches and notes.">
+<parent-relation guid="4IAZIpj3N0uvoLOyOw526g"/>
+<note>
+[narration] [executeAction:receiveItem=book_printed_mushroomGuide]
+</note>
+</topic>
+<topic id="212" parent="211" guid="rF2Lfg91wUmFvtgGmnFhJQ" x="6380.30" y="3031.38" text="faustus: ... I&apos;ve divided the samples into two\Ncategories. The smaller group is nocturnal...">
+<parent-relation guid="t4HlbN33r0qKebti5PAYvg"/>
+<note>
+[startQuest:quest_collectFungusSamplesA;quest_collectFungusSamplesB]
+</note>
+</topic>
+<topic id="213" parent="212" guid="gbg0QvOTlkWqJjIiRrFd4g" x="6380.30" y="3153.23" text="faustus: ... blooming only between\Nthe hours of seven and six, so make\Nsure you take a lantern with you.">
+<parent-relation guid="Tt3BiUckAUuIr0wx2Y_gMw"/>
+</topic>
+<topic id="214" parent="213" guid="_3t6wNEGzEGhdnhCwQY6FA" x="6380.30" y="3283.31" text="faustus: Now hurry, the\Nseason&apos;s almost at an end.">
+<parent-relation guid="zVDE0C6gTU6WdFSRUA4u4w"/>
+</topic>
+<topic id="215" parent="214" guid="FbPuSR1SQkucrTuTZ5D_NQ" x="6583.16" y="3464.58" text="tilo: I&apos;ll\Nsee what I can do."/>
+<topic id="216" parent="214" guid="Zb1yBjO8iEOnUEgd4w18gg" x="6187.30" y="3464.58" text="tilo: This is ridiculous!\NYou&apos;re just giving me busywork!">
+<note>
+[reveal:quest_collectFungusSamplesA.talkToFaustus=inactive|quest_collectFungusSamplesB.talkToFaustus=inactive][lockThread:tooManyMushrooms]
+</note>
+</topic>
+<topic id="217" parent="216" guid="ivO6JonGLEWv4m956eGISg" x="6187.30" y="3616.09" text="faustus: Such insolence! This\Nquest is a sacred rite of passage\Nall apprentices must endure.">
+<children>
+<image guid="rySdg2UBCE28cAksL898fQ" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="205.00" y="-22.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="rySdg2UBCE28cAksL898fQ" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="205.00" y="-22.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+</topic>
+<topic id="218" parent="217" guid="7dhMtX0xrkSr_sYXR_4nVg" x="6365.30" y="3790.00" text="tilo: But I&apos;m not\Nyour apprentice!"/>
+<topic id="219" parent="218" guid="Fr5ZkySxoESsrnizphv9Qw" x="6365.30" y="3938.09" text="faustus: I understand. You feel\Nunworthy--and you are...">
+<parent-relation guid="nJz9ATzl_EqFlzMxJhrGNg"/>
+</topic>
+<topic id="220" parent="219" guid="nR4cTC1wFUaMOoOuBWgv4g" x="6365.30" y="4059.91" text="faustus: ... of course you are! But\Nfear not! I shall guide you.">
+<children>
+<image guid="Q_qgAoV9PEWFELOz7mrEuQ" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="196.25" y="41.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</children>
+<images>
+<image guid="Q_qgAoV9PEWFELOz7mrEuQ" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="196.25" y="41.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</images>
+</topic>
+<topic id="221" parent="220" guid="IkHd56uoTE-Ux9d0yUhdEg" x="6187.30" y="4241.61" text="faustus: Now go!"/>
+<topic id="222" parent="217" guid="hf01xVWAbkGbFfBK_CARsw" x="6010.75" y="3790.00" text="tilo: Of course. Forgive me."/>
+<topic id="223" parent="204" guid="q6xCEsOV20-a9IN9FF2QSg" x="6062.41" y="2301.62" text="tilo: Please, go on."/>
+<topic id="224" parent="25" guid="3m6rQCX8OkCoaevcbWc16A" x="8289.37" y="1172.89" text="tilo: Here--I have specimens\Nof all twelve mushrooms!">
+<parent-relation guid="TSOGIru5VUqjpHZQE-sMHA"/>
+<note>
+[reveal:quest_collectFungusSamplesA.talkToFaustus=active;quest_collectFungusSamplesB.talkToFaustus=active]
+</note>
+</topic>
+<topic id="225" parent="224" guid="UWyjWXaHsUyhuE5k7it92g" x="8289.37" y="1304.89" text="faustus: Mushrooms?\NAh! Excellent!">
+<note>
+[completeTask:quest_collectFungusSamplesA.talkToFaustus;quest_collectFungusSamplesB.talkToFaustus][executeAction:giveItem=mushroom_A*99;giveItem=mushroom_B*99;giveItem=mushroom_C*99;giveItem=mushroom_D*99;giveItem=mushroom_E*99;giveItem=mushroom_F*99;giveItem=mushroom_G*99;giveItem=mushroom_H*99;giveItem=mushroom_I*99;giveItem=mushroom_J*99;giveItem=mushroom_K*99;giveItem=mushroom_L*99]
+</note>
+</topic>
+<topic id="226" parent="225" guid="TCJJ4vLdfku4-XYfqd3UiQ" x="8285.62" y="1519.16" text="faustus: Now, here...">
+<parent-relation guid="C5jESqCjsUquJpy9m257cQ"/>
+</topic>
+<topic id="227" parent="226" guid="YlDu7En3oEKJ8hBoMjsWoA" x="8078.12" y="1624.35" text="The apothecarist presents\Nyou with a strange key.">
+<note>
+[narration][lockableThread:smugglersKey=true][executeAction:receiveItem=key_smugglers]
+</note>
+</topic>
+<topic id="228" parent="227" guid="7DTo5U8YEkGmnwK8JeriBw" x="8078.12" y="1742.81" text="faustus: It will allow you access to\Nthe Master&apos;s strongboxes--you must\Nhave seen them about the keep."/>
+<topic id="229" parent="228" guid="DbhzlXU_vk6kCemx0OpvlQ" x="8078.12" y="1862.81" text="faustus: Inside you&apos;ll find all\Nkinds of useful supplies.\NTake what you need."/>
+<topic id="230" parent="229" guid="SrA2QlegJk-FGjubDtU13A" x="8078.12" y="1964.38" text="faustus: Here, look...">
+<parent-relation guid="wDj-j112dEyW1aeQ7akKmA"/>
+</topic>
+<topic id="231" parent="226" guid="jgiGEwBaLk6bBVswMX4jwA" x="8284.73" y="2042.68" text="The apothecarist offers you a\Nsmall blackish brown cake.">
+<parent-relation guid="PrAz1Ds7e0GMHjC8JN4g8g"/>
+<note>
+[narration]
+</note>
+</topic>
+<topic id="232" parent="231" x="8284.73" y="2147.07" text="faustus: ... eat this."/>
+<topic id="233" parent="232" guid="qEeCe9naokirgAOs46hqlg" x="8284.73" y="2225.89" text="NULL NODE">
+<parent-relation guid="Hy4O4r5K2kS829OeudeGcQ"/>
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="234" parent="233" guid="3Aqecf-rtkSoxN7DHx4H1A" x="8677.09" y="2267.82" text="tilo: What is it?">
+<parent-relation guid="tmLgX444JEOHkb7sGkvJmQ"/>
+<note>
+[lockableThread:justEat][lockThread:justEat]
+</note>
+</topic>
+<topic id="235" parent="234" guid="67sFN4j9WkSybAGDdawqjQ" x="8677.09" y="2383.38" text="faustus: Just eat it!">
+<children>
+<image guid="Jl-qWjr3p0u-Nd9fuUumfA" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="146.67" y="34.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</children>
+<images>
+<image guid="Jl-qWjr3p0u-Nd9fuUumfA" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="146.67" y="34.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</images>
+</topic>
+<topic id="236" parent="233" guid="np6W-o5X4E-yxd6DgckZfA" x="8284.73" y="2300.74" text="tilo: Alright..."/>
+<topic id="237" parent="236" guid="HYzXasypSU2l21pd8PiqZg" x="8284.73" y="2456.16" text="You pop the cake into your\Nmouth and chew. It tastes\Nof ash and bile.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="238" parent="237" guid="kT8Q5vZz8EChce5vkVYGcg" x="8284.73" y="2600.46" text="faustus: ... Anything?">
+<parent-relation guid="HroJavxblEWzD3I068iiow"/>
+<children>
+<image guid="zaO3-0oG7025BrfYBIwJOg" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="159.17" y="-9.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="zaO3-0oG7025BrfYBIwJOg" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="159.17" y="-9.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+<note>
+[executeAction:bigEars=true][counter:enableBigEars=0][updateCounter:enableBigEars=1][unlockThread:dialog_rolo.hasBigEars]
+</note>
+</topic>
+<topic id="239" parent="238" guid="v3h46GzD9UypjMRvUK9siQ" x="8098.73" y="2772.68" text="tilo: What do you mean?"/>
+<topic id="240" parent="239" guid="MBe-yRv7MUaQC0iyn8aKeQ" x="8098.73" y="2981.57" text="faustus: Any tightness in your chest? Shooting\Npains along your tail? Blindness?"/>
+<topic id="241" parent="240" guid="VQfOrfdkq0-6zRdOO6mdbQ" x="8098.73" y="3180.46" text="faustus: ... No?"/>
+<topic id="242" parent="238" guid="AyJFtQo8SkqyBCxyTa_HfQ" x="8470.95" y="2772.68" text="tilo: No... nothing."/>
+<topic id="243" parent="242" guid="zgCdhV_DFk2b_vH4J6PuFA" x="8470.95" y="3180.46" text="faustus: Hmph... perhaps a\Npinch more Cat&apos;s Tooth will do it.">
+<note>
+[unlockThread:removeBigEars]
+</note>
+</topic>
+<topic id="244" parent="243" guid="Pd7Kug-dS0a8rafsPL09lg" x="8740.04" y="3436.82" text="tilo: Cat&apos;s Tooth? But isn&apos;t\NCat&apos;s Tooth poisonous?"/>
+<topic id="245" parent="244" guid="TXJJQa0PCUu3DzRB_S6jnA" x="8740.04" y="3580.82" text="faustus: All things are poisonous,\Nif one consumes enough of them."/>
+<topic id="246" parent="233" guid="HYlhAQvbtkexbVKAxlRNMw" x="7816.23" y="2309.49" text="tilo: I think I&apos;d rather not,\Nif it&apos;s all the same...">
+<note>
+[unlockThread:acceptMysteryMedicine]
+</note>
+</topic>
+<topic id="247" parent="246" guid="0Qi-1Ded3Uq3pQySHT7F6Q" x="7816.23" y="2456.16" text="faustus: Coward! All\Nprogress requires risk!"/>
+<topic id="248" parent="247" guid="u-3KcyEGD0C6bo9oPNtlaA" x="7635.40" y="2564.57" text="tilo: Aye, true\Nenough."/>
+<topic id="249" parent="248" guid="fmvZX1Ulfke_qnbo9wd6bw" x="7635.40" y="2675.57" text="faustus: Perhaps one day you&apos;ll have\Ncourage enough to try it. If you\Nchange your mind, I&apos;ll be waiting.">
+<parent-relation guid="Ajss0q_XsEqDUNkhbNsmig"/>
+</topic>
+<topic id="250" parent="247" guid="YnIVnfwSw0u9jLCw45_0qw" x="7947.58" y="2564.57" text="tilo: Why don&apos;t\Nyou eat it, then?"/>
+<topic id="251" parent="250" guid="32vt4B6Mw0-1sMJlmWCGkw" x="7947.58" y="2675.57" text="faustus: Don&apos;t be\Nridiculous! It\Ncould kill me."/>
+<topic id="252" parent="25" guid="l43lH-eHgUGZUS1mQdnNHw" x="7924.46" y="1304.89" text="tilo: Here, I found samples of the eight\Nmushrooms, as you asked!">
+<parent-relation guid="qQFp93uBd0KC2vgDZvyD6Q"/>
+<note>
+[reveal:quest_collectFungusSamplesA.talkToFaustus=active;quest_collectFungusSamplesB.talkToFaustus=inactive|quest_collectFungusSamplesB=complete][completeTask:quest_collectFungusSamplesA.talkToFaustus][executeAction:giveItem=mushroom_B*99;giveItem=mushroom_C*99;giveItem=mushroom_D*99;giveItem=mushroom_E*99;giveItem=mushroom_F*99;giveItem=mushroom_I*99;giveItem=mushroom_K*99;giveItem=mushroom_L*99]
+</note>
+</topic>
+<topic id="253" parent="252" guid="58VmwcZeJUWXGkblnNdR8g" x="7822.49" y="1441.54" text="faustus: The eight most\Ncommon, I note.">
+<note>
+[reveal:quest_collectFungusSamplesB.talkToFaustus=inactive;quest_collectFungusSamplesA=complete]
+</note>
+</topic>
+<topic id="254" parent="253" guid="pCPti0AdXUOfQHIW_uZkvA" x="7822.49" y="1565.83" text="faustus: What about\Nthe four rarest?"/>
+<topic id="255" parent="252" guid="4nbCAif0F0uMrvBsbbh7MA" x="8057.24" y="1432.66" text="faustus: Very good!">
+<note>
+[reveal:quest_collectFungusSamplesA.talkToFaustus=complete;quest_collectFungusSamplesB.talkToFaustus=complete]
+</note>
+</topic>
+<topic id="256" parent="25" guid="32cUsmdID0WlvK2k1hur6Q" x="8601.46" y="1220.96" text="tilo: Look, I have the four night\Nmushrooms you wanted!">
+<parent-relation guid="sd8eEH4dQ0u3mt7hS-wkKA"/>
+<note>
+[reveal:quest_collectFungusSamplesB.talkToFaustus=active;quest_collectFungusSamplesA.talkToFaustus=inactive|quest_collectFungusSamplesA=complete][completeTask:quest_collectFungusSamplesB.talkToFaustus][executeAction:giveItem=mushroom_A*99;giveItem=mushroom_G*99;giveItem=mushroom_H*99;giveItem=mushroom_J*99]
+</note>
+</topic>
+<topic id="257" parent="256" guid="lLe6xPSTcU6ZpGzu0bOABw" x="8519.79" y="1432.66" text="faustus: Wonderful!">
+<children>
+<image guid="ZaudGYbOPE2bW36nF1f9PQ" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="-21.67" y="-77.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</children>
+<images>
+<image guid="ZaudGYbOPE2bW36nF1f9PQ" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="-21.67" y="-77.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</images>
+<note>
+[reveal:quest_collectFungusSamplesA.talkToFaustus=complete;quest_collectFungusSamplesB.talkToFaustus=complete]
+</note>
+</topic>
+<topic id="258" parent="256" guid="M8FLPtRiv0yoIjprbtCgHQ" x="8810.74" y="1363.82" text="faustus: Good! The other eight should\Nbe simple to find, by comparison.">
+<parent-relation guid="9EddxymmK0mOOat2VlYt3Q"/>
+<note>
+[reveal:quest_collectFungusSamplesA.talkToFaustus=inactive;quest_collectFungusSamplesB=complete]
+</note>
+</topic>
+<topic id="259" parent="25" guid="TieYrLp_wkOTrliOWZUOcQ" x="11500.39" y="661.46" palette="6" colorinfo="6" text="tilo: Sir! Down on the shore--the Green Flame has returned!">
+<parent-relation guid="8paR7WQfB0mZaagILdloUw"/>
+<note>
+[reveal:quest_stopTheGreenFlame=active][lockableThread:greenFlameReturns][lockThread:greenFlameReturns][unlockThread:faustusIsFree]
+</note>
+</topic>
+<topic id="260" parent="259" guid="k6ubdY3nSEaBDupP_NYECQ" x="11500.39" y="795.09" text="faustus: A green flame? Ha! I&apos;m sure it&apos;s\Nmerely a ground fire, fed by rot gasses,\Nburning in deposits of copper. A\Nconjurer&apos;s trick, a Will-o&apos;-the-wisp!">
+<children>
+<image guid="p2G9EJWIfk6tz4RLVM2Yag" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="238.57" y="-12.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="p2G9EJWIfk6tz4RLVM2Yag" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="238.57" y="-12.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+</topic>
+<topic id="261" parent="260" guid="WPop_cFdYEeqTxThLl85Bw" x="11500.39" y="926.91" text="faustus: I imagine to your simple\Nmind it must appear as magic.">
+<note>
+[unlockThread:deadHaveRisen;comeFightGreenFlame]
+</note>
+</topic>
+<topic id="262" parent="261" guid="bTV0DcUU3EitylWrs0D66A" x="11495.16" y="1043.13" text="tilo: I know\Nwhat I saw!"/>
+<topic id="263" parent="262" guid="gvOVOGrTwUWFHzEEh3v5Fg" x="11495.16" y="1227.26" text="faustus: Superstitious\Nnonsense!">
+<note>
+[unlockThread:greenFlameIgnorance]
+</note>
+</topic>
+<topic id="264" parent="0" guid="19nJwy_mpE6KxdGR8H1K_w" x="5336.03" y="-2557.19" palette="3" colorinfo="3" text="faustus: What\Ndo you want, Mouse?">
+<note>
+[variationIndex=2][unlockThread:mushroomQuestActive;getSpiderVenomActive;fungusSearchActive]
+</note>
+</topic>
+<topic id="265" parent="0" guid="4Wi62R3Z1EW2lx7z3ipkmw" x="6200.46" y="-2325.40" palette="3" colorinfo="3" text="faustus: You again. Well?">
+<note>
+[variationIndex=4][unlockThread:mushroomQuestActive;getSpiderVenomActive;fungusSearchActive]
+</note>
+</topic>
+<topic id="266" parent="0" guid="HSdiJPhWfkmT16v-_uVHPw" x="5796.64" y="-2325.40" palette="3" colorinfo="3" text="faustus: Ah, Mouse! What news have\Nyou of the outside world?">
+<note>
+[variationIndex=3][unlockThread:mushroomQuestActive;getSpiderVenomActive;fungusSearchActive]
+</note>
+</topic>
+<topic id="267" parent="0" guid="laOGYFeWf0OLlZ3bGHxANg" x="6646.65" y="-2263.65" palette="3" colorinfo="3" text="faustus: So... what do you have to\Nreport of the world beyond these walls?">
+<note>
+[variationIndex=5][unlockThread:mushroomQuestActive;getSpiderVenomActive;fungusSearchActive]
+</note>
+</topic>
+<topic id="268" parent="0" guid="QBjQsuYanUSt_6jQM7r3Qw" x="6861.84" y="-3426.24" palette="3" colorinfo="3" text="faustus: Mouse, I have returned. Did you\Nencounter any problems while I was gone?">
+<parent-relation guid="s8qfE4ZPPUqAShrdLV_W4g"/>
+<note>
+[priorityOverride][reveal:hasItem=leak_poison*15][completeTask:quest_tendTheStill.tendStillSuccess][lockableThread:stillTaskWin=true][lockThread:stillTaskLose;stillTaskWin]
+</note>
+</topic>
+<topic id="269" parent="268" guid="m86Rtny6hUS1T_-wNbAWgw" x="6630.67" y="-3219.57" text="tilo: No... no\Nproblems at all."/>
+<topic id="270" parent="268" guid="rSJU1jAcYku7nCrsHq4w4Q" x="7084.00" y="-3219.57" text="tilo: Nothing I\Ncouldn&apos;t manage, Sir."/>
+<topic id="271" parent="270" guid="T9-NjE20M0-xRc7FGjFbmQ" x="6861.84" y="-3066.52" text="faustus: Very\Ngood, very good."/>
+<topic id="272" parent="0" guid="8OJtmkP4R0WSMdMNs-qHOA" x="6306.00" y="-3443.56" palette="3" colorinfo="3" text="faustus: Gah!\NWhat&apos;s this?!">
+<parent-relation guid="m30pYKSIv0-Jjtp8MaSYyg"/>
+<children>
+<image guid="YkC8MEKsm0qdvmAZyu1iOA" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="-13.33" y="-88.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="YkC8MEKsm0qdvmAZyu1iOA" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="-13.33" y="-88.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:hasItem=leak_poison*0|hasItem=leak_poison*1][completeTask:quest_tendTheStill.tendStillFail][lockableThread:stillTaskLose=true][lockThread:stillTaskLose;stillTaskWin]
+</note>
+</topic>
+<topic id="273" parent="272" guid="2cQFzDSWG0-Ht4uH6JZBKA" x="6306.00" y="-3306.65" text="The apothecarist\Nbarges you aside and\Nquickly brings the still\Nunder control.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="274" parent="273" guid="WsUZFQkPmUukYyT3VkJQhA" x="6306.00" y="-3148.32" text="faustus: The batch is almost\Nruined! Can I not trust you with\Neven the simplest of tasks?">
+<children>
+<image guid="wwxPpI-9MEKjUTXJKi--sA" name="b3de621922264280615b9e61c8db20b42259b5f5" x="-185.83" y="-72.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="wwxPpI-9MEKjUTXJKi--sA" name="b3de621922264280615b9e61c8db20b42259b5f5" x="-185.83" y="-72.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</images>
+<note>
+[executeAction:finishStillLeaking]
+</note>
+</topic>
+<topic id="275" parent="274" guid="RKAAXYTh9UuOjG42Qyewbg" x="6306.00" y="-3024.98" text="faustus: I am surrounded\Nby incompetents!">
+<children>
+<image guid="GuFkiR3qYUuE54_y57cyGQ" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="167.38" y="48.84" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</children>
+<images>
+<image guid="GuFkiR3qYUuE54_y57cyGQ" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="167.38" y="48.84" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</images>
+</topic>
+<topic id="276" parent="0" guid="OHJ_CX9ErkObubrd3n1OVQ" x="5504.81" y="-3951.20" palette="3" colorinfo="3" text="faustus: &quot;The termites&apos; lair\Nspreads far, unseen...&quot;">
+<children>
+<image guid="Hvbtmv7n4kmQJ6cUf5abdA" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="171.39" y="-37.14" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="Hvbtmv7n4kmQJ6cUf5abdA" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="171.39" y="-37.14" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:quest_findSmugglers.findSmugglersMark=active][lockableThread:masterAndSmugglers=true][lockThread:masterAndSmugglers]
+</note>
+</topic>
+<topic id="277" parent="276" guid="QTkDKb7DSkamNkDULswurQ" x="5504.81" y="-3842.19" text="faustus: You must have spoken\Nthose words a thousand times\Nto your comrades."/>
+<topic id="278" parent="277" guid="MjfCX699pkmVBDn8CYvJqg" x="5683.98" y="-3649.08" text="tilo: Aye... that&apos;s right.">
+<parent-relation guid="xynT0Ibqak-TmBzDG03zig"/>
+</topic>
+<topic id="279" parent="278" guid="o2iCRhMEqEu_7OjYIuzjiw" x="5683.98" y="-3472.41" text="faustus: There&apos;s something about it\Nmakes me shudder."/>
+<topic id="280" parent="279" guid="baqMZxB-l0qedajwWdpYQQ" x="5683.98" y="-3324.98" text="faustus: The truth is, Mouse... this IS\Nthe termites&apos; lair. And I&apos;m trapped in it.">
+<children>
+<image guid="tgpf_RCYtU-yh5akpidVTg" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="238.89" y="-18.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image guid="tgpf_RCYtU-yh5akpidVTg" name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="238.89" y="-18.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_findSmugglers.findSmugglersMark]
+</note>
+</topic>
+<topic id="281" parent="277" guid="0Gg6qByFmUiiIUuqSvEgJw" x="5286.48" y="-3649.08" text="tilo: Comrades?">
+<parent-relation guid="6i2qaVmlkkqHDD9rGYRAHA"/>
+</topic>
+<topic id="282" parent="281" guid="a9ITFeCmEU-RhIE2NeUJCA" x="5286.48" y="-3472.41" text="faustus: Your fellow smugglers--isn&apos;t\Nthat how you greet them?"/>
+<topic id="283" parent="0" guid="IW5gDaX5mkqmjbKWz5a1hA" x="7268.25" y="-2559.82" palette="6" colorinfo="6" text="faustus: ... Oh, i-it&apos;s you, Mouse...">
+<parent-relation guid="70wkcyUkQUe5h6AS7WBq_Q"/>
+<children>
+<image guid="5GlCJQ6HekaKKHw4_pbK3Q" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="-17.50" y="-75.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="5GlCJQ6HekaKKHw4_pbK3Q" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="-17.50" y="-75.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][lockableThread:faustusBackstory][lockThread:faustusBackstory][unlockThread:dialog_commander.commandersRingtail][reveal:quest_mysteryOfDuinlansTomb=complete]
+</note>
+</topic>
+<topic id="284" parent="283" guid="ursONinzr0qRQX3b7a-4xQ" x="7022.54" y="-2366.96" text="tilo: Are you alright, sir?"/>
+<topic id="285" parent="284" guid="1RBxpQslakGcwzgE6e8DMg" x="7022.54" y="-2185.53" text="faustus: Yes... yes... I... *SIGH*">
+<children>
+<image guid="4uN3Cn1EIkuwctpf-yGkow" name="0bc063fa2dc97d385d64edfd341d8384a0df0091" x="181.43" y="-10.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_facePalming.png"/>
+</image>
+</children>
+<images>
+<image guid="4uN3Cn1EIkuwctpf-yGkow" name="0bc063fa2dc97d385d64edfd341d8384a0df0091" x="181.43" y="-10.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_facePalming.png"/>
+</image>
+</images>
+</topic>
+<topic id="286" parent="283" guid="pXzMT2x-bkmLpdk5ybv12A" x="7484.96" y="-2366.96" text="tilo: You seem troubled, sir."/>
+<topic id="287" parent="286" x="7484.96" y="-2185.53" text="faustus: ... Do you know,\NMouse, why I&apos;m here?"/>
+<topic id="288" parent="287" x="7484.96" y="-2078.13" text="DIALOGUE_HUB"/>
+<topic id="289" parent="288" x="7022.54" y="-1879.82" text="tilo: Please, would\Nyou care to tell me?"/>
+<topic id="290" parent="289" guid="6MYVYWn4Hkml-VAHz9gRew" x="7022.54" y="-1722.43" text="faustus: I was for many years the\N[Baron&apos;s] personal physician--the\Nfinest apothecarist in all of Muridea.">
+<note>
+[footnote:baron_osdrik]
+</note>
+</topic>
+<topic id="291" parent="290" guid="c6L8x4vjYkWayOui1aeFdw" x="7022.54" y="-1565.18" text="faustus: I sat in his court, and the noble Rats of\NPesa saw me as their equal... until one evening I\Nwas called to the Baron&apos;s chambers."/>
+<topic id="292" parent="291" guid="nHAXmk56eUKfDEphMOjT_Q" x="7022.54" y="-1399.82" text="faustus: It was a case of [ringtail], nothing\Nmore serious than that. The ointment I applied\Nwas my own concoction--it had proven\Nmost effective in other cases, but alas...">
+<note>
+[footnote:ringtail]
+</note>
+</topic>
+<topic id="293" parent="292" guid="LidE4a21u0GUBcRPVxgDCA" x="6703.89" y="-1156.96" text="tilo: The Baron lost his\Ntail? I had no idea."/>
+<topic id="294" parent="293" guid="MkkVCyC3ckyG0TvqJsim0Q" x="6703.89" y="-928.39" text="faustus: Indeed... I imagine he\Nwears a false tail now. The\NBaron was always rather vain.">
+<children>
+<image guid="e2eUTBdPpUWIOcUnpsQWBg" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="62.50" y="-99.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="e2eUTBdPpUWIOcUnpsQWBg" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="62.50" y="-99.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+</topic>
+<topic id="295" parent="292" x="7327.32" y="-1156.96" text="tilo: Please, go on..."/>
+<topic id="296" parent="295" guid="qC2-WQxr3E6absWcXFrAKw" x="7327.32" y="-928.39" text="faustus: And so I was sent here, to\N[Duinlan Heights]--an opportunity to reflect upon\Nmy carelessness, the Baron called it.">
+<note>
+[footnote:dwindling_heights_keep]
+</note>
+</topic>
+<topic id="297" parent="296" guid="-v97WxEe5Ua5X2eOJbc9Dg" x="7327.32" y="-738.10" text="faustus: It wasn&apos;t long before the\NJailer brought me to this\Nchamber and put me to work.">
+<note>
+[footnote:rotgut]
+</note>
+</topic>
+<topic id="298" parent="288" guid="wW07Y3XT002b2CNfbgLC0Q" x="7885.68" y="-1879.82" text="tilo: I think I do, sir."/>
+<topic id="299" parent="298" guid="wdjJUiWH1U6RIBUHch_qJg" x="7888.04" y="-738.10" text="faustus: I&apos;ve served my sentence a\Ndozen times over. But while there\Nis another batch of [rotgut] brewing...">
+<note>
+[footnote:rotgut]
+</note>
+</topic>
+<topic id="300" parent="299" guid="yRb725GFGEan2oXv9Gbyzw" x="7888.04" y="-596.88" text="faustus: ... the Jailer and his Master\Nwill never let me leave this place.">
+<children>
+<image guid="CqwsIK2flkyGQWS2BDi0qA" name="0bc063fa2dc97d385d64edfd341d8384a0df0091" x="208.57" y="-7.83" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_facePalming.png"/>
+</image>
+</children>
+<images>
+<image guid="CqwsIK2flkyGQWS2BDi0qA" name="0bc063fa2dc97d385d64edfd341d8384a0df0091" x="208.57" y="-7.83" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_facePalming.png"/>
+</image>
+</images>
+</topic>
+<topic id="301" parent="300" guid="GZwml5lsjUqN0eGr_EAXyQ" x="8204.29" y="-400.36" text="tilo: The Jailer is a member\Nof the band of smugglers?">
+<parent-relation guid="WtYq5uERukS-2z5eirp5_g"/>
+</topic>
+<topic id="302" parent="301" guid="1JfLvbFL5U6D9prjb61zNQ" x="8204.29" y="-265.99" text="faustus: Of course! But I would\Nhave thought you&apos;d know that."/>
+<topic id="303" parent="288" guid="bhlk_qCzj0CWcnxUPlYeXw" x="7403.53" y="-1958.58" text="tilo: To make\Nrotgut, sir?">
+<note>
+[lockableThread:whyFaustusImprisoned][lockThread:whyFaustusImprisoned]
+</note>
+</topic>
+<topic id="304" parent="303" guid="tDuQ_X077kCJVaFFUr8Tsg" x="7484.96" y="-1830.87" text="faustus: No, no--I\Nmean before that."/>
+<topic id="305" parent="0" guid="VUjWgcedGkWsF3BOL9u0pg" x="4869.19" y="-3106.04" palette="3" colorinfo="3" text="faustus: Ah! The mask fits you surprisingly\Nwell! It must have shrunk in the water.">
+<parent-relation guid="y6JHj1e33U64K_-5k0Zewg"/>
+<note>
+[priorityOverride][reveal:hasItemEquipped=mask_plagueDoctor][lockableThread:wearPlagueMask][lockThread:wearPlagueMask]
+</note>
+</topic>
+<topic id="306" parent="305" guid="gJKkGlSHEEep5Vlt-BreLg" x="4692.44" y="-2938.54" text="tilo: The water, sir?"/>
+<topic id="307" parent="306" guid="SzQf-2jBkUKG8lRqUki0Tg" x="4692.44" y="-2780.41" text="faustus:  My former assistant\Nwas wearing it when he died."/>
+<topic id="308" parent="307" guid="P-WGq16Z4kOWz29aOOGMrA" x="5076.19" y="-2780.41" text="faustus: Aye... probably laid submerged\Nthere in the sewer for weeks.">
+<children>
+<image guid="QNI9Lyx3Ekuma2qtX7hkxw" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="196.94" y="-87.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image guid="QNI9Lyx3Ekuma2qtX7hkxw" name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="196.94" y="-87.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+</topic>
+<topic id="309" parent="305" guid="fV4LJYdFskmxAUsvmAjVtQ" x="5076.19" y="-2938.54" text="tilo: Leather tends\Nto do that, sir."/>
+<topic id="310" parent="-1" guid="rVBgHHyE3kWVnGg7LxXykg" x="4072.32" y="-2573.60" palette="3" colorinfo="3" text="faustus: As, it would\Nappear, are you, now!">
+<children>
+<image guid="nFgS39las0iZcQl1BCV2FQ" name="b3de621922264280615b9e61c8db20b42259b5f5" x="0.28" y="-78.65" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="nFgS39las0iZcQl1BCV2FQ" name="b3de621922264280615b9e61c8db20b42259b5f5" x="0.28" y="-78.65" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.metFaustus=0]
+</note>
+</topic>
+<topic id="311" parent="-1" guid="neP1MENbbU-kIrArTXbIFw" x="3842.87" y="-3756.13" palette="2" colorinfo="2" text="faustus"/>
+<topic id="312" parent="311" x="3455.29" y="-3407.38" palette="2" colorinfo="2" text="default">
+<children>
+<image name="15f8ef54369c4ffd572b39065246d057ad9cdf10" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_default.png"/>
+</image>
+</children>
+<images>
+<image name="15f8ef54369c4ffd572b39065246d057ad9cdf10" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="313" parent="311" x="3585.87" y="-3407.38" palette="3" colorinfo="3" text="boasting">
+<children>
+<image name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</children>
+<images>
+<image name="b5b2c09f5be7cad199ba95313274641fbdecff93" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_boasting.png"/>
+</image>
+</images>
+</topic>
+<topic id="314" parent="311" x="3712.12" y="-3407.38" palette="4" colorinfo="4" text="facepalm">
+<children>
+<image name="0bc063fa2dc97d385d64edfd341d8384a0df0091" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_facePalming.png"/>
+</image>
+</children>
+<images>
+<image name="0bc063fa2dc97d385d64edfd341d8384a0df0091" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_facePalming.png"/>
+</image>
+</images>
+</topic>
+<topic id="315" parent="311" x="3842.87" y="-3407.38" palette="5" colorinfo="5" text="frustrated">
+<children>
+<image guid="j_aXbjDuHkWxg3FXvVLSUg" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="-9.29" y="-87.83" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</children>
+<images>
+<image guid="j_aXbjDuHkWxg3FXvVLSUg" name="6f1eab9065d3a26c8c3af546f0855089770a8995" x="-9.29" y="-87.83" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_frustrated.png"/>
+</image>
+</images>
+</topic>
+<topic id="316" parent="311" x="3984.62" y="-3407.38" palette="6" colorinfo="6" text="quizzical">
+<children>
+<image name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</children>
+<images>
+<image name="fc7ddc08c2e33841b8f1018ccf7a6776b89f7b4e" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_quizzical.png"/>
+</image>
+</images>
+</topic>
+<topic id="317" parent="311" guid="FKK8fTQst0upoU4WVB4VMQ" x="4152.37" y="-3407.38" palette="7" colorinfo="7" text="stern">
+<children>
+<image guid="2CSmmc_KLUaF3i5Op2XsCQ" name="b3de621922264280615b9e61c8db20b42259b5f5" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="2CSmmc_KLUaF3i5Op2XsCQ" name="b3de621922264280615b9e61c8db20b42259b5f5" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Faustus/portrait_faustus_stern.png"/>
+</image>
+</images>
+</topic>
+</topics>
+<relations>
+<relation guid="jjtoHU69-E6EUS-2UqiTAA" source="22" target="4"/>
+<relation source="19" target="4"/>
+<relation source="174" target="176"/>
+<relation source="175" target="178"/>
+<relation source="182" target="184"/>
+<relation source="172" target="175"/>
+<relation source="31" target="28"/>
+<relation source="30" target="29"/>
+<relation source="31" target="29"/>
+<relation guid="3a1UKHHqJkuWJW92_SvxPA" source="29" target="25"/>
+<relation guid="g2FRjPg-kkWe1ODrGrH9Gw" source="185" target="189"/>
+<relation guid="bkAKr9txqUCoEZ0MKysPmQ" source="267" target="24"/>
+<relation guid="vRj02BqaOUOTy8hwsV8_DQ" source="264" target="25"/>
+<relation guid="_mRvTeeT6UG4u2_BQoe03g" source="265" target="25"/>
+<relation source="194" target="198"/>
+<relation source="21" target="4"/>
+<relation source="20" target="4"/>
+<relation source="35" target="39"/>
+<relation guid="KtxLV29nyEGA9G7hd9pJng" source="40" target="25"/>
+<relation guid="GwSrCttgg0217szpfH9Gzw" source="38" target="25"/>
+<relation source="155" target="152"/>
+<relation guid="fqoQ1z1mhkyXYpmE2Vzacg" source="42" target="44"/>
+<relation guid="YNfoxLwQi0KlmQibUvq7eQ" source="43" target="46"/>
+<relation guid="e7CwQRNpVUCNgDIRPcdw2g" source="48" target="46"/>
+<relation guid="0WVqpELogECcY0luDe3WAg" source="157" target="152"/>
+<relation source="158" target="145"/>
+<relation guid="4kZ3mvc3z0iYwAl2VOIExA" source="46" target="25"/>
+<relation guid="Rr9YqmcD80GrJeZvSduuAw" source="223" target="210"/>
+<relation source="207" target="204"/>
+<relation guid="S1NCs-et1EKnPL2ME0ezKA" source="54" target="50"/>
+<relation source="53" target="52"/>
+<relation source="54" target="52"/>
+<relation source="52" target="25"/>
+<relation guid="7xxyNOAXsUqbADNrLOr50A" source="214" target="224"/>
+<relation source="241" target="243"/>
+<relation source="235" target="233"/>
+<relation source="249" target="52"/>
+<relation source="251" target="249"/>
+<relation guid="ZiwWRQB3xUWdsZyzE76OUw" source="243" target="139"/>
+<relation source="55" target="52"/>
+<relation guid="uKccS1nE70u10psMfs3djA" source="255" target="226"/>
+<relation guid="fmJfWmLoYEu8kwy5mVhisw" source="257" target="226"/>
+<relation source="254" target="52"/>
+<relation guid="8_Kf9lXciEaIUeFJ1AukiQ" source="258" target="52"/>
+<relation guid="KMCfJCKQ90yXfSideKgWQg" source="214" target="252"/>
+<relation guid="aPrw-OI8hE2VhV480HbISA" source="214" target="256"/>
+<relation source="57" target="25"/>
+<relation guid="LyQ_-1WtJEiP-NZU2BNJLQ" source="23" target="10"/>
+<relation guid="klwq2ntuzUmgakFGCldAyg" source="198" target="25"/>
+<relation source="59" target="237"/>
+<relation guid="Dc-iaL4nmUu0AKQ529b_QA" source="72" target="63"/>
+<relation source="64" target="67"/>
+<relation source="73" target="217"/>
+<relation guid="JuV2Ivieb0iHGaXuURhiEg" source="222" target="221"/>
+<relation source="76" target="25"/>
+<relation guid="kdZ4H8qV_0yRFOiv7E1G7A" source="124" target="13"/>
+<relation guid="7_DpTDHNWkKd_DgMV5YEGQ" source="126" target="13"/>
+<relation guid="U0rM2PEgcECPTZd0vboKCg" source="120" target="13"/>
+<relation guid="r7hejb3oN06jvvoBlRlUAA" source="118" target="13"/>
+<relation guid="UyhIExyEyk2124LHv96QGw" source="122" target="13"/>
+<relation source="285" target="287"/>
+<relation source="294" target="296"/>
+<relation source="297" target="299"/>
+<relation source="304" target="288"/>
+<relation guid="mblYkcCESU6GB3GLr1GfjA" source="300" target="25"/>
+<relation guid="1IysTmkTTUm1LYh9KBET5w" source="302" target="25"/>
+<relation guid="IKIhE-N5OkOMdHDhI0SUQg" source="266" target="25"/>
+<relation guid="lkPCjypejE2NK19o3neUsw" source="267" target="25"/>
+<relation source="92" target="94"/>
+<relation source="84" target="87"/>
+<relation source="96" target="76"/>
+<relation source="79" target="76"/>
+<relation source="99" target="76"/>
+<relation guid="IU1XlLjQgku1VLYAmilN1A" source="263" target="76"/>
+<relation source="94" target="76"/>
+<relation source="81" target="76"/>
+<relation source="101" target="76"/>
+<relation source="261" target="100"/>
+<relation source="261" target="80"/>
+<relation source="111" target="105"/>
+<relation guid="l9IuhavzA0-9MhN10O09aQ" source="109" target="25"/>
+<relation source="159" target="152"/>
+<relation source="269" target="271"/>
+<relation source="271" target="25"/>
+<relation guid="uAuoR_n9i0OrXJX9j8cJnA" source="275" target="25"/>
+<relation source="10" target="112"/>
+<relation source="309" target="308"/>
+<relation guid="oYaMrT8Sh0SITDlcYBIsWw" source="308" target="25"/>
+<relation source="188" target="185"/>
+<relation source="170" target="167"/>
+<relation source="169" target="168"/>
+<relation source="170" target="168"/>
+<relation guid="00E-cMsPyk6ptTrnVnEz7Q" source="168" target="29"/>
+<relation guid="OaCiRSEGpEidXRePSwmbaA" source="166" target="29"/>
+<relation guid="nlsMZRZXcEam_L8xlDoZZQ" source="162" target="46"/>
+<relation source="282" target="279"/>
+<relation source="280" target="310"/>
+<relation source="310" target="1"/>
+<relation source="230" target="231"/>
+<relation guid="sy1lA1lGf0e6mm2LLFkWnQ" source="134" target="130"/>
+<relation guid="k2JBITct7UuseTNO0BIScA" source="138" target="25"/>
+<relation guid="E3AvWphir0OEHoB__v2YGg" source="131" target="25"/>
+<relation source="118" target="264"/>
+<relation source="122" target="264"/>
+<relation source="120" target="264"/>
+<relation source="126" target="264"/>
+<relation source="124" target="264"/>
+</relations>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

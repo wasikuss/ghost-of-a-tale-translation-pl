@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="B548C9EA96C54315934B43FD1E2956D2"/>
+<title text="quest_sendMessageBeetle" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="130" x="880" y="551"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="878.24" y="624.98" palette="2" colorinfo="2" text="A Message of Hope">
+<note>
+[mainQuest]version_01-16-18_007-Added renown on final node at tier 3 (temp)version_110716_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="leSFUphX30e2MKzK6CGNeA" x="878.24" y="731.23" palette="6" colorinfo="6" text="Fetch a skappbeetle for Silas.">
+<note>
+[taskName=getMessageBeetle]
+</note>
+</topic>
+<topic id="2" parent="1" guid="CW3swDVry0GlrDlHrN9NXg" x="1341.63" y="730.62" palette="8" colorinfo="8" text="You fetched a skappbeetle, but let the rest escape!"/>
+<topic id="3" parent="1" guid="o3NDD7qas0K4W-O43ncohQ" x="878.13" y="829.01" palette="4" colorinfo="4" text="Give the beetle to Silas.">
+<note>
+[taskName=giveMessageBeetleToSilas]
+</note>
+</topic>
+<topic id="4" parent="3" guid="fYzsTy3lUUGJ_tOWVlXuUg" x="1341.41" y="829.01" palette="8" colorinfo="8" text="You gave the skappbeetle to Silas."/>
+<topic id="5" parent="3" guid="2_iCZbcQg0KxaYC3G7KGZw" x="877.54" y="947.90" palette="6" colorinfo="6" text="Release the skappbeetle.">
+<note>
+[taskName=releaseMessageBeetle][grantRenown=2]
+</note>
+</topic>
+<topic id="6" parent="5" guid="YzwTfNOgkkeO3sLBdovB7g" x="1309.93" y="952.34" palette="8" colorinfo="8" text="Silas sent the skappbeetle\Naway to Yuva Citadel."/>
+<topic id="7" parent="0" guid="Bud-HMlZoUeYr4vXlcD9fg" x="1334.30" y="624.15" palette="8" colorinfo="8" text="Help Silas send out a message and\Ndiscover where Merra is being held."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

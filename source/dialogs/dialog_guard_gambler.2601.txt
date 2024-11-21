@@ -1,0 +1,1879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.2" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="9E43FA6F4C614B8C95F0E192E5318C7D"/>
+<title text="dialog_guard_gambler"/>
+<images containsImages="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="50" x="-164" y="-83"/>
+<selection guid="UDlrEQnq7kaFWogqZMkz5w" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="UDlrEQnq7kaFWogqZMkz5w" x="752.79" y="785.47" palette="1" colorinfo="1" text="dialog_guard_gambler">
+<note>
+version_07-24-18_004Removed lockable thread and lock command: &apos;lockableThread:gambleForTheRing&apos;version_04-15-18_003Added nodes and actions to address if Tilo is promoted to sergeant.version_02-24-18_002-Added conditions to catch Duinlan&apos;s armour
+</note>
+</topic>
+<topic id="1" parent="0" guid="aPqGC-VvF0Kgc9wG9LcX0Q" x="384.15" y="1090.54" palette="2" colorinfo="2" text="guard_gambler: What brings\Nyou to my table, buck?">
+<children>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][lockableThread:firstIntro][lockThread:firstIntro][completeTask:quest_retrieveStolenBand.talkToGambler;quest_retrieveStolenBand.talkToGamblerAltA][counter:metGuardGambler=0][updateCounter:metGuardGambler+1]
+</note>
+</topic>
+<topic id="2" parent="1" guid="eZIFFk15nECqPljDZOqj2g" x="153.75" y="1547.92" text="tilo: Bellar Larr?">
+<parent-relation guid="gGH7-HuOXEiLxZoh4MqAYg"/>
+<note>
+[reveal:counter.metGuard_gambler=0;quest_retrieveStolenBand.talkToGambler=active|quest_retrieveStolenBand.talkToGamblerAltA=active][counter:metGuard_gambler=0][updateCounter:metGuard_gambler=1][executeAction:revealTrueName=character_guard_gambler]
+</note>
+</topic>
+<topic id="3" parent="2" guid="FkrIGnxnO0CG0x2FFA9vow" x="153.75" y="1712.92" text="guard_gambler: Aye... who\Nwants to know?">
+<children>
+<image guid="itOkPwqF5kSCFZFesV40uw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="135.86" y="-79.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="itOkPwqF5kSCFZFesV40uw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="135.86" y="-79.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[executeAction:revealTrueName=character_guard_gambler]
+</note>
+</topic>
+<topic id="4" parent="3" guid="oCVqe-fQD0Wa41_NbGNw3Q" x="153.75" y="1896.25" text="tilo: Private Scow. I&apos;m new here.">
+<note>
+[reveal:costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="5" parent="4" guid="R54Yz4mtwkaOK9fawYHHJw" x="153.75" y="2074.58" text="guard_gambler: Scow... from [The Nail]. I&apos;ve heard\Ntalk of you. They say you like to gamble.">
+<children>
+<image guid="OeyRTqvMnEWBGsA5JZ1N-w" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="179.77" y="-73.60" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="OeyRTqvMnEWBGsA5JZ1N-w" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="179.77" y="-73.60" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+<note>
+[footnote:yuva_citadel]
+</note>
+</topic>
+<topic id="6" parent="5" guid="8s_jipGKNUSc1QOfJ7X5pA" x="-16.25" y="2257.92" text="guard_gambler: Why\Ndon&apos;t you join me, friend?">
+<children>
+<image guid="VrIjQlQWxEyiwcbesCiNlw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="162.73" y="-66.67" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="VrIjQlQWxEyiwcbesCiNlw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="162.73" y="-66.67" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="7" parent="3" guid="k7XHPbyxLkSZ9vYlxJW84A" x="-243.08" y="2074.58" text="tilo: ... A friend.">
+<note>
+[reveal:costume_ranger=true|costume_guard=false|costume_duinlan=false]
+</note>
+</topic>
+<topic id="8" parent="1" guid="5Zm-x8QxeEOE4lgYdXG1Ng" x="560.42" y="1712.92" text="tilo: I hear you like\Na game of chance...">
+<parent-relation guid="AYmMe9X7MEqCDPHTPj-t4Q"/>
+</topic>
+<topic id="9" parent="8" guid="wD12oOPtKEG1ADm0HRCDXQ" x="560.42" y="2074.58" text="guard_gambler: Aye,\Nare you interested?">
+<children>
+<image guid="YTK_QsGRI0aZyCNSGS3tqQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="98.08" y="-83.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="YTK_QsGRI0aZyCNSGS3tqQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="98.08" y="-83.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="10" parent="9" guid="Q8yB-4NTRkCjoPf5ImBaMQ" x="839.58" y="2473.70" text="DIALOGUE_HUB_A">
+<parent-relation guid="j_0u5IkSi06xPhrblm7nYw"/>
+</topic>
+<topic id="11" parent="10" guid="q2VYkhOinke5yQzc_yVG8Q" x="947.70" y="2608.28" text="DIALOGUE_HUB_B">
+<parent-relation guid="AkciKcpdsk6kSJVNGG0sCg"/>
+</topic>
+<topic id="12" parent="11" guid="v93YMLcYUEyzYO_wXbeb2w" x="3786.19" y="4544.49" text="tilo: &quot;The termites&apos; lair spreads far, unseen...&quot;">
+<note>
+[lockableThread:masterAndSmugglers][lockThread:masterAndSmugglers][reveal:quest_findSmugglers.findSmugglersMark=complete;quest_findSmugglers.talkToCommander=inactive]
+</note>
+</topic>
+<topic id="13" parent="12" guid="3wRwErqIRkOeAXBwUfKfFA" x="3786.19" y="4693.48" text="guard_gambler: Listen, buck... That\Nwhole thing, that&apos;s none of my business.">
+<parent-relation guid="O5clq45ePkmfJhUzJj2rHw"/>
+</topic>
+<topic id="14" parent="13" guid="Y2SjIsieE0CvAImCBcmXnw" x="3786.19" y="4840.50" text="guard_gambler: I make plenty with my games\Nof chance. Why work harder than I need to?">
+<children>
+<image guid="Ppen1iFxZkm_D-65kaIsDg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="275.00" y="-12.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="Ppen1iFxZkm_D-65kaIsDg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="275.00" y="-12.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="15" parent="11" guid="SIuQX46J00OAKystHdX7yA" x="4466.45" y="4569.15" text="tilo: What can you tell me about\Nthe disappearance of the Jailer?">
+<note>
+[lockableThread:findJailer][lockThread:findJailer][reveal:quest_findJailer.talkToCommander=inactive]
+</note>
+</topic>
+<topic id="16" parent="15" guid="PlJu7_OSS0W0jL0BpPlyww" x="4466.45" y="4820.94" text="guard_gambler: I can tell you that he\Nowes me money. Be sure to remind\Nhim of that when you find him.">
+<children>
+<image guid="HpcU8ygDekmRJSvhvTm9_A" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="225.00" y="17.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="HpcU8ygDekmRJSvhvTm9_A" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="225.00" y="17.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="17" parent="16" guid="6Y5wWi9lPEeZfQBVFTioZw" x="4058.66" y="5528.67" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="18" parent="11" guid="PSNBsi8Ur02lXGuMGVFErA" x="2307.86" y="2639.49" text="tilo: Remind what it\Nwas you ordered...">
+<note>
+[reveal:quest_hangoverTonic.getThirdOrder=complete;quest_hangoverTonic.deliverThirdOrder=inactive|quest_hangoverTonic.deliverThirdOrder=active]
+</note>
+</topic>
+<topic id="19" parent="18" guid="3cik-UdWg0yO-J0EQweVgw" x="2307.86" y="2806.99" text="guard_gambler: It was\Nthe Vaelian trout.">
+<children>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="175.86" y="6.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="175.86" y="6.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="20" parent="11" guid="ZDSfU4GzNEaQxtF0MCXcXA" x="1784.53" y="2256.16" text="tilo: What&apos;s your\Nname, buck?">
+<parent-relation guid="vc3esbMxxEOdp8pgAbG6gw"/>
+<note>
+[lockableThread:askName][lockThread:askName][reveal:counter.metGuard_gambler=0]
+</note>
+</topic>
+<topic id="21" parent="20" guid="fwNlFWirzkm7Ret8oZZgXw" x="1784.53" y="2371.87" text="guard_gambler:\NLarr--Bellar Larr.">
+<children>
+<image guid="hcqqFuQbyEOuCnjb7jhTwA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="140.30" y="-7.47" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="hcqqFuQbyEOuCnjb7jhTwA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="140.30" y="-7.47" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[updateCounter:metGuard_gambler=1][executeAction:revealTrueName=character_guard_gambler]
+</note>
+</topic>
+<topic id="22" parent="11" guid="1v3L6cLBiUOLzE8eYKTkWg" x="1040.03" y="2742.86" text="DIALOGUE_HUB_C"/>
+<topic id="23" parent="22" guid="1-NFzoIock2TfRPOUE28eQ" x="1354.11" y="2608.28" text="tilo: I think it&apos;s\Ntime I was going.">
+<parent-relation guid="EoAKsBHrMUS5JXs7Co820Q"/>
+</topic>
+<topic id="24" parent="10" guid="ciJCBZUtkUuufyEYlf4EYQ" x="340.41" y="2830.70" text="tilo: What are\Nwe playing?">
+<parent-relation guid="bT_UYADz3EOzHd3NqTSuSg"/>
+<note>
+[lockableThread:firstRound][lockThread:firstRound][unlockThread:secondRound]
+</note>
+</topic>
+<topic id="25" parent="24" guid="ILOuEgiBmUSc25wytWrNfQ" x="340.41" y="3018.45" text="guard_gambler: The game is\N&apos;High-Low Seven&apos;.">
+<children>
+<image guid="M_A7pWNdR0S-D-hYX9kW5A" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="193.64" y="-0.81" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="M_A7pWNdR0S-D-hYX9kW5A" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="193.64" y="-0.81" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="26" parent="25" guid="OUgQcogsDUKf5e86oGAD9g" x="340.41" y="3161.40" text="guard_gambler: Bets of between two\Nand five florins accepted...">
+<parent-relation guid="iIjfEP7WXU-vEI5ULy2BCg"/>
+<children>
+<image guid="cBQNED6A2EmzpB2TymTYig" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-196.36" y="-40.81" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="cBQNED6A2EmzpB2TymTYig" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-196.36" y="-40.81" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[unlockThread:rulesOfHighLow][counter:numberOfRounds=0]
+</note>
+</topic>
+<topic id="27" parent="26" guid="GfNLyMmltkaSSgyCiKZIfQ" x="340.41" y="3242.05" text="guard_gambler: ... and you need\Nat least five florins to play.">
+<children>
+<image guid="iNE-pn1Ek0ey-5Zq4Eceug" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-195.25" y="44.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="iNE-pn1Ek0ey-5Zq4Eceug" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-195.25" y="44.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="28" parent="27" guid="caskatYqv0um4OnZube9bQ" x="340.41" y="3322.69" text="guard_gambler: Are you in?">
+<parent-relation guid="XeUKophQjUSb_rLbxbt4cQ"/>
+<children>
+<image guid="pRDqUWO9ZkKJFmjXY3rvuQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="193.64" y="6.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="pRDqUWO9ZkKJFmjXY3rvuQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="193.64" y="6.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[showMoney][counter:sumOfTwoDice=0][updateCounter:numberOfRounds+1]
+</note>
+</topic>
+<topic id="29" parent="28" guid="gRKrESbY50GQ6xU3KDgO1w" x="-451.24" y="3322.69" text="tilo: Remind me of the rules.">
+<note>
+[lockableThread:rulesOfHighLow][lockThread:rulesOfHighLow]
+</note>
+</topic>
+<topic id="30" parent="29" guid="jVAGGG3gfkiFEN5r2vYTiA" x="-451.24" y="3444.91" text="guard_gambler: Alright... we roll a fair dice\Ntwo times. The outcome is &apos;high&apos;\Nif the sum is eight,\Nnine, ten, eleven or twelve...">
+<children>
+<image guid="-IHefhqewkaVHPjdpxm-3g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-241.92" y="-48.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="-IHefhqewkaVHPjdpxm-3g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-241.92" y="-48.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="31" parent="30" guid="CeTHfjbbF0S7GIAfV6NsXQ" x="-451.24" y="3570.30" text="guard_gambler: ...&apos;low&apos; if the sum is two,\Nthree, four, five or six...">
+<children>
+<image guid="4xJwL416dECWWcQZKROcPg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-249.70" y="-11.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="4xJwL416dECWWcQZKROcPg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-249.70" y="-11.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="32" parent="31" guid="l9f_s1ZW8EalriZd63bCgw" x="-451.24" y="3683.60" text="guard_gambler: ... and &apos;seven&apos; if the\Nsum is seven. Before the first roll you\Nget to call one of those three outcomes.">
+<children>
+<image guid="iv_uj5_U3kCrqwD4DQTJKQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-246.36" y="2.53" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="iv_uj5_U3kCrqwD4DQTJKQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-246.36" y="2.53" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="33" parent="32" guid="DDilFGrvY0WSGde_-4TcnQ" x="-451.24" y="3827.41" text="guard_gambler: Payout for a\Nwinning bet of &apos;high&apos; or &apos;low&apos; is\Ntwice the amount wagered, or four\Ntimes for a winning bet of &apos;seven&apos;.">
+<children>
+<image guid="rUihmcjGcUW3e7-cF8sBrw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-210.81" y="-21.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="rUihmcjGcUW3e7-cF8sBrw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-210.81" y="-21.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="34" parent="28" guid="28R16tEdAUKjoZQd6oKYeA" x="1283.72" y="3366.64" text="tilo: What do you say we make things\Na little more interesting this time?">
+<note>
+[reveal:quest_retrieveStolenBand.playToWinRing=active|quest_retrieveStolenBand.playToWinRingAltA=active;counter.numberOfRounds&gt;2]
+</note>
+</topic>
+<topic id="35" parent="34" guid="biXdHEeZkEaeLjnLjQdAxA" x="2371.10" y="3371.40" text="guard_gambler: What\Ndid you have in mind?">
+<parent-relation guid="UCywyrkl4EOIgieYm9h_AQ"/>
+</topic>
+<topic id="36" parent="35" guid="v20JeZgXGk2lwN878sXxHA" x="2155.86" y="3599.73" text="tilo: If I win... I take that\Nsilver band you&apos;re wearing."/>
+<topic id="37" parent="36" guid="fY22fF9gbUGChM5xBq_2RQ" x="2155.86" y="3746.52" text="guard_gambler: ... Alright.">
+<children>
+<image guid="ShYNjT9edECnSWtKXxUlAg" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-155.60" y="4.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="ShYNjT9edECnSWtKXxUlAg" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-155.60" y="4.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+</topic>
+<topic id="38" parent="37" guid="v5McYxzqAUSJRScCbZOhNw" x="2155.86" y="3918.41" text="guard_gambler: And\Nif the house wins...">
+<parent-relation guid="4f_mUVHKCk6LMiw8imjFjw"/>
+<children>
+<image guid="xvENwMqyRkGSdcJ1zryD8Q" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-130.04" y="-0.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="xvENwMqyRkGSdcJ1zryD8Q" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-130.04" y="-0.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+</topic>
+<topic id="39" parent="38" guid="8ESnrwAKtU6SY6u0k7iedA" x="2155.86" y="4068.22" text="guard_gambler:\N... I take your lute.">
+<parent-relation guid="RgW792OeqkCZLfBl8wRjeA"/>
+<children>
+<image guid="IIFS-LyNr064juV05_QN8g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-116.39" y="-24.06" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="IIFS-LyNr064juV05_QN8g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-116.39" y="-24.06" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="40" parent="39" guid="_uxGqL4a60-rVE6MK-pEnQ" x="1937.50" y="4216.79" text="tilo: ... Very\Nwell. I accept."/>
+<topic id="41" parent="40" guid="zCa2FVR0p0W4UKB3VIgURw" x="1937.50" y="4325.36" text="guard_gambler: Good.">
+<children>
+<image guid="0Rq2mio4fEq_jo36T6nXrw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-121.25" y="-27.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="0Rq2mio4fEq_jo36T6nXrw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-121.25" y="-27.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="42" parent="41" guid="ZPSXsHJZ6UyaNf9fVnyr6Q" x="2151.80" y="4486.88" text="guard_gambler: Call it, friend--&apos;High&apos;,\N&apos;low&apos;, or &apos;seven&apos;.">
+<parent-relation guid="iBVlBjyFI0SqL85qud5NNA"/>
+<children>
+<image guid="8uEjw8x4U0y_B66qi8oTyg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="235.00" y="15.38" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="8uEjw8x4U0y_B66qi8oTyg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="235.00" y="15.38" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[counter:fakeDiceThrow=0]
+</note>
+</topic>
+<topic id="43" parent="42" x="2371.10" y="4649.79" text="NULL NODE">
+<parent-relation guid="Uc69BJSqH0OJZtYL5-ao1A"/>
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="44" parent="43" guid="QdHK1PvbxE6E6bnT658oXw" x="2151.80" y="4854.10" text="tilo: ... High?">
+<note>
+[unlockThread:fakeHigh]
+</note>
+</topic>
+<topic id="45" parent="44" guid="vB28wvalg0KtDI_hJeRC6g" x="2371.10" y="4981.59" text="guard_gambler: You&apos;re certain?">
+<children>
+<image guid="ms6F7E4rdUC5qoH0cL6kNg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-181.25" y="-22.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="ms6F7E4rdUC5qoH0cL6kNg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-181.25" y="-22.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="46" parent="45" x="2551.55" y="5121.18" text="tilo: ... Aye."/>
+<topic id="47" parent="46" guid="lOuOiy6OH0q8qfw352kHEw" x="2371.10" y="5281.21" text="guard_gambler: Alright,\Ntake your first throw...">
+<children>
+<image guid="uPNCMVP5q0OVlkBKAFC3UQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="182.50" y="-14.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="uPNCMVP5q0OVlkBKAFC3UQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="182.50" y="-14.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="48" parent="47" guid="9UPL313j0k2lfwDFx7k-0g" x="2371.10" y="5371.40" text="you roll a three">
+<note>
+[narration][updateCounter:fakeDiceThrow+3][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="49" parent="48" guid="mcOS3dfnLUOIth8ShLuXjg" x="2371.66" y="5488.82" text="guard_gambler: Now... roll again...">
+<parent-relation guid="HVQl0As25U2-6Xi5VA1AFA"/>
+<children>
+<image guid="rg1vjqdFLEa_y6w3vB5TeA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="232.50" y="-19.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="rg1vjqdFLEa_y6w3vB5TeA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="232.50" y="-19.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="50" parent="49" guid="EEgovEfrt06DikLOriYTmg" x="2371.66" y="5629.41" text="you roll a four">
+<note>
+[narration][lockableThread:fakeSeven=true][updateCounter:fakeDiceThrow+4][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="51" parent="50" guid="WHzAKAzXlUaKeHxKvS732w" x="2372.91" y="5772.16" text="guard_gambler: Two throws of the dice...">
+<children>
+<image guid="Wud0e64730CAIF9mNBR8jw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="261.39" y="0.94" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="Wud0e64730CAIF9mNBR8jw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="261.39" y="0.94" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="52" parent="51" guid="TW6P5GKZxU6IOGD2jxRNRQ" x="2679.80" y="5975.91" text="guard_gambler:\N... for a total of eight!">
+<children>
+<image guid="Gz_uHuGlHUS7bVIVwGJsrA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="132.50" y="-57.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="Gz_uHuGlHUS7bVIVwGJsrA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="132.50" y="-57.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.fakeDiceThrow=8]
+</note>
+</topic>
+<topic id="53" parent="52" guid="lZFZa2Y7PUu2GOOzJ06apQ" x="2679.80" y="6126.09" text="guard_gambler: That&apos;s\Nhigh... you&apos;ve won.">
+<parent-relation guid="1ydfdtO4AEyKBRQ7XIfyag"/>
+<children>
+<image guid="Oa6_k6zNrEW_FhniC1X_Qw" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="165.83" y="7.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="Oa6_k6zNrEW_FhniC1X_Qw" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="165.83" y="7.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="54" parent="51" guid="lwYBum9sdUOyFUsDOiSgoQ" x="2371.66" y="5975.91" text="guard_gambler: ... for\Na total of seven!">
+<children>
+<image guid="6o4RCMwLmki5kAQ0Zh2kcQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-107.50" y="-74.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="6o4RCMwLmki5kAQ0Zh2kcQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-107.50" y="-74.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.fakeDiceThrow=7]
+</note>
+</topic>
+<topic id="55" parent="54" guid="z9CGjCLW8UK0nAJkiCeNjQ" x="2371.66" y="6126.09" text="guard_gambler:\NSeven... you&apos;ve won.">
+<children>
+<image guid="o0B3o8uN5kOROfcQLrsa-w" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="-129.17" y="-9.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="o0B3o8uN5kOROfcQLrsa-w" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="-129.17" y="-9.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="56" parent="51" guid="LgkldHU5b0ClQjDSJ_ddYw" x="2075.66" y="5975.91" text="guard_gambler:\N... for a total of five!">
+<children>
+<image guid="d-6v0tDeRk2NDVSCE4P0HQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-100.00" y="-52.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="d-6v0tDeRk2NDVSCE4P0HQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-100.00" y="-52.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.fakeDiceThrow=5]
+</note>
+</topic>
+<topic id="57" parent="56" guid="Q08s8_C13EGh-ZhDRggc7Q" x="2075.66" y="6126.09" text="guard_gambler: It&apos;s\Nlow... you&apos;ve won.">
+<parent-relation guid="Ph62sHB2okuUGVBn-cZyNg"/>
+<children>
+<image guid="TNlbXO0vxEqyQ77U3K_prQ" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="-132.50" y="-25.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="TNlbXO0vxEqyQ77U3K_prQ" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="-132.50" y="-25.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="58" parent="57" guid="pklDZ7iZhkmiqRFdE6wiog" x="2372.91" y="6377.75" text="The Rat stares at you for a moment,\Nthen removes the silver band and\Nslides it across the table to you.">
+<note>
+[narration][executeAction:receiveItem=ring_gambler]
+</note>
+</topic>
+<topic id="59" parent="58" guid="-YpSDjPSskSCwF6K0mV5cQ" x="2165.13" y="6612.52" text="guard_gambler: Perhaps,\NRanger, you&apos;ll afford me the\Nchance to win this back later...">
+<note>
+[updateCounter:numberOfRounds+1][reveal:costume_ranger=true][completeTask:quest_retrieveStolenBand.playToWinRing;quest_retrieveStolenBand.playToWinRingAltA][unlockThread:lostAsRanger]
+</note>
+</topic>
+<topic id="60" parent="58" guid="WBTl-Is8IUW8YSyl2kNmpA" x="2627.55" y="6612.52" text="guard_gambler: Perhaps\Nyou&apos;ll afford me the chance to\Nwin this back later, Scow...">
+<note>
+[updateCounter:numberOfRounds+1][reveal:costume_guard=true|costume_duinlan=true][completeTask:quest_retrieveStolenBand.playToWinRing;quest_retrieveStolenBand.playToWinRingAltA][unlockThread:lostAsGuard]
+</note>
+</topic>
+<topic id="61" parent="49" guid="T-LDUXWlS0CC04lYa35Hcg" x="2567.81" y="5629.41" text="you roll a five.">
+<note>
+[narration][lockableThread:fakeHigh=true][updateCounter:fakeDiceThrow+5][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="62" parent="49" guid="ZS6KjZ2zcEGIIUSnnWTXQQ" x="2180.82" y="5629.41" text="you roll a two">
+<note>
+[narration][lockableThread:fakeLow=true][updateCounter:fakeDiceThrow+2][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="63" parent="45" guid="ejBFHYCYL0-kKea1fbQ1aA" x="2175.82" y="5121.18" text="tilo: Wait--I&apos;ve\Nchanged my mind...">
+<note>
+[lockThread:fakeSeven;fakeHigh;fakeLow]
+</note>
+</topic>
+<topic id="64" parent="63" guid="nk2O-begd0asZ24uxWLb9g" x="2175.82" y="5208.00" text="guard_gambler: Well?"/>
+<topic id="65" parent="43" guid="mYDopjqhdU6y85og8PC8CA" x="2371.10" y="4854.10" text="tilo: ... Low?">
+<note>
+[unlockThread:fakeLow]
+</note>
+</topic>
+<topic id="66" parent="43" guid="7bH2WGD7j0-mwLOw4JeVBA" x="2599.60" y="4854.10" text="tilo: ... Seven?">
+<note>
+[unlockThread:fakeSeven]
+</note>
+</topic>
+<topic id="67" parent="43" guid="SvakIV412EGE9wdzJftEIg" x="1796.66" y="4871.60" text="tilo: High? Low? What\Ndoes that mean?"/>
+<topic id="68" parent="67" guid="vZkzB_liNUe-9gLfMb_E_w" x="1796.66" y="4981.59" text="guard_gambler: We call &apos;high&apos; If the\Nsum of the two dice throws is eight,\Nnine, ten, eleven or twelve...">
+<children>
+<image guid="EXvy-yWX-0W0wctAmCGtLQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-202.50" y="-48.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="EXvy-yWX-0W0wctAmCGtLQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-202.50" y="-48.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="69" parent="68" guid="YVxn27uG4EiJMacFDNIctw" x="1796.66" y="5104.93" text="guard_gambler: ...&apos;low&apos; if the sum is two,\Nthree, four, five or six, and &apos;seven&apos; if\Nthe sum is seven. Understand?">
+<children>
+<image guid="fNHhbLrf4ku-uqVPpbH2XA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-227.50" y="-39.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="fNHhbLrf4ku-uqVPpbH2XA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-227.50" y="-39.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="70" parent="39" guid="toj1suGJwUmrXKJJJr3Iyg" x="2358.93" y="4216.79" text="tilo: My lute?!"/>
+<topic id="71" parent="70" guid="w1XBrRU44EOX_BrGImH83g" x="2358.93" y="4325.36" text="guard_gambler: Aye... or are your\Nwords stronger than your nerve?">
+<children>
+<image guid="fEYxKChgWkKtkFSSRQzjKg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="225.00" y="-17.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="fEYxKChgWkKtkFSSRQzjKg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="225.00" y="-17.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="72" parent="35" guid="u2kr51UFW0m2EyNaA0W0RA" x="2596.45" y="3598.64" text="tilo: That silver band...\Nwhere did you get it from?"/>
+<topic id="73" parent="72" guid="3qf98lEzIUuu4aTHH7deHg" x="2596.45" y="3699.01" text="guard_gambler: You like it? It&apos;s white\Ngold. I took it from the two scrunt\NMice down in the holding cells.">
+<children>
+<image guid="KCb79fUsO0KIUPcThXMf2g" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="221.07" y="-15.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="KCb79fUsO0KIUPcThXMf2g" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="221.07" y="-15.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+</topic>
+<topic id="74" parent="73" guid="BXOiR7GI10ekXHUPvZANjA" x="2596.45" y="3807.58" text="guard_gambler: They&apos;re not\Ngoing to be needing it!">
+<children>
+<image guid="exFyTEvSe06MCiV0a40J6g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="202.50" y="-8.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="exFyTEvSe06MCiV0a40J6g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="202.50" y="-8.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="75" parent="74" guid="FA1OqHvhAEuomWxGti0YRw" x="2596.45" y="3918.41" text="guard_gambler: Tell you what... if\Nyou win the next round,\Nthe silver band&apos;s yours.">
+<children>
+<image guid="yIty6r4oX0SzXgkm3fDxJg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="215.00" y="12.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="yIty6r4oX0SzXgkm3fDxJg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="215.00" y="12.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="76" parent="28" guid="vlEhwo1QHE2tUK8rBayu5g" x="340.41" y="3502.69" text="tilo: I don&apos;t have enough...">
+<parent-relation guid="MFQXT1vaO0qhqwKDiQD-yw"/>
+<note>
+[reveal:hasMoney&lt;5]
+</note>
+</topic>
+<topic id="77" parent="28" x="602.84" y="3502.69" text="tilo: I bet two florins...">
+<parent-relation guid="0lEMO0Xbr0e3QP8WuFalCQ"/>
+<note>
+[reveal:hasMoney=2][executeAction:giveMoney=2][unlockThread:winFour;winEight]
+</note>
+</topic>
+<topic id="78" parent="28" x="759.31" y="3448.17" text="tilo: Alright--three florins...">
+<parent-relation guid="7ghymJmvvE6xubDFqUv_NQ"/>
+<note>
+[reveal:hasMoney=3][executeAction:giveMoney=3][unlockThread:winSix;winTwelve]
+</note>
+</topic>
+<topic id="79" parent="28" x="947.70" y="3502.69" text="tilo: Four florins it is...">
+<parent-relation guid="18vAUKdxxECNiLGaV7WcBA"/>
+<note>
+[reveal:hasMoney=4][executeAction:giveMoney=4][unlockThread:winEight;winSixteen]
+</note>
+</topic>
+<topic id="80" parent="28" x="1112.26" y="3448.17" text="tilo: Five florins--here...">
+<parent-relation guid="3g_La4y4eU6rPIf-R4269w"/>
+<note>
+[reveal:hasMoney=5][executeAction:giveMoney=5][unlockThread:winTen;winTwenty]
+</note>
+</topic>
+<topic id="81" parent="80" guid="ZDtHII9aoEWXbwunO0jhrA" x="335.96" y="3610.37" text="guard_gambler: Good!\NLet&apos;s play!">
+<children>
+<image guid="kjmRyylqtEWZoDA1gW6GNg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="170.30" y="-6.36" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="kjmRyylqtEWZoDA1gW6GNg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="170.30" y="-6.36" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[showMoney]
+</note>
+</topic>
+<topic id="82" parent="81" guid="HxNf-ywFtEWPegVp29UeSQ" x="-29.76" y="3827.41" text="guard_gambler: Now, before you roll,\Nchoose--do you think the sum of the two\Nthrows will be &apos;high&apos;, &apos;low&apos;, or &apos;seven&apos;?">
+<children>
+<image guid="bqY8MEhPhUi7q5wZAOZmgg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="236.97" y="60.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="bqY8MEhPhUi7q5wZAOZmgg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="236.97" y="60.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[lockableThread:makeBetIntro][lockThread:makeBetIntro][variationIndex=0]
+</note>
+</topic>
+<topic id="83" parent="82" x="331.67" y="4075.25" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="84" parent="83" x="116.12" y="4297.06" text="tilo: ... High?">
+<note>
+[unlockThread:winHigh;loseLow;loseSeven]
+</note>
+</topic>
+<topic id="85" parent="84" guid="cr4OEzT0PUSzT5fEt45YIQ" x="331.67" y="4407.05" text="guard_gambler: You&apos;re certain?">
+<children>
+<image guid="b5Qzg3wOaEiJcLHS4wcHsQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="216.97" y="10.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="b5Qzg3wOaEiJcLHS4wcHsQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="216.97" y="10.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="86" parent="85" x="512.12" y="4546.64" text="tilo: ... Aye."/>
+<topic id="87" parent="86" guid="_NKqH7LETkO9GiabBEI24Q" x="331.67" y="4680.67" text="guard_gambler: Alright,\Ntake your first throw...">
+<children>
+<image guid="Pe3RdgGTCEab1d0ZdMOWtw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="173.64" y="-4.14" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="Pe3RdgGTCEab1d0ZdMOWtw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="173.64" y="-4.14" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[rollDice:6]
+</note>
+</topic>
+<topic id="88" parent="87" guid="lsqqCwvnbkiYl0elrhi6bQ" x="-164.47" y="4903.53" text="you roll a one">
+<note>
+[narration][reveal:dice=1][updateCounter:sumOfTwoDice+1][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="89" parent="88" guid="x-UmLyCe3EiMbLzUzXn8dg" x="327.23" y="5181.78" text="guard_gambler: Now... roll again...">
+<children>
+<image guid="taH8mSdT_Uy17JhVqdr9Jg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="228.08" y="8.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="taH8mSdT_Uy17JhVqdr9Jg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="228.08" y="8.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[rollDice:6]
+</note>
+</topic>
+<topic id="90" parent="89" guid="QDLeQ1AJQkaJ10LQZ7r65w" x="424.69" y="5379.87" text="you roll a four">
+<note>
+[narration][reveal:dice=4][updateCounter:sumOfTwoDice+4][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="91" parent="90" guid="LyHx8wwT0UyOvdGsbDjiLQ" x="327.23" y="5695.12" text="guard_gambler: Two\Nthrows of the dice...">
+<children>
+<image guid="X_lVHHt5BUKGbEZLo5Ytlw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="164.61" y="-6.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="X_lVHHt5BUKGbEZLo5Ytlw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="164.61" y="-6.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="92" parent="91" guid="HlF7636-qUmmCtVqb5qgPw" x="1167.90" y="6010.29" text="guard_gambler: ... for\Na total of twelve!">
+<children>
+<image guid="upgut2EeIU6dfqe_3Dj1hg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="134.61" y="40.72" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="upgut2EeIU6dfqe_3Dj1hg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="134.61" y="40.72" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.sumOfTwoDice=12][updateCounter:sumOfTwoDice-12]
+</note>
+</topic>
+<topic id="93" parent="91" guid="X2E4kiAcwE2TJDtgX8Hkbw" x="958.21" y="6096.37" text="guard_gambler: ... for\Na total of eleven!">
+<children>
+<image guid="rxUjiVq_fk-_PzAmXtvDrw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="128.36" y="38.22" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="rxUjiVq_fk-_PzAmXtvDrw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="128.36" y="38.22" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.sumOfTwoDice=11][updateCounter:sumOfTwoDice-11]
+</note>
+</topic>
+<topic id="94" parent="93" guid="8c28c_7DMEG0IaU7PognTQ" x="1221.65" y="6473.63" text="guard_gambler: Oh! I&apos;m\Nsorry, buck--you lose!">
+<note>
+[lockableThread:loseHigh=true]
+</note>
+</topic>
+<topic id="95" parent="93" guid="8L-aJp-9ZESB5LFCAMN1Iw" x="896.01" y="6473.63" text="guard_gambler: That&apos;s\Nhigh--we have a winner!">
+<children>
+<image guid="4B8gh5BKAkWj6IENuIxsmw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-50.39" y="71.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="4B8gh5BKAkWj6IENuIxsmw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-50.39" y="71.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[lockableThread:winHigh=true]
+</note>
+</topic>
+<topic id="96" parent="91" guid="nFbi5Bgs9Ea-FkSrg5LZMg" x="854.58" y="6010.29" text="guard_gambler:\N... for a total of ten!">
+<children>
+<image guid="0Z7WEY4SDk2eejHvE1CsGQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-94.14" y="-59.28" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="0Z7WEY4SDk2eejHvE1CsGQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-94.14" y="-59.28" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.sumOfTwoDice=10][updateCounter:sumOfTwoDice-10]
+</note>
+</topic>
+<topic id="97" parent="91" guid="BVbxBTlBLE6NcreljC_MEw" x="671.69" y="6096.37" text="guard_gambler:\N... for a total of nine!">
+<children>
+<image guid="DU2Nkqt0e06Ro6yNAUqUcw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-2.89" y="66.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="DU2Nkqt0e06Ro6yNAUqUcw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-2.89" y="66.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.sumOfTwoDice=9][updateCounter:sumOfTwoDice-9]
+</note>
+</topic>
+<topic id="98" parent="91" guid="TG_xBRI_T0GRP5xceLAe5g" x="551.37" y="6010.29" text="guard_gambler:\N... for a total of eight!">
+<children>
+<image guid="juYY-ezRHkOEG5wcvkGsZw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-104.14" y="-50.53" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="juYY-ezRHkOEG5wcvkGsZw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-104.14" y="-50.53" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.sumOfTwoDice=8][updateCounter:sumOfTwoDice-8]
+</note>
+</topic>
+<topic id="99" parent="91" guid="c449UhFHMU-q_vinW502QQ" x="398.90" y="6096.37" text="guard_gambler:\N... for a total of seven!">
+<children>
+<image guid="TnjS2kOV7EetxIfjhD-wNw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-10.39" y="68.22" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="TnjS2kOV7EetxIfjhD-wNw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-10.39" y="68.22" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.sumOfTwoDice=7][updateCounter:sumOfTwoDice-7]
+</note>
+</topic>
+<topic id="100" parent="99" guid="goppM1vHcE-JNkC8GvOlnA" x="590.12" y="6473.63" text="guard_gambler: Oh! I&apos;m\Nsorry, buck--you lose!">
+<note>
+[lockableThread:loseSeven=true]
+</note>
+</topic>
+<topic id="101" parent="99" guid="0CGVCvlGUE2Q6b9LaSQg4A" x="313.58" y="6473.63" text="guard_gambler: Seven--we\Nhave a big winner!">
+<children>
+<image guid="hBu9kszKxEq_GJxYoqbmuA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-50.39" y="73.22" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="hBu9kszKxEq_GJxYoqbmuA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-50.39" y="73.22" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[lockableThread:winSeven=true][executeAction:receiveMoney=25]
+</note>
+</topic>
+<topic id="102" parent="101" guid="PQgC-tjHokigwyOvWK75KQ" x="807.26" y="6996.04" text="guard_gambler: Twelve\Nflorins to you, friend!">
+<children>
+<image guid="NbKy1jsTZEOGqk1OHzBq_A" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-73.03" y="69.19" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="NbKy1jsTZEOGqk1OHzBq_A" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-73.03" y="69.19" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[lockableThread:winTwelve=true][executeAction:receiveMoney=12][showMoney]
+</note>
+</topic>
+<topic id="103" parent="101" guid="d9lIKoAElUOa-wq3jWB_MA" x="1059.47" y="6996.04" text="guard_gambler: Sixteen\Nflorins to you, friend!">
+<children>
+<image guid="ZlFkJVVhUESlax0ux2cgwg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-84.14" y="71.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="ZlFkJVVhUESlax0ux2cgwg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-84.14" y="71.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[lockableThread:winSixteen=true][executeAction:receiveMoney=16][showMoney]
+</note>
+</topic>
+<topic id="104" parent="101" guid="SrpA9xIZd0m_tDZEoOzkIA" x="1316.24" y="6996.04" text="guard_gambler: Twenty\Nflorins to you, friend!">
+<children>
+<image guid="5NWkIEpOBUWzLRzpikmymw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-80.81" y="71.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="5NWkIEpOBUWzLRzpikmymw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-80.81" y="71.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[lockableThread:winTwenty=true][executeAction:receiveMoney=20][showMoney]
+</note>
+</topic>
+<topic id="105" parent="91" guid="PHkylVN_IUu0ki4XccoCJg" x="233.21" y="6010.29" text="guard_gambler:\N... for a total of six!">
+<children>
+<image guid="ZYmFwcV_9kGtFr93D1ZArA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-80.39" y="-74.28" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="ZYmFwcV_9kGtFr93D1ZArA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-80.39" y="-74.28" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.sumOfTwoDice=6][updateCounter:sumOfTwoDice-6]
+</note>
+</topic>
+<topic id="106" parent="91" guid="0WbjhhQ6e06_g6jd2mTTEg" x="77.23" y="6096.37" text="guard_gambler:\N... for a total of five!">
+<children>
+<image guid="PrtITCDP4k-8IUb0NiQVpg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="125.86" y="61.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="PrtITCDP4k-8IUb0NiQVpg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="125.86" y="61.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.sumOfTwoDice=5][updateCounter:sumOfTwoDice-5]
+</note>
+</topic>
+<topic id="107" parent="91" guid="fTT4qt0TDk66aH5EYs0byA" x="-61.10" y="6010.29" text="guard_gambler:\N... for a total of four!">
+<children>
+<image guid="8pWSrP92NU-vt9_jmx55mA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-114.14" y="-35.53" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="8pWSrP92NU-vt9_jmx55mA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-114.14" y="-35.53" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.sumOfTwoDice=4][updateCounter:sumOfTwoDice-4]
+</note>
+</topic>
+<topic id="108" parent="91" guid="Rhq4S7MvX0i60nzbqIGMxg" x="-234.44" y="6096.37" text="guard_gambler: ... for\Na total of three!">
+<children>
+<image guid="9wGrwoQoukaTZ1VHHDu6XA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-147.89" y="36.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="9wGrwoQoukaTZ1VHHDu6XA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-147.89" y="36.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.sumOfTwoDice=3][updateCounter:sumOfTwoDice-3]
+</note>
+</topic>
+<topic id="109" parent="91" guid="N395ze4KA0m0JlOT3D6RlQ" x="-372.77" y="6010.29" text="guard_gambler:\N... for a total of two!">
+<children>
+<image guid="xqxHaopueUugeTEkXNdizw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-109.14" y="-34.28" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="xqxHaopueUugeTEkXNdizw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-109.14" y="-34.28" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.sumOfTwoDice=2][updateCounter:sumOfTwoDice-2]
+</note>
+</topic>
+<topic id="110" parent="109" guid="an0aCPma8Ui2aVmZwdsdWA" x="-187.16" y="6473.63" text="guard_gambler: Oh! I&apos;m\Nsorry, buck--you lose!">
+<note>
+[lockableThread:loseLow=true]
+</note>
+</topic>
+<topic id="111" parent="110" guid="eKeT6TlGtk-2sUaDNmnZhQ" x="561.10" y="7450.92" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="112" parent="111" guid="zm1PfDi1q0W6t1BFhuHMXg" x="296.10" y="7776.44" text="guard_gambler:\NLet&apos;s play again...">
+<children>
+<image guid="19w8bven2U2OpVkHsl0JUw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-72.14" y="69.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="19w8bven2U2OpVkHsl0JUw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-72.14" y="69.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][lockThread:winHigh;loseHigh;winLow;loseLow;winSeven;loseSeven;winFour;winSix;winEight;winTen;winTwelve;winSixteen;winTwenty][showMoney]
+</note>
+</topic>
+<topic id="113" parent="112" guid="6tJoiJAe-EWk4s7p4drRew" x="561.10" y="8018.44" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="114" parent="111" guid="83vPHA-8aUO_-vbMo9pXMQ" x="561.10" y="7717.44" text="guard_gambler:\NAnother round...">
+<children>
+<image guid="rNJDDijfLECJwrbM7svdwg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-66.14" y="66.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="rNJDDijfLECJwrbM7svdwg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-66.14" y="66.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1][lockThread:winHigh;loseHigh;winLow;loseLow;winSeven;loseSeven;winFour;winSix;winEight;winTen;winTwelve;winSixteen;winTwenty][showMoney]
+</note>
+</topic>
+<topic id="115" parent="111" guid="o7Xxxl_nS02Q8DAqvmAEJA" x="823.60" y="7776.44" text="guard_gambler:\NOne more game...">
+<children>
+<image guid="Kp2zMD62ZkSpycKXm7KowQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-79.14" y="71.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="Kp2zMD62ZkSpycKXm7KowQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-79.14" y="71.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2][lockThread:winHigh;loseHigh;winLow;loseLow;winSeven;loseSeven;winFour;winSix;winEight;winTen;winTwelve;winSixteen;winTwenty][showMoney]
+</note>
+</topic>
+<topic id="116" parent="111" guid="RsiNeo5jy0mzsK520PnawA" x="1146.35" y="7776.44" text="guard_gambler: That&apos;s it... you&apos;ve\Ncleaned me out for the day.">
+<note>
+[priorityOverride][reveal:hasMoney=30;quest_retrieveStolenBand=inactive|quest_retrieveStolenBand=complete]
+</note>
+</topic>
+<topic id="117" parent="116" guid="8BJtv0oWq0y_e7Tfk-nzpA" x="1146.35" y="7918.67" text="guard_gambler:\NAnother time, buck."/>
+<topic id="118" parent="109" guid="RWtZMQuN-EaPR-fRyDveNw" x="68.07" y="6473.63" text="guard_gambler: That&apos;s\Nlow--we have a winner!">
+<children>
+<image guid="5LgTyljvF06dLgY9ogm4tA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-54.14" y="70.72" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="5LgTyljvF06dLgY9ogm4tA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-54.14" y="70.72" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[lockableThread:winLow=true]
+</note>
+</topic>
+<topic id="119" parent="118" guid="QCBoN4x2lUOPraG6EfXu8g" x="-212.65" y="6996.04" text="guard_gambler: Four\Nflorins to you, friend!">
+<children>
+<image guid="7tpsZIlehEmYPsHuRxEueg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-101.92" y="65.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="7tpsZIlehEmYPsHuRxEueg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-101.92" y="65.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[lockableThread:winFour=true][executeAction:receiveMoney=4][showMoney]
+</note>
+</topic>
+<topic id="120" parent="118" guid="dYZPU1RnJky52aDY9Er3yA" x="88.96" y="6996.04" text="guard_gambler: Six\Nflorins to you, friend!">
+<children>
+<image guid="kqp8r1vSCUCYpN-HCcma7g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-75.25" y="72.53" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="kqp8r1vSCUCYpN-HCcma7g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-75.25" y="72.53" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[lockableThread:winSix=true][executeAction:receiveMoney=6][showMoney]
+</note>
+</topic>
+<topic id="121" parent="118" guid="dnslVsxHJk6FicQFk-usOA" x="336.08" y="6996.04" text="guard_gambler: Eight\Nflorins to you, friend!">
+<children>
+<image guid="f_vReQGGtk-jG3fFey8ugA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-78.58" y="72.53" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="f_vReQGGtk-jG3fFey8ugA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-78.58" y="72.53" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[lockableThread:winEight=true][executeAction:receiveMoney=8][showMoney]
+</note>
+</topic>
+<topic id="122" parent="118" guid="cwG3mC8bT0eMvKH1DWWGfw" x="571.10" y="6996.04" text="guard_gambler: Ten\Nflorins to you, friend!">
+<children>
+<image guid="3GoNZCt6Y0yjnq1lIsAK2Q" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-73.03" y="76.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="3GoNZCt6Y0yjnq1lIsAK2Q" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-73.03" y="76.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[lockableThread:winTen=true][executeAction:receiveMoney=10][showMoney]
+</note>
+</topic>
+<topic id="123" parent="89" guid="91rXKn1hQ0OEkxRFBAWKyw" x="-164.47" y="5379.87" text="you roll a one">
+<note>
+[narration][reveal:dice=1][updateCounter:sumOfTwoDice+1][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="124" parent="89" guid="rEQF8YlgkE2eLMmT3pfA5Q" x="623.38" y="5379.87" text="you roll a five.">
+<note>
+[narration][reveal:dice=5][updateCounter:sumOfTwoDice+5][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="125" parent="89" guid="maKOR0fWgE2Ry_i1wb70wQ" x="817.98" y="5379.87" text="you roll a six.">
+<note>
+[narration][reveal:dice=6][updateCounter:sumOfTwoDice+6][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="126" parent="89" guid="t9Q8ID1-NEirktYBIGOb6A" x="20.09" y="5379.87" text="you roll a two">
+<note>
+[narration][reveal:dice=2][updateCounter:sumOfTwoDice+2][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="127" parent="89" guid="3Xtya7R7FEKbhEy0eFtO6Q" x="222.46" y="5379.87" text="you roll a three">
+<note>
+[narration][reveal:dice=3][updateCounter:sumOfTwoDice+3][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="128" parent="87" guid="edbWLg_hZUSUoJf_tKuSlQ" x="424.69" y="4903.53" text="you roll a four">
+<note>
+[narration][reveal:dice=4][updateCounter:sumOfTwoDice+4][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="129" parent="87" guid="IqpIUS6tIEe_qpxO82Rbpg" x="222.46" y="4903.53" text="you roll a three">
+<note>
+[narration][reveal:dice=3][updateCounter:sumOfTwoDice+3][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="130" parent="87" guid="CYPV9lx8VUu3LbGXgeW21A" x="817.98" y="4903.53" text="you roll a six.">
+<note>
+[narration][reveal:dice=6][updateCounter:sumOfTwoDice+6][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="131" parent="87" guid="OW-4zhV6EUmFrihbePakIw" x="623.38" y="4903.53" text="you roll a five.">
+<note>
+[narration][reveal:dice=5][updateCounter:sumOfTwoDice+5][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="132" parent="87" guid="vqG1TIFnuEKUC8Yms8TSdw" x="20.09" y="4903.53" text="you roll a two">
+<note>
+[narration][reveal:dice=2][updateCounter:sumOfTwoDice+2][executeAction:playSound=diceRoll]
+</note>
+</topic>
+<topic id="133" parent="85" guid="OmqBYU-Iw0eaiZ4eK4t22A" x="136.39" y="4530.39" text="tilo: Wait--I&apos;ve\Nchanged my mind...">
+<note>
+[lockThread:winHigh;loseHigh;winLow;loseLow;winSeven;loseSeven]
+</note>
+</topic>
+<topic id="134" parent="133" guid="r6rv7iPO10WdHD-Dm3uYpw" x="136.39" y="4613.46" text="guard_gambler:\NWell?">
+<children>
+<image guid="VFqxga87xUyP7HlfdW2h9g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-95.25" y="48.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="VFqxga87xUyP7HlfdW2h9g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-95.25" y="48.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="135" parent="83" x="512.12" y="4297.06" text="tilo: ... Low?">
+<note>
+[unlockThread:loseHigh;winLow;loseSeven]
+</note>
+</topic>
+<topic id="136" parent="83" x="877.67" y="4297.06" text="tilo: ... Seven?">
+<note>
+[unlockThread:loseLow;loseHigh;winSeven]
+</note>
+</topic>
+<topic id="137" parent="83" x="-242.77" y="4297.06" text="tilo: High? Low? What\Ndoes that mean?"/>
+<topic id="138" parent="137" guid="iZZvWkLDz0O_k0WSmxqyxA" x="-242.77" y="4407.05" text="guard_gambler: We call &apos;high&apos; If the\Nsum of the two dice throws is eight,\Nnine, ten, eleven or twelve...">
+<children>
+<image guid="XamSTig3o02GqaUmih3yGA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-217.47" y="-26.36" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="XamSTig3o02GqaUmih3yGA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-217.47" y="-26.36" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="139" parent="138" guid="4hE1y7ChTkiG2qamu0Djyw" x="-242.77" y="4530.39" text="guard_gambler: ...&apos;low&apos; if the sum is two,\Nthree, four, five or six, and &apos;seven&apos; if\Nthe sum is seven. Understand?">
+<children>
+<image guid="1U1lEa2uk0Wu5mTQ1PMldA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-248.58" y="-19.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="1U1lEa2uk0Wu5mTQ1PMldA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-248.58" y="-19.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="140" parent="81" guid="UYAtdtBFMUGLNVNjdflqtQ" x="198.82" y="3727.41" text="guard_gambler: What\Ndo you say? &apos;High&apos;,\N&apos;low&apos;, or &apos;seven&apos;?">
+<children>
+<image guid="a4xI9g7UHk-SO16jP3o-mA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-145.25" y="-24.14" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="a4xI9g7UHk-SO16jP3o-mA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-145.25" y="-24.14" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="141" parent="81" guid="39Q7Yuv34UGYy3XLz_5jnw" x="474.27" y="3727.41" text="guard_gambler: Call it,\Nfriend--&apos;High&apos;, &apos;low&apos;, or\N&apos;seven&apos;.">
+<children>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="175.86" y="6.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="175.86" y="6.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="142" parent="81" guid="2uQxwmTA7EC6vACvI5-xsQ" x="721.96" y="3827.41" text="guard_gambler: &apos;High&apos;, &apos;low&apos;, or\N&apos;seven&apos;--what will it be this time?">
+<children>
+<image guid="iAPei31MjkOZ2dsARHiPjA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="211.42" y="3.64" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="iAPei31MjkOZ2dsARHiPjA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="211.42" y="3.64" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="143" parent="28" guid="5s7c7SJksU2UwgcKtnR51g" x="-59.02" y="3502.69" text="tilo: I&apos;m afraid this\Ngame&apos;s too rich for me.">
+<parent-relation guid="02PEXdzPVEq7uKAa06XL6A"/>
+</topic>
+<topic id="144" parent="143" guid="EkHSsoZyT0GfueIyIJ400g" x="-59.02" y="3596.97" text="guard_gambler: Then step aside,\Nand let a real buck play."/>
+<topic id="145" parent="10" guid="1MZPIFyHDkifMtyr2VglBQ" x="947.70" y="3018.45" text="tilo: How about a\Nround of &apos;High-Low Seven&apos;?">
+<parent-relation guid="xPE4LjHVFEC5douXruZgMw"/>
+<note>
+[lockableThread:secondRound=true]
+</note>
+</topic>
+<topic id="146" parent="145" guid="6CM29ZYc7kmbkBvxeDwzmg" x="947.70" y="3161.40" text="guard_gambler: Alright, &apos;High-Low Seven&apos; it is.">
+<children>
+<image guid="HDSiiWtzM06nHJbDRRxHBQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="288.08" y="1.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="HDSiiWtzM06nHJbDRRxHBQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="288.08" y="1.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="147" parent="10" guid="srXdMTpWDEieokBk8yL8qA" x="1914.29" y="2674.49" text="tilo: I&apos;m taking orders for the\Nkitchen. What can I bring you?">
+<parent-relation guid="Sty7WG0ASkuUpceOPFd6zQ"/>
+<note>
+[reveal:quest_hangoverTonic.getThirdOrder=active]
+</note>
+</topic>
+<topic id="148" parent="147" guid="pLGaye_6U0u5DTm2_8hIjQ" x="1914.29" y="2823.29" text="guard_gambler: You are? Let&apos;s see...\NI&apos;ll have a fillet of Vaelian trout.">
+<children>
+<image guid="o0pBvn0nZ0yU9ymmjec3tA" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-207.50" y="-3.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="o0pBvn0nZ0yU9ymmjec3tA" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-207.50" y="-3.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_hangoverTonic.getThirdOrder]
+</note>
+</topic>
+<topic id="149" parent="148" guid="l2ntH423_ky8vdFi8q_M_w" x="1914.29" y="2928.29" text="guard_gambler: Cheers!">
+<children>
+<image guid="6riSv5xyhE6_NwLl-LCSvA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="175.86" y="6.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="6riSv5xyhE6_NwLl-LCSvA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="175.86" y="6.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="150" parent="10" guid="aJg9q21RI0SJho3KOFsBfQ" x="2107.56" y="2106.10" text="tilo: Help me, please! The Green\NFlame has returned!">
+<note>
+[reveal:quest_stopTheGreenFlame=active][lockableThread:greenFlamePlea][lockThread:greenFlamePlea]
+</note>
+</topic>
+<topic id="151" parent="150" guid="Tiv-lScpKU-V-9JR5NtI8g" x="2107.56" y="2259.32" text="guard_gambler: Don&apos;t be a fool, Scow!">
+<children>
+<image guid="y71_spEANkOjFw-flud7sg" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="254.44" y="-7.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="y71_spEANkOjFw-flud7sg" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="254.44" y="-7.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="152" parent="1" guid="lAAJopnGr0aCC5iHhw0KFw" x="-177.18" y="1547.92" text="tilo: I was just wondering\Nwhat game you&apos;re playing."/>
+<topic id="153" parent="152" guid="KnbqLUTW10yp2bMSAD21sQ" x="-177.18" y="1712.92" text="guard_gambler: Oh? Then\Nperhaps I can give you a\Ndemonstration...">
+<children>
+<image guid="l53UUNJyOUWijzrfTe0FKw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-145.00" y="-49.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="l53UUNJyOUWijzrfTe0FKw" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-145.00" y="-49.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="154" parent="0" guid="2SmZsZnYE0uG7tOlxby0tQ" x="1029.93" y="1150.54" palette="3" colorinfo="3" text="guard_gambler: How\Ngoes it, buck?">
+<children>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="155" parent="0" guid="zqNK4bJY-06q7q_3p1in5w" x="1299.75" y="1150.54" palette="4" colorinfo="4" text="guard_gambler: Here he is.\NReady to go again?">
+<children>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=4][lockableThread:lostAsRanger=true]
+</note>
+</topic>
+<topic id="156" parent="0" guid="S_VlZCwh20KQhD0CX53waA" x="1647.58" y="1150.54" palette="5" colorinfo="5" text="guard_gambler: ... You didn&apos;t lose\Nenough last time?">
+<children>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=5][lockableThread:lostAsGuard=true]
+</note>
+</topic>
+<topic id="157" parent="0" guid="0h8_8GlCSEiZKe1JvmP7nw" x="820.82" y="1150.54" palette="6" colorinfo="6" text="guard_gambler:\NAfternoon, friend.">
+<children>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2][reveal:timeOfDay=afternoon]
+</note>
+</topic>
+<topic id="158" parent="0" guid="iL9tv3nYOEWyv_a-x_T0KA" x="1984.76" y="1100.44" palette="7" colorinfo="7" text="guard_gambler: What can I do\Nfor you, friend?">
+<children>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=6]
+</note>
+</topic>
+<topic id="159" parent="0" guid="kJMimpKoJUqi-PhAbEyq9w" x="632.72" y="1150.54" palette="8" colorinfo="8" text="guard_gambler:\NEvening, friend.">
+<children>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1][reveal:timeOfDay=evening]
+</note>
+</topic>
+<topic id="160" parent="0" guid="8QWPZuFpnUWE5nmCwIp2Pg" x="3405.29" y="743.47" palette="3" colorinfo="3" text="guard_gambler:\NWhat&apos;s this?">
+<children>
+<image guid="kUY49LjnV02XLLZLiQt4dw" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="1.85" y="-80.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="kUY49LjnV02XLLZLiQt4dw" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="1.85" y="-80.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][lockableThread:wrongFood=true][lockThread:wrongFood]
+</note>
+</topic>
+<topic id="161" parent="160" guid="vrzlO11EZkOLAitJx4NjYg" x="3154.25" y="968.02" text="guard_gambler: I ordered\Nthe trout, you fool!">
+<children>
+<image guid="ctGNury2Rk2veXphgJJ0xw" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="5.56" y="-75.18" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="ctGNury2Rk2veXphgJJ0xw" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="5.56" y="-75.18" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="162" parent="160" guid="EJC8OXL_nEWu9sBaYSBEfg" x="3405.29" y="926.20" text="guard_gambler: This\Nisn&apos;t what I ordered!">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="163" parent="160" guid="6AThoU3us022pB7DZkVj2A" x="3634.25" y="968.02" text="guard_gambler:\NWhere&apos;s my Vaelian\Ntrout?">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="164" parent="0" guid="a_7hDU7iK0yXc1gQuD4vPQ" x="3442.16" y="1260.82" palette="4" colorinfo="4" text="guard_gambler: There it is!">
+<children>
+<image guid="7p1cizlSTU-hV4LuHBFf-g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="14.29" y="-73.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="7p1cizlSTU-hV4LuHBFf-g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="14.29" y="-73.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][lockableThread:correctFood=true][lockThread:correctFood]
+</note>
+</topic>
+<topic id="165" parent="164" guid="dQG8ExDE3UmU3ja4t9amcA" x="3442.16" y="1366.69" text="guard_gambler: ..."/>
+<topic id="166" parent="165" guid="5sCQxxtqVE62COv9rYfrbA" x="3442.16" y="1472.57" text="guard_gambler: This fish\Nis dry and overcooked...">
+<parent-relation guid="ay28mWrJoEu56cXf3pZ_lg"/>
+<note>
+[completeTask:quest_hangoverTonic.deliverThirdOrder]
+</note>
+</topic>
+<topic id="167" parent="166" guid="-Dqte7TesU-tYhyFnX0r6g" x="3442.16" y="1603.28" text="guard_gambler:\N... just how I like it!">
+<children>
+<image guid="3R2qLuiVXUuY43-sw5LfXg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="157.14" y="-12.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="3R2qLuiVXUuY43-sw5LfXg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="157.14" y="-12.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="168" parent="0" guid="NE7ojXb8Q0uazhy2Ear3Yw" x="2608.00" y="767.55" palette="2" colorinfo="2" text="guard_gambler:\NWhat happened to my food?">
+<parent-relation guid="Vt5WScu23kSJRKP2MFvOPg"/>
+<note>
+[priorityOverride][reveal:quest_hangoverTonic.getThirdOrder=complete;quest_hangoverTonic.deliverThirdOrder=inactive|quest_hangoverTonic.deliverThirdOrder=active]
+</note>
+</topic>
+<topic id="169" parent="168" guid="axdbiTEPrUqLTWye2qBnZA" x="2357.62" y="930.08" text="guard_gambler: I&apos;ve been\Nwaiting a good while now.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="170" parent="168" guid="bYLXA_JArEKJ79aGW3i9Kw" x="2608.00" y="980.85" text="guard_gambler:\NI&apos;m all but starved!">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="171" parent="168" guid="ixlybRsnFkChK-Bv6t_Utg" x="2824.77" y="930.08" text="guard_gambler: This\Nis getting ridiculous!">
+<children>
+<image guid="V-aP7YUHbEqNoT2Z3W4kCg" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="41.11" y="-78.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="V-aP7YUHbEqNoT2Z3W4kCg" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="41.11" y="-78.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="172" parent="0" guid="qZAafYGvFke8Pn9HCMXLKw" x="1571.70" y="623.92" palette="2" colorinfo="2" text="guard_gambler: You must have a fair sum\Nput away to afford that armour, Scow.">
+<children>
+<image guid="B2NNrPEL50mMn9ATLDgIZQ" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="-243.86" y="-17.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="B2NNrPEL50mMn9ATLDgIZQ" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="-243.86" y="-17.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:costume_duinlan=true][lockableThread:goldenArmour][lockThread:goldenArmour]
+</note>
+</topic>
+<topic id="173" parent="172" guid="kRjs6OumdkK1CAtAqxUHvg" x="1571.70" y="728.87" text="guard_gambler: Care to\Nwager a few [florins]?">
+<children>
+<image guid="cigEBi0ZT0OMh4fyLNIX4w" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="171.82" y="-7.57" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="cigEBi0ZT0OMh4fyLNIX4w" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="171.82" y="-7.57" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[footnote:florin]
+</note>
+</topic>
+<topic id="174" parent="0" guid="g-Wm_nVfA0mxpHGGRG5piw" x="2111.12" y="302.33" palette="2" colorinfo="2" text="guard_gambler: They say\Nyou&apos;ve been promoted, Scow.">
+<note>
+[priorityOverride][lockableThread:firstIntroPromotion][lockThread:firstIntroPromotion][reveal:counter.dialog_commander.promotionToSergeant=1;costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="175" parent="174" guid="ACvYyokhfEWm8YbpR9cGoQ" x="2111.12" y="440.00" text="guard_gambler: Heh!\Nbetter you than me!">
+<parent-relation guid="Lsyz1xmfHEu9F0hGwBP6IA"/>
+<children>
+<image guid="4O5O78rJfU-F2B--fJqqDg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="203.82" y="1.43" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="4O5O78rJfU-F2B--fJqqDg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="203.82" y="1.43" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="176" parent="-1" guid="NI96h8BYUk6-Unnfa9q1jQ" x="474.06" y="363.79" palette="1" colorinfo="1" text="guard"/>
+<topic id="177" parent="176" x="140.57" y="667.54" palette="2" colorinfo="2" text="angry">
+<children>
+<image name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="178" parent="176" x="288.31" y="667.54" palette="3" colorinfo="3" text="smiling">
+<children>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="179" parent="176" x="419.06" y="667.54" palette="4" colorinfo="4" text="default">
+<children>
+<image name="fb95c613bd7268546244ccb0c5603e9de3bd158f" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_default.png"/>
+</image>
+</children>
+<images>
+<image name="fb95c613bd7268546244ccb0c5603e9de3bd158f" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="180" parent="176" x="560.81" y="667.54" palette="5" colorinfo="5" text="surprised">
+<children>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="181" parent="176" x="728.56" y="667.54" palette="6" colorinfo="6" text="thinking">
+<children>
+<image name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+</topic>
+<topic id="182" parent="176" x="879.27" y="667.54" palette="7" colorinfo="7" text="stunned">
+<children>
+<image name="c885518916022fec2a2efcf4a6f720f1ed630df8" x="2.50" y="-90.87" scale="1.11" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_stunned.png"/>
+</image>
+</children>
+<images>
+<image name="c885518916022fec2a2efcf4a6f720f1ed630df8" x="2.50" y="-90.87" scale="1.11" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_stunned.png"/>
+</image>
+</images>
+</topic>
+</topics>
+<relations>
+<relation source="139" target="83"/>
+<relation source="134" target="83"/>
+<relation source="135" target="85"/>
+<relation source="136" target="85"/>
+<relation source="100" target="111"/>
+<relation source="94" target="111"/>
+<relation source="76" target="144"/>
+<relation source="128" target="89"/>
+<relation source="129" target="89"/>
+<relation source="130" target="89"/>
+<relation source="131" target="89"/>
+<relation source="132" target="89"/>
+<relation source="123" target="91"/>
+<relation source="127" target="91"/>
+<relation source="124" target="91"/>
+<relation source="126" target="91"/>
+<relation source="125" target="91"/>
+<relation guid="zSMniD2wzUiqLqZgG8gzsg" source="113" target="28"/>
+<relation source="108" target="118"/>
+<relation source="108" target="110"/>
+<relation source="107" target="118"/>
+<relation source="107" target="110"/>
+<relation source="106" target="118"/>
+<relation source="106" target="110"/>
+<relation source="105" target="118"/>
+<relation source="105" target="110"/>
+<relation source="98" target="95"/>
+<relation source="98" target="94"/>
+<relation source="97" target="95"/>
+<relation source="97" target="94"/>
+<relation source="96" target="95"/>
+<relation source="96" target="94"/>
+<relation source="92" target="95"/>
+<relation source="92" target="94"/>
+<relation source="33" target="28"/>
+<relation source="77" target="81"/>
+<relation source="78" target="81"/>
+<relation source="102" target="111"/>
+<relation source="103" target="111"/>
+<relation source="104" target="111"/>
+<relation source="101" target="121"/>
+<relation source="95" target="119"/>
+<relation source="95" target="120"/>
+<relation source="95" target="121"/>
+<relation source="95" target="122"/>
+<relation source="122" target="111"/>
+<relation source="121" target="111"/>
+<relation source="120" target="111"/>
+<relation source="119" target="111"/>
+<relation source="79" target="81"/>
+<relation guid="bAYOcqGNc0SFao8gVvkbWQ" source="142" target="82"/>
+<relation source="140" target="83"/>
+<relation source="141" target="83"/>
+<relation source="142" target="83"/>
+<relation source="3" target="8"/>
+<relation guid="2_eKvMIleE2ICyfCfmImrg" source="69" target="43"/>
+<relation source="64" target="43"/>
+<relation source="65" target="45"/>
+<relation source="66" target="45"/>
+<relation source="61" target="51"/>
+<relation source="62" target="51"/>
+<relation source="55" target="58"/>
+<relation source="53" target="58"/>
+<relation guid="uwsBzO0s-kGshU0WHWtDYQ" source="146" target="26"/>
+<relation guid="lFX9melJY0OztUERPss1rA" source="144" target="10"/>
+<relation source="75" target="38"/>
+<relation source="6" target="10"/>
+<relation source="7" target="6"/>
+<relation guid="_Pr3JuWWh0StxV_F3Z8BlQ" source="157" target="10"/>
+<relation guid="xzMslHpz_0aHRTbplYUIgw" source="155" target="10"/>
+<relation guid="DzHSu8DGx0WbTf1WKOgpIw" source="156" target="10"/>
+<relation guid="j18k7LOaZ0qJS0OlTpyeOA" source="158" target="10"/>
+<relation source="158" target="1"/>
+<relation guid="m_Zodkv1ZUS8NJqP_NikJg" source="159" target="10"/>
+<relation guid="r8M9ViUdAUqwvIV8k9FA1A" source="59" target="10"/>
+<relation guid="viy2zmXrf0WmiTNv2FcH2A" source="14" target="17"/>
+<relation guid="RANAx_AnrU-uX_GnQX0Kcw" source="17" target="11"/>
+<relation source="115" target="112"/>
+<relation source="114" target="113"/>
+<relation source="115" target="113"/>
+<relation source="71" target="42"/>
+<relation source="163" target="161"/>
+<relation source="171" target="169"/>
+<relation source="169" target="10"/>
+<relation source="154" target="10"/>
+<relation source="170" target="10"/>
+<relation source="171" target="10"/>
+<relation source="153" target="10"/>
+<relation guid="yGEIAjt4ZkCxCVik4-NNqA" source="60" target="10"/>
+<relation source="21" target="10"/>
+<relation guid="C06ohcv4wUm0MkNv_1COAg" source="117" target="10"/>
+<relation source="173" target="10"/>
+<relation guid="rqIym6L_ikOr0leo6P53uQ" source="175" target="10"/>
+</relations>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

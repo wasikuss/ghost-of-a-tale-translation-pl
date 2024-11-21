@@ -1,0 +1,4 @@
+
+The drawbridge mechanism is very sensitive - awaiting repair by the blacksmith.
+
+Handle with care!

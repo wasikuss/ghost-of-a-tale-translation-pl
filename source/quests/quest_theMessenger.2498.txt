@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="87BB3E80E55342E9A8592ABC62CC053F"/>
+<title text="quest_theMessenger" customized="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="140" x="1094" y="942"/>
+<selection guid="DFuvqL53h06SAUwvX1xeNA" type="node" id="7"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="8MeeqqdcgUaYfOSvBWKA5w" x="878.24" y="624.98" palette="1" colorinfo="1" text="Silas&apos; Tale">
+<note>
+[mainQuest]version_01-16-18_003-Added renown on final node at tier 3 (temp)version_08-07-17_02-Made quest linearversion_07-17-17_01-First draft
+</note>
+</topic>
+<topic id="1" parent="0" guid="ZoNJMidU_Uqn7x9xF2vDbg" x="1354.86" y="624.98" palette="8" colorinfo="8" text="Silas is sleeping. It&apos;ll be six hours\Nuntil you can tell him your news."/>
+<topic id="2" parent="0" guid="tY_LXVPbIESAtYfszRl0aA" x="878.86" y="738.72" palette="6" colorinfo="6" text="Leave Silas to\Nsleep for six hours.">
+<note>
+[taskName=letSilasSleep]
+</note>
+</topic>
+<topic id="3" parent="2" guid="BsDdC9r7z0KNujBCc2vaZg" x="1354.86" y="737.22" palette="8" colorinfo="8" text="Silas should be awake by now."/>
+<topic id="4" parent="2" guid="RnpLmMrYV0uH7DWE1zKzlg" x="878.86" y="827.88" palette="4" colorinfo="4" text="Return to Silas.">
+<note>
+[taskName=talkToSilasA]
+</note>
+</topic>
+<topic id="5" parent="4" guid="l-vyLfcG4k-1NkYKSfRETQ" x="1354.86" y="827.88" palette="8" colorinfo="8" text="You spoke with a hung-over\NSilas. Something is very wrong..."/>
+<topic id="6" parent="4" guid="LkYWOk5_Z0ev9t4uqaY0Gw" x="878.24" y="922.34" palette="6" colorinfo="6" text="Discover why\NSilas was soused.">
+<note>
+[taskName=askWhySilasSoused]
+</note>
+</topic>
+<topic id="7" parent="6" guid="DFuvqL53h06SAUwvX1xeNA" x="1354.86" y="922.34" palette="8" colorinfo="8" text="Silas gave you a message\Nfrom his father to read."/>
+<topic id="8" parent="6" guid="yhfcX833iE20TunSFFCVyg" x="878.24" y="1024.64" palette="4" colorinfo="4" text="Read message\Nfrom Silas&apos; father.">
+<note>
+[taskName=readRatKingsPrayer]
+</note>
+</topic>
+<topic id="9" parent="8" guid="iSYosaUWlEaKCLSUMGaDrQ" x="878.24" y="1129.69" palette="6" colorinfo="6" text="Talk to Silas.">
+<note>
+[taskName=talkToSilasB]
+</note>
+</topic>
+<topic id="10" parent="9" guid="iCs5_4vD0kO8eIA67ZWbeg" x="878.24" y="1246.95" palette="4" colorinfo="4" text="Seek Silas&apos; counsel\Nabout Merra.">
+<note>
+[taskName=askAboutMerra]
+</note>
+</topic>
+<topic id="11" parent="10" x="1354.13" y="1246.95" palette="8" colorinfo="8" text="You told Silas that Merra set\Nsail aboard the Rathskellan."/>
+<topic id="12" parent="10" guid="Bzmuiv4qhkWyuLCzqSYDIg" x="878.24" y="1353.98" palette="6" colorinfo="6" text="Fetch Silas&apos;\Nmessage logbook.">
+<parent-relation>
+<path>
+<custom-point x="-1.10" y="26.91"/>
+</path>
+</parent-relation>
+<note>
+[taskName=getMessageLog]
+</note>
+</topic>
+<topic id="13" parent="12" x="1354.13" y="1353.98" palette="8" colorinfo="8" text="You fetched Silas&apos; logbook\Nfrom the table in his cot."/>
+<topic id="14" parent="12" guid="vHFweWRdB0aLQUePrCi1Ew" x="878.24" y="1462.24" text="Take logbook to Silas.">
+<note>
+[taskName=giveMessageLogToSilas][grantRenown=3]
+</note>
+</topic>
+<topic id="15" parent="14" guid="teTNgTeFckSAC_3bfnXZrw" x="1354.13" y="1462.24" palette="8" colorinfo="8" text="The log confirms it. Merra&apos;s ship is lost.\NOnly a Magpie could find her now..."/>
+<topic id="16" parent="9" x="1354.13" y="1129.69" palette="8" colorinfo="8" text="You discovered that Silas is the\Nson of Rodrik, the last Rat King!"/>
+<topic id="17" parent="8" guid="6KS4gf5siUSYbJV-JEm9Ng" x="1354.86" y="1024.64" palette="8" colorinfo="8" text="The message from Silas&apos;\Nfather is signed &apos;R&apos;."/>
+</topics>
+<relations/>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

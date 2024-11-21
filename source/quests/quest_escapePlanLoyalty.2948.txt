@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="ED06E809A8784205A7DA6B10FDDC8D58"/>
+<title text="quest_escapePlanLoyalty" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="110" x="641" y="422"/>
+<selection guid="HzNd_9lDq0eZUQciEPs15g" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="HzNd_9lDq0eZUQciEPs15g" x="892.69" y="627.48" palette="2" colorinfo="2" text="A Test of Nerve">
+<note>
+version_03-02-18_004-Added renown points award to questversion_11-23-16_003-Rephrased the task description to remove mention of the guard&apos;s helmetversion_05-24-16_002-Replaced purse with handkerchiefversion_11-07-15_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="tfKBesyKyUGJA_b-1ubspQ" x="892.69" y="804.57" palette="6" colorinfo="6" text="Steal a guard&apos;s handkerchief.">
+<note>
+[taskName=getLoyaltyItem]
+</note>
+</topic>
+<topic id="2" parent="1" guid="L9_-XpFna0aNzH7KW-iV-g" x="892.08" y="998.26" palette="2" colorinfo="2" text="Return to Gusto and Fatale.">
+<note>
+[taskName=talkToGustoFatale][grantRenown=2]
+</note>
+</topic>
+<topic id="3" parent="2" guid="1Z-8Aom3xE-3uMd4vaTV5w" x="1376.40" y="1001.51" palette="8" colorinfo="8" text="You proved to Gusto and\NFatale that you can be trusted."/>
+<topic id="4" parent="1" guid="nC6koKxJrE2PuASIy9arQQ" x="1377.30" y="804.57" palette="8" colorinfo="8" text="You stole a handkerchief from a guard&apos;s belt!"/>
+<topic id="5" parent="0" guid="ldiDj6XEVEuxZCACmNSduA" x="1378.74" y="627.48" palette="8" colorinfo="8" text="Prove to Gusto and Fatale that you can\Nbe trusted by stealing from a guard."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

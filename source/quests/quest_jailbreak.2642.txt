@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.2" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="8DC8EB14892F429C89175E7798D47E88"/>
+<title text="quest_jailbreak" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="110" x="837" y="259"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="qcE1Y_22AU-xqzt-jf9bCw" x="920.06" y="520.44" palette="2" colorinfo="2" text="Jailbreak">
+<note>
+[mainQuest]version_01-16-18_004-Added renown on final node at tier 3 (temp)version_01-04-16_003Transferred all references and commands related to deleted quest &apos;quest_watchtowerRendezvous&apos; over to &apos;quest_jailbreak&apos; version_112615_002
+</note>
+</topic>
+<topic id="1" parent="0" guid="ypC8lhr8-UmlLfR5NCssCw" x="1401.47" y="522.03" palette="8" colorinfo="8" text="Escape from the jail and meet the\Nmysterious &apos;S&apos; atop the watchtower."/>
+<topic id="2" parent="0" guid="bv1C4E0hNkipXXuu6e3AiQ" x="922.51" y="622.65" palette="6" colorinfo="6" text="Escape your cell.">
+<parent-relation guid="e27PwZ0gFUybuajZDL42gQ"/>
+<note>
+[taskName=escapeTilosCell]
+</note>
+</topic>
+<topic id="3" parent="2" guid="R7A5a2Rv3kOwC1sIFNobxA" x="1399.43" y="624.06" palette="8" colorinfo="8" text="You used the key to\Nescape from your cell."/>
+<topic id="4" parent="2" guid="zZfOcEBekU-TUAwvaPgQkQ" x="922.79" y="713.06" palette="6" colorinfo="6" text="Exit the jail.">
+<parent-relation guid="EeEtvxFVnkiOPlTbYAYc2A"/>
+<note>
+[taskName=goToJailExit]
+</note>
+</topic>
+<topic id="5" parent="4" guid="YiEh8rZqE0GUgJ7Z8MaoZQ" x="922.81" y="807.51" palette="4" colorinfo="4" text="Ascend the watchtower.">
+<parent-relation guid="wNJEUbvrl0K04M9BygxXSw"/>
+<note>
+[taskName=findMysteriousStranger][grantRenown=3]
+</note>
+</topic>
+<topic id="6" parent="5" guid="DtxTq8TANkOw4GwK84oDiQ" x="1401.28" y="806.40" palette="8" colorinfo="8" text="At the top of the watchtower you\Nfound the mysterious stranger."/>
+<topic id="7" parent="4" guid="avvHIBBNYUmAWPDrb_Q8dw" x="1401.39" y="711.44" palette="8" colorinfo="8" text="You reached the jail&apos;s exit."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

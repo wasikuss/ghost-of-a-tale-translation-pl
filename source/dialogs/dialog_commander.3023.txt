@@ -1,0 +1,3123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.2" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="4377CF4D62A448D7BD84EF377507DE52"/>
+<title text="dialog_commander"/>
+<images containsImages="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="35" x="-84" y="-332"/>
+<selection guid="IpermzUwgEWgeio5tPRx_w" type="node" id="433"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="dI8_ufvqSEe5uNCwmv5oyA" x="938.73" y="492.58" palette="2" colorinfo="2" text="dialog_commander">
+<note>
+[characters:commander;Tilo]version_04-16-18_008-Added node to address Tilo&apos;s big ears.version_06-03-18_007-Added quiz counter to the Commander&apos;s songverison_03-03-18_006-Added portraits-Added footnotes-Added &apos;giveItem&apos; commandsversion_03-02-18_005-Added action to make Commander&apos;s ear big-Reordered priority threads to make dialogs appear at the appropriate timesversion_01-27-18_004-Reordered the hierarchy to use the three hubsversion_01-15-18-003-Removed reference to Silas&apos; charge sheetversion_01-07-18_002-Added response to the Ranger-Extended Commander&apos;s intro to talk about the ghostversion_08-30-16_001-First Release
+</note>
+</topic>
+<topic id="1" parent="0" guid="lW-7frPtL0W-1aRSgLRRNg" x="25.40" y="893.98" palette="3" colorinfo="3" text="commander: Ah! Scow, isn&apos;t it?">
+<note>
+[variationIndex=0][lockableThread:choseScowName][lockThread:choseScowName][unlockThread:jailerQuestActive;smugglerQuestActive;masterQuestActive;squadNotFound][counter:metCommander=0]
+</note>
+</topic>
+<topic id="2" parent="1" guid="rXiJjQXSJEK0Ijpwc4Tb2Q" x="295.29" y="1173.33" text="tilo: Private Scow, sir, aye."/>
+<topic id="3" parent="2" guid="MrNJ7f396UGTdeWnuamp5w" x="11.99" y="1448.95" text="commander: ... You&apos;re even\Nsmaller than they say.">
+<parent-relation guid="XE_IzBrn0EeJLiRe4oVUMg"/>
+<children>
+<image guid="Tp-doVivskmyOlRG_rcZdg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="134.00" y="-68.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Tp-doVivskmyOlRG_rcZdg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="134.00" y="-68.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[updateCounter:metCommander=1]
+</note>
+</topic>
+<topic id="4" parent="3" guid="XzCbgVZdF06deVtKvnaOug" x="-148.04" y="1619.78" text="tilo: Short in stature,\Nbut not courage, sir.">
+<note>
+[unlockThread:quoteScow][lockThread:notQuoteScow]
+</note>
+</topic>
+<topic id="5" parent="4" guid="tjqoeqAkB0KAj_xGOHG_5A" x="-147.02" y="1738.67" text="commander: ... Indeed."/>
+<topic id="6" parent="5" guid="3j44m4k2pESYHOrlXR7Zbw" x="-147.02" y="1854.64" text="commander: ..."/>
+<topic id="7" parent="6" guid="Fgl5lR-qa0iBTohykCgVDA" x="37.77" y="2019.49" text="commander: Welcome,\Nthen, to Duinlan Heights!">
+<parent-relation guid="qRrEsU29FESTDc5aM0K5nA"/>
+<children>
+<image guid="Gtj_NsMifECSqRZxkpVpVA" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="143.33" y="-62.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="Gtj_NsMifECSqRZxkpVpVA" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="143.33" y="-62.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="8" parent="7" guid="tr9528jetUyue47b6M-0Vw" x="-247.23" y="2216.64" text="tilo: Is it not &apos;Dwindling\NHeights&apos;, sir?"/>
+<topic id="9" parent="8" guid="eidU_FMZokeTknHTjonf8w" x="-247.23" y="2367.22" text="commander: No, no, it&apos;s a\Ncommon misconception--a\Nlocal colloquialism, if you will.">
+<children>
+<image guid="rsVyyxr2Mkyd38sgOvUiZQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="167.78" y="-65.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="rsVyyxr2Mkyd38sgOvUiZQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="167.78" y="-65.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="10" parent="7" guid="T12wLVidRkO59W-eZhhbSw" x="312.77" y="2216.64" text="tilo: Thank you, sir."/>
+<topic id="11" parent="10" guid="UyDhMHfM-U-iqmQ3_uUPAg" x="312.77" y="2367.22" text="commander: You might be interested to learn that\Nthe keep is named for the warrior Duinlan--hero of\Nthe War of the Green Flame and, I&apos;m proud to say...">
+<children>
+<image guid="G1dECCP8cE2A1uexUaRNVg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="265.56" y="-78.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="G1dECCP8cE2A1uexUaRNVg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="265.56" y="-78.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="12" parent="11" guid="ias7ettDmUac5fXK_DiTBA" x="312.77" y="2522.67" text="commander: ... an ancestor of mine.">
+<parent-relation guid="8Dstvwlk-keFUNRg-PZflQ"/>
+</topic>
+<topic id="13" parent="12" guid="1EtjcNa1NkGNGXSqcpgWlQ" x="64.86" y="2714.35" text="tilo: You&apos;re a descendant\Nof the hero Duinlan?">
+<parent-relation guid="MP8AH5aYLkiP4dYQt3GEZg"/>
+</topic>
+<topic id="14" parent="13" guid="8r8yVonJWUiPDBBLvp9nUw" x="64.86" y="2853.18" text="commander: On my father&apos;s\Nside. It&apos;s nothing, really.">
+<children>
+<image guid="86LxVswu5EyNgq__gfna5A" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="158.89" y="-60.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="86LxVswu5EyNgq__gfna5A" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="158.89" y="-60.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="15" parent="14" guid="JzaW4DzX2U-RfPZTsCTjfA" x="550.36" y="2853.18" text="commander: It&apos;s said that\NDuinlan himself is laid to rest in the\Ncatacombs beneath this keep..."/>
+<topic id="16" parent="15" guid="IZy3lXlAJ067UTzD_jD11w" x="550.36" y="3030.01" text="commander: ... and that on a\Nclear, moonlit night his ghost can\Nbe seen still roaming these halls.">
+<parent-relation guid="IjZOmCXzjEONW5I-4eCwlA"/>
+</topic>
+<topic id="17" parent="16" guid="oAvyYZhNfUOB2_z8W55F5A" x="384.36" y="3273.23" text="tilo: The keep\Nis haunted, sir?"/>
+<topic id="18" parent="17" guid="M0lGaCBWCU-GALtbXttPWw" x="384.36" y="3422.86" text="commander: So many have\Nclaimed, through the years.">
+<parent-relation guid="mPfzbWx4M0ijQQzHDe1VFg"/>
+</topic>
+<topic id="19" parent="16" guid="RlrT7GgFMkOMqK2bkxBafg" x="726.58" y="3273.23" text="tilo: A ghost..."/>
+<topic id="20" parent="19" guid="O27CC4dc40WnrhICga6WDw" x="726.58" y="3422.86" text="commander: Strange... in all\Nthis time, he&apos;s never visited me."/>
+<topic id="21" parent="20" guid="N8Mx2PU_0EiVipMcqrjQdg" x="292.45" y="3895.59" text="commander: ... Is that a lute\Nyou&apos;re carrying there?">
+<parent-relation guid="UM-VCmXA6kSxLyr8Pa9oYA"/>
+<children>
+<image guid="NlXssXlKf0WnMu4rTcAJcA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="165.56" y="-61.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="NlXssXlKf0WnMu4rTcAJcA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="165.56" y="-61.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="22" parent="21" guid="r1PzWRTrXUmnDeTNagUd7g" x="9.15" y="4183.50" text="tilo: Aye, sir. Is it\Na problem?"/>
+<topic id="23" parent="22" guid="mkxPxSEfzUy-LHv9v7PDRA" x="9.15" y="4278.92" text="commander:\N... May I see it?"/>
+<topic id="24" parent="23" guid="11KazhQ_uE6bSSJzzeZ0sg" x="147.67" y="4443.37" text="tilo: It... it is quite\Nfragile, sir."/>
+<topic id="25" parent="24" guid="D01VzqAmB0epKNqFweYSDQ" x="147.67" y="4582.28" text="commander: Of\Ncourse, I understand."/>
+<topic id="26" parent="23" guid="ARc8ZqXzh02LL2BKCLiNuA" x="-141.33" y="4443.37" text="tilo: The lute? Of\Ncourse, sir. Here..."/>
+<topic id="27" parent="26" guid="rmKOvFhD6Uq5SkPQBcNXJg" x="-141.33" y="4582.28" text="The Commander inspects the\Nlute, turning it over in his paws.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="28" parent="27" guid="pmXMbPvybkCOKbznA5M0nA" x="-141.33" y="4704.50" text="commander: It is a\Nbeautiful instrument...">
+<parent-relation guid="dRbGZakxnU-4D4Irjicl6Q"/>
+<children>
+<image guid="-N0-OLRnXUilwB2ak8_uHQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="143.00" y="-28.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="-N0-OLRnXUilwB2ak8_uHQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="143.00" y="-28.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="29" parent="28" guid="q3aRXPAsL0WSaGil5YIzRA" x="-141.33" y="4822.56" text="commander: Your top\Nstring&apos;s a little flat.">
+<note>
+[executeAction:playSound=luteStrum]
+</note>
+</topic>
+<topic id="30" parent="21" guid="QUbNYjGcmkmVjqrZ1dziBA" x="611.68" y="4183.50" text="tilo: I didn&apos;t want to leave\Nit in the barracks, sir."/>
+<topic id="31" parent="30" guid="4zeDKpPsUkO02mGULn7qnQ" x="611.68" y="4443.37" text="commander:\NIt&apos;s irregular... but\NI&apos;ll allow it.">
+<parent-relation guid="K7IADHPaMEqKAhOa4UfciQ"/>
+<children>
+<image guid="T6yDZcMDD02CbDFFTLEKIg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="87.78" y="-73.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="T6yDZcMDD02CbDFFTLEKIg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="87.78" y="-73.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="32" parent="31" guid="opK-3UVV8USJ8Bt_TGTCvg" x="282.59" y="4822.56" text="commander: I&apos;m something\Nof a musician myself.">
+<children>
+<image guid="l6WB_Lyph0ixBpZCMFoeaw" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="166.00" y="-56.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="l6WB_Lyph0ixBpZCMFoeaw" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="166.00" y="-56.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="33" parent="32" guid="ESDrIuGJ90ms_YJLAk9rdg" x="462.89" y="4985.48" text="tilo: Is that so, sir?"/>
+<topic id="34" parent="33" guid="kFTvVGUXGUWya3IMM9Wcmg" x="462.89" y="5122.98" text="commander: Aye! We must\Nplay together sometime."/>
+<topic id="35" parent="34" guid="wUc42VHkyk6JUiPz6xHhBA" x="282.59" y="5308.81" text="commander: Now... I have\Nan assignment for you.">
+<parent-relation guid="GXqwsWQ9Okaxcnu4MKDlvw"/>
+</topic>
+<topic id="36" parent="35" guid="l09_JHAMEkuDkyntIUHz2w" x="107.76" y="5447.15" text="tilo: Me, sir?"/>
+<topic id="37" parent="36" guid="PiOqiUP0N0eTsAuNAMnBhw" x="107.76" y="5551.04" text="commander: You, sir. There is something\Nthat haunts this garrison, Scow..."/>
+<topic id="38" parent="37" guid="dJRXFNFNbUGF0x5Ly32LVw" x="107.76" y="5666.70" text="commander: But nay, &apos;tis no ghost,\Nbut the shadow of some sinister\Ncabal that looms heavy over it.">
+<children>
+<image guid="IyjwOpZ0rEumSS3-AdtIvA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="195.83" y="29.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="IyjwOpZ0rEumSS3-AdtIvA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="195.83" y="29.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="39" parent="38" guid="f2nrj9wNd0axRjkAyHkQkg" x="107.76" y="5785.05" text="commander: You&apos;re new here,\Nand the only one I can trust.">
+<parent-relation guid="IbkhhoI41k63P0Q3lvAfUg"/>
+</topic>
+<topic id="40" parent="35" guid="08mPgIX2iUCiglA1Ym6_xQ" x="474.14" y="5681.31" text="tilo: Of course, sir.\NYou need only ask."/>
+<topic id="41" parent="40" guid="Zs_A_evarE-0vPPvwP3DRA" x="259.75" y="5967.39" text="commander: Our jailer, Tyrus Volker,\Nis missing--neither seen nor heard\Nfrom since the last Blood Moon."/>
+<topic id="42" parent="41" guid="nPav9mxHXEKpkdwrRcOTOw" x="259.75" y="6127.94" text="commander: A journal\Nwas found in his chambers.">
+<parent-relation guid="GTAF70dHx06T2tCckwmcSw"/>
+</topic>
+<topic id="43" parent="42" guid="1E_NstDI6UKml_eNpuWCNg" x="259.75" y="6298.22" text="commander: It describes a band\Nof smugglers operating out of\Nthis keep, led by some miscreant\Nknown as &apos;The Master&apos;."/>
+<topic id="44" parent="43" guid="JhuyiRZ99U2PcUZJiuwMeg" x="259.75" y="6456.27" text="commander: If what&apos;s written here is\Ntrue, it would appear that as many as five\Nmembers of this garrison are involved."/>
+<topic id="45" parent="44" guid="A1EDTFI3ukO8GlKFqkbyzg" x="259.75" y="6624.14" text="commander: I want you, Scow, to\Nidentify these five smugglers...">
+<note>
+[startQuest:quest_findSmugglers]
+</note>
+</topic>
+<topic id="46" parent="45" guid="-NwPODeRDk-XxdKLCF-Q7g" x="259.75" y="6776.82" text="commander: ... find out what\Nhas become of the Jailer...">
+<parent-relation guid="JbETdrXHmUO9CT82TtsjCw"/>
+<note>
+[startQuest:quest_findJailer]
+</note>
+</topic>
+<topic id="47" parent="46" guid="kYpQ9GgG-kSkMudl9IYw8w" x="259.75" y="6894.22" text="commander: ... and unmask\Nthis so-called &quot;Master&quot;.">
+<parent-relation guid="LJ3a0sdpykGVC5s69RWqHQ"/>
+<children>
+<image guid="TiKGO33mI0uOBPnhm4WnTA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="189.09" y="12.43" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="TiKGO33mI0uOBPnhm4WnTA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="189.09" y="12.43" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[startQuest:quest_findTheMaster]
+</note>
+</topic>
+<topic id="48" parent="47" guid="cjTH_DBB8ky9G5NHaDqk6w" x="259.75" y="7020.25" text="commander: This is a delicate\Nbusiness, Scow. I expect you to\Nexhibit the utmost discretion."/>
+<topic id="49" parent="48" guid="POTo5FNzJUWGJZshoxTgHA" x="259.75" y="7190.08" text="commander: I suggest you begin your\Ninvestigation at the forge. I&apos;ve a\Nfeeling the smithy knows most\Neverything that goes on around here.">
+<parent-relation guid="maEcSoc_vkmDi3ODDrpm3w"/>
+</topic>
+<topic id="50" parent="49" guid="LBJAdVTF0U2oZrK-49kf6w" x="259.75" y="7365.61" text="DIALOGUE_HUB">
+<parent-relation guid="wAHVmTa2Lkivde4VUam6Jg"/>
+</topic>
+<topic id="51" parent="50" guid="7ZBjQp0GbEaFGeDDefrEQw" x="584.51" y="7365.61" text="tilo: And if I fail?">
+<parent-relation guid="zgkPJP5PPkyQYtf2CJ5Z8Q"/>
+<note>
+[lockableThread:jailerQuestionC][lockThread:jailerQuestionC]
+</note>
+</topic>
+<topic id="52" parent="51" guid="976LJiM2UUaHYLAy1PMyEA" x="584.51" y="7457.42" text="commander: I&apos;ll have you\Nstripped of your armour\Nand thrown in jail.">
+<children>
+<image guid="MgBs8r7ATUaymXjRdBD_jw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="159.09" y="23.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="MgBs8r7ATUaymXjRdBD_jw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="159.09" y="23.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="53" parent="52" guid="-nefg4AUg0-Yskwl6LpFOw" x="584.51" y="7568.96" text="But I have every\Nfaith in you, Scow."/>
+<topic id="54" parent="50" guid="M0ZlXM4r706e4g1Z_F8f_w" x="-62.22" y="7365.61" text="tilo: The Jailer. You think\Nhe&apos;s still in the keep, sir?">
+<parent-relation guid="9EAScdX06E6oJWIsm-BlsA"/>
+<note>
+[lockableThread:jailerQuestionB][lockThread:jailerQuestionB]
+</note>
+</topic>
+<topic id="55" parent="54" guid="NxYoItCjc0uml43yP90Nlg" x="-62.22" y="7568.96" text="commander: That is for\Nyou to find out, Private."/>
+<topic id="56" parent="50" guid="YJY1Z80_2UGfbEnk3Gd55A" x="259.75" y="7457.42" text="tilo: Very good, sir."/>
+<topic id="57" parent="56" guid="Hj-IxUcVoEquq6qTu5yaRA" x="259.75" y="7568.96" text="commander: No, Scow, it&apos;s not\Nvery good! This will not stand!"/>
+<topic id="58" parent="57" guid="3Bf3VBIHBkSzieS2oLTFAA" x="259.75" y="7704.88" text="commander: There&apos;s room for\Nonly one master of this keep!">
+<parent-relation guid="om7-foYCFEKY_6zAXOlO5A"/>
+</topic>
+<topic id="59" parent="58" guid="2-tQSgZILUi3hLOtfFrPRA" x="259.75" y="7814.04" text="commander: ..."/>
+<topic id="60" parent="59" guid="0FtZeK2szUm4lHzLiovkPQ" x="259.75" y="7930.89" text="commander: I&apos;m talking\Nabout myself, you understand.">
+<parent-relation guid="n2LvNvIwxEW7BeXr4LmLOQ"/>
+<children>
+<image guid="vyg5guQH5ESl61xYVZRnkA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="170.00" y="-37.83" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="vyg5guQH5ESl61xYVZRnkA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="170.00" y="-37.83" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="61" parent="60" guid="_IGOqKwcgUqPf_Pig3zh9w" x="94.80" y="8094.53" text="tilo: Oh, it was\Nvery clear, sir."/>
+<topic id="62" parent="61" guid="YBkXl73kmki2JgVanuCAug" x="94.80" y="8208.39" text="commander:\NGood... good."/>
+<topic id="63" parent="62" guid="tPpIYrN6J0yc6CxWWJ-ZDQ" x="259.75" y="8347.26" text="commander: Alright, Scow, you&apos;re dismissed.">
+<parent-relation guid="jqi5LfFkl0C1yM0_n6dJZg"/>
+</topic>
+<topic id="64" parent="60" guid="ka_vgt8srE2d7uCm-Wcotg" x="432.07" y="8094.53" text="tilo: Who&apos;d dare\Nquestion it?"/>
+<topic id="65" parent="64" guid="gRMdQuSwh0-fmISwpDyuXQ" x="432.07" y="8208.39" text="commander: ... Quite."/>
+<topic id="66" parent="50" guid="FrAr4ZMUzkiob_8dpTGdFg" x="-524.00" y="7926.62" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="67" parent="32" guid="kzBTPS5KAkKo9nEbsg5eLw" x="80.10" y="5036.37" text="tilo: I can tell, sir."/>
+<topic id="68" parent="21" guid="G1h9j3GuQkOKKzCxMmMIeA" x="-1407.93" y="5587.04" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="69" parent="12" guid="784ywo5Nbkah5717IGF7iw" x="550.36" y="2714.35" text="tilo: &lt;REMAIN SILENT&gt;"/>
+<topic id="70" parent="3" guid="u0bVHj1vE0OJ7_d3Q5sP0w" x="205.29" y="1663.12" text="tilo: &lt;REMAIN SILENT&gt;"/>
+<topic id="71" parent="1" guid="tu9nneEU7Ua7gwYbTTcJAQ" x="-303.96" y="1117.08" text="tilo: You asked to\Nsee me, sir?">
+<parent-relation guid="v3B0rTzfK0CRXwi7Zq6pkw"/>
+</topic>
+<topic id="72" parent="71" guid="c-SMiGcExkSNMuXcfdFwXQ" x="-303.96" y="1244.58" text="commander: That&apos;s right. I must say,\Nwe weren&apos;t expecting you. Your\Ntransfer papers arrived late last night."/>
+<topic id="73" parent="1" guid="XHpOjaiDpU-iZQzB4KuP8g" x="-1455.94" y="1253.49" text="tilo: SKIP AHEAD">
+<note>
+[debug][updateCounter:metCommander=1]
+</note>
+</topic>
+<topic id="74" parent="0" guid="BVpWRqmfOUWrUt_Sx7za9w" x="843.68" y="736.40" palette="5" colorinfo="5" text="commander: Scow!\NWhat can I do for you?">
+<children>
+<image guid="q81jda_mCUKD-Sn9PbVmHA" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="123.75" y="-60.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="q81jda_mCUKD-Sn9PbVmHA" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="123.75" y="-60.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1][unlockThread:jailerQuestActive;smugglerQuestActive;masterQuestActive;squadNotFound]
+</note>
+</topic>
+<topic id="75" parent="74" guid="ODgY8Cz3JEqsDb6GpYq_gw" x="2410.00" y="1924.90" text="DIALOGUE_HUB_A">
+<parent-relation guid="nIh5l76o6USv7D1IuEk2tg"/>
+</topic>
+<topic id="76" parent="75" guid="oxoAPAU5X0qJ11sjgQpR_Q" x="2525.64" y="2053.10" text="DIALOGUE HUB_B">
+<parent-relation guid="Lj1u7D675U-kOShqBNskXg"/>
+</topic>
+<topic id="77" parent="76" guid="-HdidS1LS0eh4OUmLcBPdg" x="1586.56" y="2636.01" text="tilo: Sir, I&apos;ve not yet solved the\Nriddle of the Jailer&apos;s disappearance.">
+<note>
+[lockableThread:jailerQuestActive][lockThread:jailerQuestActive][reveal:quest_findJailer.talkToCommander=inactive]
+</note>
+</topic>
+<topic id="78" parent="77" guid="FRFLMQk1P0WNphWhLmohVQ" x="1388.36" y="2837.83" text="commander: Have you\Nspoken with the guards?">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="79" parent="78" guid="rtYOmJQLc02MVKXo7C-5xw" x="1623.23" y="3109.95" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="80" parent="77" guid="RFv0OA30qkeHP_TkLM3yig" x="1539.89" y="2918.93" text="commander: The blacksmith... surely\Nhe must have seen something?">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="81" parent="77" guid="-S1CVwNjVki1g4KhWAnLyQ" x="1806.14" y="2834.48" text="commander: Interrogate the\Nprisoners--they might know something...">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="82" parent="76" guid="K2_P_eTO_0qn39gNZH1Ddw" x="3134.09" y="2863.83" text="tilo: Sir, my investigation into\Nthe smuggling ring is ongoing.">
+<note>
+[reveal:quest_findSmugglers.talkToCommander=inactive][lockableThread:smugglerQuestActive][lockThread:smugglerQuestActive]
+</note>
+</topic>
+<topic id="83" parent="82" guid="uMbFKoY_pkGwqqfXSxkqBA" x="2894.78" y="3063.43" text="commander: Have you spoken\Nwith the blacksmith? He seems to\Nknow what&apos;s what around here.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="84" parent="83" guid="RrfBsp3U8Ey0iijCqKCq7Q" x="5186.25" y="3968.93" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="85" parent="82" guid="qiPJ50YuJ0SoGrfr7oaVXA" x="3134.09" y="3161.30" text="commander: This is a\Ndelicate business, Scow. I\Nexpect the utmost discretion.">
+<children>
+<image guid="nW4s3AyuNkeBoiIxF2HoZw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="167.78" y="60.10" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="nW4s3AyuNkeBoiIxF2HoZw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="167.78" y="60.10" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="86" parent="82" guid="NXL_I15pv0-R98f9LglXGg" x="3353.67" y="3062.30" text="commander: Interrogate the\Nprisoners--they must know\Nsomething!">
+<children>
+<image guid="BfocLR1-M0GMGf65av7HqQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="143.33" y="70.33" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="BfocLR1-M0GMGf65av7HqQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="143.33" y="70.33" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2][reveal:quest_findSmugglers.findSmugglersMark=complete]
+</note>
+</topic>
+<topic id="87" parent="82" guid="vx3xqsZnHkqYbRyaSbquWA" x="3484.17" y="2944.07" text="commander: Rezzia, the cook...\Nshe might have heard something.">
+<note>
+[variationIndex=3][reveal:quest_findSmugglers.findSmugglersMark=complete]
+</note>
+</topic>
+<topic id="88" parent="76" guid="2C6G_sA5RUWWYZqZJFisjA" x="7245.26" y="341.02" text="tilo: What do you know, sir,\Nabout Silas, the Signal Guard?">
+<note>
+[reveal: quest_findSmugglers.talkToCommander=inactive;quest_findPirateTreasure=inactive][lockableThread:whoIsSilas][lockThread:whoIsSilas]
+</note>
+</topic>
+<topic id="89" parent="88" guid="riCnm11hWUWJTkwA5CVNrw" x="7245.26" y="485.02" text="commander: Silas\NWagstaffe? Why do you ask?">
+<children>
+<image guid="gMtXrPOypE21L9M428fkTA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="170.00" y="-47.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="gMtXrPOypE21L9M428fkTA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="170.00" y="-47.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="90" parent="89" guid="hikwHkvYSEKDv-BwjeV-9A" x="7058.08" y="622.15" text="tilo: I&apos;m not yet ready to say, sir.">
+<parent-relation guid="HJPaumE-HUCL4uDKbo5vTQ"/>
+</topic>
+<topic id="91" parent="90" guid="3VauQuQSjUOor33Og6jiWA" x="7058.08" y="726.50" text="commander: ... I see..."/>
+<topic id="92" parent="91" guid="4q1S_PhhFEqVWcSl7Ci9zQ" x="7241.62" y="851.89" text="commander: He&apos;s a good soldier...\Nconscientious, disciplined. Tends\Nto keep to himself."/>
+<topic id="93" parent="92" guid="9UUlsfBKk0aav7QMhH-S1A" x="7241.62" y="968.77" text="commander: Likes a drink\Nor two now and again, but\Nwho among us doesn&apos;t?">
+<children>
+<image guid="XU15ugl3y0OJVeNpsSNcWw" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="190.00" y="17.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="XU15ugl3y0OJVeNpsSNcWw" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="190.00" y="17.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="94" parent="93" guid="Wdwr_-elyEW8REhZB3rulw" x="7239.80" y="1083.65" text="commander: He was demoted a\Nfew years back--some incident in\Nthe north, if I remember correctly.">
+<parent-relation guid="IdoWsy6P3U2WtFHJOW6_MA"/>
+</topic>
+<topic id="95" parent="94" guid="JXP81VLpJk-fC7tSleB_RQ" x="7239.80" y="1196.93" text="commander: One curious thing... he\Nrequested his transfer to this garrison. Gave\Nup quite a comfortable post, I believe."/>
+<topic id="96" parent="95" guid="9ElWJuErI0aCZgkWuNwD2g" x="7239.80" y="1307.15" text="commander: You think\Nhe&apos;s involved in all of this?">
+<children>
+<image guid="D-YwuVY-OUiNnZRIqyz6sA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="178.33" y="16.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="D-YwuVY-OUiNnZRIqyz6sA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="178.33" y="16.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="97" parent="96" guid="1HlcD5F5vUiOUvJAgwrVCw" x="7056.26" y="1501.60" text="tilo: It&apos;s too\Nearly to say, sir."/>
+<topic id="98" parent="97" guid="l_i3aavdXU29M9s-F28Jzw" x="7239.80" y="1677.85" text="commander: Still, now you\Nmention it... let&apos;s keep an\Neye on him, hmm?"/>
+<topic id="99" parent="96" guid="vpF11-40xkSeNxW6FBUyZg" x="7400.14" y="1501.60" text="tilo: Oh, I&apos;ve seen no\Nevidence to suggest it."/>
+<topic id="100" parent="89" guid="v1dvzKHUDUKTO2XcKKIM0w" x="7439.50" y="625.79" text="tilo: Just part of my\Nenquiries, sir.">
+<parent-relation guid="gPG-n6rIlEe6jMU5JYh6Kw"/>
+</topic>
+<topic id="101" parent="100" guid="jl7rfaFv0kWz-Ig8LDVkPA" x="7439.50" y="730.13" text="commander: I&apos;m glad to see\Nyou&apos;re being so thorough."/>
+<topic id="102" parent="89" guid="7MjErvqdAUKEZdrLqLDMTw" x="7823.04" y="1074.93" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="103" parent="76" guid="ZVGX0qenxEKyKJK-xNY6jg" x="8990.79" y="24.19" text="tilo: Where is Silas\Nbeing held?">
+<parent-relation guid="QI4vs-4FbkWT-Biz1zUaFg"/>
+<note>
+[reveal:quest_magpieAndMouseKing=complete;counter.dialog_silas_pt3.metSilasJailed=0]
+</note>
+</topic>
+<topic id="104" parent="103" guid="pFFPg3F5pEyc4a41JNMvHQ" x="8990.79" y="215.31" text="commander: In the jail,\Ndown in cell seven.">
+<children>
+<image guid="Q38wWbAOUEOrU4w6vu6QdA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="141.43" y="-50.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Q38wWbAOUEOrU4w6vu6QdA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="141.43" y="-50.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[updateCounter:dialog_silas_pt3.metSilasJailed=1]
+</note>
+</topic>
+<topic id="105" parent="104" guid="AkPdILLeOU-yON7vfDX9cQ" x="8771.18" y="436.42" text="tilo: Cell seven?\NThat&apos;s my old cell..."/>
+<topic id="106" parent="105" guid="Cy4HFl-NSk60j2cXZX7iZA" x="8771.18" y="587.53" text="commander: ...\NExcuse me?"/>
+<topic id="107" parent="106" guid="ihzVRR4q9Eus85UTz9qJJg" x="8771.18" y="713.07" text="tilo: I-I was saying, cell\Nseven has a mild smell..."/>
+<topic id="108" parent="107" guid="0mLyu5w7OEyUSCMAR_ipRQ" x="8771.18" y="827.52" text="commander: ... I&apos;ll\Nhave that looked into."/>
+<topic id="109" parent="104" guid="B9xcAl6lbEaapRu6Adp9Iw" x="9193.40" y="436.42" text="tilo: I&apos;d like to question\Nthe prisoner further, sir."/>
+<topic id="110" parent="109" guid="428rZ5P9x0WYlKSt9qEjKw" x="9193.40" y="624.45" text="commander: ...\NAs you like.">
+<children>
+<image guid="k-EWUIGwsUq-MO_Fdi1WzQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="72.86" y="-72.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="k-EWUIGwsUq-MO_Fdi1WzQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="72.86" y="-72.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="111" parent="76" guid="DLc7Nf6z_UOFUnbnwUP9ig" x="8337.39" y="-202.34" text="tilo: What evidence is\Nthere against Silas?">
+<parent-relation guid="Ylx_K6ag10yiOg5Bw5RK0g"/>
+<note>
+[reveal:quest_magpieAndMouseKing=complete][lockableThread:silasEvidenceAgainst][lockThread:silasEvidenceAgainst]
+</note>
+</topic>
+<topic id="112" parent="111" guid="gtCEBBjf0EyzvCFusqryrg" x="8337.39" y="-39.90" text="commander: Enough\Nto have him hanged."/>
+<topic id="113" parent="112" guid="0QBvA1Zz5EGp7-Rp4ci7Gw" x="8185.53" y="133.10" text="tilo: There&apos;s no doubt\Nhe&apos;s guilty, sir?"/>
+<topic id="114" parent="113" guid="FFo52VQz50SLQ6c_01u19w" x="8185.53" y="304.10" text="commander: In my\Nmind? None whatsoever.">
+<children>
+<image guid="NAmQSx7wvE2IzEgUpZW1cA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="-160.00" y="-49.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="NAmQSx7wvE2IzEgUpZW1cA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="-160.00" y="-49.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="115" parent="114" guid="wMdfBpB4WUK4M9N--iJuLg" x="8478.13" y="304.10" text="commander: In Duinlan Heights\Njustice moves swiftly, Scow."/>
+<topic id="116" parent="112" guid="HBaI870KWkGmrRCbPIyBHg" x="8478.13" y="133.10" text="tilo: Of course, sir."/>
+<topic id="117" parent="76" guid="Tli_QrtqD0KZ_Q6go-7K6Q" x="4437.85" y="2678.80" text="tilo: Sir, I&apos;m still working on a way\Nto uncover the Master&apos;s identity.">
+<note>
+[reveal:quest_findTheMaster.talkToCommander=inactive][lockableThread:masterQuestActive][lockThread:masterQuestActive]
+</note>
+</topic>
+<topic id="118" parent="117" guid="ABw9bY_T_E-Id0YrDy0BlQ" x="4200.36" y="2841.49" text="commander: Find some way to\Ngain the trust of the other guards.\NFind out what they know.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="119" parent="117" guid="EuaiVFsEY0uzL6GnDyYVUg" x="4437.85" y="3020.12" text="commander: Speak with the\Nblacksmith, if you haven&apos;t already. He&apos;s\Nno fool. Always keeps his eyes open.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="120" parent="117" guid="Yz6Yv9_dfkCoqJ1B2hmo1Q" x="4649.43" y="2912.40" text="commander: Have the\Nprisoners given you nothing?">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="121" parent="117" guid="okHFrtc6OE6iJKpeitpnMg" x="4764.35" y="2810.80" text="commander: Talk to the\Ncook. Gossip flows like\N[rotgut] in the commissary.">
+<children>
+<image guid="Pth3X6WoY0a56kGB44ZSyQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="128.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="Pth3X6WoY0a56kGB44ZSyQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="128.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2][footnote:rotgut]
+</note>
+</topic>
+<topic id="122" parent="76" guid="lgHyAHUW_kij_jN9PLwS3Q" x="9951.83" y="5511.86" text="tilo: The squad, sir... I&apos;ll\Nnot rest until they&apos;re found.">
+<parent-relation guid="YHcSlryAQk-hJlj_PWfUYw"/>
+<note>
+[lockableThread:squadNotFound][reveal:quest_lostSquad.talkToCommander=inactive;quest_mysteryOfDuinlansTomb.findChest=complete]
+</note>
+</topic>
+<topic id="123" parent="122" guid="2k90-2W2rEKDyiedrzS6Lg" x="9721.83" y="5727.22" text="commander: I\Ndon&apos;t doubt it.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="124" parent="122" guid="YHF6wE8ZP0evyxs3_HsDug" x="10198.08" y="5727.22" text="commander: I&apos;m glad\Nto hear it, Private.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="125" parent="122" guid="qwMIOILoIECFk_3aEcC0iQ" x="9951.83" y="5820.97" text="commander: Aye, we\Nmustn&apos;t give up hope.">
+<children>
+<image guid="LQiZRsENGkCuN8-qRqUrbQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="134.29" y="40.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="LQiZRsENGkCuN8-qRqUrbQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="134.29" y="40.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="126" parent="76" guid="sFyvVA21PEeVUMI_mgsAAw" x="5765.22" y="-1038.85" text="tilo: Commander, I&apos;m still working\Non an ointment for your ringtail.">
+<parent-relation guid="7qi8_u1IA0iqWEMYIuTHlA"/>
+<note>
+[reveal:quest_cureForRingtail.talkToCommander=inactive]
+</note>
+</topic>
+<topic id="127" parent="126" guid="tVsuv7YDV0mwXaMzA1uOkg" x="5765.22" y="-884.68" text="commander:\NOh, Scow... it\Ndoes sting so."/>
+<topic id="128" parent="126" guid="gCxeztyqXky8uGJZJBOegg" x="5994.22" y="-833.85" text="commander: I\Ncertainly hope you&apos;re\Ndoing all that you can."/>
+<topic id="129" parent="126" guid="PTduch8hd0Gu-veZxmelbg" x="5524.44" y="-833.85" text="commander: Not so loud,\NScow! Let&apos;s keep this\Nbetween ourselves...">
+<children>
+<image guid="8QSq-YwN_0KpULycY9vr-Q" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-128.75" y="-100.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="8QSq-YwN_0KpULycY9vr-Q" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-128.75" y="-100.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="130" parent="129" guid="_Bos6eUk6UuN592tjsKzsQ" x="5327.22" y="432.18" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="131" parent="76" guid="fTpPRK_3HkW5eZLN2hf4fQ" x="6785.89" y="-1038.15" text="tilo: Commander...\Nyour ear...">
+<note>
+[reveal:quest_cureForRingtail=complete][lockableThread:bigEarCommander=true][lockThread:bigEarCommander]
+</note>
+</topic>
+<topic id="132" parent="131" guid="vRTo4gweEEKWXC2-Uf-sNg" x="6785.89" y="-875.65" text="commander: Ah,\Nyes! Pitch perfect,\Nso I&apos;ve been told.">
+<children>
+<image guid="uYvL74IMVkS9C85zQNdqZg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="127.50" y="-45.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="uYvL74IMVkS9C85zQNdqZg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="127.50" y="-45.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="133" parent="132" guid="TfJIRDzgg0K48KBmstPnXw" x="6785.89" y="-719.63" text="commander: I&apos;ve\Nalways had an ear for\Nmusic--it&apos;s a gift, really.">
+<children>
+<image guid="OvPPschvC0WtDFUkvwIz8g" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="155.00" y="-48.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="OvPPschvC0WtDFUkvwIz8g" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="155.00" y="-48.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="134" parent="133" guid="mNSb7gu3pEqt32T9gbDdbg" x="6785.89" y="-564.29" text="commander: I&apos;d be happy to help\Nyou develop yours, if you like."/>
+<topic id="135" parent="76" guid="KhvP5AfggE-Pq2SAYOWwkQ" x="5915.36" y="2560.92" text="tilo: Sir, I think Ouma Rezzia is a\Npart of the band of smugglers.">
+<note>
+[reveal:quest_findTheMaster.findMastersIdentity=active][lockableThread:afterTiloKidnapped=true][lockThread:afterTiloKidnapped]
+</note>
+</topic>
+<topic id="136" parent="135" guid="efHq60TsLkmYq8f6OoaKhw" x="5915.36" y="2745.21" text="commander: You think?! I can&apos;t do\Nanything with supposition, Scow...">
+<children>
+<image guid="xDwC8ZQivEiHqzW8wb92ag" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="194.00" y="-66.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="xDwC8ZQivEiHqzW8wb92ag" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="194.00" y="-66.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="137" parent="136" guid="VPnBeszzmEq74MFic_1TRA" x="5915.36" y="2902.59" text="commander: ... I need proof!"/>
+<topic id="138" parent="137" guid="Ypl3aJMrgkWPFfbBKTMODQ" x="5720.14" y="3127.59" text="tilo: But sir, I think\Nshe poisoned me!"/>
+<topic id="139" parent="138" guid="eJ6GFWk-7EeQNkR7mJNA9A" x="5720.14" y="3317.27" text="commander: That&apos;s enough, Private! I don&apos;t\Nwant to hear any more about Ouma Rezzia\Nuntil you have some sort of evidence."/>
+<topic id="140" parent="137" guid="_vzUSS7FPU-hAhZ2FR4zIw" x="6113.15" y="3127.59" text="tilo: I&apos;m working on it, sir."/>
+<topic id="141" parent="140" guid="V2eTJiPj00G9TQTdnMrOPA" x="6113.15" y="3317.27" text="commander: Alright,\Nthen get on with it.">
+<children>
+<image guid="VwlyXWem8Ua-5NI19EY9yQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="110.00" y="-66.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="VwlyXWem8Ua-5NI19EY9yQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="110.00" y="-66.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="142" parent="76" x="2649.64" y="2198.10" text="DIALOGUE_HUB_C"/>
+<topic id="143" parent="142" guid="8Kl0DUd6Y0ulk9EPZZe0oQ" x="12380.20" y="2204.49" text="tilo: Is there anything I can\Ndo for you, Commander?">
+<parent-relation guid="U1Y28qFbKkWqun6ffMpz4A"/>
+<note>
+[counter:songChoice=0]
+</note>
+</topic>
+<topic id="144" parent="143" guid="YGHMGGOokEeCkVcQLFCcFA" x="12380.20" y="2336.71" text="commander: Play\Nfor me, Scow...">
+<note>
+[updateCounter:songChoice=0]
+</note>
+</topic>
+<topic id="145" parent="144" guid="3HrCuY-_dkCkVMvooaFoNA" x="11774.15" y="2619.57" text="commander:\N... something amusing.">
+<children>
+<image guid="xsui6bCeu06z5otXp9U2Qw" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="114.29" y="-52.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="xsui6bCeu06z5otXp9U2Qw" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="114.29" y="-52.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[updateCounter:songChoice=1][variationIndex=1]
+</note>
+</topic>
+<topic id="146" parent="144" guid="yMmUb9Q6fU2o85_0b44Qmw" x="12193.53" y="2619.57" text="commander: ... a\Nsong of adventure!">
+<note>
+[updateCounter:songChoice=2][variationIndex=2]
+</note>
+</topic>
+<topic id="147" parent="144" guid="q5tXVfoH9EWVaujdRx-yVQ" x="12594.96" y="2619.57" text="commander:\N... perhaps a ballad.">
+<children>
+<image guid="pb17TXIt4Eq7iHhpxXXX0w" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="92.86" y="-72.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="pb17TXIt4Eq7iHhpxXXX0w" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="92.86" y="-72.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[updateCounter:songChoice=3][variationIndex=3]
+</note>
+</topic>
+<topic id="148" parent="144" guid="-4baZu1E8EuO_GSaPDXgXQ" x="12986.39" y="2619.57" text="commander:\N... something upbeat.">
+<note>
+[updateCounter:songChoice=4][variationIndex=4]
+</note>
+</topic>
+<topic id="149" parent="144" guid="zChwYxthjEaY7aTyXWKHuQ" x="11434.36" y="2708.74" text="commander: ... play\Nanything--surprise me.">
+<note>
+[updateCounter:songChoice=0][variationIndex=0]
+</note>
+</topic>
+<topic id="150" parent="149" guid="EnJO84Z9aUCzWHnGxjIEjQ" x="12451.65" y="3202.58" text="DIALOGUE_HUB">
+<note>
+[executeAction:showSongBook]
+</note>
+</topic>
+<topic id="151" parent="150" guid="MC50jEbQ4EukxEyOLxZJWQ" x="11316.37" y="3380.82" text="tilo: The Rat\Nwith Two Tails">
+<note>
+[executeAction:performSong=song_ratTwoTails]
+</note>
+</topic>
+<topic id="152" parent="151" guid="YRDeMJgADEWJ5_35F0Wucg" x="11423.37" y="3536.42" text="commander: Not exactly\Nwhat I asked for, Scow...">
+<children>
+<image guid="ZuQq_rdBjUa5fYsjYFUkpQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="134.29" y="-66.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="ZuQq_rdBjUa5fYsjYFUkpQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="134.29" y="-66.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.songChoice=3|counter.songChoice=5|counter.songChoice=6]
+</note>
+</topic>
+<topic id="153" parent="151" guid="HK5DvFR_aUaRMKgBtbQcHQ" x="11158.60" y="3536.42" text="commander: Great\Nchoice of song, Scow.">
+<children>
+<image name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.songChoice=0|counter.songChoice=1|counter.songChoice=2|counter.songChoice=4]
+</note>
+</topic>
+<topic id="154" parent="150" guid="hUmASf4ZCkyPr6VHiCHq4w" x="11883.80" y="3380.82" text="tilo: The Maiden\NWouldn&apos;t Sing">
+<note>
+[executeAction:performSong=song_maiden]
+</note>
+</topic>
+<topic id="155" parent="154" guid="4L9_QBL1rUK5tF9pLR8fBA" x="11725.11" y="3536.42" text="commander: A fitting\Nchoice of song.">
+<note>
+[reveal:counter.songChoice=0|counter.songChoice=3|counter.songChoice=6]
+</note>
+</topic>
+<topic id="156" parent="154" guid="bI-bSsWEAke4GN8Oo8grUg" x="12036.39" y="3536.42" text="commander: An...\Nunorthodox choice, Scow.">
+<children>
+<image guid="P7Xes2LlOkiWGJpgIQCOHw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="72.86" y="-73.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="P7Xes2LlOkiWGJpgIQCOHw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="72.86" y="-73.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.songChoice=1|counter.songChoice=2|counter.songChoice=4|counter.songChoice=5]
+</note>
+</topic>
+<topic id="157" parent="150" guid="bkR-K_h4IUmn_tBl2BREXA" x="12451.65" y="3375.11" text="tilo: Heaven in a Bottle">
+<note>
+[executeAction:performSong=song_pirateSong]
+</note>
+</topic>
+<topic id="158" parent="157" guid="vyUNQCoLjEKWf5GNnNnD0g" x="12577.65" y="3530.71" text="commander: Not really what I\Nwas looking for, Scow.">
+<children>
+<image guid="jtXIMgjuHkuBJS7fdbVLrA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="47.14" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="jtXIMgjuHkuBJS7fdbVLrA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="47.14" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.songChoice=3|counter.songChoice=5|counter.songChoice=6]
+</note>
+</topic>
+<topic id="159" parent="157" guid="GLwNpSTiuUyAqLJykmbVyA" x="12307.98" y="3530.71" text="commander: I liked your\Nchoice of song, Scow.">
+<children>
+<image guid="SiKpZGk6m02M7WzIy5OJsw" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="-25.71" y="-92.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="SiKpZGk6m02M7WzIy5OJsw" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="-25.71" y="-92.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.songChoice=0|counter.songChoice=1|counter.songChoice=2|counter.songChoice=4]
+</note>
+</topic>
+<topic id="160" parent="150" guid="lQ_Jdsd_L06UYEpXnj0keA" x="13011.53" y="3383.68" text="tilo: A Murder of Crows">
+<note>
+[executeAction:performSong=song_insultingSong]
+</note>
+</topic>
+<topic id="161" parent="160" guid="jJVH1DjUR02TSYn72lVKNA" x="12870.10" y="3530.71" text="commander: Good decision\Nwith the song, Scow.">
+<children>
+<image guid="OAGMVDSzh0GxTRyZ63CBRQ" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="-40.00" y="-84.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="OAGMVDSzh0GxTRyZ63CBRQ" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="-40.00" y="-84.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.songChoice=0|counter.songChoice=1|counter.songChoice=4]
+</note>
+</topic>
+<topic id="162" parent="160" guid="bf1AFqgyXEWox84a-RhJ5A" x="13186.93" y="3530.71" text="commander: Yes... that wasn&apos;t really\Nwhat I was expecting, Scow.">
+<children>
+<image guid="QE-mGgPPtUOhpkhmiLyEEw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="171.43" y="-86.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="QE-mGgPPtUOhpkhmiLyEEw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="171.43" y="-86.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.songChoice=2|counter.songChoice=3|counter.songChoice=5|counter.songChoice=6]
+</note>
+</topic>
+<topic id="163" parent="150" guid="WGu2Ng3AfkmwnCvV-28Xqw" x="13682.62" y="3377.77" text="tilo: The Ballad of\Nthe Coward King">
+<note>
+[executeAction:performSong=song_cowardKing]
+</note>
+</topic>
+<topic id="164" parent="163" guid="2g5mj6FpTU2yExRJnWJMEA" x="13799.83" y="3529.45" text="commander: Not the strongest\Nchoice of song, Scow.">
+<note>
+[reveal:counter.songChoice=1|counter.songChoice=2|counter.songChoice=4]
+</note>
+</topic>
+<topic id="165" parent="163" guid="V3wqEZ5za0W3bfwarJigxw" x="13523.62" y="3527.82" text="commander: Excellent\Nchoice of song, Scow!">
+<note>
+[reveal:counter.songChoice=0|counter.songChoice=3|counter.songChoice=5|counter.songChoice=6]
+</note>
+</topic>
+<topic id="166" parent="150" guid="xgPT1_cCREes_7lPAI6BfQ" x="14269.57" y="3370.51" text="tilo: The Orphan Prince">
+<note>
+[executeAction:performSong=song_silas][reveal:counter.dialog_silas_pt2.composed_song_silas=1]
+</note>
+</topic>
+<topic id="167" parent="166" guid="eR8Ick7W2UyB2mFNWQAOQA" x="14127.32" y="3526.11" text="commander: Wonderful\Nsong, Scow!">
+<note>
+[reveal:counter.songChoice=0|counter.songChoice=3|counter.songChoice=5|counter.songChoice=6]
+</note>
+</topic>
+<topic id="168" parent="166" guid="42FMp8JK6EOSSHb2yNRk8Q" x="14417.32" y="3526.11" text="commander: I&apos;m\Ndisappointed by your choice\Nof song, I must say.">
+<children>
+<image guid="ckUcoTXWe063SkkiiyJVlA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="70.00" y="-104.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="ckUcoTXWe063SkkiiyJVlA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="70.00" y="-104.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.songChoice=1|counter.songChoice=2|counter.songChoice=4]
+</note>
+</topic>
+<topic id="169" parent="150" guid="CBIWTw4L5UGY8MMTzOCmew" x="10747.52" y="3380.82" text="tilo: The\NPoisoned Cup">
+<note>
+[executeAction:performSong=song_poisonedCup]
+</note>
+</topic>
+<topic id="170" parent="169" guid="W7WsD0g6IEqV9CwkdDgmTQ" x="10896.02" y="3536.42" text="commander: Not quite\Nwhat I had in mind, Scow.">
+<children>
+<image guid="q7q1OhJpZ0egkACMLMcS8g" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="105.71" y="-76.66" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="q7q1OhJpZ0egkACMLMcS8g" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="105.71" y="-76.66" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.songChoice=1|counter.songChoice=2|counter.songChoice=3|counter.songChoice=4]
+</note>
+</topic>
+<topic id="171" parent="169" guid="2EkjlaFI3EunWvNFyfoc3g" x="10616.01" y="3536.42" text="commander: A\Nfine song, Scow.">
+<note>
+[reveal:counter.songChoice=0|counter.songChoice=5|counter.songChoice=6]
+</note>
+</topic>
+<topic id="172" parent="150" guid="ik0j9cyniEGsUQniAytgcQ" x="10153.90" y="3380.82" text="tilo: The\NGilded Warrior">
+<note>
+[lockableThread:gildedWarrior][lockThread:gildedWarrior][executeAction:performSong=song_gildedWarrior]
+</note>
+</topic>
+<topic id="173" parent="172" guid="eN2fvpmtWUq9U9f0EJUM2g" x="10323.23" y="3536.42" text="commander: Not exactly what\NI was expecting, Scow...">
+<children>
+<image guid="fL1rMMpJ50uHhRo1nvs-eA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="158.33" y="-63.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="fL1rMMpJ50uHhRo1nvs-eA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="158.33" y="-63.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.songChoice=1|counter.songChoice=3|counter.songChoice=4|counter.songChoice=6]
+</note>
+</topic>
+<topic id="174" parent="172" guid="MK7CccwuQ06zMdqR4g9yEw" x="9969.90" y="3536.42" text="commander: Good\Nchoice of song, Scow.">
+<note>
+[reveal:counter.songChoice=0|counter.songChoice=2|counter.songChoice=5]
+</note>
+</topic>
+<topic id="175" parent="174" guid="ntPdAnmYlUqjAEvDe5_Xpg" x="12447.91" y="3877.03" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="176" parent="175" guid="n-F5L-2Pl02t1xvEZK3CbA" x="11425.88" y="4332.40" text="commander: Have you ever thought\Nabout singing professionally, Scow?">
+<parent-relation guid="wvE4Xnve80mpJpN9PtEHtA"/>
+<note>
+[variationIndex=0][lockableThread:firstReview][lockThread:firstReview]
+</note>
+</topic>
+<topic id="177" parent="176" guid="ZCjuZx_E6UO8TQqeQsB7KA" x="11655.88" y="4704.63" text="tilo: On occasion, sir.">
+<parent-relation guid="6Kzv5_BDwEel4YIkjxPU-w"/>
+</topic>
+<topic id="178" parent="177" guid="_xcdJ0QmPUeuajg0SnfmQg" x="11655.88" y="4827.96" text="commander: Don&apos;t.">
+<children>
+<image guid="sX5wTyGO9Ua6X1vKRYKIVg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="115.71" y="-50.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="sX5wTyGO9Ua6X1vKRYKIVg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="115.71" y="-50.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="179" parent="176" guid="n5jRIyXR9kyIxOXRROy8EQ" x="11166.99" y="4704.63" text="tilo: No, sir.">
+<parent-relation guid="pdr3h7Ji6Uy_tYs9ndgHNg"/>
+</topic>
+<topic id="180" parent="179" guid="s6KzjzjLnUqunwwdmh8rhQ" x="11166.99" y="4827.96" text="commander: Good... good.">
+<children>
+<image guid="1uXB3v2xskyvPyHzR-aMYg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="144.44" y="-58.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="1uXB3v2xskyvPyHzR-aMYg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="144.44" y="-58.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="181" parent="180" guid="1rtI5KwWRk6bWI5p58t4Dg" x="12498.95" y="5681.08" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="182" parent="175" guid="Qf0PycQizEGqPYgseMV9XQ" x="11727.10" y="4228.51" text="commander: You came in\Nlate on the second verse.">
+<parent-relation guid="Z_y0RZDUVEydBU4ExT693Q"/>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="183" parent="182" guid="zwPE-2Ut6kWmoL8ln71c5Q" x="12472.47" y="4870.76" text="commander: Otherwise...">
+<parent-relation guid="01yS-D50r0OotM2ZDT52zA"/>
+</topic>
+<topic id="184" parent="183" guid="_X-km04DAE-EsPh3PjssrA" x="11473.64" y="5118.98" text="commander: ... that was certainly\Nan... interesting performance.">
+<parent-relation guid="qB2OngHEIEapjNIahwFWeQ"/>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="185" parent="183" guid="KI6_hYL1_k-P8l7UP7A33Q" x="11827.11" y="5118.98" text="commander: ... well, music is such a\Nsubjective thing, don&apos;t you think?">
+<parent-relation guid="Tik_nIIvAkO7jdQYq_wr1w"/>
+<children>
+<image name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="186" parent="183" guid="IPkOuAy4yUC4tBOwbyiLMA" x="12156.52" y="5118.98" text="commander: ... well, keep\Npracticing, Scow.">
+<parent-relation guid="Y-OkgXZ7vEWq78aQbQaAPg"/>
+<children>
+<image name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="187" parent="183" guid="nFayxdpxeUu82yzJNn0tSQ" x="12486.95" y="5118.98" text="commander: ... technically\Naccomplished, but lacking &apos;heart&apos;.">
+<parent-relation guid="mTKpj2VjckmA1W6xEbQIQA"/>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="188" parent="183" guid="wSFsQIqdrUGDmmc7FQzWdA" x="12745.88" y="5118.98" text="commander:\N... very good!">
+<note>
+[variationIndex=4]
+</note>
+</topic>
+<topic id="189" parent="183" guid="_bKLeu6vXUyRetC8MggsPA" x="12941.34" y="5118.98" text="commander:\N... disappointing.">
+<children>
+<image name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=5]
+</note>
+</topic>
+<topic id="190" parent="183" guid="RieykyHdaEuRm4rgYlml9Q" x="13113.36" y="5118.98" text="commander:\N... bravo!">
+<note>
+[variationIndex=6]
+</note>
+</topic>
+<topic id="191" parent="183" guid="V0XfN2t5pU6vN2tSUS3-wg" x="13322.85" y="5118.98" text="commander: ... a\Nvirtuoso performance!">
+<children>
+<image name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[variationIndex=7]
+</note>
+</topic>
+<topic id="192" parent="175" guid="KQshJ-2MQkGuO7hpsJ5jjg" x="11926.13" y="4329.87" text="commander: You were a bit\Nflat on the middle section.">
+<parent-relation guid="9uj3mm_E50mPA6DKhI5qaw"/>
+<children>
+<image guid="XaCRIj_qwUGRlfRnj9LFjQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-151.43" y="66.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="XaCRIj_qwUGRlfRnj9LFjQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-151.43" y="66.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="193" parent="175" guid="1Im_iA3MAEux9Ftpr6WMIQ" x="12196.07" y="4239.87" text="commander: Of course, they say the lute\Nis a far simpler instrument than the lyre.">
+<parent-relation guid="85zoQrhxtUK9viM1eeqtJA"/>
+<children>
+<image guid="KcJkRCkI9keQ3y-tnEANZA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="198.57" y="-73.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="KcJkRCkI9keQ3y-tnEANZA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="198.57" y="-73.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="194" parent="175" guid="QcST6PgtA061nB5NnWCzXw" x="12637.63" y="4239.87" text="commander: You have a\Nvoice... if a little &apos;pitchy&apos;.">
+<parent-relation guid="koRI3suWokmCpx47AKY49Q"/>
+<note>
+[variationIndex=5]
+</note>
+</topic>
+<topic id="195" parent="175" guid="65u5Yg8zkkKY9-3sekFbug" x="12865.72" y="4321.48" text="commander: You were\Ndragging a bit in the final run.">
+<parent-relation guid="pAypO0NmmkaLjHd8y4LSPA"/>
+<children>
+<image guid="p3pptWN6bkCs9SG_2PDLBg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="141.43" y="73.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="p3pptWN6bkCs9SG_2PDLBg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="141.43" y="73.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=6]
+</note>
+</topic>
+<topic id="196" parent="175" guid="GKmjy1hUREymBGbvpRqrig" x="13072.42" y="4239.87" text="commander: You came in\Nearly in the chorus.">
+<parent-relation guid="l0XZEk42b0W4zqGzawS8gg"/>
+<note>
+[variationIndex=7]
+</note>
+</topic>
+<topic id="197" parent="175" guid="j-0LIFV_m0OYM5ZxPBGeDw" x="13303.09" y="4321.48" text="commander: Your\Ntempo&apos;s all over the place.">
+<parent-relation guid="OoRyebbAiEGKUhOFgk_MYA"/>
+<children>
+<image name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[variationIndex=8]
+</note>
+</topic>
+<topic id="198" parent="175" guid="yOUAzyoxU0u4KFzHsGTJqA" x="13757.79" y="4321.48" text="commander: Are you sure your\Nlute&apos;s not out of tune?">
+<parent-relation guid="5Ysc3ED1akyyPdHGB37JyA"/>
+<children>
+<image guid="OW8yRQEgS0C6arEH-6lvNQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="155.71" y="45.02" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="OW8yRQEgS0C6arEH-6lvNQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="155.71" y="45.02" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=10]
+</note>
+</topic>
+<topic id="199" parent="175" guid="CS7Q5nJ-HkGjCpOWTUySYg" x="13523.81" y="4239.87" text="commander: You were\Nracing in the middle bars.">
+<parent-relation guid="nS65YAwJ8kmWGKIDcJGe8g"/>
+<note>
+[variationIndex=9]
+</note>
+</topic>
+<topic id="200" parent="175" guid="0IGgbMt4WUeKTLNlyzdkqw" x="12447.91" y="4321.48" text="commander: I think I\Nmade it work.">
+<children>
+<image guid="mT4DEe_Ed0y4Im57hLhQbA" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="101.43" y="60.74" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="mT4DEe_Ed0y4Im57hLhQbA" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="101.43" y="60.74" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[variationIndex=4]
+</note>
+</topic>
+<topic id="201" parent="174" guid="UWpBdtpJXEqQgp-MlhHbsw" x="10153.90" y="3661.09" text="commander: ...">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="202" parent="201" guid="rgeiKeltREK0oRbAZ1wgMA" x="9780.81" y="3789.75" text="commander: I may not have mentioned\Nthis to you, Scow, but Duinlan is\Nactually an ancestor of mine.">
+<parent-relation guid="pxwhc3mR50WStvurzt6weg"/>
+<children>
+<image guid="UfD63UoZREGWJCvwsB3TxQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="-230.00" y="11.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="UfD63UoZREGWJCvwsB3TxQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="-230.00" y="11.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="203" parent="202" guid="6XgeAzu_GE-xCajqUDcnEw" x="10153.90" y="3928.84" text="DIALOGUE_HUB"/>
+<topic id="204" parent="203" guid="VCrPfNaop0WWSkn47MHp4g" x="9773.54" y="4197.02" text="tilo: Really, sir? I\Nhad no idea."/>
+<topic id="205" parent="204" guid="BkMG2zUW40WnCU4EEBaLwA" x="9477.23" y="4454.57" text="commander: Well, I\Ndon&apos;t like to brag.">
+<children>
+<image guid="qnLhSY-B-UmPPrnQB1wRtA" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="-84.29" y="-89.26" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="qnLhSY-B-UmPPrnQB1wRtA" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="-84.29" y="-89.26" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="206" parent="204" guid="Ojba9XS7C06EvxJVjNk1aA" x="9773.54" y="4377.02" text="commander: It&apos;s not\Nsomething I tend to talk about">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="207" parent="204" guid="j_ujUNoTd0yjC7hXie3oZg" x="10061.39" y="4454.57" text="commander: Yes, it&apos;s true--on my mother&apos;s side.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="208" parent="203" guid="3VSGAVaLn0SvD0IpE1k4xQ" x="10323.23" y="4127.93" text="tilo: Aye, sir. I heard."/>
+<topic id="209" parent="208" guid="nGFFZhPBnEWt2XAzRUwpXQ" x="10141.41" y="4245.20" text="commander:\NOh..."/>
+<topic id="210" parent="208" guid="j-11ub76AUSaDpXfc2YLKw" x="10343.80" y="4245.20" text="commander:\NI see..."/>
+<topic id="211" parent="208" guid="Bt7RilrVkEOqYFWhaO-l2w" x="10551.92" y="4245.20" text="commander:\NAh...">
+<children>
+<image guid="ZbJMcTdtkkG26aqoEA_p-g" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="70.00" y="-69.26" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="ZbJMcTdtkkG26aqoEA_p-g" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="70.00" y="-69.26" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="212" parent="201" guid="aviktPPeNE2YESYUs82lPg" x="10153.90" y="3789.75" text="commander: Did I tell you that\NI am in fact a descendant of\Nthe hero Duinlan?">
+<parent-relation guid="qMla3wPk_Uiccxn-uk2mNg"/>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="213" parent="201" guid="ZHk-IM2DSkSvlHesg76FaQ" x="10499.58" y="3789.75" text="commander: ... I&apos;m actually directly\Nrelated to Duinlan--did you know?">
+<children>
+<image guid="ZnoWncJiM0SMnBMEn5e_2w" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="193.33" y="-57.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="ZnoWncJiM0SMnBMEn5e_2w" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="193.33" y="-57.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="214" parent="150" guid="Y4vkKXms2kmYjwnz_YqKdQ" x="14911.81" y="3377.18" text="tilo: Rascals&apos; Whirligig">
+<note>
+[executeAction:performSong=song_gustoAndFatale][reveal:counter.dialog_gustoAndFatale.composed_song_gustoAndFatale=1]
+</note>
+</topic>
+<topic id="215" parent="214" guid="BCAN8eswnUiV8V92WjaN5Q" x="14786.90" y="3526.11" text="commander: Great\Nchoice of song!">
+<children>
+<image guid="827L30LwTUazpPQG5nkYEw" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="-70.00" y="-84.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="827L30LwTUazpPQG5nkYEw" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="-70.00" y="-84.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.songChoice=0|counter.songChoice=1|counter.songChoice=2|counter.songChoice=3|counter.songChoice=4]
+</note>
+</topic>
+<topic id="216" parent="214" guid="6fG7t5ORIkaD84jHmVUqGQ" x="15063.98" y="3526.11" text="commander: That wasn&apos;t at\Nall what I had in mind, Scow.">
+<note>
+[reveal:counter.songChoice=0|counter.songChoice=1|counter.songChoice=2|counter.songChoice=3|counter.songChoice=4]
+</note>
+</topic>
+<topic id="217" parent="150" guid="BzL443ngTkmJed3cOqPtyw" x="15381.08" y="2758.29" text="tilo: Perhaps later, sir."/>
+<topic id="218" parent="217" guid="U0JLWVu5qE-bw8yyQS9fDg" x="15118.80" y="3042.74" text="commander: Of course,\Nyes, I should get on.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="219" parent="217" guid="UWOoga35G0SFcG05fNwIHA" x="15381.08" y="3042.74" text="commander: Next\Ntime then, Scow.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="220" parent="217" guid="WO7KaHsx7ki_DegrSajziA" x="15701.41" y="3042.74" text="commander: Come, come, Scow.\NYou can&apos;t avoid it forever.">
+<children>
+<image guid="rqA1aNcLF0i5-y7MZ2pl0Q" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="120.00" y="-88.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="rqA1aNcLF0i5-y7MZ2pl0Q" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="120.00" y="-88.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="221" parent="217" guid="tEcAcNE9x066HfkYlERgfg" x="16025.47" y="3042.74" text="commander: Very well.">
+<children>
+<image guid="G0cxIIgmqkWNy1BYoBuIXQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="106.67" y="-68.57" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="G0cxIIgmqkWNy1BYoBuIXQ" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="106.67" y="-68.57" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="222" parent="144" guid="tSadEB2qdEyz5wVfqJSsjA" x="13441.53" y="2619.57" text="commander: ... a\Ntale of the past.">
+<note>
+[updateCounter:songChoice=5][variationIndex=5]
+</note>
+</topic>
+<topic id="223" parent="144" guid="bYlaZ48FkE62j70GLgejQw" x="13734.87" y="2701.24" text="commander: ... a\Nsong filled with sorrow.">
+<children>
+<image guid="pVx7ZW8RfESif8DIgNNtjg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="97.14" y="-76.66" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="pVx7ZW8RfESif8DIgNNtjg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="97.14" y="-76.66" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[updateCounter:songChoice=6][variationIndex=6]
+</note>
+</topic>
+<topic id="224" parent="142" guid="rG-cxoRlH0WdeQIa-jd3dQ" x="5508.63" y="670.04" text="tilo: I should get on, sir.\NWith your permission.">
+<parent-relation guid="8JzImyzoE06H-EHxsShS8w"/>
+</topic>
+<topic id="225" parent="224" guid="W-cgBINgjUuXZOYrhMoDPQ" x="5263.53" y="841.15" text="commander: You&apos;re\Ndismissed.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="226" parent="224" guid="EGDr5_yCrEqUOkX6sZLPPg" x="5717.12" y="841.15" text="commander:\NCarry on, Scow.">
+<children>
+<image guid="n6DUbFArT0KHMz5QkfgGJw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="103.75" y="-46.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="n6DUbFArT0KHMz5QkfgGJw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="103.75" y="-46.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="227" parent="224" guid="Oh1kL8nWx0mgnyb5v8DasA" x="5494.41" y="841.15" text="commander:\NVery good. You may go.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="228" parent="224" guid="GasPdwRcYkiMBH4QB4o0hg" x="5986.17" y="904.67" text="commander: Very good!\NI await your next report.">
+<children>
+<image guid="_4VgvwLWrUCeX0HPEK6Q0w" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="153.75" y="-57.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="_4VgvwLWrUCeX0HPEK6Q0w" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="153.75" y="-57.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[variationIndex=4]
+</note>
+</topic>
+<topic id="229" parent="224" guid="zL82vs0aAUCHolXpcVj0Yg" x="4978.55" y="899.92" text="commander: Of\Ncourse, of course.">
+<children>
+<image guid="dBr_ybF0p0WR4VvTvW5A4Q" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="61.25" y="-86.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="dBr_ybF0p0WR4VvTvW5A4Q" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="61.25" y="-86.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="230" parent="229" guid="YyHqHFwSDUC-eEq-zRJKWw" x="4978.55" y="1018.76" text="commander: Oh, Scow...">
+<note>
+[lockableThread:firstFarewell][lockThread:firstFarewell][unlockThread:mentionedJailerDeath]
+</note>
+</topic>
+<topic id="231" parent="230" guid="ij8fv_J3BUWWY4Pl767udw" x="4987.83" y="1103.03" text="commander: ... you know, my door&apos;s always\Nopen to you. Metaphorically speaking, of course.">
+<parent-relation guid="7NhbpCIZr0-rjdp7v5LhaA"/>
+<note>
+[lockThread:firstFarewell]
+</note>
+</topic>
+<topic id="232" parent="231" guid="52HHlPsXwk6cWTZHuVKlSA" x="4976.40" y="1259.73" text="commander: The garrison&apos;s stretched\Nrather thin at the moment, personnel-wise. I\Ncan&apos;t guarantee I&apos;ll always be here in my\Noffice."/>
+<topic id="233" parent="232" guid="iTC1LTMNYEKRVLl08MOffg" x="4977.83" y="1409.75" text="commander: Afternoons you&apos;ll find me\Ndown in the Harbourmaster&apos;s office. We\Nall have to muck in where we can.">
+<parent-relation guid="VPCPEkFqrEWIJYsM_iu6sg"/>
+<children>
+<image guid="YkQkMg9IR0iQJKvadwEzqQ" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="242.22" y="43.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="YkQkMg9IR0iQJKvadwEzqQ" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="242.22" y="43.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="234" parent="233" guid="ykfei-WkD0-Mfd6EM9G4rg" x="4745.55" y="1683.42" text="tilo: The\NHarbourmaster&apos;s\Noffice, sir?"/>
+<topic id="235" parent="234" guid="lLeMcVB4LkuZ2RUtOgXJcg" x="4745.55" y="1843.42" text="commander: Ah, you&apos;ve not\Nventured down to the harbour yet?">
+<children>
+<image guid="EuWt-jn8nEGIlQMcNLtZhA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="155.56" y="-75.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="EuWt-jn8nEGIlQMcNLtZhA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="155.56" y="-75.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="236" parent="235" guid="tSwo00lnkkSYeLskHXUiMg" x="4897.83" y="2084.88" text="tilo: Not yet, sir. "/>
+<topic id="237" parent="236" x="4897.83" y="2229.88" text="commander: Well, we&apos;ll have to\Nmake sure you get the grand\Ntour at some point."/>
+<topic id="238" parent="237" guid="UqkHLnOGNUSf7Kku5JYoUA" x="5212.30" y="2229.88" text="commander: Carry on.">
+<children>
+<image guid="ClbhEuZpfUuXnuRg8hC7dg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="118.75" y="-60.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="ClbhEuZpfUuXnuRg8hC7dg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="118.75" y="-60.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="239" parent="235" guid="CmHgufrtrUS0j5Hzj_Mfag" x="4549.47" y="2084.88" text="tilo: I believe the west gate\Nis closed at the moment, sir?"/>
+<topic id="240" parent="239" guid="BjpWKc4_xk2d6dBiso0X4A" x="4549.47" y="2229.88" text="commander: Of\Ncourse! The spiders..."/>
+<topic id="241" parent="233" guid="kOlxkqjTpkqMfBiuRn_GwA" x="5212.30" y="1695.42" text="tilo: I&apos;m not afraid to get\Nmy hands dirty, sir."/>
+<topic id="242" parent="241" x="5212.30" y="1843.42" text="commander:\NThat&apos;s the spirit!"/>
+<topic id="243" parent="233" guid="6gCFPBvygUm20_Y7y-pbjg" x="5537.83" y="1695.42" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="244" parent="75" guid="e9YbeHt8gEKMbVFyyHfmSA" x="2368.11" y="2834.48" text="tilo: Sir... I&apos;m afraid\Nthe Jailer is murdered.">
+<parent-relation guid="oJaWNRRRykSrxSzpQDPmDA"/>
+<note>
+[reveal:quest_findJailer.talkToCommander=active]
+</note>
+</topic>
+<topic id="245" parent="244" guid="eb2mVSJKm02VyCgihGG7UQ" x="2368.11" y="3027.57" text="commander:\NMurdered?!\NYou&apos;re certain?">
+<children>
+<image guid="MzRsttsQpUmzqTDWwdT1fg" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="95.36" y="-65.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="MzRsttsQpUmzqTDWwdT1fg" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="95.36" y="-65.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="246" parent="245" guid="u67XbPv-e0itWubccqOmCA" x="2124.89" y="3222.42" text="tilo: I discovered his body at\Nthe bottom of the well."/>
+<topic id="247" parent="246" guid="4F_vtQjoBE2dWpS7F1-ghA" x="2339.48" y="3637.34" text="commander: What\Nevidence have you of this?">
+<note>
+[lockableThread:mentionedJailerDeath=true]
+</note>
+</topic>
+<topic id="248" parent="247" guid="NLakzmeNzUKzDYuaclvzGQ" x="2535.46" y="3791.95" text="tilo: Here, sir. I have\Nthe Jailer&apos;s obol.">
+<note>
+[executeAction:giveItem=book_manuscript_jailersLedger]
+</note>
+</topic>
+<topic id="249" parent="248" guid="gBM_gl2SmEuOq9MLR7nmrg" x="2140.96" y="4239.95" text="commander: T-this\Nis his blood...?">
+<children>
+<image guid="PrFzTfV9EkiLTOTLHcrrYw" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="138.75" y="-15.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="PrFzTfV9EkiLTOTLHcrrYw" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="138.75" y="-15.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="250" parent="249" guid="OR0qgLv2UkCLsaNDuY680A" x="2140.96" y="4349.29" text="commander: ...\NThank you Scow.">
+<parent-relation guid="AnrPSj6LBEiuU7BbzUt7kw"/>
+<note>
+[completeTask:quest_findJailer.talkToCommander]
+</note>
+</topic>
+<topic id="251" parent="250" guid="atys4e7iHEeH-wuErykjDQ" x="1954.17" y="4552.04" text="tilo: Sir, should I continue\Nmy investigation into this matter?">
+<parent-relation guid="S5C-tE0f9ESkRHFLGex2uQ"/>
+</topic>
+<topic id="252" parent="251" guid="L-SEb42il0GRqPuNgSea0g" x="1954.17" y="4670.55" text="commander: No, no. Leave\Nit with me, Private."/>
+<topic id="253" parent="252" guid="hac3J-pRqUyUHQcKd2PgvQ" x="2274.90" y="4670.55" text="commander: Rest assured the\Nkiller will be brought to justice.">
+<parent-relation guid="z9AeXJLdakehBJZEs1PsRQ"/>
+<children>
+<image guid="vWqZH1xRek62HdkQUq9Fgw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="185.00" y="-46.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="vWqZH1xRek62HdkQUq9Fgw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="185.00" y="-46.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="254" parent="253" guid="pC5YYOPVD02ywqQ2fWQtCQ" x="7918.36" y="8184.63" text="commander: Now...">
+<parent-relation guid="eTQ2HxQ7y0eIR12zLHKs_w"/>
+</topic>
+<topic id="255" parent="254" guid="sy4HEPUC_EyjwiXCAfuRww" x="6829.04" y="8617.59" text="commander: I&apos;m grateful, Scow,\Nfor your assistance in this\Nmatter. I&apos;d like to do something\Nfor you in return.">
+<parent-relation guid="prHlTvkQXke11q-28MfdFA"/>
+<note>
+[counter:skillProgression=1][reveal:counter.skillProgression=1][updateCounter:skillProgression=2]
+</note>
+</topic>
+<topic id="256" parent="255" guid="ksRfneSrWkKDlvHHHZXYIQ" x="6519.04" y="8776.55" text="tilo: Really, sir, that\Nisn&apos;t necessary."/>
+<topic id="257" parent="256" guid="99DHZZVQVkKyWL2AMT19KA" x="6829.04" y="8951.07" text="commander: Your\Narmour, Scow--it&apos;s rather\Nill-fitting, isn&apos;t it?">
+<parent-relation guid="sYB7JLITG0aO7fNuVbdI8w"/>
+<note>
+[updateCounter:dialog_rolo.skillPoints+1]
+</note>
+</topic>
+<topic id="258" parent="257" guid="LGXfkSuYNU6XYChMvn1KRg" x="6829.04" y="9078.57" text="commander: I mean, look at\Nyou! You can barely walk in it.">
+<children>
+<image guid="8ROhT1xP7UOKn4TB50Dm3A" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="176.67" y="-43.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="8ROhT1xP7UOKn4TB50Dm3A" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="176.67" y="-43.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="259" parent="258" guid="RAH_X6ZODkyf4zKUdm972g" x="6829.04" y="9213.57" text="commander: I can have the\Nsmithy make some adjustments if\Nyou like--shave off some weight..."/>
+<topic id="260" parent="259" guid="XocpWa2cj0qqajqMTyXabA" x="6829.04" y="9356.07" text="commander: ... cut down the\Nfaulds, re-tailor the greaves--so\Nyou can move more freely."/>
+<topic id="261" parent="260" guid="uZWENrVHLkGiZZo0slpzfw" x="6829.04" y="9517.18" text="commander: Oh, and I should have him\Nbrief you about the traps, given all the\Nproblems we&apos;re having with spiders...">
+<children>
+<image guid="kyp1nOUoCUWrZCJiDIApWg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="213.33" y="-80.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="kyp1nOUoCUWrZCJiDIApWg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="213.33" y="-80.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="262" parent="261" guid="ypZs9ziW40yg4H9N55DUPQ" x="6829.04" y="9654.95" text="commander: ... but one\Nthing at a time, eh? Now..."/>
+<topic id="263" parent="262" guid="LGkvsVSoykaM6GzSr2AOmA" x="6829.04" y="9798.29" text="The Commander takes a sheet of\Npaper and his quill pen, beginning to\Nwrite. After signing his name, he folds\Nthe paper into thirds and seals it with\Nwax before passing it to you.">
+<note>
+[narration][executeAction:receiveItem=paper_manuscript_commanderOrdersRolo]
+</note>
+</topic>
+<topic id="264" parent="263" guid="jtLe-CUqTUyGCS-ZRbVQwQ" x="6829.04" y="10000.07" text="commander: ... take this\Nto the smithy. He&apos;ll\Nknow what to do with it."/>
+<topic id="265" parent="255" guid="eYaQKjTesEqTAI_rv6DIKQ" x="7109.04" y="8745.44" text="tilo: What did you\Nhave in mind, sir?"/>
+<topic id="266" parent="265" guid="_CtQJXZOeUSq_ujL3U-Vag" x="7109.04" y="8848.99" text="commander: Well,\Nlet&apos;s see now..."/>
+<topic id="267" parent="254" guid="_nd6X9qWnEyQ2WWSeK4h2A" x="7489.19" y="8694.26" text="commander: ... take\Nthis to the smithy...">
+<note>
+[reveal:counter.skillProgression=2][updateCounter:skillProgression=3]
+</note>
+</topic>
+<topic id="268" parent="267" guid="N1OYwfdBzEiL0FamSDRmUA" x="7489.19" y="8842.80" text="Once again the\NCommander prepares\Norders for the blacksmith.">
+<note>
+[narration][executeAction:receiveItem=paper_manuscript_commanderOrdersRolo][updateCounter:dialog_rolo.skillPoints+1]
+</note>
+</topic>
+<topic id="269" parent="268" guid="PAsh2L0CKUSdDGto9w-RBA" x="7489.19" y="8980.58" text="commander: ... perhaps there&apos;s\Nmore he can do for you."/>
+<topic id="270" parent="254" guid="biToX1GD8kaZdmbzCoNDvw" x="7918.36" y="8745.44" text="The Commander hands you\Norders, already signed and sealed.">
+<parent-relation guid="ePVkFqkgZUmxioVrhf05Og"/>
+<note>
+[narration][reveal:counter.skillProgression=3][updateCounter:skillProgression=4][executeAction:receiveItem=paper_manuscript_commanderOrdersRolo]
+</note>
+</topic>
+<topic id="271" parent="270" guid="sISm2xr78U6dKjmjl_sJFg" x="7918.36" y="8980.58" text="commander: ... would you take this to\Nthe smithy? You know the drill by now.">
+<parent-relation guid="b1GMbtxKo0ate7QG-r10UQ"/>
+<note>
+[updateCounter:dialog_rolo.skillPoints+1]
+</note>
+</topic>
+<topic id="272" parent="254" guid="-xbFnJITOk2Fgx-_kj08aA" x="8410.03" y="8694.26" text="The Commander pushes sealed orders\Nfor the blacksmith across the desk.">
+<note>
+[narration][reveal:counter.skillProgression=4][updateCounter:skillProgression=5][executeAction:receiveItem=paper_manuscript_commanderOrdersRolo]
+</note>
+</topic>
+<topic id="273" parent="272" guid="NSsncx7190yV-uor8C4RvA" x="8410.03" y="8980.58" text="commander: ... take these.\NIt&apos;s the least I can do.">
+<parent-relation guid="-9eNh8VeLEWTVB9IYqxjQw"/>
+<children>
+<image guid="dwbOuD2iqUm2YlVpzUbh-g" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="149.00" y="-65.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="dwbOuD2iqUm2YlVpzUbh-g" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="149.00" y="-65.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[updateCounter:dialog_rolo.skillPoints+1]
+</note>
+</topic>
+<topic id="274" parent="254" guid="XQL9Ub3ATEehnIME3PGDWQ" x="8957.48" y="8543.23" text="commander: ... it seems your\Nassignments are complete.">
+<parent-relation guid="tP_h-sDgvEeOv77F0-Jb6g"/>
+<children>
+<image guid="cJJZjuiyck2uo-qfULEplw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="168.89" y="-61.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="cJJZjuiyck2uo-qfULEplw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="168.89" y="-61.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.skillProgression=5]
+</note>
+</topic>
+<topic id="275" parent="274" guid="lsOp-tf8I0CiATp2Z5zynw" x="8957.48" y="8654.42" text="commander: Well done,\NScow... well done indeed."/>
+<topic id="276" parent="275" guid="EgT5aXYU5U2chsQJM7WmSg" x="8802.93" y="8781.73" text="commander: I only wish I had\Nmore bucks like you on staff.">
+<parent-relation guid="VnMzhL53TUmxLKxDAtoJ0Q"/>
+<note>
+[lockableThread:notQuoteScow]
+</note>
+</topic>
+<topic id="277" parent="276" guid="pTBa4U9ezkuhnmOQ3jNAZg" x="8967.93" y="9005.93" text="commander: Private Scow... you have served the\N[Red Paw] and Duinlan Heights with distinction.">
+<note>
+[footnote:red_paw][counter:promotionToSergeant=0][updateCounter:promotionToSergeant=1]
+</note>
+</topic>
+<topic id="278" parent="277" guid="AZy-LYJu3k2HGJ5lbkM8KQ" x="8967.93" y="9116.76" text="commander: I hereby bestow upon\Nyou the rank of sergeant, with all the\Nprivileges and duties that entails.">
+<children>
+<image guid="PTJeA_Qd4UiJyD4y7uhn6A" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="221.11" y="22.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="PTJeA_Qd4UiJyD4y7uhn6A" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="221.11" y="22.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="279" parent="278" guid="E0-LqWKqWEyjXsVkbeabgg" x="8967.93" y="9227.60" text="commander: Congratulations!">
+<parent-relation guid="mUvYjEPW0kaTKCRnxvK5rw"/>
+<children>
+<image guid="kLfy7ZCSzkatTRQk6VR9_g" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="-196.67" y="22.32" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="kLfy7ZCSzkatTRQk6VR9_g" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="-196.67" y="22.32" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="280" parent="275" guid="gXF-haP9kUOwbzPmQ0iZuA" x="9134.81" y="8781.73" text="commander: &quot;Short in stature,\Nbut not courage&quot;.">
+<parent-relation guid="tqokVwoWRUyX9m-HXN0rlA"/>
+<children>
+<image guid="zzRhmakIZEacRktdlH5Ikg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="163.33" y="-65.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="zzRhmakIZEacRktdlH5Ikg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="163.33" y="-65.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[lockableThread:quoteScow=true]
+</note>
+</topic>
+<topic id="281" parent="250" guid="r1woxp-zLkqF-DYu-V3f5w" x="2274.90" y="4552.04" text="tilo: Thank you, sir."/>
+<topic id="282" parent="247" guid="MwSU1MSO60mtDMlpwb6YCQ" x="2141.96" y="3791.95" text="tilo: Evidence? He has a\Nknife in his back, sir."/>
+<topic id="283" parent="282" guid="JMh6I7Cy_kSaJ9Oh8aUacA" x="2141.96" y="3897.95" text="commander: Is that a\Njoke, Private?"/>
+<topic id="284" parent="283" guid="O_qgl6KWRkmsBSK-nf_2ew" x="2141.96" y="4002.62" text="commander: ... What&apos;s that\Nyou have there...?">
+<parent-relation guid="UJ2Ic2TcLk2YbSywiLgajg"/>
+<children>
+<image guid="u4UrRkajlESlRSJCh37qCw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="178.75" y="5.83" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="u4UrRkajlESlRSJCh37qCw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="178.75" y="5.83" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="285" parent="284" guid="72zRxNJ7I0GYXxaG3Akxdw" x="2141.96" y="4121.03" text="The Commander\Ntakes the Jailer&apos;s\N[obol] from your paw.">
+<note>
+[narration][executeAction:giveItem=dogtag_jailer][footnote:obol]
+</note>
+</topic>
+<topic id="286" parent="246" guid="2iK3weMk4kiEjWL4UW63VQ" x="2339.48" y="3333.48" text="commander: And you didn&apos;t\Nthink to say anything?!">
+<children>
+<image guid="vUSINxMo00KQKwPSQQtXNg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="192.86" y="-19.26" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="vUSINxMo00KQKwPSQQtXNg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="192.86" y="-19.26" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[lockableThread:notMentionedJailerDeath][unlockThread:mentionedJailerDeath]
+</note>
+</topic>
+<topic id="287" parent="286" guid="x7RA-JcTlUqRK5cPcQxRyg" x="2073.77" y="3477.99" text="tilo: &lt;REMAIN SILENT&gt;"/>
+<topic id="288" parent="286" guid="HUMA1fm4zkWM2rJvezn35A" x="2556.71" y="3477.99" text="tilo: Sir, I found him just\Nbefore you summoned me here."/>
+<topic id="289" parent="245" guid="vVAhK7mXPke-jgulwMxc6Q" x="2545.07" y="3212.80" text="tilo: Quite sure, sir."/>
+<topic id="290" parent="75" guid="Si4zrdoQiU-VC7c5JVXjoQ" x="3864.42" y="2736.30" text="tilo: Sir... I&apos;ve discovered the identity\Nof each of the five smugglers.">
+<parent-relation guid="1IegtmSETEiwugQdWBxKKw"/>
+<note>
+[reveal:quest_findSmugglers.talkToCommander=active]
+</note>
+</topic>
+<topic id="291" parent="290" guid="pQ0yngZebkiB1TEQrrsKRQ" x="3864.14" y="2904.07" text="commander: Go on...">
+<children>
+<image guid="Yf_T3PnqL0GbS-Tkz9uPQQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-135.56" y="-43.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Yf_T3PnqL0GbS-Tkz9uPQQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-135.56" y="-43.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="292" parent="291" guid="hTuCiMsLtkOzwBmMWlKctA" x="3864.14" y="3061.85" text="You present the commander with the\Nscarred [obols], each bearing the name\Nof one of the five smugglers.">
+<note>
+[narration][footnote:obol]
+</note>
+</topic>
+<topic id="293" parent="292" guid="-1LincS6HUOz9rft7s6gVw" x="3864.85" y="3282.56" text="commander: Excellent work, Scow!\NI&apos;ll have them arrested, tried, and\Nexecuted before the week&apos;s out.">
+<note>
+[completeTask:quest_findSmugglers.talkToCommander]
+</note>
+</topic>
+<topic id="294" parent="75" guid="v4I1Z9Un5EOTl2ZCmsH5Hw" x="5237.64" y="2599.49" text="tilo: Sir... I&apos;ve discovered\Nthe true identity of the Master.">
+<parent-relation guid="lF0d6zU2YEGFfK6kwrNA3w"/>
+<note>
+[reveal:quest_findTheMaster.talkToCommander=active][counter:reportRezziaMaster=0][updateCounter:reportRezziaMaster=1]
+</note>
+</topic>
+<topic id="295" parent="294" guid="p4zeS4kJgE2TvarlxIG3dA" x="5237.64" y="2726.16" text="commander: Oh?! And who is he?"/>
+<topic id="296" parent="295" guid="q5gEjH0NMk2tTs4RurSQJg" x="5449.86" y="2941.16" text="tilo:\NNot &apos;he&apos;, sir..."/>
+<topic id="297" parent="296" guid="00c4VTP39Ueij09MrT1lsA" x="5238.75" y="3166.16" text="You hand the ledger to the\Ncommander. He opens the book,\Nand leafs through its pages.">
+<parent-relation guid="9QuDLPti8EWezGqagpgFKA"/>
+<note>
+[narration][executeAction:giveItem=book_manuscript_ledger]
+</note>
+</topic>
+<topic id="298" parent="297" guid="4Tn7z2Ox-0SJf2_c-7dKEA" x="5238.75" y="3317.27" text="commander: Ouma Rezzia?! It&apos;s\Nhard to believe... but there it is,\Nwritten in her own hand.">
+<parent-relation guid="Ra-Sxt9NWUOk90od-EStSQ"/>
+<children>
+<image guid="c-u2xiYHgkm3IlTh8G3o3w" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="195.00" y="-55.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="c-u2xiYHgkm3IlTh8G3o3w" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="195.00" y="-55.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_findTheMaster.talkToCommander][executeAction:deactivateRezzia]
+</note>
+</topic>
+<topic id="299" parent="298" guid="2i_Jiuufjki2GxLiSZ14xQ" x="5433.19" y="3533.13" text="commander: Thank you,\NScow. I&apos;ll deal with this myself.">
+<note>
+[reveal:quest_theApiary=active|quest_theApiary=complete]
+</note>
+</topic>
+<topic id="300" parent="298" guid="crWPNu0vQUix6DBRUThZPQ" x="5016.75" y="3533.13" text="commander: A pity... Rezzia had\Npromised to repopulate our apiary, down\Nin the garden. I do so miss fresh honey.">
+<children>
+<image guid="oL8SK-wDiUazHFE5p_pp9w" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="190.00" y="-78.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="oL8SK-wDiUazHFE5p_pp9w" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="190.00" y="-78.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[reveal:quest_theApiary=inactive]
+</note>
+</topic>
+<topic id="301" parent="300" guid="1afxWRemC06nXhl4zBBzAw" x="5016.75" y="3681.19" text="commander: See to it,\Nwould you Scow?">
+<note>
+[startQuest:quest_theApiary]
+</note>
+</topic>
+<topic id="302" parent="295" guid="dF83JFm12E-TrUN_8JOC2w" x="5038.14" y="2865.60" text="tilo: Are you... sure\Nyou want to know, sir?"/>
+<topic id="303" parent="302" guid="ubna49bD2k2OKCAbaea4sA" x="5038.14" y="3004.29" text="commander: Don&apos;t be\Nridiculous, Scow! Out with it!">
+<children>
+<image guid="Doh4ak9u2kORXuTtUAv01w" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="147.50" y="-52.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Doh4ak9u2kORXuTtUAv01w" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="147.50" y="-52.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="304" parent="75" guid="imLpeg73GUGtmnH4UrwrGQ" x="4608.42" y="7117.38" text="tilo: Commander! Thirteen banners have been burned around the keep.">
+<parent-relation guid="JdxEeKTqZk2BhoWzNCdRrQ"/>
+<note>
+[reveal:quest_burningOfTheRedPaw.talkToCommander=active]
+</note>
+</topic>
+<topic id="305" parent="304" guid="xQ0XT2X5uEmQ97z1QJvjAg" x="4608.42" y="7246.55" text="commander: Thirteen?!">
+<children>
+<image guid="1uuZwVzhx0Kt0qa4J5Vysg" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="146.14" y="-41.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="1uuZwVzhx0Kt0qa4J5Vysg" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="146.14" y="-41.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="306" parent="305" guid="TglOcD9xmk6T137TXb52GQ" x="4608.42" y="7384.46" text="commander: This is [Great\NBirham] all over again, Scow--a\Nsign of things to come.">
+<note>
+[footnote:great_birham]
+</note>
+</topic>
+<topic id="307" parent="306" guid="zoeQpgj2EEWGWQNQ4pEp8g" x="4608.42" y="7549.67" text="commander: Aye... it starts\Nwith burning banners, and\Nends with a mob at the gates,\Nand the garrison in flames!">
+<children>
+<image guid="09cOn18cwkuwjW2mjQ7ojA" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="177.14" y="-41.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="09cOn18cwkuwjW2mjQ7ojA" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="177.14" y="-41.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="308" parent="307" guid="bqj5PYp8B0OXbl6TF3nbxg" x="4608.42" y="7698.29" text="commander: It&apos;s that\Ndamned Mouse, Scow...">
+<parent-relation guid="boTwKhWpZkmWjU7DhRIFxQ"/>
+<children>
+<image guid="3ItSxf9PSkSqNfCEZpeasg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="154.00" y="-28.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="3ItSxf9PSkSqNfCEZpeasg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="154.00" y="-28.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="309" parent="308" guid="P7MS3in5rUm3vdb2vSrhJA" x="4412.10" y="7869.20" text="tilo: Tilo, sir."/>
+<topic id="310" parent="309" guid="cpDAao_-d0-lMDmF90eAwA" x="4412.10" y="8002.84" text="commander:\NAye, that&apos;s it..."/>
+<topic id="311" parent="310" guid="5Kw_PByFWkGF8R8nBqL9ww" x="4608.42" y="8174.66" text="commander: ... the one from the jail.\NHe&apos;s behind this, I&apos;m sure of it.">
+<parent-relation guid="a8_hiN6zC0WNNx1e-2v8JQ"/>
+</topic>
+<topic id="312" parent="311" guid="f4nZtnf61EKKlYkaLQ-Ikg" x="4608.42" y="8323.97" text="commander: I&apos;ll have Yuva send\Nreinforcements. I promise you this...">
+<note>
+[completeTask:quest_burningOfTheRedPaw.talkToCommander]
+</note>
+</topic>
+<topic id="313" parent="312" guid="yEGQl6MKrEywDGv-0hFIkw" x="4608.42" y="8479.97" text="commander: ... history will not\Nrepeat itself on my watch!">
+<children>
+<image guid="mJJTRqnTukKgGZ5xV3nceA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="174.00" y="-52.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="mJJTRqnTukKgGZ5xV3nceA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="174.00" y="-52.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="314" parent="308" guid="f4IyyYiJzUywUOsR6GLQFw" x="4795.73" y="7869.20" text="tilo: &lt;REMAIN SILENT&gt;"/>
+<topic id="315" parent="75" guid="wEKN0g0kpUCGVxlTJywf_g" x="10455.33" y="5586.15" text="tilo: The rest of the squad...\Nthey&apos;re dead. I have their obols.">
+<parent-relation guid="mV6aTB3YNkqYJC0aKakAbQ"/>
+<note>
+[reveal:quest_lostSquad.talkToCommander=active;quest_mysteryOfDuinlansTomb.talkToDuinlan=complete]
+</note>
+</topic>
+<topic id="316" parent="315" guid="du5U29j11E-Flmqx3I64LQ" x="10455.33" y="5727.22" text="commander: ...\NMay I see them?"/>
+<topic id="317" parent="316" guid="VioKGT7lFkmg6YTMy07QrQ" x="10455.33" y="5875.10" text="commander: Kith...\NBowdle... Skarf.">
+<parent-relation guid="IZrtjtJfQE69Z70TRtK8Cw"/>
+<children>
+<image guid="XyTocVuxxUeq2DiTMldEJw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="128.57" y="-47.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="XyTocVuxxUeq2DiTMldEJw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="128.57" y="-47.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[executeAction:giveItem=dogtag_squad*99)
+</note>
+</topic>
+<topic id="318" parent="317" guid="cZwky7scjEWVkSlt6NUI8w" x="10455.33" y="6027.40" text="commander: I appreciate you\Nbringing these to me, Scow...">
+<children>
+<image guid="G9rtNbPxIEiTPL_WY5Mdkg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="175.71" y="-57.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="G9rtNbPxIEiTPL_WY5Mdkg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="175.71" y="-57.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="319" parent="318" guid="h8k_P8TZ0U2OM7RbmMuxwg" x="10455.33" y="6171.85" text="commander: ... it&apos;s a pity\Nyou couldn&apos;t help them more.">
+<parent-relation guid="_c3YDcYDBE6zipHBEp9mtw"/>
+<note>
+[completeTask:quest_lostSquad.talkToCommander]
+</note>
+</topic>
+<topic id="320" parent="75" guid="UzAQ4Gpxo0WR9YZGsV_PMg" x="7526.39" y="2475.44" text="tilo: Sir, the prison transport&apos;s\Nitinerary needs signing.">
+<parent-relation guid="UM6xOoFqf0aYz0dW64yqdA"/>
+<note>
+[counter:songCompliments=0][reveal:quest_changeTransportPlan.talkToCommander=active]
+</note>
+</topic>
+<topic id="321" parent="320" guid="A0beLxeQE0-u1_oB2wQFAw" x="7526.39" y="2601.00" text="commander: Good,\Ngood. Listen to this...">
+<children>
+<image guid="ltjDkgI6gEeFTf-I3h8_Bg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="140.00" y="-13.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="ltjDkgI6gEeFTf-I3h8_Bg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="140.00" y="-13.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="322" parent="321" guid="edn7BXAs5069AC-CVQjzAw" x="7526.39" y="2711.28" text="The commander\Ntakes up his lyre.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="323" parent="322" guid="anW105MAr0u56l7CqvNVvg" x="7526.39" y="2831.56" text="commander: Ahem...">
+<parent-relation guid="GcDrTzUlpkq7WX5B137ghg"/>
+<children>
+<image guid="69nxAzi4sE2KQOFXbOvpLw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="133.75" y="-40.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="69nxAzi4sE2KQOFXbOvpLw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="133.75" y="-40.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[executeAction:performSong=song_commander]
+</note>
+</topic>
+<topic id="324" parent="323" guid="4TnPY7KlvUWfHLeuTq-TKA" x="7224.25" y="2977.99" text="commander: So--and tell me\Ntruthfully--what did you think?">
+<note>
+[variationIndex=0][counter:quizCritiqueSong=4][showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="325" parent="324" guid="g4Ermvgz2UaZPYdpJOn35g" x="7526.39" y="3119.28" text="DIALOGUE_HUB"/>
+<topic id="326" parent="325" guid="GlPme3YJXUStNzrMYTcA7A" x="6170.18" y="3818.32" text="tilo: Your rhymes\Nare very... bold.">
+<note>
+[updateCounter:songCompliments+1][lockableThread:complimentRhymes][lockThread:complimentRhymes]
+</note>
+</topic>
+<topic id="327" parent="326" guid="e6QszjIMZ0OvYdzDSCS7yw" x="6176.18" y="3986.93" text="commander: I know. Which couplet\Nwere you most impressed by?">
+<children>
+<image guid="F86TYpkSCkmB82usj-U6BA" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="195.56" y="-68.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="F86TYpkSCkmB82usj-U6BA" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="195.56" y="-68.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="328" parent="327" guid="H3Oie9ckKk6kBZaCD1McYg" x="6170.18" y="4085.12" text="DIALOGUE_HUB"/>
+<topic id="329" parent="328" guid="s0gGcNubK0241B5j9Ux4ng" x="6170.18" y="4295.59" text="tilo: The pairing of &apos;breeze&apos; and &apos;squeeze&apos;.">
+<parent-relation guid="OmuVgmCyrkWlbXE1a_v_Rw"/>
+<note>
+[lockableThread:incorrectRhymeB][lockThread:incorrectRhymeB]
+</note>
+</topic>
+<topic id="330" parent="329" guid="kpBKthr8mUyaklw8raqazw" x="6170.18" y="4532.59" text="commander: Oh? I don&apos;t\Nthink that&apos;s quite right, Scow.">
+<note>
+[showRenown:quizCritiqueSong][updateCounter:quizCritiqueSong-1]
+</note>
+</topic>
+<topic id="331" parent="328" guid="nhgl--Db40Gzxvmg5nzcvA" x="5728.15" y="4295.59" text="tilo: The way you rhymed\N&apos;sneeze&apos; with &apos;tease&apos;.">
+<parent-relation guid="10fDHakHYUqjs17TXC9z7w"/>
+<note>
+[lockableThread:incorrectRhymeA][lockThread:incorrectRhymeA]
+</note>
+</topic>
+<topic id="332" parent="331" guid="9_K8dUFiFk6cXR5UomYpNQ" x="5728.15" y="4532.59" text="commander: I believe you\Nmight have misheard, Scow.">
+<children>
+<image guid="7Wk2a9aR2EytF9nOYm56Yg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="156.67" y="-64.34" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="7Wk2a9aR2EytF9nOYm56Yg" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="156.67" y="-64.34" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizCritiqueSong][updateCounter:quizCritiqueSong-1]
+</note>
+</topic>
+<topic id="333" parent="328" guid="SQkUdjdSi0ybZRDdBo20Yg" x="6585.18" y="4295.59" text="tilo: Your rhyming of\N&apos;breeze&apos; with &apos;sneeze&apos;.">
+<parent-relation guid="p9epCdMsXk6J2Ibx6nw-aQ"/>
+</topic>
+<topic id="334" parent="333" guid="QAMYQc-TG02h6LlXJMd5bg" x="6585.18" y="4532.59" text="commander: Ah, yes! One of\Nmy more poetic moments.">
+<children>
+<image guid="IQKUSRZ2ZEitUJrPw4cAiA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="147.78" y="-70.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="IQKUSRZ2ZEitUJrPw4cAiA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="147.78" y="-70.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="335" parent="334" guid="CDO16vvLLkqXyUIvfqc7Ng" x="6490.18" y="4687.29" text="commander: What\Nelse impressed you?">
+<note>
+[reveal:counter.songCompliments&lt;2][showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="336" parent="325" guid="IZ3ecIODWkaiDWAujT44ZA" x="7531.39" y="3807.79" text="tilo: The imagery\Nis... powerful.">
+<note>
+[updateCounter:songCompliments+1][lockableThread:complimentImagery][lockThread:complimentImagery]
+</note>
+</topic>
+<topic id="337" parent="336" guid="ybLZmtUcNU2d2EM4orlAEg" x="7531.39" y="3978.40" text="commander: I felt so,\Ntoo. Which image did you\Nfind most evocative?">
+<children>
+<image guid="yAIOUiC0SUmx0-dwWD1xiw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="127.78" y="-75.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="yAIOUiC0SUmx0-dwWD1xiw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="127.78" y="-75.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="338" parent="337" x="7531.39" y="4074.59" text="DIALOGUE_HUB"/>
+<topic id="339" parent="338" guid="ntVWbfXNoEqcOOlLzg6F3w" x="7531.39" y="4285.06" text="tilo: Her ears flapping\Nin the breeze--inspired!"/>
+<topic id="340" parent="339" guid="pHvEVZK7S0ydOsP7R8akmg" x="7531.39" y="4522.06" text="commander: Aye... you can\Nalmost see them, can&apos;t you?">
+<children>
+<image guid="n90_Yd9g1kqNGlxZsZp39w" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="170.00" y="-52.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="n90_Yd9g1kqNGlxZsZp39w" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="170.00" y="-52.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="341" parent="340" guid="_dRFEC53fkO7nrvIK2T7fQ" x="7715.83" y="4698.75" text="commander: Was there\Nsomething else you admired?">
+<parent-relation guid="lZt4Kxi68EalKcRQw30Dww"/>
+<note>
+[reveal:counter.songCompliments&lt;2][showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="342" parent="340" guid="rjYj7KkULEC782OigCMUEw" x="7531.39" y="4879.70" text="commander: It&apos;s gratifying to receive\Nsuch praise from a fellow troubadour!">
+<children>
+<image guid="Wy6FzexZv0y8QLCAzgpQQg" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="213.75" y="-50.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="Wy6FzexZv0y8QLCAzgpQQg" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="213.75" y="-50.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.songCompliments=2][executeAction:grantRenown=quizCritiqueSong]
+</note>
+</topic>
+<topic id="343" parent="342" guid="kXFt16dLX06qVbryN4Ld3Q" x="7531.39" y="5016.44" text="commander: Now,\Nwhat&apos;s this...?">
+<children>
+<image guid="40VKAzY6VEevODt4UwKSow" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="145.00" y="1.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="40VKAzY6VEevODt4UwKSow" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="145.00" y="1.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="344" parent="343" guid="wHESCVBqxEqJJMmyW27UWw" x="7531.39" y="5134.30" text="The Commander takes the itinerary and, holding it at\Narm&apos;s length, studies it with an almost theatrical intensity.">
+<parent-relation guid="_LzefiX2GUen8RC2gKTxTw"/>
+<note>
+[narration][executeAction:giveItem=paper_manuscript_transportItineraryRevised]
+</note>
+</topic>
+<topic id="345" parent="344" guid="F3dDP5DbdUKvIKEJ2thJzA" x="7531.39" y="5264.30" text="commander: I see... I see...\Ngood... alright... I- Gadwell?"/>
+<topic id="346" parent="345" guid="x2u4fYQajES_g7RcMoLvZQ" x="7760.39" y="5369.44" text="tilo: Aye, sir."/>
+<topic id="347" parent="345" guid="tGmwfCv03UCE4VFLuO_eQg" x="7272.89" y="5369.44" text="tilo: Is... there a\Nproblem, sir?"/>
+<topic id="348" parent="347" guid="aS2gt_7RhUWCM2OVDWyyOQ" x="7272.89" y="5492.59" text="commander: I was\Nstationed in Gadwell, oh, it\Nmust be fifteen years ago now.">
+<parent-relation guid="N4odiWBQs0adwMVO6Av2Hg"/>
+</topic>
+<topic id="349" parent="348" guid="zDAaBs6mHkyl51nbEoVlEw" x="7760.39" y="5492.59" text="commander: A charming\Nfishing port! You really\Nshould visit sometime.">
+<children>
+<image guid="KkIz8T5YFUyd0afeFQDA7w" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="156.00" y="24.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="KkIz8T5YFUyd0afeFQDA7w" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="156.00" y="24.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="350" parent="349" guid="aieWpyres0O8iXRqQprVzg" x="7760.39" y="5630.73" text="commander: Tough place for the [Red Paw] now, though.">
+<note>
+[footnote:red_paw]
+</note>
+</topic>
+<topic id="351" parent="350" guid="r5ppXW4WNEC_nTPjCWV6KA" x="7760.39" y="5765.87" text="With a wink and a flourish of his quill pen, the Commander signs the document.">
+<parent-relation guid="tfae_n04SkOgmcIOIPr0SQ"/>
+<note>
+[narration]
+</note>
+</topic>
+<topic id="352" parent="351" guid="Ln5oJPW1xUqgq9iMdB_Fvg" x="7760.39" y="5904.87" text="commander: My\Nautograph... for a fan.">
+<children>
+<image guid="CF03TPTP60mYFZeBm9twZQ" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="141.11" y="-34.34" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="CF03TPTP60mYFZeBm9twZQ" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="141.11" y="-34.34" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_changeTransportPlan.talkToCommander]
+</note>
+</topic>
+<topic id="353" parent="352" guid="RTKfVjYQL0CfTiFktJWNmg" x="7760.39" y="6029.87" text="commander: Leave this with me, Scow. I&apos;ll\Nmake sure it reaches the transport&apos;s captain."/>
+<topic id="354" parent="338" guid="tpj-ME8SAk2XUI1BEv5exw" x="7089.36" y="4285.06" text="tilo: Her bristly\Near-hair--perfection!">
+<note>
+[lockableThread:incorrectImageA][lockThread:incorrectImageA]
+</note>
+</topic>
+<topic id="355" parent="354" guid="pnTs2CirE0ynxDEObefsiw" x="7089.36" y="4522.06" text="commander: Whiskers, Scow--&quot;all\Ncoarse and bristly&quot;.">
+<note>
+[showRenown:quizCritiqueSong][updateCounter:quizCritiqueSong-1]
+</note>
+</topic>
+<topic id="356" parent="338" guid="8RHuIvYAMEWR0RX3_uRaBQ" x="7946.39" y="4285.06" text="tilo: Her shapely\Ntail--enchanting!">
+<note>
+[lockableThread:incorrectImageB][lockThread:incorrectImageB]
+</note>
+</topic>
+<topic id="357" parent="356" guid="BFEEs1rJZE6sYvCwyJCLWw" x="7946.39" y="4522.06" text="commander: Tail? I made\Nno mention of her tail...">
+<children>
+<image guid="99svZRI4FEaSmg_hSBgv8A" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="126.67" y="-76.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="99svZRI4FEaSmg_hSBgv8A" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="126.67" y="-76.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizCritiqueSong][updateCounter:quizCritiqueSong-1]
+</note>
+</topic>
+<topic id="358" parent="325" guid="7zEWbnb8ZEa2vNJwqEbSPA" x="7934.10" y="3119.28" text="tilo: May I\Nhear your ode again?"/>
+<topic id="359" parent="358" guid="QRJ0c4oH9026EAu2DfrNAQ" x="7766.60" y="3264.99" text="commander:\NVery well...">
+<children>
+<image guid="xzcRQwa5iESIOv2w4boWmw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="102.50" y="-40.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="xzcRQwa5iESIOv2w4boWmw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="102.50" y="-40.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="360" parent="359" guid="VpcntCBWH02P-DP3lb6u9A" x="7934.10" y="3426.24" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="361" parent="358" guid="YixWluDkvEmDwmbbswh8WA" x="8129.34" y="3264.99" text="commander:\NOf course!">
+<children>
+<image guid="S9QRxu6JZkW6c2HcbM9_cA" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="90.00" y="-68.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="S9QRxu6JZkW6c2HcbM9_cA" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="90.00" y="-68.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1][showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="362" parent="325" guid="CjujfxYtEUOdDHvmRmnLZQ" x="8696.91" y="3805.38" text="tilo: Your use of simile and\Nmetaphor is... almost indescribable.">
+<note>
+[updateCounter:songCompliments+1][lockableThread:complimentMetaphor][lockThread:complimentMetaphor]
+</note>
+</topic>
+<topic id="363" parent="362" guid="Z3VtAaiyukmzaVgqknDCXQ" x="8696.91" y="3942.24" text="commander: True. Which\Ndid you love the most?">
+<note>
+[showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="364" parent="363" x="8696.91" y="4072.18" text="DIALOGUE_HUB"/>
+<topic id="365" parent="364" guid="u4C3PBqlRk2zbEGMI7Aa4Q" x="8696.91" y="4282.65" text="tilo: The rubies\Nglowing in the dark."/>
+<topic id="366" parent="365" guid="uWlZPFBL4UO9F7AaPb5Grw" x="8696.91" y="4519.65" text="commander: Ah! A moment of indulgence on my part!">
+<children>
+<image guid="vhSgF0P870uni3OBDxDNYw" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="-222.86" y="-76.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="vhSgF0P870uni3OBDxDNYw" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="-222.86" y="-76.41" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="367" parent="366" guid="BuYoGg49q0GYFX-rfc_TmQ" x="8803.58" y="4689.45" text="commander: Tell me what else\Nyou loved about my ode...">
+<note>
+[reveal:counter.songCompliments&lt;2][showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="368" parent="364" guid="B6gTAakFP0CYM6H_z76WHw" x="8254.88" y="4282.65" text="tilo: The embers\Nglowing in the dark.">
+<note>
+[lockableThread:incorrectSimileA][lockThread:incorrectSimileA]
+</note>
+</topic>
+<topic id="369" parent="368" guid="t5yCa0yrkE6Ytu1NvEmADA" x="8254.88" y="4519.65" text="commander: That\Nwasn&apos;t the line...">
+<note>
+[showRenown:quizCritiqueSong][updateCounter:quizCritiqueSong-1]
+</note>
+</topic>
+<topic id="370" parent="364" guid="RcCwA88RWU-5nvIqTxllxA" x="9111.91" y="4282.65" text="tilo: The fireflies\Nglowing in the dark.">
+<note>
+[lockableThread:incorrectSimileB][lockThread:incorrectSimileB]
+</note>
+</topic>
+<topic id="371" parent="370" guid="WhCeJL-LMkuhtTNWTkd-Vg" x="9111.91" y="4519.65" text="commander: Fireflies? I\Nmade no mention of fireflies...">
+<children>
+<image guid="bCXrO8q4KEWrh4czExTiZw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="152.68" y="-59.71" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="bCXrO8q4KEWrh4czExTiZw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="152.68" y="-59.71" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizCritiqueSong][updateCounter:quizCritiqueSong-1]
+</note>
+</topic>
+<topic id="372" parent="323" guid="R7tfIQUi6EORsueAXCqE4A" x="7526.39" y="2937.99" text="commander: Well...?">
+<note>
+[variationIndex=1][showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="373" parent="323" guid="Lk0koOMH9UWGJFLdFsyx3w" x="7778.33" y="2977.99" text="commander:\NAny thoughts?">
+<children>
+<image guid="dCHakboQw0yu2TymSZAwoQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="77.50" y="-70.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="dCHakboQw0yu2TymSZAwoQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="77.50" y="-70.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2][showRenown:quizCritiqueSong]
+</note>
+</topic>
+<topic id="374" parent="75" guid="IYY9eFc0ckSTqKb_xyH24g" x="6296.86" y="-1028.85" text="tilo: Here, sir! I&apos;ve an ointment\Nfor your... condition.">
+<parent-relation guid="PI-Y4qL-nEepnem3aFU6qA"/>
+<note>
+[reveal:quest_cureForRingtail.talkToCommander=active]
+</note>
+</topic>
+<topic id="375" parent="374" guid="eodUGr3cSE68Yt1IkTB-eg" x="6296.86" y="-833.85" text="commander: Wonderful!\NGive it here...">
+<parent-relation guid="t675lbmItUqdO3d0RMZVgA"/>
+<note>
+[completeTask:quest_cureForRingtail.talkToCommander][executeAction:giveItem=medicine_commander]
+</note>
+</topic>
+<topic id="376" parent="375" guid="JeyoAqPJaU2Z9ndczsmPeg" x="6296.86" y="-637.45" text="commander: Ohhh...\NBless you, Scow! You&apos;re\None of the good ones.">
+<parent-relation guid="_Jt12wmjaEuhkcyjiVa0jg"/>
+<children>
+<image guid="-9ir1zYe_kW_dw6TwZ25DA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="151.25" y="41.02" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="-9ir1zYe_kW_dw6TwZ25DA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="151.25" y="41.02" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[executeAction:activateBigEars;playSound=salveGloop]
+</note>
+</topic>
+<topic id="377" parent="0" guid="Z_q3e2FQRUOlexWoIDg3TQ" x="2143.11" y="821.26" palette="6" colorinfo="6" text="commander: Ah, Scow!\NWhat do you have for me?">
+<note>
+[variationIndex=3][unlockThread:jailerQuestActive;smugglerQuestActive;masterQuestActive;squadNotFound]
+</note>
+</topic>
+<topic id="378" parent="0" guid="jiBep6fSTEWyuftn1tZ4bw" x="2426.51" y="773.05" palette="7" colorinfo="7" text="commander: Yes,\NScow? What is it?">
+<children>
+<image guid="xcaTGv0peU2tHvj4nkmjqw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="97.50" y="-75.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="xcaTGv0peU2tHvj4nkmjqw" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="97.50" y="-75.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=4][unlockThread:jailerQuestActive;smugglerQuestActive;masterQuestActive;squadNotFound]
+</note>
+</topic>
+<topic id="379" parent="0" guid="i-Jb3E7BRUaVUHgmb4LaJg" x="245.13" y="-384.56" palette="2" colorinfo="2" text="commander: Ranger!">
+<note>
+[priorityOverride][reveal:costume_ranger=true]
+</note>
+</topic>
+<topic id="380" parent="379" guid="xDr5Pw5IkUq0ozc9KRAItQ" x="-440.64" y="-117.46" text="commander: What are you\Ndoing in here?! Move along,\Nor I&apos;ll have you arrested!">
+<children>
+<image guid="Qp7bJtoV8E6fFxFsaK6buA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-170.91" y="-51.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Qp7bJtoV8E6fFxFsaK6buA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-170.91" y="-51.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="381" parent="379" guid="klJSKUrJHUGF_Dzx_eakwg" x="-100.72" y="-117.46" text="commander: Perhaps I didn&apos;t\Nmake myself clear--I will have you\Narrested if I see you in here again.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="382" parent="381" guid="mc3__td_eUexMcl4ynjn-g" x="-100.72" y="33.11" text="commander: Now leave me be!">
+<children>
+<image guid="Jtd4IQ6Qh0aQ8gJxMol3TA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-186.36" y="-29.39" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Jtd4IQ6Qh0aQ8gJxMol3TA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-186.36" y="-29.39" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="383" parent="379" guid="6m0edSeEmEeo9H8Rj5uSPg" x="245.13" y="-117.46" text="commander: Is that Scow&apos;s\Nlute you have there...?">
+<note>
+[variationIndex=2][lockableThread:stolenLute][lockThread:stolenLute]
+</note>
+</topic>
+<topic id="384" parent="383" guid="fDbQMcksD0WYPPFQpJCJyQ" x="515.57" y="117.54" text="commander: Guards...">
+<children>
+<image guid="20hqTuwEDUmRixu2HI0fAw" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="120.68" y="-59.05" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="20hqTuwEDUmRixu2HI0fAw" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="120.68" y="-59.05" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="385" parent="384" guid="zL9wCUtH5Eqrs-e6cGpnYQ" x="784.33" y="344.20" text="commander: ... get this\NMouse out of my sight!">
+<note>
+[variationIndex=2][executeAction:sendTiloToJail]
+</note>
+</topic>
+<topic id="386" parent="384" guid="ct6Ue60wo0eSm03-NXqHOw" x="226.79" y="344.20" text="commander: ... arrest this fool!">
+<note>
+[variationIndex=0][executeAction:sendTiloToJail]
+</note>
+</topic>
+<topic id="387" parent="384" guid="0VI0wpYx6Eq0K2IAXZcRZA" x="515.57" y="267.54" text="commander: ... show the\Nranger to his cell!">
+<note>
+[variationIndex=1][executeAction:sendTiloToJail]
+</note>
+</topic>
+<topic id="388" parent="379" guid="wN0i2SfkYEyrCGLvFXL3vQ" x="1114.55" y="-117.46" text="commander: You must\Nenjoy spending time in the\Ncells. I&apos;m happy to oblige.">
+<children>
+<image guid="yPRKYEdQ_kKBa8h-HP7eMg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="129.09" y="-76.14" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="yPRKYEdQ_kKBa8h-HP7eMg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="129.09" y="-76.14" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+<note>
+[variationIndex=5]
+</note>
+</topic>
+<topic id="389" parent="379" guid="0rn6xrt57kCFNRRbEYWH-A" x="515.57" y="-117.46" text="commander: That&apos;s it--I\Ngave you fair warning!">
+<children>
+<image guid="4LrI92EnAkKib58jXRt2Ww" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-40.00" y="-79.39" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="4LrI92EnAkKib58jXRt2Ww" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-40.00" y="-79.39" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="390" parent="379" guid="ViWI822wSE2v58h8lRjuaw" x="808.62" y="-117.46" text="commander: It seems you\Nhaven&apos;t learned your lesson!">
+<note>
+[variationIndex=4]
+</note>
+</topic>
+<topic id="391" parent="0" guid="HXKUk7Cr2EGY7C6btVu2YA" x="1508.53" y="795.55" palette="2" colorinfo="2" text="commander: So, Scow...">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="392" parent="391" guid="NwnlW1OIYUijyPZv5nSrSg" x="1126.06" y="1007.05" text="commander: ... is there\Nstill no news of the Jailer?">
+<note>
+[variationIndex=0][reveal:quest_findJailer.talkToCommander=inactive|quest_findJailer.talkToCommander=active]
+</note>
+</topic>
+<topic id="393" parent="391" guid="1omZKHwTb0-unHIfcngs4Q" x="1508.53" y="943.22" text="commander: ... what of\Nthe Master? Do you have\Nanything to report there?">
+<note>
+[variationIndex=1][reveal:quest_findTheMaster.talkToCommander=inactive|quest_findTheMaster.talkToCommander=active]
+</note>
+</topic>
+<topic id="394" parent="391" guid="mc32_zJNe0Szpw4iGiCf2w" x="1926.12" y="1007.05" text="commander: ... I presume the\Nsmugglers have yet to be identified?">
+<note>
+[variationIndex=2][reveal:quest_findSmugglers.talkToCommander=inactive|quest_findSmugglers.talkToCommander=active]
+</note>
+</topic>
+<topic id="395" parent="0" guid="_AB0OfS7-UGJJSlyZcwO7w" x="2607.20" y="63.30" palette="2" colorinfo="2" text="commander: Scow! I have\Nnews that may be of interest to you.">
+<parent-relation guid="TcIZFTxVwESozQ4Iq4N6rA"/>
+<note>
+[priorityOverride][lockableThread:silasArrestedA][lockThread:silasArrestedA;silasArrestedB][reveal:quest_magpieAndMouseKing=complete;quest_findJailer=complete]
+</note>
+</topic>
+<topic id="396" parent="395" guid="0roAVIhe2kqgv_OWHhH4sg" x="2829.02" y="213.07" text="commander: The Signal Guard, Silas\NWagstaffe, has been arrested, charged\Nwith, and convicted of the Jailer&apos;s\Nmurder.">
+<parent-relation guid="makeXm19XEecUvOV7pruuA"/>
+<note>
+[unlockThread:jailerQuestActive;smugglerQuestActive;masterQuestActive;squadNotFound]
+</note>
+</topic>
+<topic id="397" parent="396" guid="lA7F-2P6JE6lBGg1MGDajw" x="2829.02" y="363.07" text="commander: He&apos;s to be hanged at\Nthe rise of the next Blood Moon.">
+<children>
+<image guid="Siab47oBLkqHz3DqZ5lrAw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="201.00" y="6.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="Siab47oBLkqHz3DqZ5lrAw" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="201.00" y="6.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="398" parent="0" guid="7GqcwbsuY0aJfMABdlOH1w" x="3089.28" y="63.30" palette="3" colorinfo="3" text="commander: Scow... the\Njailer has been found dead at the\Nbottom of the well.">
+<parent-relation guid="N1ungjKEPUa1s5XriZi7EQ"/>
+<note>
+[priorityOverride][lockableThread:silasArrestedB][lockThread:silasArrestedA;silasArrestedB][reveal:quest_magpieAndMouseKing=complete;quest_findJailer=active][completeTask:quest_findJailer.cancelQuestA;quest_findJailer.cancelQuestB]
+</note>
+</topic>
+<topic id="399" parent="0" guid="8RuhlXWtY0um1Qz9t4Ga1Q" x="3428.95" y="-755.86" palette="2" colorinfo="2" text="commander: Scow--what\Nthe devil happened?!">
+<parent-relation guid="FmhJWjsBpU-FHKCIF4Sgeg"/>
+<note>
+[priorityOverride][reveal:quest_mysteryOfDuinlansTomb.findChest=complete][lockableThread:whatHappenedInCatacombs][lockThread:whatHappenedInCatacombs][unlockThread:jailerQuestActive;smugglerQuestActive;masterQuestActive;squadNotFound]
+</note>
+</topic>
+<topic id="400" parent="399" guid="bu5FjdFK2k6MgyU9nJhCtQ" x="3169.66" y="-456.93" text="tilo: Sir?"/>
+<topic id="401" parent="400" guid="RDmB2Qy6QkiRDTYZslyZZg" x="3169.66" y="-298.18" text="commander: The catacombs, Scow!\NWhat else would you think I mean?!">
+<children>
+<image guid="G7yKNSEyjUal14ZVEyZltA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="-210.00" y="-15.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="G7yKNSEyjUal14ZVEyZltA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="-210.00" y="-15.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="402" parent="399" guid="JILcJ3j2oEWZM2Z1ZPxQ0g" x="3688.95" y="-456.93" text="tilo: The spiders, sir.\NIt... it was an ambush..."/>
+<topic id="403" parent="402" guid="ByWCsz6ApkaMc649NEcR1A" x="3688.95" y="-298.18" text="commander: You weren&apos;t\Nassigned to the squad, Private.\NWhat were you doing there?">
+<children>
+<image guid="XjWXbmntbUCo16jZBowN9A" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="203.00" y="-10.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="XjWXbmntbUCo16jZBowN9A" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="203.00" y="-10.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="404" parent="403" guid="vo9goKCMTUi9Zr575ESrJA" x="3428.95" y="-104.43" text="tilo: I wanted to\Nprove myself, sir."/>
+<topic id="405" parent="404" guid="4ABMZYeslEypBwQzKO5ngw" x="3428.95" y="78.07" text="commander: ... I can\Nunderstand that."/>
+<topic id="406" parent="405" guid="HvfAMBmzBk-YgcIjuqIKIA" x="3428.95" y="246.73" text="commander: I&apos;m afraid your squad\Nleader is dead. He neglected to\Ntake an antivenin with him.">
+<note>
+[reveal:hasItem=antidote_spider*1]
+</note>
+</topic>
+<topic id="407" parent="405" guid="rxNxJzx6Hkua7rVMqspAlw" x="3963.95" y="246.73" text="commander: The squad leader is in\Nthe infirmary. By all accounts it was\Nyou that saved his life! Bravo, indeed!">
+<children>
+<image guid="pdGsVHVd60GbmjxxN1T-lQ" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="227.14" y="-37.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="pdGsVHVd60GbmjxxN1T-lQ" name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="227.14" y="-37.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+<note>
+[reveal:hasItem=antidote_spider*0][executeAction:grantRenown=3]
+</note>
+</topic>
+<topic id="408" parent="407" guid="GK4Ei_y7zkO4taTugX848A" x="3688.95" y="602.07" text="commander: We... don&apos;t yet know\Nwhat&apos;s become of the others.">
+<parent-relation guid="Dt3q_KwKykuWeZlyR3vEAw"/>
+</topic>
+<topic id="409" parent="403" guid="CyYGhuQLWk-xAxw2BdXsNQ" x="3963.95" y="-104.43" text="tilo: The Signal Guard, sir, he\Nasked me to take his place."/>
+<topic id="410" parent="409" guid="V_IMCxs9lkmqA1zm1EIogw" x="3963.95" y="78.07" text="commander: I see... I shall have\Nwords with Signal Master Wagstaffe..."/>
+<topic id="411" parent="0" guid="1gH5xu_pwECx-J7D0FvmNg" x="2263.62" y="-34.09" palette="4" colorinfo="4" text="commander: Ah, Scow! Just the\Nbuck I needed to see! Your timing\Ncouldn&apos;t be better.">
+<parent-relation guid="rkopWZ7vCUefLrZT5I_PXw"/>
+<note>
+[priorityOverride][unlockThread:jailerQuestActive;smugglerQuestActive;masterQuestActive;squadNotFound][reveal:quest_changeTransportPlan.talkToCommander=active]
+</note>
+</topic>
+<topic id="412" parent="0" guid="QQSolPMbXUOTS6XzmfwwEw" x="5106.95" y="-1017.53" palette="8" colorinfo="8" text="commander: Scow, this is\Nrather embarrassing... but\Ncould you take a look at this?">
+<parent-relation guid="IaFb4xPKBEe_1jhFMy-Rvg"/>
+<note>
+[PriorityOverride][lockableThread:commandersRingtail=true][lockThread:commandersRingtail][reveal:quest_findSecondChest=complete]
+</note>
+</topic>
+<topic id="413" parent="412" guid="hvlQIoqZvU2KANaak3-Bqg" x="5106.95" y="-823.09" text="The Commander gingerly offers\Nup his tail for inspection. About a\Nthird of the way from its tip you\Nnotice an ominous scarlet\Nconstriction, angry and inflamed.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="414" parent="413" guid="ftuiDRXFiE-FXRwqtTJ6lg" x="5106.95" y="-663.85" text="commander: Is it serious?">
+<children>
+<image guid="fDkCbNF7ZESliWGJlivENA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="165.00" y="-37.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="fDkCbNF7ZESliWGJlivENA" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="165.00" y="-37.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="415" parent="414" guid="JBF_xMK3xkuli3aPlZEduA" x="4813.30" y="-432.61" text="tilo: Tell me,\Ndoes this hurt?">
+<parent-relation guid="JP99b0nzEk6YGDce39iycg"/>
+</topic>
+<topic id="416" parent="415" guid="zB21IrtY80OJIWPvobdkyQ" x="4813.30" y="-270.39" text="commander: Ooh! Aye, just\Nthere, where you touched.\NWhat do you think it is?">
+<parent-relation guid="PZAeFVaLb0eaawglZeg2-g"/>
+<children>
+<image guid="9mllMqAa7UyL6sU1eTCqGw" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="145.83" y="-80.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="9mllMqAa7UyL6sU1eTCqGw" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="145.83" y="-80.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="417" parent="416" guid="mhIhhwNafUCzeQqpH7F21A" x="4813.30" y="-133.41" text="tilo: Sir? I can&apos;t say for\Ncertain, I&apos;m no expert."/>
+<topic id="418" parent="417" guid="vnEUpeHR2kunvIoIYJX58w" x="4813.30" y="-26.42" text="commander: Could it...\Ncould it be [ringtail]?">
+<note>
+[footnote:ringtail]
+</note>
+</topic>
+<topic id="419" parent="418" guid="aNmmr3EGQkCKhBw3GtvqMg" x="4813.30" y="82.25" text="commander: My father\Nsuffers from it terribly.">
+<parent-relation guid="EPpaJ70nvECs0PMXA-z2fw"/>
+<children>
+<image guid="L0nXVxYUNUGVXdSlAoujcg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="151.25" y="18.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="L0nXVxYUNUGVXdSlAoujcg" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="151.25" y="18.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="420" parent="419" guid="tKcfEDMtPUmILFrscTZuPQ" x="4974.44" y="249.13" text="tilo: Perhaps I can find\Nyou some relief, sir.">
+<parent-relation guid="h3kba5bT5kOSW5drVNgvIA"/>
+</topic>
+<topic id="421" parent="419" guid="ob4ywRNLokqe9z1c22qx-A" x="4631.69" y="249.13" text="tilo: What can I\Ndo to help, sir?">
+<parent-relation guid="b6pwAymVNE-wDl_PvHvtvw"/>
+</topic>
+<topic id="422" parent="421" guid="bY50ZM4e9kCK0G7p-mComA" x="4631.69" y="412.52" text="commander: I don&apos;t know. We&apos;ve\Nno physician here in the keep... but\Nperhaps there&apos;s someone about\Nwho can help make up an ointment."/>
+<topic id="423" parent="422" guid="N_3HxzxtlkGNC0RaHeUoXg" x="4974.44" y="412.52" text="commander: See\Nwhat you can do.">
+<note>
+[startQuest:quest_cureForRingtail]
+</note>
+</topic>
+<topic id="424" parent="414" guid="41dIOMmllU-hUUD8lKLkBw" x="5427.19" y="-270.39" text="tilo: It... it looks like\Nringtail, sir.">
+<parent-relation guid="J2vHN_ltbUaRCE0Y6jifdw"/>
+</topic>
+<topic id="425" parent="414" guid="-P0BRYLXfUKHHT3okiB1Cw" x="4416.95" y="13.42" text="tilo: SKIP AHEAD">
+<parent-relation guid="Nj80QdYCOESLNIco4mhvjQ"/>
+<note>
+[debug]
+</note>
+</topic>
+<topic id="426" parent="0" guid="_LtLfxt4bUGSGYwgiPaKgg" x="4358.06" y="-892.41" palette="2" colorinfo="2" text="commander: Scow...">
+<parent-relation guid="R5NNxqWwTUS_1zAzT-n7RQ"/>
+<children>
+<image guid="r7X3MzK0nUOPmmu93_CRBg" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="133.50" y="36.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="r7X3MzK0nUOPmmu93_CRBg" name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="133.50" y="36.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:costume_duinlan=true]
+</note>
+</topic>
+<topic id="427" parent="426" guid="99LpycDLj0OUyRGxcqGx-Q" x="4032.57" y="-741.19" text="commander: ... Where did you find\Nthat armour? It&apos;s magnificent!">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="428" parent="427" guid="aZ_pFOgXHkCn6W6Bc_dq1Q" x="4032.57" y="-606.23" text="commander: ... Go and\Ntake it off at once.">
+<parent-relation guid="aSlhjniR9kKqGTwfD_v8FA"/>
+</topic>
+<topic id="429" parent="428" guid="ESuApq3Uh0yCWkCIHXNS2A" x="4032.57" y="-468.33" text="commander: A soldier should\Nnever outdress his commander.">
+<children>
+<image guid="U-0KVi1Ah0upGok-LPoFFA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="191.00" y="-40.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image guid="U-0KVi1Ah0upGok-LPoFFA" name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="191.00" y="-40.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="430" parent="426" guid="LhPeAp5yB0-rLeprKirAdQ" x="4358.06" y="-663.85" text="commander: ... didn&apos;t I tell\Nyou to take that armour off?">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="431" parent="426" guid="SS2uMKqBF0yzFyKcvc-uWA" x="4724.54" y="-663.85" text="commander: ... that&apos;s it! I warned\Nyou about that armour!">
+<children>
+<image guid="XBCZnlLd7UKZzxHW1rjZIQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-26.00" y="-83.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="XBCZnlLd7UKZzxHW1rjZIQ" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="-26.00" y="-83.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="432" parent="431" guid="YXqS6IvCR0q-apSU19gHbw" x="4724.54" y="-569.23" text="commander: A day in the cells\Nfor your insubordination!">
+<note>
+[executeAction:sendTiloToJail]
+</note>
+</topic>
+<topic id="433" parent="0" guid="IpermzUwgEWgeio5tPRx_w" x="2649.52" y="-1258.80" palette="2" colorinfo="2" text="commander: Scow...? There&apos;s\Nsomething... different about you.">
+<note>
+[priorityOverride][reveal:counter.dialog_faustus.enableBigEars=1;counter.metCommander=1][lockableThread:hasBigEars][lockThread:hasBigEars]
+</note>
+</topic>
+<topic id="434" parent="433" guid="VUvovKsC40OJGxWFGSZ98w" x="2649.52" y="-1136.75" text="commander: ..."/>
+<topic id="435" parent="434" guid="87joU8b-3UO5YIHkbfDUMg" x="2649.52" y="-1023.58" text="commander: Whatever it is, stop it.">
+<parent-relation guid="-9zjBj7qmU-1xuIBT3UCCg"/>
+<children>
+<image guid="d9Vq5It9qUeDwfeNQKB26g" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="191.43" y="-40.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="d9Vq5It9qUeDwfeNQKB26g" name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="191.43" y="-40.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="436" parent="-1" guid="4nmw1ZMJ_UqF1-jAUrMTzg" x="7690.15" y="7051.46" palette="1" colorinfo="1" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="437" parent="-1" guid="8kxvH5f7qUSZ2_iyzcUZTA" x="1241.21" y="-880.29" palette="1" colorinfo="1" text="commander"/>
+<topic id="438" parent="437" x="902.79" y="-551.54" palette="2" colorinfo="2" text="default">
+<children>
+<image name="b1602a3c9bf3551a330f4f852081cbea239e7bfc" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_default.png"/>
+</image>
+</children>
+<images>
+<image name="b1602a3c9bf3551a330f4f852081cbea239e7bfc" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="439" parent="437" x="1033.37" y="-551.54" palette="3" colorinfo="3" text="condescend">
+<children>
+<image name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</children>
+<images>
+<image name="16c4f63ee5552544e40c271b18b74c4b9a6ec20c" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_condescending.png"/>
+</image>
+</images>
+</topic>
+<topic id="440" parent="437" x="1159.62" y="-551.54" palette="4" colorinfo="4" text="laughing">
+<children>
+<image name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</children>
+<images>
+<image name="5e380003a306d4d0cbb34bb76399f84a930efc33" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="441" parent="437" x="1290.37" y="-551.54" palette="5" colorinfo="5" text="stern">
+<children>
+<image name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</children>
+<images>
+<image name="e4a4b46ad8151a183dbdebe219ee05fbf004b6a2" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="442" parent="437" x="1432.12" y="-551.54" palette="6" colorinfo="6" text="stunned">
+<parent-relation guid="QfbYtcSAk0ewo0CqpNlidw"/>
+<children>
+<image name="5ec3753c3f88a4cf00afc15df96534741a22ba41" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stunned.png"/>
+</image>
+</children>
+<images>
+<image name="5ec3753c3f88a4cf00afc15df96534741a22ba41" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_stunned.png"/>
+</image>
+</images>
+</topic>
+<topic id="443" parent="437" x="1599.87" y="-551.54" palette="7" colorinfo="7" text="surprised">
+<children>
+<image name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="2ced2a8bf67687a585f6cff7877f141b227367b2" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Commander/portrait_commander_surprised.png"/>
+</image>
+</images>
+</topic>
+</topics>
+<relations>
+<relation guid="SFBPXj6UjUmLOWnrN0gcVQ" source="72" target="3"/>
+<relation source="67" target="35"/>
+<relation source="39" target="41"/>
+<relation guid="HQsp5pjMmECt7q2kJBS3fA" source="228" target="229"/>
+<relation guid="ICmvdvmdL0uQ3jrJzd5WtQ" source="377" target="75"/>
+<relation guid="0wnt0m_E-06sHpzMMT1P8Q" source="378" target="75"/>
+<relation source="378" target="74"/>
+<relation source="289" target="247"/>
+<relation source="285" target="249"/>
+<relation source="81" target="78"/>
+<relation source="287" target="247"/>
+<relation guid="dBl70e4d-020veyPBUDQmQ" source="79" target="75"/>
+<relation source="80" target="79"/>
+<relation source="81" target="79"/>
+<relation source="289" target="286"/>
+<relation source="288" target="247"/>
+<relation guid="B5C2Alaj_km8m-v876KprQ" source="87" target="83"/>
+<relation source="85" target="84"/>
+<relation source="86" target="84"/>
+<relation guid="Bv7HwQ_55UinyfEq5b0_2w" source="84" target="75"/>
+<relation guid="u3sCvlJlRkiUFXTEcLgkTA" source="53" target="50"/>
+<relation source="29" target="32"/>
+<relation source="25" target="32"/>
+<relation guid="YQ8bcHJN8k26eSV5eJlniQ" source="95" target="75"/>
+<relation guid="Y49ddzYiR0W29QqVMOxijA" source="101" target="92"/>
+<relation guid="v2PCkBlW40qsP9hfZJ0Neg" source="397" target="75"/>
+<relation source="106" target="109"/>
+<relation guid="_2Nsf3GT7UGZ1kATDv-4Sg" source="110" target="75"/>
+<relation guid="GTr6jlbZlkGDyLcOYg7aRg" source="108" target="75"/>
+<relation guid="g1wXi5g6QUaQxtBy3L_dqw" source="55" target="50"/>
+<relation source="281" target="253"/>
+<relation guid="3AiH8U_qVEa0Rwclbvy68g" source="411" target="75"/>
+<relation source="335" target="325"/>
+<relation guid="gZVR2wwNwkapnQN5CXFoyw" source="330" target="328"/>
+<relation source="332" target="328"/>
+<relation guid="yWLj0oMDXE-T8__ksK1P5Q" source="357" target="338"/>
+<relation source="355" target="338"/>
+<relation guid="aBqBFh1L_0K5D3Mj5lXorg" source="341" target="325"/>
+<relation guid="b9hz5vanMEiEgrVAxzNaRQ" source="360" target="323"/>
+<relation source="373" target="325"/>
+<relation source="372" target="325"/>
+<relation source="373" target="324"/>
+<relation source="361" target="360"/>
+<relation source="371" target="364"/>
+<relation source="369" target="364"/>
+<relation source="367" target="325"/>
+<relation source="334" target="342"/>
+<relation guid="ybezW2pnPUmhexxhvox8dA" source="366" target="342"/>
+<relation source="346" target="349"/>
+<relation guid="Wfg0ZpKDVkSbvj04V40bug" source="436" target="75"/>
+<relation guid="u_CA7yKJ20ilN-oCfkZZFQ" source="353" target="436"/>
+<relation source="303" target="297"/>
+<relation guid="HcOvwsnGOk6YnACX_YpXcA" source="279" target="436"/>
+<relation source="99" target="98"/>
+<relation guid="jVivoS-UME6cxXlViuiU1A" source="98" target="75"/>
+<relation guid="8C08q6ltkE-RFytb4cYNQw" source="121" target="118"/>
+<relation guid="_BvI7NWzsk2j0IdGMpS87Q" source="119" target="84"/>
+<relation guid="F8jxyPGliE-NB-uRsLkviA" source="120" target="84"/>
+<relation source="118" target="84"/>
+<relation guid="vzKxtD7QZUqq7V3nmrEaxg" source="121" target="84"/>
+<relation guid="Y0vtODA-7U-RoLOvUvxkyg" source="87" target="84"/>
+<relation guid="N9Ju5W_NaUuKNVC4JbjMxg" source="222" target="150"/>
+<relation guid="PkkDMHAlakC5jVJyDMpOuQ" source="148" target="150"/>
+<relation guid="ZXyrMRdU0kurAQFm0uF7PQ" source="147" target="150"/>
+<relation guid="ajl_dTuonU-OHcTLOeODYA" source="145" target="150"/>
+<relation guid="P9yg_cbS1kyzBK77-AcbJw" source="146" target="150"/>
+<relation source="223" target="150"/>
+<relation source="401" target="403"/>
+<relation source="406" target="408"/>
+<relation source="410" target="406"/>
+<relation source="410" target="407"/>
+<relation guid="1bgh2xt-BkOw8V2jJe4yBw" source="123" target="436"/>
+<relation source="124" target="123"/>
+<relation guid="NctTpfTIHkqC1QmAp1zoPg" source="125" target="436"/>
+<relation guid="UxuKZMZhgkWc_9e-z_05SA" source="124" target="436"/>
+<relation guid="b03Cp17S2UG4QmF8JWnMhA" source="319" target="254"/>
+<relation source="408" target="75"/>
+<relation source="223" target="149"/>
+<relation source="173" target="175"/>
+<relation source="171" target="175"/>
+<relation source="170" target="175"/>
+<relation source="153" target="175"/>
+<relation source="152" target="175"/>
+<relation source="155" target="175"/>
+<relation source="156" target="175"/>
+<relation source="159" target="175"/>
+<relation source="158" target="175"/>
+<relation source="161" target="175"/>
+<relation source="162" target="175"/>
+<relation source="165" target="175"/>
+<relation source="164" target="175"/>
+<relation source="167" target="175"/>
+<relation source="168" target="175"/>
+<relation source="215" target="175"/>
+<relation source="216" target="175"/>
+<relation source="178" target="181"/>
+<relation source="184" target="181"/>
+<relation source="185" target="181"/>
+<relation source="186" target="181"/>
+<relation source="187" target="181"/>
+<relation source="188" target="181"/>
+<relation source="189" target="181"/>
+<relation source="190" target="181"/>
+<relation source="191" target="181"/>
+<relation source="198" target="181"/>
+<relation source="199" target="183"/>
+<relation source="197" target="183"/>
+<relation source="196" target="183"/>
+<relation source="195" target="183"/>
+<relation source="200" target="181"/>
+<relation source="194" target="183"/>
+<relation source="193" target="181"/>
+<relation source="192" target="183"/>
+<relation source="181" target="75"/>
+<relation source="416" target="424"/>
+<relation guid="kryoN_10N0Oz47ITnXcJPw" source="424" target="419"/>
+<relation source="420" target="423"/>
+<relation source="128" target="129"/>
+<relation source="127" target="130"/>
+<relation source="128" target="130"/>
+<relation guid="EEScPDXI8UWjRfeTtpKC4A" source="376" target="254"/>
+<relation source="130" target="75"/>
+<relation guid="c3fY-GBjSkOBx8glzFpaJw" source="423" target="130"/>
+<relation source="134" target="75"/>
+<relation source="240" target="237"/>
+<relation source="242" target="238"/>
+<relation guid="yD5A5knFRUOs_slsCrd1RA" source="50" target="224"/>
+<relation guid="67wGKZUI20S9KUuvgGMvEQ" source="63" target="231"/>
+<relation source="73" target="21"/>
+<relation guid="BdmIbTyd_0aI8QBJzTQl2w" source="68" target="45"/>
+<relation guid="tkrNipDzCkueQ5M5OKNzGw" source="50" target="244"/>
+<relation source="65" target="63"/>
+<relation source="102" target="98"/>
+<relation source="425" target="423"/>
+<relation source="191" target="190"/>
+<relation source="361" target="359"/>
+<relation source="66" target="63"/>
+<relation source="398" target="396"/>
+<relation source="139" target="84"/>
+<relation source="141" target="84"/>
+<relation source="18" target="20"/>
+<relation guid="RZL5ZEevg02Tt3exweXVLg" source="9" target="11"/>
+<relation source="69" target="15"/>
+<relation source="70" target="7"/>
+<relation guid="vWs3i2eMpkWnj7i8EAWeXA" source="173" target="201"/>
+<relation source="212" target="203"/>
+<relation source="207" target="205"/>
+<relation source="213" target="203"/>
+<relation source="213" target="202"/>
+<relation source="211" target="209"/>
+<relation guid="lnWCjGCv502wmnQWDsIV9g" source="206" target="175"/>
+<relation guid="lWQGonwg-0Cu5Lr1cr2u0w" source="207" target="175"/>
+<relation guid="HG5kAnaX5k641XGnVPBzsg" source="209" target="175"/>
+<relation guid="-238uOkYxUWG6AwPdVxRKA" source="210" target="175"/>
+<relation guid="PqTMPk6Gn0aVnYxG_AyL7g" source="211" target="175"/>
+<relation guid="QqAjOSwxjUO9TGZm6y8E4g" source="205" target="175"/>
+<relation source="389" target="384"/>
+<relation source="390" target="384"/>
+<relation source="388" target="384"/>
+<relation source="385" target="386"/>
+<relation guid="Xb5gwFfhEkWsSyiQIxjq9A" source="388" target="389"/>
+<relation guid="tlJdGuQkQ02JaIVPK3w-LA" source="314" target="311"/>
+<relation guid="delRUpve1Em867OmbgJoYQ" source="313" target="436"/>
+<relation source="264" target="436"/>
+<relation source="266" target="257"/>
+<relation source="273" target="436"/>
+<relation source="271" target="436"/>
+<relation source="269" target="436"/>
+<relation guid="QoctBVIb9UO0GEXkY_cIog" source="299" target="254"/>
+<relation guid="ayR9EvDvnkCkeoQcV9oGbQ" source="293" target="254"/>
+<relation source="392" target="394"/>
+<relation source="394" target="75"/>
+<relation source="393" target="75"/>
+<relation source="392" target="75"/>
+<relation source="116" target="115"/>
+<relation guid="BuOEr5_bzkq9KQXClnVmUQ" source="115" target="75"/>
+<relation guid="C4ENZbTzBkOGGntHtXOtcw" source="431" target="430"/>
+<relation source="280" target="277"/>
+<relation guid="NQgubQGIIUGG-gIdiDHCLQ" source="301" target="254"/>
+<relation source="221" target="218"/>
+<relation guid="tfU7kDCTF0GOLohdS69BpA" source="218" target="181"/>
+<relation guid="_pzb7fjIBUKx_GaTw1agaw" source="219" target="181"/>
+<relation guid="sKiYX4rWukeaDhPQCCisRg" source="220" target="181"/>
+<relation guid="PnUzs3XC7UGzOVxIeZHxOw" source="221" target="181"/>
+<relation source="435" target="75"/>
+</relations>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="30C4596B00ED46068F13DE78AC9C6902"/>
+<title text="quest_collectFungusSamplesB" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="100" x="2504" y="679"/>
+<selection guid="Nn8a9pw6B0CJi3qm3J33CA" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="Nn8a9pw6B0CJi3qm3J33CA" x="3201.82" y="744.11" palette="1" colorinfo="1" text="The Expert Mycologist">
+<note>
+version_03-02-18_004-Added renown points award to questversion_07-28-17_003-Updated number of mushrooms in each taskversion_07-28-17_002-Updated mushrooms in group - some swapped with SamplesAversion_06-20-17_001-First release
+</note>
+</topic>
+<topic id="1" parent="0" guid="Ettd9kM1hUaPaswLuNeiBw" x="3700.69" y="744.11" palette="8" colorinfo="8" text="Collect specimens of four different\Nkinds of nocturnal mushroom for Faustus."/>
+<topic id="2" parent="0" guid="FtiIU03jX0uoBl9rnySHhA" x="2716.78" y="1127.19" palette="2" colorinfo="2" text="Find the Moonlight&apos;s\NVeld.">
+<note>
+[taskName=getMushroom_A][itemCounter=mushroom_A/6]
+</note>
+</topic>
+<topic id="3" parent="2" guid="VMca4m9R602k-8wuAg8VeA" x="2536.15" y="1216.68" palette="8" colorinfo="8" text="You found three Moonlight&apos;s\NVeld mushrooms."/>
+<topic id="4" parent="0" guid="vvisM--FM0yFatViFMAIGw" x="3023.53" y="1123.69" palette="7" colorinfo="7" text="Find the Midnight\NBrood.">
+<note>
+[taskName=getMushroom_G][itemCounter=mushroom_G/8]
+</note>
+</topic>
+<topic id="5" parent="4" guid="bXoBvai3PkO4uH0xi7chLw" x="2947.23" y="1218.93" palette="8" colorinfo="8" text="You found three Midnight\NBrood mushrooms."/>
+<topic id="6" parent="0" guid="1dR4gEYHU0GFUz7vi_C6jg" x="3363.53" y="1121.44" palette="2" colorinfo="2" text="Find the Nightrush.">
+<note>
+[taskName=getMushroom_H][itemCounter=mushroom_H/4]
+</note>
+</topic>
+<topic id="7" parent="6" guid="pzKiGzCxfEWaFa3OIbNdSg" x="3284.24" y="1216.68" palette="8" colorinfo="8" text="You found three\NNightrush mushrooms."/>
+<topic id="8" parent="0" guid="xDP6vLcEK0GmxP6_5wYfvQ" x="3717.28" y="1119.94" palette="4" colorinfo="4" text="Find the Mooncrest.">
+<note>
+[taskName=getMushroom_J][itemCounter=mushroom_J/5]
+</note>
+</topic>
+<topic id="9" parent="8" guid="CrSpJfX-BUmPFxaIKhOFZA" x="3626.07" y="1213.93" palette="8" colorinfo="8" text="You found three\NMooncrest mushrooms."/>
+<topic id="10" parent="8" guid="J05tHTlH6061rUfxst2fTA" x="3201.82" y="1561.58" palette="2" colorinfo="2" text="Return to Faustus">
+<parent-relation guid="QxAijLr3aU-fCBcw5RZS5A"/>
+<note>
+[taskName=talkToFaustus][grantRenown=3]
+</note>
+</topic>
+<topic id="11" parent="10" guid="5RRkFEpfxk26SO4YKLBgIw" x="3678.96" y="1561.58" palette="8" colorinfo="8" text="You gave Faustus the\Ncompleted collection of fungus."/>
+</topics>
+<relations>
+<relation guid="SckThkKK_U6FNHDF3BvILw" source="2" target="10"/>
+<relation guid="79ffnd3NX0yb6caKIVrMTw" source="4" target="10"/>
+<relation guid="JbJjligJ3ECtJe5RxNnKeA" source="6" target="10"/>
+</relations>
+</mindmap>
+</simplemind-mindmaps>

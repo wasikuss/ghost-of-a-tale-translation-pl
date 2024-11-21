@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.2" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="45972981A46441928216BAF99C99E4A3"/>
+<title text="dialog_rolo_night" customized="True"/>
+<images containsImages="True"/>
+<style key="quest_style"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="70" x="944" y="-403"/>
+<selection guid="sZDuPScJDU---JpVm1biHg" type="node" id="154"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="KYjxRew4WECwG-tfTM5cWA" x="657.27" y="529.09" palette="1" colorinfo="1" text="dialog_rolo_night">
+<note>
+version_04-16-18_002-Added intro thread to account for Tilo&apos;s big ears.VERSION_05-03-18_001-Added portraits
+</note>
+</topic>
+<topic id="1" parent="0" guid="krBEtuFEKk2UavSy7R8Y7A" x="657.27" y="784.85" palette="2" colorinfo="2" text="rolo: Evening,\NMouse...">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="2" parent="1" guid="s6qfyM-eekSJUcwC8Q37lQ" x="632.00" y="1738.63" text="DIALOGUE_HUB_A"/>
+<topic id="3" parent="2" guid="r4UN7TIjmEKlAxz901982w" x="735.75" y="1845.48" text="DIALOGUE_HUB_B"/>
+<topic id="4" parent="3" guid="z_6UQe1GdUWU_24_31ny1A" x="-158.52" y="2259.64" text="tilo: Down there--what ship is\Nthat?">
+<parent-relation guid="9RPusHkb-UGvRZSASCBKCw"/>
+<note>
+[lockableThread:whatShipWreck][lockThread:whatShipWreck]
+</note>
+</topic>
+<topic id="5" parent="4" guid="bD6L3sAzukiDMy49W5FavA" x="-158.52" y="2406.59" text="rolo: That there is the\Nwreck of the Lake Witch.\NShe was a fine vessel...">
+<children>
+<image guid="-U8Nqiv9cUqo66EjJz8r6g" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="173.33" y="5.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="-U8Nqiv9cUqo66EjJz8r6g" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="173.33" y="5.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="6" parent="5" guid="ZHJa9QLNSk-ig1EBcfxoEg" x="-158.52" y="2561.60" text="rolo: ... so they say--&quot;the\Nscourge of the Red Paw&quot;...">
+<parent-relation guid="Afpdpq19D06zm3NAUENoKQ"/>
+<children>
+<image guid="3jJRlIf00EC1CaBqLzDJzA" name="a08358dadef114a25e39864e6010ea970287efa3" x="170.00" y="-2.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</children>
+<images>
+<image guid="3jJRlIf00EC1CaBqLzDJzA" name="a08358dadef114a25e39864e6010ea970287efa3" x="170.00" y="-2.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</images>
+<note>
+[unlockThread:lakeWitchCaptain]
+</note>
+</topic>
+<topic id="7" parent="6" guid="3mhp7uEXlUO_N4tJx5bIrw" x="-158.52" y="2692.46" text="DIALOGUE_HUB">
+<parent-relation guid="LR4_SFkCTE-wOrHEj1bfmA"/>
+</topic>
+<topic id="8" parent="7" guid="yECzn2mfX0WuagL7vA1QWg" x="16.30" y="2881.98" text="tilo: She looks so\Nforlorn, lying there.">
+<note>
+[lockableThread:lakeWitchForlorn][lockThread:lakeWitchForlorn]
+</note>
+</topic>
+<topic id="9" parent="8" guid="dav3gp-38065xWiUhW68gg" x="16.30" y="3044.70" text="rolo: Aye, she\Ndoes at that."/>
+<topic id="10" parent="7" guid="Gc7sF7kRmkqm4Dj79zxYLw" x="-796.91" y="2692.46" text="tilo: What\Nhappened to her?">
+<note>
+[lockableThread:lakeWitchFate][lockThread:lakeWitchFate]
+</note>
+</topic>
+<topic id="11" parent="10" guid="0Jy48Nj5DkmScqUYhn45Rg" x="-796.91" y="2888.64" text="rolo: At night, in a storm--near\Ntore her keel off against rocks..."/>
+<topic id="12" parent="11" guid="W-62DP4e9kuLLoJMwKZDOQ" x="-796.91" y="3051.36" text="rolo: ... then ran\Naground there some\Ntwenty years ago."/>
+<topic id="13" parent="7" guid="e-O762LKPEy2OD11RW04Pw" x="343.65" y="2881.98" text="tilo: What happened\Nto her crew?">
+<note>
+[lockableThread:lakeWitchCrew][lockThread:lakeWitchCrew]
+</note>
+</topic>
+<topic id="14" parent="13" guid="-OQ66OIKkk2OyblzHkyGbQ" x="343.65" y="3044.70" text="rolo: ... I can&apos;t say."/>
+<topic id="15" parent="7" guid="HDm1sJvphk-_c0pxFLgM_Q" x="178.48" y="2692.46" text="tilo: I see... thank you.">
+<parent-relation guid="XVII5V0Ci0GcXH5NmcvONg"/>
+</topic>
+<topic id="16" parent="3" guid="mjHYLr4Xpk2FBzL8pZqI2A" x="601.11" y="2194.57" text="tilo: Can you help me\Nwith something?">
+<note>
+[lockableThread:usualAdvice][lockThread:usualAdvice]
+</note>
+</topic>
+<topic id="17" parent="16" guid="7icvuiHtPk-Ml5sooJiGWQ" x="601.11" y="2335.48" text="rolo: No--not tonight.\NThis is my time, Mouse."/>
+<topic id="18" parent="17" guid="D1L7wThLnkSXG2_7jgQKWg" x="616.11" y="2571.85" text="rolo: If you still want help in the\Nmorning, come see me at the forge."/>
+<topic id="19" parent="18" guid="xnhglr-o_ESNry1FyH1jyg" x="616.11" y="2735.60" text="rolo: And bring\Nyour purse."/>
+<topic id="20" parent="3" guid="BEcHv71tpUOjIiItZwamcg" x="-347.50" y="2888.64" text="tilo: The Lake Witch--wasn&apos;t\Nthat Captain Powderkeg&apos;s ship?">
+<parent-relation guid="9x5dG0hInECzYPypsxh60Q"/>
+<note>
+[lockableThread:lakeWitchCaptain=true][lockThread:lakeWitchCaptain]
+</note>
+</topic>
+<topic id="21" parent="20" guid="b-OlqQv1ck2sK0Z2zLC-rg" x="-347.50" y="3051.36" text="rolo: You&apos;ve heard\Nof him then? Of his adventures?">
+<children>
+<image guid="Q1_WaMoMXEGLGNJedOve2Q" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="-180.00" y="-32.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Q1_WaMoMXEGLGNJedOve2Q" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="-180.00" y="-32.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="22" parent="21" guid="zkTdCr_gEUGuF48xfKVAIA" x="-559.66" y="3244.14" text="tilo: Aye, though I&apos;m sure\Nmost of it is exaggeration."/>
+<topic id="23" parent="22" guid="pztkcpl1R0iA9nCt_IrZ6g" x="-559.66" y="3375.45" text="rolo: Heh! Not that\Nmuch of it, I reckon.">
+<children>
+<image guid="AD_nNVXE4keurpH6-d8xvA" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="-123.33" y="-27.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="AD_nNVXE4keurpH6-d8xvA" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="-123.33" y="-27.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="24" parent="21" guid="ose-iiD2oEKUKjJY9oNiCg" x="-182.79" y="3244.14" text="tilo: Aye--from the old\Npirate Frog down in the jail."/>
+<topic id="25" parent="24" guid="zWGjRx1qy0-GjJFNiAgCpA" x="-182.79" y="3375.45" text="rolo: Kerold? That mad old\Nfool. I wouldn&apos;t put much stock\Nin anything he tells you."/>
+<topic id="26" parent="25" guid="6w6U4QDk0UKdaxAo_Pf-YA" x="1095.55" y="4073.21" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="27" parent="3" guid="XiTSHqw2IU2rmobU4paB8Q" x="1115.86" y="2265.57" text="tilo: I-I passed the remains\Nof a Rat, just back there.">
+<note>
+[lockableThread:aRatsRemains][lockThread:aRatsRemains]
+</note>
+</topic>
+<topic id="28" parent="27" guid="7v9h99o41UupnXfPSy_WSA" x="1115.86" y="2405.48" text="rolo: These woods are littered\Nwith the dead of untold centuries.\NThey call it the Bone Shore.">
+<parent-relation guid="Ht2sZZ1pfke83elBNu3J2Q"/>
+<note>
+[unlockThread:theDeadMany]
+</note>
+</topic>
+<topic id="29" parent="28" guid="-SsuG-MTlEWvz6EIiy7yfw" x="1314.36" y="2620.48" text="tilo: The Bone Shore... it&apos;s\Nan eerie place at night."/>
+<topic id="30" parent="29" guid="vdZgLX1vEk2pCJRStRqLmg" x="1314.36" y="2821.31" text="rolo: You think\Nso? I like it.">
+<children>
+<image guid="66QQ6JNgiEm4I54ObUyPdA" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="126.67" y="-4.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="66QQ6JNgiEm4I54ObUyPdA" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="126.67" y="-4.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="31" parent="3" guid="K-M2_NDyu0WOQMBexRlucQ" x="1680.22" y="2072.79" text="tilo: What are you\Ndoing down here?">
+<parent-relation guid="1mP7Mpb2akGxp843jAnsOw"/>
+<note>
+[lockableThread:whatRoloDoingHere][lockThread:whatRoloDoingHere]
+</note>
+</topic>
+<topic id="32" parent="31" guid="E5iiR6Gne0OSTqqe6jO_Cw" x="1680.22" y="2228.35" text="rolo: Minding\Nmy business."/>
+<topic id="33" parent="3" guid="nCYvPx94Pk-PEvE80J-33w" x="939.00" y="2620.48" text="tilo: The dead... why are\Nthere so many? Where\Ndo they come from?">
+<parent-relation guid="Hx6WVd6SLUaHQ5fbQNj_rg"/>
+<note>
+[lockableThread:theDeadMany=true][lockThread:theDeadMany]
+</note>
+</topic>
+<topic id="34" parent="33" guid="x2JGlPXVtk271S-92wgMcg" x="939.00" y="2821.31" text="rolo: Some are from battles... some\Nthe lake. The currents bring\Nthem here from all across [Vaelia].">
+<note>
+[footnote:lake_vaelia]
+</note>
+</topic>
+<topic id="35" parent="3" guid="Fw3CKBnG_ku506THIoVO8Q" x="3722.79" y="1614.34" text="tilo: &lt;REMAIN SILENT&gt;">
+<note>
+[lockableThread:standInSilence]
+</note>
+</topic>
+<topic id="36" parent="35" guid="0URoZ11F1U-CjObzA4ByIw" x="3722.79" y="2354.38" text="rolo: They say the lake wasn&apos;t always here...\Nthat [Vaelia] was once a great plain,\Nstretching off beyond the horizon.">
+<note>
+[variationIndex=1][lockableThread:staySilentB][lockThread:staySilentB][unlockThread:whatsBeneathLake;songsOfVaelia][footnote:lake_vaelia]
+</note>
+</topic>
+<topic id="37" parent="35" guid="zzE4WVNYTkuF4fHV0JVzEg" x="2609.18" y="2165.68" text="rolo: ...">
+<parent-relation guid="ne6O0s-RF02DGE_Za2LWSA"/>
+<note>
+[variationIndex=0][lockableThread:staySilentA][lockThread:staySilentA]
+</note>
+</topic>
+<topic id="38" parent="37" guid="e6kMzDiqnkGGatVAHSpbQA" x="2601.18" y="2340.12" text="rolo: I miss it,\Nsometimes--the lake...">
+<note>
+[unlockThread:roloOnTheLake]
+</note>
+</topic>
+<topic id="39" parent="38" guid="_HAmW80g4kKeWXOIkInk6A" x="2400.39" y="2562.98" text="tilo: &lt;REMAIN SILENT&gt;"/>
+<topic id="40" parent="39" guid="8IjqvWrRmE-aW4kw9cbIeA" x="2400.39" y="2708.69" text="rolo: Its currents, its winds..."/>
+<topic id="41" parent="40" guid="_G9Sd0JW8UOKMxWUKNJrEg" x="2400.39" y="2838.69" text="tilo: &lt;REMAIN SILENT&gt;"/>
+<topic id="42" parent="41" guid="KEcxHVMcNUWY5UYomLQFCA" x="2400.39" y="2964.41" text="rolo: ..."/>
+<topic id="43" parent="35" guid="VB_SuEAjg0KEbqzDTEkX9w" x="4678.56" y="2315.48" text="rolo: ...">
+<parent-relation guid="-C6tFs7f2Uqg0YKKoSMDqA"/>
+<note>
+[variationIndex=2][lockableThread:staySilentC][lockThread:staySilentC;standInSilence]
+</note>
+</topic>
+<topic id="44" parent="43" guid="PutvrmVrfkSXduWineoT1Q" x="4678.56" y="2455.48" text="rolo: This lake is a grave... So\Nmany ships... so many sailors."/>
+<topic id="45" parent="44" guid="xBv6AA9-qEWLLgsl7co_rg" x="4678.56" y="2625.48" text="rolo: Some nights you can still\Nsee the blue of the [dying light],\Nshining out from the lake bed.">
+<note>
+[footnote:dying_light]
+</note>
+</topic>
+<topic id="46" parent="3" guid="l2thQZg73E6bfSvipGrBRQ" x="3401.22" y="2715.80" text="tilo: I wonder what lies\Nbeneath these waters.">
+<parent-relation guid="q8TJkUd4iE-gwpOR5dsHoA"/>
+<note>
+[lockableThread:whatsBeneathLake=true][lockThread:whatsBeneathLake]
+</note>
+</topic>
+<topic id="47" parent="46" guid="_SI7OJ6LvEyJyaKYQ2OjMg" x="3401.22" y="2877.23" text="rolo: ... Some things are\Nbest left undisturbed."/>
+<topic id="48" parent="3" guid="HkF8W-p4v02ceT17xDBxng" x="2828.32" y="2708.69" text="tilo: You were on the\Nlake once?">
+<parent-relation guid="aqtdDM1gfEeFNdgzHK3yBA"/>
+<note>
+[lockableThread:roloOnTheLake=true][lockThread:roloOnTheLake]
+</note>
+</topic>
+<topic id="49" parent="48" guid="Ur5cPXsBIE-vwFSX5xm0GQ" x="2828.32" y="2838.69" text="rolo: ... In my youth, aye."/>
+<topic id="50" parent="49" guid="BPf4yF50O0aWJv48kQqZeQ" x="2829.32" y="2950.41" text="tilo: You never know--perhaps\Nyou&apos;ll return to it one day."/>
+<topic id="51" parent="50" guid="ahTCM0ebbUqobWGcs1RwSQ" x="2824.32" y="3105.27" text="rolo: No... I&apos;m\Nneeded here.">
+<parent-relation guid="sAuo6InNRUuMn5jOAD_sPA"/>
+</topic>
+<topic id="52" parent="3" guid="YC3-j5QHlUW7qKMKQZMQ6Q" x="4061.79" y="2715.80" text="tilo: The old songs tell not of\Nthe lake, but of Vaelia&apos;s Plain.">
+<parent-relation guid="IDNfXqYT5ECPvDolLWWWpA"/>
+<note>
+[lockableThread:songsOfVaelia=true][lockThread:songsOfVaelia]
+</note>
+</topic>
+<topic id="53" parent="52" guid="oYqCUYj-6EipE6Kb8T8VDQ" x="4061.79" y="2877.23" text="rolo: ... Sing\None, if you like.">
+<children>
+<image guid="6-pWkQww8E2Vdwhy6Pw1oA" name="a08358dadef114a25e39864e6010ea970287efa3" x="118.00" y="-16.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</children>
+<images>
+<image guid="6-pWkQww8E2Vdwhy6Pw1oA" name="a08358dadef114a25e39864e6010ea970287efa3" x="118.00" y="-16.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</images>
+</topic>
+<topic id="54" parent="53" guid="9UtVNJywq0uOqClDfhZBeg" x="4061.79" y="3205.25" text="DIALOGUE_HUB">
+<parent-relation guid="wquFYQXbAkCbaoZDrEuGdg"/>
+<note>
+[executeAction:showSongBook]
+</note>
+</topic>
+<topic id="55" parent="54" x="3379.80" y="3369.21" text="tilo: The Rat\Nwith Two Tails">
+<note>
+[lockableThread:ratWithTwoTails][lockThread:ratWithTwoTails][executeAction:performSong=song_ratTwoTails]
+</note>
+</topic>
+<topic id="56" parent="55" guid="3QfeWWieNEelD1elZdW40g" x="3379.80" y="3524.81" text="rolo: Heh... Heheheh!\NYou&apos;re alright, Mouse.">
+<children>
+<image guid="_AqRsLosZUWMW0Hc_Ig9PA" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="-124.00" y="-34.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="_AqRsLosZUWMW0Hc_Ig9PA" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="-124.00" y="-34.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</images>
+<note>
+[executeAction:grantRenown=1]
+</note>
+</topic>
+<topic id="57" parent="54" x="3715.08" y="3369.21" text="tilo: The Maiden\NWouldn&apos;t Sing">
+<note>
+[lockableThread:balladofMerra][lockThread:balladofMerra][executeAction:performSong=song_maiden]
+</note>
+</topic>
+<topic id="58" parent="57" guid="Wim7T-2ILEiby7HqnuVaEA" x="3715.08" y="3524.81" text="rolo: I&apos;m not sure what any of that\Nhas to do with the lake... but it\Nwas a fine song.">
+<note>
+[executeAction:grantRenown=1]
+</note>
+</topic>
+<topic id="59" parent="54" x="4061.79" y="3369.21" text="tilo: Heaven in a Bottle">
+<note>
+[lockableThread:drinkingShanty][lockThread:drinkingShanty][executeAction:performSong=song_pirateSong]
+</note>
+</topic>
+<topic id="60" parent="59" guid="WBT-0ofQcU2rYQOcQl-QwQ" x="4061.79" y="3536.81" text="rolo: I&apos;ve not heard that\Nsong in years...">
+<children>
+<image guid="jtZDA66bakGOsFleVyBEQA" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="166.00" y="-22.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="jtZDA66bakGOsFleVyBEQA" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="166.00" y="-22.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</images>
+<note>
+[executeAction:grantRenown=1]
+</note>
+</topic>
+<topic id="61" parent="54" x="4451.76" y="3369.21" text="tilo: A Murder of Crows">
+<note>
+[lockableThread:gatheringSong][lockThread:gatheringSong][executeAction:performSong=song_insultingSong]
+</note>
+</topic>
+<topic id="62" parent="61" guid="jpRGEgGYw0OPCmakOK3ZGg" x="4451.76" y="3524.81" text="rolo: Can&apos;t say I would\Nargue with any of that.">
+<children>
+<image guid="SFEFg2tcB0iwOAj7a1s_8g" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="18.00" y="83.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="SFEFg2tcB0iwOAj7a1s_8g" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="18.00" y="83.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</images>
+<note>
+[executeAction:grantRenown=1]
+</note>
+</topic>
+<topic id="63" parent="54" guid="YceyYAnUzkmslUmOq8dgiA" x="4789.15" y="3374.76" text="tilo: The Ballad of\Nthe Coward King">
+<note>
+[lockableThread:balladOfTheCowardKing][lockThread:balladOfTheCowardKing][executeAction:performSong=song_cowardKing]
+</note>
+</topic>
+<topic id="64" parent="63" guid="m7S-hvh4XU-gw_tONcFaNQ" x="4789.15" y="3524.81" text="rolo: It&apos;s easy to judge, when you&apos;ve\Nnever had others relying on you.">
+<note>
+[executeAction:grantRenown=1]
+</note>
+</topic>
+<topic id="65" parent="54" guid="IUFCZo1h_k2aGZ0nnmrObw" x="5155.26" y="3369.21" text="tilo: The Orphan\NPrince">
+<note>
+[lockableThread:sonOfACowardKing][lockThread:sonOfACowardKing][executeAction:performSong=song_silas][reveal:counter.dialog_silas_pt2.composed_song_silas=1]
+</note>
+</topic>
+<topic id="66" parent="65" guid="2p5EGCtOBUuq5lJ9xT0LRw" x="5155.26" y="3524.81" text="rolo: Huh... that&apos;s a\Nnew one on me.">
+<note>
+[executeAction:grantRenown=1]
+</note>
+</topic>
+<topic id="67" parent="54" guid="J6Y_iyM7A0CBMPdnZrV4fA" x="3052.52" y="3369.21" text="tilo: The\NPoisoned Cup">
+<note>
+[lockableThread:poisonedCup][lockThread:poisonedCup][executeAction:performSong=song_poisonedCup]
+</note>
+</topic>
+<topic id="68" parent="67" guid="RozmWK0r30yhCEP_1aQ5ag" x="3052.52" y="3524.81" text="rolo: ... I&apos;ve nothing\Nto say about that.">
+<note>
+[executeAction:grantRenown=1]
+</note>
+</topic>
+<topic id="69" parent="54" x="2693.18" y="3369.21" text="tilo: The\NGilded Warrior">
+<note>
+[lockableThread:gildedWarrior][lockThread:gildedWarrior][executeAction:performSong=song_gildedWarrior]
+</note>
+</topic>
+<topic id="70" parent="69" guid="xah7PEFbn0-ijvcUT77xwQ" x="2693.18" y="3524.81" text="rolo: Aye... I see what you mean.">
+<note>
+[executeAction:grantRenown=2]
+</note>
+</topic>
+<topic id="71" parent="54" guid="TDKQNqpXqU-8NnxHwTMbEQ" x="5460.08" y="3355.21" text="tilo: Rascals&apos; Whirligig">
+<note>
+[lockableThread:balladOfThieves][lockThread:balladOfThieves][executeAction:performSong=song_gustoAndFatale][reveal:counter.dialog_gustoAndFatale.composed_song_gustoAndFatale=1]
+</note>
+</topic>
+<topic id="72" parent="71" guid="EKG7npepJEyQz99qWiATeQ" x="5460.08" y="3536.92" text="rolo: You&apos;ve a talent, Mouse. Don&apos;t\Nwaste it on [scrunts] like those two.">
+<children>
+<image guid="WKN8wl9eUEeBB5r-bInNpw" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="219.00" y="-8.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="WKN8wl9eUEeBB5r-bInNpw" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="219.00" y="-8.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+<note>
+[executeAction:grantRenown=1][footnote:scrunt]
+</note>
+</topic>
+<topic id="73" parent="3" guid="ZI-SbVst5Eywo2qpBKn11g" x="-775.24" y="1840.48" text="tilo: How did you get here? I\Ndidn&apos;t pass you on the way down.">
+<note>
+[lockableThread:rolosSecretPassages][lockThread:rolosSecretPassages]
+</note>
+</topic>
+<topic id="74" parent="73" guid="EGCRWv7ZZUmpaD80P6vCfw" x="-775.24" y="2045.15" text="rolo: Oh, this place is full of secrets--there\Nare hidden passages running all over."/>
+<topic id="75" parent="74" guid="rl7x3wzZY02gg6x2mcpqOw" x="-650.80" y="2194.04" text="tilo: Aye, I know them."/>
+<topic id="76" parent="75" guid="u0zEvSXSCkCMELu2ApVOpw" x="-650.80" y="2297.37" text="rolo: Not all of them."/>
+<topic id="77" parent="74" guid="9ms0ZC5WDU6NqYAkEKeZzg" x="-967.07" y="2194.04" text="tilo: Would you show\Nme some?"/>
+<topic id="78" parent="77" guid="BRv0L_wUJEKPy8iWboNLnQ" x="-967.07" y="2297.37" text="rolo: Heh! What do\Nyou think?">
+<children>
+<image guid="UngLZ_KnLUSJMAzoewezAw" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="-123.33" y="25.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="UngLZ_KnLUSJMAzoewezAw" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="-123.33" y="25.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="79" parent="3" guid="UcH-1do6bkqfyPao90yv6w" x="-282.50" y="1738.63" text="tilo: Do you\Nnever sleep?">
+<parent-relation guid="sjiJUOwjmE62SEj4soImBA"/>
+<note>
+[lockableThread:roloNeverSleeps][lockThread:roloNeverSleeps]
+</note>
+</topic>
+<topic id="80" parent="79" guid="dnSALXaEUk-sHMGahHIDRA" x="-282.50" y="1922.92" text="rolo: Not any\Nmore... not really."/>
+<topic id="81" parent="3" guid="4jrs_IqqBU6UyFwZHB84UA" x="4847.59" y="1174.05" text="tilo: What can you tell me about\Nthe disappearance of the Jailer?">
+<note>
+[lockableThread:findJailer][lockThread:findJailer;dialog_rolo.findJailer][reveal:quest_findJailer.talkToCommander=inactive]
+</note>
+</topic>
+<topic id="82" parent="81" guid="_uVgyxJWqUa9hjngDT-Yvg" x="4847.59" y="1328.79" text="rolo: Oh, I haven&apos;t seen him in\Ndays--not since the Blood Moon."/>
+<topic id="83" parent="82" guid="rf2v2gtZ8kOGuDcyHmSvlQ" x="4847.59" y="1521.02" text="rolo: He came to complain about the\Nnoise. Though hardly a day went by when\Nhe didn&apos;t complain about the noise.">
+<children>
+<image guid="t5-b4lD1QEKID_aCC0okUA" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="250.00" y="-9.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="t5-b4lD1QEKID_aCC0okUA" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="250.00" y="-9.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="84" parent="83" x="4847.59" y="1689.77" text="rolo: I sent him packing. Didn&apos;t\Nsee him again after that."/>
+<topic id="85" parent="3" x="906.25" y="1967.98" text="DIALOGUE_HUB_C"/>
+<topic id="86" parent="85" guid="aUejUxnFx0Ol-VrpbE7chg" x="1420.08" y="1154.48" text="tilo: I&apos;ll leave you in\Npeace. Goodnight.">
+<parent-relation guid="6Y-Red2Nt0mBquX6TpqCIg"/>
+</topic>
+<topic id="87" parent="86" guid="Kz0sPa5ETkanHOLK1Gj5Sw" x="1722.52" y="1422.90" text="rolo: Careful down here, Mouse.\NThese waters can be treacherous.">
+<children>
+<image name="a08358dadef114a25e39864e6010ea970287efa3" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</children>
+<images>
+<image name="a08358dadef114a25e39864e6010ea970287efa3" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="88" parent="86" guid="88jCqzjjVkKDKAkRKwi5gQ" x="1420.08" y="1401.23" text="rolo: Watch what you&apos;re\Ndigging up down there.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="89" parent="88" guid="pXWzYEXEjEqeipftomO-rQ" x="1420.08" y="1542.06" text="rolo: Some things are\Nbest left buried."/>
+<topic id="90" parent="86" guid="lQmIqy7eWUCsPcIE3RUqqA" x="1103.75" y="1454.98" text="rolo: Beware the lake, Mouse.\NThe surface can look calm...">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="91" parent="90" guid="9i3JFrl0uU2fsklUMQKTHw" x="1103.75" y="1592.48" text="rolo: ... but it&apos;s what&apos;s\Nunder it that&apos;ll do you in.">
+<children>
+<image guid="YVu1i3mlM0mhujEem67Szw" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="-137.00" y="-46.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="YVu1i3mlM0mhujEem67Szw" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="-137.00" y="-46.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="92" parent="86" guid="rYudhjOfqEmQCDAp2Twnig" x="1996.50" y="1422.90" text="rolo: Night.">
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="93" parent="86" guid="awPAsKUNh0SXDu50J0_uGA" x="2180.10" y="1457.48" text="rolo: Go\Nsafe, now.">
+<note>
+[variationIndex=4]
+</note>
+</topic>
+<topic id="94" parent="2" guid="BVMnGtIGCk-TmedoMfMgvw" x="5861.38" y="1096.05" text="tilo: Who was that? Why\Nwere they following me?">
+<parent-relation guid="OntKX_LgRkabDHHfyAkxog"/>
+<note>
+[lockableThread:masterAndSmugglers][lockThread:masterAndSmugglers][reveal:quest_findSmugglers.learnSmugglersMark=active]
+</note>
+</topic>
+<topic id="95" parent="94" guid="BnZGQ2PfokuTqyI2X7lwTw" x="5861.38" y="1226.05" text="rolo: Here..."/>
+<topic id="96" parent="95" guid="hO0LdUK3J0iNLnbGiDpC2A" x="5861.38" y="1339.34" text="The smithy gives you a scrap of\Npaper, a strange symbol\Nscrawled across it in ink.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="97" parent="96" guid="wvyl_ZIXykeCuqpWpPXD_A" x="5861.38" y="1453.46" text="rolo: ... you recognise this?">
+<children>
+<image guid="YD4Yo-umy0yTRXXImoogAQ" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="181.00" y="-4.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="YD4Yo-umy0yTRXXImoogAQ" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="181.00" y="-4.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="98" parent="97" guid="cVY8x-Lk8k6YBkeBrwQCsg" x="6073.88" y="1641.59" text="tilo: No... I&apos;ve not\Nseen it before.">
+<parent-relation guid="84Ez2Lx2REu2kZtF9dWvfA"/>
+</topic>
+<topic id="99" parent="98" guid="VCeM2vGnck6pVX0pCBKHvw" x="5861.38" y="1809.85" text="rolo: It&apos;s the sign of the Master and his\Nsmugglers--the way he marks what&apos;s his.">
+<children>
+<image guid="8-A5vcEfa02Xm1U5Y9D-9A" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="237.00" y="-8.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="8-A5vcEfa02Xm1U5Y9D-9A" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="237.00" y="-8.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="100" parent="99" guid="54kutWNXREeAsfqfNgGjOg" x="5861.38" y="1918.71" text="rolo: His lackeys have it etched\Ninto the back of their [obols].">
+<note>
+[footnote:obol]
+</note>
+</topic>
+<topic id="101" parent="100" guid="pHWaNUMxw0CnHElmjN08dQ" x="5861.38" y="2036.42" text="rolo: Find the five [obols]\Nbearing that mark, and you&apos;ll\Nhave your five smugglers.">
+<note>
+[footnote:obol]
+</note>
+</topic>
+<topic id="102" parent="101" guid="_UBRQm2VAEy3yIqicsbkhQ" x="5863.31" y="2189.32" text="They&apos;re not just going to offer them\Nto you, though. You have some\Nwork to do first, to win their trust.">
+<parent-relation guid="bzeLZNxV0EqCdZ1T_NOidQ"/>
+</topic>
+<topic id="103" parent="102" guid="cibubbRl8E27OOE7E95XEQ" x="5863.31" y="2308.34" text="DIALOGUE_HUB"/>
+<topic id="104" parent="103" guid="4eAEWvjfT0yRPtPfRM6MMg" x="5661.25" y="2464.86" text="tilo: Why are you\Ntelling me this?">
+<parent-relation guid="B4RHi1Y4Bk6K94y4OXTsXg"/>
+</topic>
+<topic id="105" parent="104" guid="69QOWsVA4kes-sYoGgW5ww" x="5661.25" y="2566.50" text="rolo: &apos;Cause I don&apos;t like the way they\Ndo things, these smugglers. Wretched\Nsewer Rats, there&apos;s no honour to it.">
+<children>
+<image guid="wrHqoh_Ft0y0O4o3SHvv4A" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="-197.00" y="-54.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="wrHqoh_Ft0y0O4o3SHvv4A" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="-197.00" y="-54.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="106" parent="105" guid="18Iwgny9qk-C3y7lYLHXng" x="5661.25" y="2697.48" text="tilo: Sewer Rats?"/>
+<topic id="107" parent="103" guid="V5ShbKhLAkCwouL9b3_EUQ" x="6028.09" y="2566.50" text="tilo: Where\Nshould I begin?">
+<parent-relation guid="Ve8OT_XAYkGcqJrnGgmUaQ"/>
+</topic>
+<topic id="108" parent="107" guid="NTLiE_nL9USEadXoM1Vi4g" x="6028.09" y="2697.48" text="rolo: Seen them coming\Nand going from the\Nsewers, late at night."/>
+<topic id="109" parent="108" guid="22xQiwowjk-ZEN2p8nEueg" x="6028.09" y="2810.46" text="rolo: Reckon that&apos;s where\Nthey&apos;re working out of."/>
+<topic id="110" parent="109" guid="y4S1DkcXW0yj2u5PtDfDgQ" x="6028.09" y="2923.85" text="rolo: Find their mark down\Nthere and you&apos;ll know\Nyou&apos;re on the right track.">
+<parent-relation guid="P4pfTgvfxkS1M8iUMK8qjA"/>
+<note>
+[completeTask:quest_findSmugglers.learnSmugglersMark]
+</note>
+</topic>
+<topic id="111" parent="110" guid="a9ldyM2nXEu1jZWxI4j14Q" x="6028.34" y="3045.59" text="rolo: Listen, Mouse. He&apos;ll cut your throat\Nsoon as look at you, the Master will...">
+<parent-relation guid="QBorCG6DfkaH2OecKdrkXw"/>
+</topic>
+<topic id="112" parent="111" guid="djGgS5XVyk-q2s-eQcgT7g" x="6028.34" y="3173.30" text="rolo: ... so be careful how\Nyou&apos;re asking these\Nquestions--and who you&apos;re\Nasking them to.">
+<parent-relation guid="MM5biKwIe0qmp0iAghh1_g"/>
+<children>
+<image guid="_6d_Do0IU0aOBNGC2FZbrw" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="179.00" y="-10.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="_6d_Do0IU0aOBNGC2FZbrw" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="179.00" y="-10.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+<note>
+[executeAction:activateSmugglersBanner]
+</note>
+</topic>
+<topic id="113" parent="112" x="6028.34" y="3301.16" text="rolo: We&apos;ll not\Nspeak of this again."/>
+<topic id="114" parent="103" guid="UJwe_f0QvU2JcYCmasMtSA" x="6483.94" y="2784.00" text="tilo: How do you know\Nso much about the smugglers?">
+<parent-relation guid="uV-cZfQluUyFk4B-_dyn8g"/>
+<note>
+[lockableThread:roloListens][lockThread:roloListens]
+</note>
+</topic>
+<topic id="115" parent="114" guid="ERG5oWe0HESQJTkLu10fnA" x="6483.94" y="2914.98" text="rolo: By listening, &apos;stead\Nof talking--something\Nyou&apos;d be wise to try."/>
+<topic id="116" parent="103" guid="FusDvhpWn02eVc3vaWtt-w" x="6502.69" y="2464.86" text="tilo: The Master. Who is he?">
+<note>
+[lockableThread:mastersIdentity][lockThread:mastersIdentity]
+</note>
+</topic>
+<topic id="117" parent="116" guid="DxdcqBuGwEWzLJGpyIpZCw" x="6502.69" y="2593.34" text="rolo: Can&apos;t say, not for\Ncertain. No creature&apos;s seen\Nhim, and lived to speak of it."/>
+<topic id="118" parent="97" guid="X8unqveo5U-qxxZKDDH4rQ" x="5625.88" y="1641.59" text="tilo: It looks familiar,\Nbut I can&apos;t place it.">
+<parent-relation guid="ln5-gEvkUU29RIzAt8TX_g"/>
+</topic>
+<topic id="119" parent="0" guid="17tFg28NmkiMziUuAV2cKA" x="156.55" y="838.18" palette="3" colorinfo="3" text="rolo: Fine night for\Na stroll, Mouse.">
+<note>
+[variationIndex=0][lockableThread:firstIntro][lockThread:firstIntro][unlockThread:dialog_rolo.midnightMeeting]
+</note>
+</topic>
+<topic id="120" parent="119" guid="9a5VM5jUzUOUJx8atsaULQ" x="-21.82" y="1011.82" text="tilo: Rolo?\NIs that you?">
+<parent-relation guid="qyCmKTjGEEetRwxsENoBwQ"/>
+<note>
+[reveal:counter.dialog_rolo.metRolo=2]
+</note>
+</topic>
+<topic id="121" parent="120" guid="fzcLjkdOXEekQnD36XynEg" x="-21.82" y="1171.93" text="rolo: It is, aye.">
+<note>
+[executeAction:revealTrueName=character_rolo]
+</note>
+</topic>
+<topic id="122" parent="119" guid="luvhlFjjdE2I36ArKmx-KA" x="146.85" y="1008.18" text="tilo: Smithy?\NIs that you?">
+<parent-relation guid="1Z8BQ3HS20-B-A1TF36HjA"/>
+<note>
+[reveal:counter.dialog_rolo.metRolo=1]
+</note>
+</topic>
+<topic id="123" parent="122" guid="0GklvYp8s0OvInpPFEUsrw" x="146.85" y="1171.93" text="rolo: Rolo...\Nname&apos;s Rolo.">
+<note>
+[updateCounter:metRolo=2][executeAction:revealTrueName=character_rolo]
+</note>
+</topic>
+<topic id="124" parent="119" guid="W84rLAtb6EOcAYcOb_FvJw" x="365.91" y="1008.18" text="tilo: I-I didn&apos;t expect to\Nfind anybody down here."/>
+<topic id="125" parent="124" guid="zOukD0zKMEqWDGQxKyJwiA" x="365.91" y="1171.93" text="rolo: Likewise."/>
+<topic id="126" parent="119" guid="1SlYxBqVIUmOcmyZBKiEFw" x="-473.16" y="1011.82" text="tilo: G-good\Nevening, Sir.">
+<note>
+[reveal:counter.dialog_rolo.metRolo,&lt;2
+</note>
+</topic>
+<topic id="127" parent="126" guid="j1AZrlNCSkO41o4Eqa9p6A" x="-473.16" y="1107.24" text="rolo: Sir? Such\Nmanners!">
+<children>
+<image guid="On6yfnOhHkSPF7Pgfu1JCA" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="123.75" y="-15.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="On6yfnOhHkSPF7Pgfu1JCA" name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="123.75" y="-15.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</images>
+<note>
+[updateCounter:metRolo=2]
+</note>
+</topic>
+<topic id="128" parent="127" guid="ovS-mGI5pESjmiVwVVUcpA" x="-473.16" y="1197.24" text="rolo: ... Rolo.">
+<children>
+<image guid="BHrBCA4LEESR1IRukjgwvA" name="a08358dadef114a25e39864e6010ea970287efa3" x="103.75" y="17.83" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</children>
+<images>
+<image guid="BHrBCA4LEESR1IRukjgwvA" name="a08358dadef114a25e39864e6010ea970287efa3" x="103.75" y="17.83" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</images>
+<note>
+[executeAction:revealTrueName=character_rolo]
+</note>
+</topic>
+<topic id="129" parent="128" guid="cTP5re6ZDEW06tyBdQgZEQ" x="-619.99" y="1397.89" text="tilo: Rolo... my\Nname is Tilo.">
+<parent-relation guid="LhWlc9Q4l0O7OhZj3YDcbg"/>
+</topic>
+<topic id="130" parent="129" guid="Ok9h8LQqBkWo_UklpOXsjg" x="-619.99" y="1533.72" text="rolo: ...">
+<children>
+<image guid="32V1b5iaXkOk4e0mfuXp1A" name="a08358dadef114a25e39864e6010ea970287efa3" x="-47.50" y="-27.17" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</children>
+<images>
+<image guid="32V1b5iaXkOk4e0mfuXp1A" name="a08358dadef114a25e39864e6010ea970287efa3" x="-47.50" y="-27.17" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</images>
+</topic>
+<topic id="131" parent="128" guid="RLviwV_Aw0yqAbXnVdpalA" x="-296.24" y="1397.89" text="tilo: You&apos;re the smithy,\Nfrom the forge.">
+<parent-relation guid="yfE_O3JiXEuW7ivW0066lQ"/>
+</topic>
+<topic id="132" parent="131" guid="Wnqy7uRB40qRyjYvq126iA" x="-296.24" y="1487.81" text="rolo: Aye... it&apos;s where you&apos;ll\Nusually find a smith."/>
+<topic id="133" parent="0" guid="lqLbDjcB60aUqaG9Mr5nOw" x="881.77" y="784.85" palette="4" colorinfo="4" text="rolo: This used to be a\Nquiet place at night...">
+<children>
+<image name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="5.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="5.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="134" parent="0" guid="de2sqVrL1kWFWYP9jP6MTg" x="1142.44" y="838.18" palette="5" colorinfo="5" text="rolo: How goes\Nit, Mouse?">
+<note>
+[variationIndex=4]
+</note>
+</topic>
+<topic id="135" parent="0" guid="HP5mN7zf_kuex6Gt-V6aoA" x="456.25" y="784.85" palette="6" colorinfo="6" text="rolo: Mouse.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="136" parent="0" guid="5tNGlAZOnUetJ4NpB2xECQ" x="122.41" y="126.23" palette="2" colorinfo="2" text="rolo: Quiet, you&apos;re being followed! Head a ways\Ndown the shore, try and give them the slip.">
+<children>
+<image name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="5.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="5.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:quest_findSmugglers.talkToRolo=active|quest_findSmugglers.learnSmugglersMark=active][lockableThread:beingFollowed][lockThread:beingFollowed]
+</note>
+</topic>
+<topic id="137" parent="136" guid="dTTDatjW70emtjknE29DCA" x="122.41" y="290.52" text="rolo: Meet me back\Nhere in a half-hour.">
+<children>
+<image guid="WWu7UCddaUewOYDP3Vxo6w" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="147.86" y="-15.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="WWu7UCddaUewOYDP3Vxo6w" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="147.86" y="-15.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_findSmugglers.talkToRolo][startQuest:quest_loseTail][startTimer:loseTail=75;quest_loseTail.waitForTimer]
+</note>
+</topic>
+<topic id="138" parent="0" guid="k_E3x4bfAEKY0-JS44L-MA" x="837.86" y="-264.45" palette="2" colorinfo="2" text="rolo: Hoy!">
+<parent-relation guid="4v_D4G-bW0qt2rXPZ28vCg"/>
+<children>
+<image guid="mIDilLgGQU6KWwQpufJsDA" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="6.43" y="-76.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="mIDilLgGQU6KWwQpufJsDA" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="6.43" y="-76.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:quest_loseTail.waitForTimer=active]
+</note>
+</topic>
+<topic id="139" parent="138" guid="D1bzka4LMUiL08NLYgwqwg" x="576.42" y="47.20" text="rolo: What did I tell you, Mousey?\NHalf an hour, then we&apos;ll talk.">
+<children>
+<image guid="JrPqSByjOEmTIKTrvkqg-Q" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="-20.71" y="-92.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="JrPqSByjOEmTIKTrvkqg-Q" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="-20.71" y="-92.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="140" parent="138" guid="CVDgzDvGQUOXQh_yAWiEwQ" x="837.86" y="-32.07" text="rolo: Did you give them the\Nslip? Come back you&apos;re sure.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="141" parent="138" x="1064.20" y="47.20" text="rolo: It isn&apos;t safe to talk yet.\NGive it half an hour.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="142" parent="0" guid="LGwiFvCBPk6BmBPuE3ljwQ" x="-417.38" y="377.28" palette="7" colorinfo="7" text="rolo: I was beginning to think\Nyou weren&apos;t coming, Mouse.">
+<parent-relation guid="jDNfX9mrvE6T44GG3CG69g"/>
+<note>
+[priorityOverride][lockableThread:smugglersSecrets][lockThread:smugglersSecrets;whatRoloDoingHere;firstIntro][reveal:quest_loseTail.talkToRolo=active][completeTask:quest_loseTail.talkToRolo]
+</note>
+</topic>
+<topic id="143" parent="0" guid="4lXtIv8ToEOcThwm0TJ1-Q" x="1413.10" y="230.15" palette="8" colorinfo="8" text="rolo: Hoy!">
+<parent-relation guid="4IUQUsTQQ0e3ksv-aXVAYQ"/>
+<children>
+<image guid="Ck-fYV1_C0KBwQ6z-x0uJg" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="20.00" y="-78.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Ck-fYV1_C0KBwQ6z-x0uJg" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="20.00" y="-78.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:hasItemEquipped=hat_pirate]
+</note>
+</topic>
+<topic id="144" parent="143" guid="ZWueaCvagEaHq6_pgs6DRA" x="1102.54" y="397.67" text="rolo: You got no business wearing\Nthat hat, &apos;less you&apos;re a pirate.">
+<children>
+<image name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="5.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="5.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="145" parent="144" guid="XtUJ2QkepE-kOFZiJ1Moxw" x="1099.04" y="516.56" text="rolo: Take it off, then we can talk."/>
+<topic id="146" parent="143" x="1407.76" y="401.16" text="rolo: I told you to\Ntake that hat off.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="147" parent="146" guid="DQWLEETsBE2c0K5ErAMdag" x="1407.76" y="517.81" text="rolo: I&apos;ll not help\Nyou &apos;til you do."/>
+<topic id="148" parent="143" guid="gtUw5HT_UEuuojFKHYa__A" x="1663.35" y="460.62" text="rolo: Did you not\Nlisten? Take off\Nthat hat.">
+<children>
+<image guid="KdR6NsFdGEWG-NZE63naDQ" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="10.00" y="-107.17" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="KdR6NsFdGEWG-NZE63naDQ" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="10.00" y="-107.17" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="149" parent="143" guid="Onm5mTRkjUOoZDLN_nhXTw" x="1929.00" y="401.16" text="rolo: What did I say?\NThat hat--take it off.">
+<children>
+<image name="873e7fdd80312b9afb84eadedc9bbab459df43aa" x="0.00" y="-89.05" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_angry.png"/>
+</image>
+</children>
+<images>
+<image name="873e7fdd80312b9afb84eadedc9bbab459df43aa" x="0.00" y="-89.05" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_angry.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="150" parent="0" guid="HNZRW5JoHEWUUItHRvULIA" x="1408.38" y="678.43" palette="2" colorinfo="2" text="rolo: ... Do you need a hand?">
+<note>
+[priorityOverride][lockableThread:PumpkinOnHead][lockThread:PumpkinOnHead][reveal:hasItemEquipped=hat_pumpkin;quest_loseTail=inactive|quest_loseTail=complete]
+</note>
+</topic>
+<topic id="151" parent="150" guid="27olhD4lbEy6WMKSwzpQOQ" x="1404.38" y="763.43" text="rolo: Only, you seem to have a\Npumpkin stuck on your head."/>
+<topic id="152" parent="0" guid="EbvxHx8tMUCTszBWAnpdSg" x="1792.84" y="661.95" palette="3" colorinfo="3" text="rolo: Well, don&apos;t you look fine?">
+<note>
+[priorityOverride][reveal:costume_king=true;quest_loseTail=inactive|quest_loseTail=complete][lockableThread:revealKingCostume][lockThread:revealKingCostume]
+</note>
+</topic>
+<topic id="153" parent="152" guid="jDwVtLs9HUO9u1VIfbAw0g" x="1792.84" y="760.70" text="rolo: If the Mice are ever in need of a\Nking, they could do worse than ask you."/>
+<topic id="154" parent="0" guid="sZDuPScJDU---JpVm1biHg" x="1971.27" y="-108.72" palette="2" colorinfo="2" text="rolo: What&apos;s with the ears, Mouse...?">
+<children>
+<image name="a08358dadef114a25e39864e6010ea970287efa3" x="193.04" y="-72.53" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</children>
+<images>
+<image name="a08358dadef114a25e39864e6010ea970287efa3" x="193.04" y="-72.53" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:counter.dialog_faustus.enableBigEars=1;counter.dialog_rolo.roloSawBigEars=0;quest_loseTail=inactive|quest_loseTail=complete][lockableThread:hasBigEars][lockThread:hasBigEars][updateCounter:dialog_rolo.roloSawBigEars=1]
+</note>
+</topic>
+<topic id="155" parent="154" guid="q-I7ZyJqZkeq3K93jsCavQ" x="1971.27" y="-14.94" text="rolo: ... Second thoughts, never mind."/>
+<topic id="156" parent="-1" guid="o6ac2JwhEkOa-R3brr5ZBw" x="826.15" y="-853.67" palette="1" colorinfo="1" text="rolo"/>
+<topic id="157" parent="156" x="416.15" y="-573.67" palette="2" colorinfo="2" text="default">
+<children>
+<image name="74cd698f407e49cdb84374c1be8fedd683a0768e" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_default.png"/>
+</image>
+</children>
+<images>
+<image name="74cd698f407e49cdb84374c1be8fedd683a0768e" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="158" parent="156" x="566.15" y="-573.67" palette="3" colorinfo="3" text="angry">
+<children>
+<image name="873e7fdd80312b9afb84eadedc9bbab459df43aa" x="0.00" y="-89.05" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_angry.png"/>
+</image>
+</children>
+<images>
+<image name="873e7fdd80312b9afb84eadedc9bbab459df43aa" x="0.00" y="-89.05" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="159" parent="156" x="701.15" y="-573.67" palette="4" colorinfo="4" text="doubtful">
+<children>
+<image guid="D5gniugzA0GhBFpYqMeBjg" name="a08358dadef114a25e39864e6010ea970287efa3" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</children>
+<images>
+<image guid="D5gniugzA0GhBFpYqMeBjg" name="a08358dadef114a25e39864e6010ea970287efa3" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</images>
+</topic>
+<topic id="160" parent="156" x="1082.40" y="-573.67" palette="5" colorinfo="5" text="pirate">
+<children>
+<image name="2c245bb5377ed3d7ca66819ad060b3e73c3d0c86" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_pirate.png"/>
+</image>
+</children>
+<images>
+<image name="2c245bb5377ed3d7ca66819ad060b3e73c3d0c86" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_pirate.png"/>
+</image>
+</images>
+</topic>
+<topic id="161" parent="156" x="826.15" y="-573.67" palette="6" colorinfo="6" text="smiling">
+<children>
+<image name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="162" parent="156" x="957.65" y="-573.67" palette="7" colorinfo="7" text="stern">
+<children>
+<image name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="5.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="5.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+</topic>
+</topics>
+<relations>
+<relation guid="3H_7s54wZUWDKxnGivRCUw" source="7" target="20"/>
+<relation source="125" target="2"/>
+<relation source="123" target="2"/>
+<relation source="132" target="2"/>
+<relation source="130" target="2"/>
+<relation source="28" target="33"/>
+<relation source="23" target="26"/>
+<relation guid="vpcAldGcYUiqz3f0gnvnNQ" source="12" target="7"/>
+<relation guid="I-7K9ucIeUa3r3CFFyjJeQ" source="9" target="7"/>
+<relation guid="BWTpU6Wlrk2Ygmv7kDpk_Q" source="14" target="7"/>
+<relation source="26" target="7"/>
+<relation guid="sYAIPn4Lu0yBKrTkrevywA" source="93" target="90"/>
+<relation source="19" target="26"/>
+<relation source="34" target="26"/>
+<relation source="30" target="26"/>
+<relation source="133" target="2"/>
+<relation source="134" target="2"/>
+<relation source="135" target="2"/>
+<relation source="134" target="119"/>
+<relation source="32" target="2"/>
+<relation guid="EMj3om6IPEaIuDrGVh48bQ" source="26" target="2"/>
+<relation source="40" target="48"/>
+<relation source="51" target="26"/>
+<relation source="47" target="26"/>
+<relation source="36" target="46"/>
+<relation guid="w0X3W7LUuUiC6KoXSSwQUw" source="38" target="48"/>
+<relation source="121" target="2"/>
+<relation source="42" target="26"/>
+<relation source="36" target="52"/>
+<relation guid="X37Ql3FuUkuv4doEBPNqTw" source="45" target="26"/>
+<relation source="76" target="2"/>
+<relation source="80" target="2"/>
+<relation source="142" target="2"/>
+<relation source="70" target="26"/>
+<relation source="68" target="26"/>
+<relation source="56" target="26"/>
+<relation source="58" target="26"/>
+<relation source="60" target="26"/>
+<relation source="62" target="26"/>
+<relation source="64" target="26"/>
+<relation source="66" target="26"/>
+<relation guid="TMBE9AQqtEeE4ML3q43OSw" source="72" target="26"/>
+<relation guid="tEM5zhl7MkeeHMQara4o-w" source="113" target="2"/>
+<relation guid="l5xlADQYtk2rqt3S1UudYA" source="84" target="2"/>
+<relation guid="TWu-hvRuBUOsxR7WBDSAWw" source="15" target="42"/>
+<relation guid="r9mwb95HNU-ogkkFOB-Mcw" source="78" target="2"/>
+<relation source="118" target="99"/>
+<relation guid="IYkT5C5pG06FXFuDi8n7mQ" source="105" target="107"/>
+<relation guid="LOhyKlAgNEOaoMTW6ieKrw" source="43" target="37"/>
+<relation source="106" target="108"/>
+<relation source="149" target="146"/>
+<relation source="141" target="139"/>
+<relation guid="sLPTrTQbBEK7LN-1F7NIyw" source="115" target="103"/>
+<relation source="151" target="2"/>
+<relation source="153" target="2"/>
+<relation source="117" target="103"/>
+<relation guid="iuFN34qRbEajICZjzn08Fg" source="49" target="41"/>
+<relation source="155" target="2"/>
+</relations>
+<stylesheet>
+<general description="quest_style" timestamp="2014-10-28+11:16:41" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<cross-links line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

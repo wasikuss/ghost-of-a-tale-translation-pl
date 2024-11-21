@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="32B4E2959A3F4A2D97A7D26E2827F684"/>
+<title text="quest_tendTheStill" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="90" x="236" y="93"/>
+<selection guid="leSFUphX30e2MKzK6CGNeA" type="node" id="1"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="914.90" y="537.21" palette="2" colorinfo="2" text="Trouble Brewing">
+<note>
+version_01-16-18_003-Added renown on final node at tier 1 (temp)version_01-05-18_002-Modified to give success and failure endingsversion_06-30-17_001-First version
+</note>
+</topic>
+<topic id="1" parent="0" guid="leSFUphX30e2MKzK6CGNeA" x="1056.01" y="722.35" palette="6" colorinfo="6" text="Tend the still.">
+<note>
+[taskName=tendStillSuccess][alternate][default][grantRenown=2]
+</note>
+</topic>
+<topic id="2" parent="1" guid="ya4S48AAck6r0s8fPxgW_g" x="1359.40" y="722.35" palette="8" colorinfo="8" text="You successfully\Ntook care of the still."/>
+<topic id="3" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1359.40" y="537.21" palette="8" colorinfo="8" text="Faustus has left you in charge of the still.\NPatch any leaks or the batch will be ruined!"/>
+<topic id="4" parent="0" guid="53P4oFlZR0-bAbUij3yarg" x="777.12" y="722.35" palette="6" colorinfo="6" text="Tend the still.">
+<parent-relation guid="3UhPiutwIUunU2haTQf0fA"/>
+<note>
+[taskName=tendStillFail][alternate]
+</note>
+</topic>
+<topic id="5" parent="4" guid="15HOaApdPk6Oe7xhKL_I-A" x="482.73" y="722.35" palette="8" colorinfo="8" text="You failed to take\Ncare of the still."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

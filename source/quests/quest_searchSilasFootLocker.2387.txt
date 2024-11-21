@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="BB9B97FD6AFB4FE1B8F9F1608213EF06"/>
+<title text="quest_searchSilasFootLocker" customized="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="140" x="945" y="654"/>
+<selection guid="UtFzq1cJPEKomCTB1YTmnQ" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="UtFzq1cJPEKomCTB1YTmnQ" x="878.86" y="622.48" palette="2" colorinfo="2" text="Secrets of a Signal Guard">
+<note>
+version_03-02-18_003-Added renown points award to questversion_07-10-16_002-Added a third task - &apos;confront Silas&apos;, to address a bug that prevents quests from completing if its tasks are complete, but the quest is not started.
+</note>
+</topic>
+<topic id="1" parent="0" guid="BObfHi9xPE2dB5R07RnMxw" x="1359.74" y="622.48" palette="8" colorinfo="8" text="Silas is keeping something from you.\NPerhaps his footlocker will reveal the truth."/>
+<topic id="2" parent="0" guid="eNUmxRUHVEyj-GaJnGvs7Q" x="878.86" y="738.72" palette="6" colorinfo="6" text="Take the key to Silas&apos; footlocker.">
+<note>
+[taskName=getSilasFootLockerKey]
+</note>
+</topic>
+<topic id="3" parent="2" guid="_pgHsOmCzEu_mAFlNdjlOw" x="1354.86" y="737.22" palette="8" colorinfo="8" text="You took the key to Silas&apos; footlocker."/>
+<topic id="4" parent="2" guid="lF18E6UQ0UCFzDzi5P6CSQ" x="878.24" y="857.88" palette="4" colorinfo="4" text="Open and search Silas&apos; footlocker.">
+<note>
+[taskName=examineSilasFootLocker]
+</note>
+</topic>
+<topic id="5" parent="4" guid="ut0TdDtpx0S_hbkPBGmicA" x="1356.91" y="857.05" palette="8" colorinfo="8" text="Among the contents of Silas&apos; footlocker\Nyou found a Mouse&apos;s figurines."/>
+<topic id="6" parent="4" guid="-d1CdALuS06wHuTzk-utQQ" x="877.74" y="988.71" palette="6" colorinfo="6" text="Confront Silas.">
+<note>
+[taskName=talkToSilas][grantRenown=2]
+</note>
+</topic>
+<topic id="7" parent="6" guid="DB_5A9FREES-CUWk5mE1mQ" x="1351.91" y="989.54" palette="8" colorinfo="8" text="You challenged Silas to explain\Nwhy he has a Mouse&apos;s figurines."/>
+</topics>
+<relations/>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

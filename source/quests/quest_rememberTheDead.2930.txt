@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="544713A6BE82443A8F331488CB454974"/>
+<title text="quest_rememberTheDead" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="120" x="761" y="453"/>
+<selection guid="kW6o0OMwKEytNO54MDYHqw" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="896.02" y="620.54" palette="2" colorinfo="2" text="Heroes All">
+<note>
+version_03-02-18_002-Added renown points award to questversion_04-22-17_001-First version
+</note>
+</topic>
+<topic id="1" parent="0" guid="kmFc3zd7eEybfeJy19Y-1g" x="896.02" y="778.11" palette="6" colorinfo="6" text="Collect and read invocation.">
+<note>
+[taskName=readInstructions]
+</note>
+</topic>
+<topic id="2" parent="1" guid="leSFUphX30e2MKzK6CGNeA" x="896.02" y="935.68" palette="2" colorinfo="2" text="Tend the graves of the fallen.">
+<parent-relation guid="aagP0LaFo0GGYgOUw-OREw"/>
+<note>
+[taskName=lightCandle][interactionCounter=candle_votive/9][grantRenown=2]
+</note>
+</topic>
+<topic id="3" parent="2" guid="ya4S48AAck6r0s8fPxgW_g" x="1373.84" y="935.68" palette="8" colorinfo="8" text="A candle burns at each obelisk\Nnow, in remembrance of the dead."/>
+<topic id="4" parent="1" guid="6a2NR5mdTkOsoEeZCTtRcg" x="1373.84" y="778.11" palette="8" colorinfo="8" text="The invocation asks that a candle be lit\Nto each hero in the order that they fell."/>
+<topic id="5" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1373.84" y="620.54" palette="8" colorinfo="8" text="Light a candle to each of Duinlan&apos;s fallen\Ncomrades. In the woods, at Jothe&apos;s obelisk, is\Nan invocation that will guide you in your task."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

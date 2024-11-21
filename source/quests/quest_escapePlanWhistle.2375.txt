@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="07210E2F716147B0B775F22849A50DF4"/>
+<title text="quest_escapePlanWhistle" customized="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="120" x="1339" y="430"/>
+<selection guid="9OXOjBnetUmMu3sbpRiGHA" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="9OXOjBnetUmMu3sbpRiGHA" x="1358.96" y="565.40" palette="2" colorinfo="2" text="Whistle for a Thief">
+<note>
+version_03-02-18_007-Added renown points award to questversion_12-21-17_006-Major revision, whistle is now located in the harbourversion_06-30-16_005-Removed &apos;ALT&apos; tags from descriptionsversion_06-03-16_004-Added &apos;alt d&apos; branchversion_06-03-16_003-Gave description node to &apos;unclog drain&apos;version_01-31-16_002-Added proper character names to quest.version_11-07-15_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="t2DHmzjasEWC5TkyVWyh3A" x="1891.41" y="565.40" palette="8" colorinfo="8" text="Fetch Gusto and Fatale&apos;s whistle from\Nthe sundercrab pen down in the harbour."/>
+<topic id="2" parent="0" guid="hoLWI_mG6E-YhJaXUAPB6A" x="1358.96" y="757.25" palette="6" colorinfo="6" text="Search for the whistle.">
+<parent-relation guid="YVbwXWRdtUicMhsfXCvOkQ"/>
+<note>
+[taskName=getWhistle]
+</note>
+</topic>
+<topic id="3" parent="2" guid="pulYf7gMYUWE0zZixpVyrQ" x="1891.41" y="757.25" palette="8" colorinfo="8" text="You recovered the whistle\Nfrom the harbour."/>
+<topic id="4" parent="2" guid="AWoCb_W3_Uu2T0r2sfqjTA" x="1358.96" y="941.75" palette="4" colorinfo="4" text="Return to Gusto and Fatale.">
+<note>
+[taskName=talkToGustoFatale][grantRenown=2]
+</note>
+</topic>
+<topic id="5" parent="4" guid="zPigYF-zok2maCcfJbS54w" x="1903.91" y="941.75" palette="8" colorinfo="8" text="You presented the whistle\Nto Gusto and Fatale."/>
+</topics>
+<relations/>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

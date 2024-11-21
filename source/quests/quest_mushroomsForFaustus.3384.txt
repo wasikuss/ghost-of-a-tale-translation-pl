@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="E06F5C1A578E4B96995C2020361403D6"/>
+<title text="quest_mushroomsForFaustus" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="90" x="364" y="189"/>
+<selection guid="BZCSfgQD-karIWZvl6_HIA" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="BZCSfgQD-karIWZvl6_HIA" x="878.24" y="624.98" palette="2" colorinfo="2" text="Spores of Death">
+<note>
+version_03-02-18_004-Added renown points award to questversion_05-03-16_002-revised description of tasks to 7 mushrooms-task renamed to &apos;getMushrooms&apos;version_05-03-16_002-revised description of tasks to 5 mushroomsversion_05-03-16_002-revised no of chunks to 5version_04-29-16_001First release
+</note>
+</topic>
+<topic id="1" parent="0" guid="6imKQkKr_EulMYvquE01uA" x="878.24" y="731.23" palette="6" colorinfo="6" text="Gather Death&apos;s Tongue mushrooms.">
+<note>
+[taskName=getMushrooms][itemCounter=mushroom_miasma_chunk/7]
+</note>
+</topic>
+<topic id="2" parent="1" guid="TuSuFH5WPUWSU5XJpFjdrQ" x="1376.07" y="731.73" palette="8" colorinfo="8" text="You collected samples\Nfrom seven mushrooms."/>
+<topic id="3" parent="1" guid="NLj57_H5IUOXIe6bH8Me2w" x="878.24" y="841.51" palette="2" colorinfo="2" text="Return to Faustus.">
+<note>
+[taskName=talkToFaustus][grantRenown=2]
+</note>
+</topic>
+<topic id="4" parent="3" guid="sMgDZIHmQUCJjzuDc_MaoQ" x="1362.56" y="844.76" palette="8" colorinfo="8" text="You gave Faustus the mushrooms\Nneeded to complete the job."/>
+<topic id="5" parent="0" guid="lqgF75nk00qq9vPHvIb4kw" x="1378.74" y="627.48" palette="8" colorinfo="8" text="Gather samples from seven Death&apos;s\NTongue mushrooms for Faustus."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

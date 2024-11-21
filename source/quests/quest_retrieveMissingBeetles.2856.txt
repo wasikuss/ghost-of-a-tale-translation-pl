@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="5BB6D40CE5F445B9B68E97074F0E8293"/>
+<title text="quest_retrieveMissingBeetles" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="110" x="643" y="432"/>
+<selection guid="R8jMCuVdMUeVUYHxS49UxQ" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="R8jMCuVdMUeVUYHxS49UxQ" x="879.49" y="644.98" palette="2" colorinfo="2" text="Beetle Hunt">
+<note>
+version_03-02-18_003-Added renown points award to questversion_01-18-18_002-Added final task - return to Silasversion_110716_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="JPjf--QjN06UX-RKe6RRQQ" x="879.49" y="821.23" palette="6" colorinfo="6" text="Find escaped skappbeetles.">
+<note>
+[taskName=getEscapedBeetles][interactionCounter=bug_beetle_silas/7]
+</note>
+</topic>
+<topic id="2" parent="1" guid="5Tqs6QaGlUC6nP-Ujd7Qsg" x="1404.99" y="821.23" palette="8" colorinfo="8" text="Scouring the keep you found\Nthe escaped skappbeetles."/>
+<topic id="3" parent="1" guid="9nbafCBImUWItGXXpxQCJw" x="879.49" y="1002.48" text="Return to Silas.">
+<note>
+[taskName=talkToSilas][grantRenown=2]
+</note>
+</topic>
+<topic id="4" parent="3" guid="mi0yT8pCe06GDgWTWaU8jQ" x="1404.99" y="1002.48" palette="8" colorinfo="8" text="Silas gave you the key to a clothes chest,\Nin return for you finding his beetles."/>
+<topic id="5" parent="0" guid="sKXPuF4F20WzMOpofo9DOQ" x="1404.99" y="644.98" palette="8" colorinfo="8" text="You accidentally let Silas&apos; skappbeetles\Nescape. Track them all down."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

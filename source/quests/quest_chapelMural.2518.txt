@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="85C439FFDED64A13BCE42176B520EE51"/>
+<title text="quest_chapelMural" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="100" x="740" y="275"/>
+<selection guid="HlO2OyyQOEeM5Cc8F9Y9hA" type="node" id="3"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="896.02" y="620.54" palette="2" colorinfo="2" text="A Warning from the Past">
+<note>
+version_030316_001-First release
+</note>
+</topic>
+<topic id="1" parent="0" guid="leSFUphX30e2MKzK6CGNeA" x="896.01" y="722.35" palette="6" colorinfo="6" text="Collect all fragments of mural.">
+<note>
+[taskName=getMuralFragments][itemCounter=muralFragments/9]
+</note>
+</topic>
+<topic id="2" parent="1" guid="ya4S48AAck6r0s8fPxgW_g" x="1373.84" y="730.62" palette="8" colorinfo="8" text="You collected all fragments of the mural."/>
+<topic id="3" parent="1" guid="HlO2OyyQOEeM5Cc8F9Y9hA" x="896.01" y="873.10" text="Return the mural to the chapel.">
+<note>
+[taskName=restoreMosaic][grantRenown=5]
+</note>
+</topic>
+<topic id="4" parent="3" guid="WH84V2vCM0SvOM9h7XD2dw" x="1373.84" y="873.10" palette="8" colorinfo="8" text="You restored the chapel&apos;s mural,\Nrevealing a chilling scene..."/>
+<topic id="5" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1373.84" y="620.54" palette="8" colorinfo="8" text="Gather every fragment of\Na fresco mural from the Bone Shore."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

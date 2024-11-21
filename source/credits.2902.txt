@@ -1,0 +1,1226 @@
+<u><size=90%>Editing</size></u>
+
+Alex Kain
+
+
+<u><size=90%>QA Testers</size></u>
+Sandra Malenfant  (Enzyme)
+Junko Takahashi (Enzyme)
+Maxime Landry Lamy (Enzyme)
+Sebastien Bedard (Enzyme)
+Michael Applebee (Enzyme)
+Martin Cleroux (Enzyme)
+Ana Cristofaro (Enzyme)
+MoGi Group
+Alex Kain
+Rhumba
+Thomas_Huayra
+Roger Isaac
+ZuTheSkunk
+evilkinggumby
+stage
+Nautilus
+Tha
+iamthemagicbonsaitree
+KwisatzHaderach
+
+
+<u><size=90%>Localization</size></u>
+
+Level Up Translation
+
+
+<u><size=90%>Special Thanks</size></u>
+
+Stephane Gayraud
+Fabrice Joubert
+Olivier Torres
+Pierre-Olivier Vincent
+Jean-Francois Rey
+Pascal Ludowissy
+Dariusz (RED Studios)
+Andy (Edelweiss Interactive)
+Diogo Teixera (Amplify)
+Ricardo Teixera (Amplify)
+Stephan Bouchard (Digital Native Studios) 
+Freya Holmer (Neat Corporation)
+Michael (uSKY)
+Nuverian (NodeCanvas)
+Justin (BehaviorDesigner)
+Chris Pope (Unity)
+Scott Peterson (Unity)
+Jackob Hunsballe (Unity)
+Daniele Giardini (DemiGIANT)
+Alexis Garavarian (Microsoft)
+Larsbertram
+David O'Connor
+Enrique Tromp
+Agathe Vermot Desroches
+Thomas Hourdel
+John Vaskis (Indiegogo)
+
+
+<u><size=90%>Generous Donors</size></u>
+
+Jean-Baptiste BERSAC
+Niels Koopmann
+
+
+<u><size=90%>Thank you to all our Indiegogo backers!</size></u>
+
+<u><size=90%>Co-Executive Producers</size></u>
+
+Divial Ramassamy [TALDEO]
+Pierre-Olivier Vincent
+Samir Kilachand
+
+<u><size=90%>Main Funders</size></u>
+
+Jeanine Puig
+Jeanne, Hugues & Léa Duvaux
+Cyrille Paulhiac
+Fabrice Joubert
+
+<u><size=90%>Heroic Backers</size></u>
+
+Arnaud Despierre
+Cnudde Rutger
+Leonard Brian Ozols
+Martin Schuster
+Tom (Nev) Belanger
+
+<u><size=90%>Feisty Backers</size></u>
+
+Milton DeNicholas
+Sam O'Floinn
+Ciro Martinez
+Dennis Krøner
+Simon & Fumi Otto
+Sven Tegethoff
+
+<u><size=90%>Adventurous Backers</size></u>
+
+Henrik Mygren
+Dario "Eisfuchs" Abatianni
+Vebjørn Koksvik
+Ian Seckington
+Alex Decker
+Alyssa Veysey
+Aurelie Blard-Quintard
+Ben Euden
+Christian Vitroler
+Damien Baron
+David Love
+Dexter
+Einar W. Hoest
+Eric Placoly
+Favre Colin
+Frédéric Yerly
+Aaron Hibberd
+Illessa
+Janine Smith
+Jarmo Wallenius
+Johan Sjöberg
+Jokin Doral Sagarzazu
+Jorge Vigara
+Josette Collignon
+Joshua T. Johnston
+Lim Hoe Kit
+lmz10
+Luc Baghadoust
+Manuel Almela
+Marit Hartveit
+Matthew G. Robinson
+Mekki Kiesi
+Michael O'Leary
+Michel Pecqueur
+Mitja Rabar
+Nicolas Mercier
+Paul Gardner
+Ralph W. Lorkins
+Samantha Lienhard
+Shadow84
+Snowy
+Stephane Gayraud
+Thom Jones
+
+<u><size=90%>Audacious Backers</size></u>
+
+Ken Duncan
+Rupert Pfaller
+Aheldmye
+Dominique Sanier
+Micky "Leviathan" Ward
+Simon Tesla
+Alaric Roor
+Alex Privee
+Alice Jannes
+Bijan Najibzadeh
+Caitlin Molyneux
+Christopher Clement
+Collision Cat
+Eero Jussila
+Efren Rodriguez (Efren Is It)
+Hege Flogstad
+James Ingold
+Jean Dao
+Jonas Winje
+Jorge López Fernández
+L_Deg
+Marcus Caul
+Mark Burmer
+Matthew Simpson
+Mhash
+Peet Lee
+Peter Juul Jensen
+Regine Saedler
+Sage Lassen
+Stéphane Montel
+Tim Rodriguez
+Wade "Sflufan" Steel
+Xavier Van Aubel
+
+<u><size=90%>Fancy-Hat Wearers</size></u>
+
+Jehe77
+Miika Liukka
+Benat
+Colin Marc
+Evan Haines
+Jay Bunch
+KimHolm
+Marianne Malcomb
+Robert Rosendahl
+Thomas Dalliversen
+Toro_Ro
+Aaron Porte
+Adzuken
+Ahunter
+Ailys Lafe
+Alex Kain
+Amandakadatz
+Anthonycoppola7190
+Austin Caldwell
+Barbara Walsh
+Barutan77
+Bert Geens
+Björn "Daracon" Stöbe
+Brendan "Drammy" Harris
+BrentHaley
+Brian Holme
+Brian Stambaugh
+Bruno Mazzi
+Cactuslick
+Cheryl Vogel
+Cllmcnr
+Dane Brennand
+David Winkler
+David891
+DLPChris
+DSRatzel
+Edouard Carletti
+Eric Montchaud
+Eric Quast
+Feathers
+FedxotefreeFr
+Fenrir
+Florian Ruckelshausen
+GantsuNoGunslinger
+Ghibli
+Gianni Mnemonic
+Gluon01
+Gonzalo Sanchez1
+Gtranvouez
+James Valleroy
+Jamish_X20
+Javed1
+Jayson Craig
+Jeremy Jung
+Jeremy Ryan
+JJEllis
+Joey Viner
+Joeytang343
+Jonathan Decker
+Josh-David Isaacson
+Julien Penavayre
+Karim Shak
+Karl-Johan Nilsson
+Kay Elspas
+Kyle Viehmann
+Kylepowers13
+Laini Weiz
+Larissa Jones
+Lawrence Ong
+Léa "smxfr" Giffard Hontabat
+Lignini
+Lizardkun
+Ludo
+Ludvig Sjunnesson
+Luka Gomezel
+Marco Ivarsson
+Marshall Miller
+Martin Wass
+Mary Sumner
+Meuhoua
+Mfx23
+Michael235
+Morag Condon
+Nicholas Scott Johnson
+Ohmaismortderire
+Ouellettev
+Peter Eibich
+Pieceoftheuniverse
+PumQin
+R2sth
+Rynthjan
+Scherzo44
+Scoble Macdow
+Scott C. London
+Sean Pelkey
+Seth Thomas Gastelum
+Shane Mortison
+Sindre Gabrielsen
+Stéphane Laurenceau
+Steven Shipton
+Strider_Serge1
+Stuff36
+Terix
+Tomoneill1995
+Vicki Hsu
+Ville "Proekaan" Saarinen
+Virgilio Costa
+Yannick Suter
+Zuhur Abdo
+
+<u><size=90%>Bold Backers</size></u>
+
+GidsUk
+Jumpy
+Max Juchheim
+Nicolas Forgerit
+Tobias Zenger
+Znea1
+ArikKriha
+Aashish Chopra
+Adam Baxter
+Aelicante
+Alec Gorge
+Anewman424
+Arkadiusz Lozewski
+Arnaud Puiravaud
+Arno Barbier
+ASunyach
+Avogadro_9000
+Ben Palczynski
+Benjamin Le Talour
+Benoit "Dasbenz" Guillaumot
+Bitum
+Blackimperator
+Brian Munro
+Bryce Raffle
+Caidhwen
+Caileus
+Callum Johnston
+Chapinbr
+Charly Clerfeuille
+Christian Dannie Storgaard
+Christophe Willime
+Ciaran Meehan
+Clementine Tronel
+Constantin Schwonberg
+Conti Emanuele
+Crazycyril
+Daan Boon
+Dalsim
+Damien Caselli
+Daniel Buckmaster
+Daniel Hoffmann
+Daniela Spellmeier
+DarkI3ahamut
+David Fuchs
+David Kuhmel
+Debra White
+Dicefoodlodging
+Dmajek
+Egon Lucic
+Emilien Régent
+Eric O'Connor
+Erwin De Jong
+Etherfly
+Fabrice Nehring
+Felipe Lassen
+Fr Dan Serbicki
+Galenscomp
+Gamzim
+Glenn Geenen
+GoninJc
+Gordie Meyer
+Graham "Theogrim" Saunders
+Greg Wilton
+Guillaume LeMenn
+HalosElite
+Htruong72
+Ian Nixon
+Ibai Jurado
+IndiegogoNili
+James Binnie
+Jana Bergevin
+Janne Pakarinen
+Japopple
+Jason "Feren" Olsen
+Jatordif
+Jbonner71
+Jean-Marc Collot
+Jeremydlynn
+Jiackora
+Joachim Pileborg
+John Jolly
+Jon Burgermeister
+Jonathan Fish
+Joni & Bostav & Marie
+Joost "Myrthos" Mans
+Joshua Honeycutt
+Juan C Garcia
+Jurjen1
+Justin Fung310
+Kelarod
+Kenna
+Khorsandark
+KizzaDs
+Kommerz
+Kristoffer Seneger
+Laurentius Sauer
+Lizeon
+Lusluslus
+Manut
+Marcus Soll
+Mefflinbullis-Bates
+Meinte Schelvis
+Melampyre
+Melissa "Seylyn" Lo
+Melon Targe
+Michael & Jaimee Melilli
+Michael Stopa
+Michele Ogle
+Missfox1
+Nadim320
+Nathan Popham
+Nattle Battle
+Notlimahc
+NSmyth
+Oliver Satterley
+Orlando Penaloza
+Patrick A. Mckenna
+Philip F. Denton
+Plspindler
+Post
+Quim Navarro
+Raptors_Revenge
+Rboyar
+Rey Amaya
+Rhonda Bender
+Richard Fawcett
+Richard S. Hetley
+Romain Gaullier
+Sabulana
+SAlius
+Sandrine Canivet
+Sascha Truemper
+Scott Carmichael3
+Scumlander
+Sebastian Heiden
+Sebastian Philipp
+Shaun Hayes
+Shofixti
+Silvertigg
+Simon Brindle
+Simon Hayashi
+Simpraphone Alan
+SkySchulz
+Smith Tico
+Spammelop
+Stenerson Kevin
+Stephen Blakely
+Stephen Gurnett
+Steven Brindle
+Striwx
+The_Hessian
+Thomas Pontette
+Thomis
+Tommy Martineau
+Tore Henning
+Tristan Davis-Keaveny
+Troy Haran
+Tyler Durden
+Victori78
+Wernerb
+Winfred Van Heerebeek
+Wolfe Bayer
+Zoe McClatchey
+
+<u><size=90%>Inquisitive Backers</size></u>
+
+Larsbertram
+TALewise
+Antbdl
+Christian Moleman
+Disruption999
+Joshua Miazek
+Katie Rush
+Laurent Puichaud Esc
+Mattias Van Camp
+Nateberna1
+Patrick O'Reilly
+Thomas Beekers
+Tomás "phdr_vrba" Sedlák
+Yoann Saquet
+Max Großer
+Pavel Bulicek
+Adam Burnett
+Aurelien Regard
+Chard6
+FancyChanceFan
+Lil_Nick_Lives
+MJ "Jello" Schoerbel
+3riple
+8chisun
+A Mysterious Backer
+A. Amberson
+Adam "TideGear" Milecki
+Adam Dhansay
+Adam Gurney
+Adam P. Boyd
+AdamRF
+Admeagle03
+AdriMills
+Agderf
+Aj_Lockhart2005
+Akimine
+Al Guirado
+Ales Krosel
+AlesK
+Alex Whitington
+AlexandarIvanchev
+Alexander Finden
+Alexander Padberg
+Alexander Prose
+Alexander Young
+Alexandre Brodard
+Alexis Jarreau
+Alexis Kleinbauer
+Alexpaven
+Alexswitzky21
+Algfrig
+Ali Burns
+Alkex22
+Amy Lipkowitz
+Anders Jonsson
+Andrea Lackner
+Andreas Heldt (ZDeveloper)
+Andremossinato
+Andrew Butterfield
+Andrew Carvalho
+Andrew Sullivan2
+Anerien
+Anika Dodenhoff & Nils Gallenkamp
+Anja "Pimpim" Simon
+Anthony "Yno" Combrexelle
+Anthony Tarallo Jr
+Aragon R. Tigerseye
+Arcatera
+Arkloyd_Duwier
+Arnolanf
+Arnold Priyatmo
+Ashtalon Skyfire
+Augustine Lloyd
+Avner Tishby
+Axcelia
+Bandyj
+BangyNz
+Bbrinker
+Ben Wilhelm
+Benfries
+BenindiegogoCom
+Benjamin Ottenbreit
+Benjamin Vanderford
+Benjaminmallow
+Benlitz
+Benoit Springer
+Bigwillystyles
+Bjb294
+Blakeisnotdumb
+Bn-Indiegogo
+Bob Frey
+Borsiff
+Bozemoto
+Bparkman
+Bpgabin
+BrainFlush
+Brand Christophe
+Brandnwroc
+Brandon Slyter
+Breton Fabrice
+Briancnelson
+Brianprince1
+Brinkj
+Brunogirin
+Bugs_49508
+Bushchime
+Cameron Beck
+Cameron Boykin
+Carlos56
+Cesar "Cesarin" Rodriguez
+Cesaralgoppal
+Cha Holland
+Chameleoneel
+Che Broadnax
+ChloeLw
+Chris Anderson
+Chris & Vanessa Evans
+Chris Fob
+Chris Lind
+Chris Lomaka
+Chris M
+Chris Niewiarowski
+Chris Schodt
+Chrisdavid123
+Christian Schlecht
+Christina Lynn Del Pino
+Christoph Courmont
+Christoph Zürcher
+Christopher Martarano
+Chronodrax
+Chronophage66
+ChWSchneider
+CianBooth
+Ciarán Walsh
+Cinqmat
+Ckorhon
+Claumoe
+Claytonlusk1
+Clement Ng
+Closedbeta
+Clyde8
+Cmy465
+Coffeedotbean
+Corinthian44
+Craig N Taylor
+Cryptopur
+DaCki
+Daimos84
+Damien Sueur
+Danger101
+Darkerune
+Darkianmoon
+Dark-Templar
+Dave Hopman
+David Bonner
+David Doughty
+David Eggleton
+David Massaux
+David McLean
+David Nasser
+David Perret
+David Sailer
+David Sebastian Kammann
+David Winter
+David88dmc
+Daxyl86
+Deathdigger95
+DeavonW
+Demethor
+Dennis Schaffrath
+Derek Bruneau
+Derek Cluck
+Derikduley
+Dermott Le Freak
+Des Liew
+DevioX
+DezertFox
+Dfaran42
+DingHao
+Displacer__
+Djbebert
+Djinn
+Dm-Master
+Dragon5
+Dragoons-53
+Dummaapan
+Dunc3380
+Duncan Bourne
+Dylan Graham
+Dylan Martin2
+Ed Petro
+Edd Sherlock
+Eduardo Montilla
+Edyh Chan
+Eivind L. Jones
+Elizabeth Hocking
+Eloril123
+Emanuel Mineda Carneiro
+Emeric Facon
+Emily Thomas1
+EmilyWenzler-Chapman
+Emma Campbell
+Emmanuel Bricout
+Enio Fernandes
+Eric Frey
+Eric Steven Bates
+Eric Werner
+Erik Dumez
+Erik Harker
+Erik Livermore
+Erin Spencer
+Esmiralda Losse
+Estaff
+Estaylor4
+Ethan Hand
+Etienne Fritsch
+Eugene Kitaynik
+Eugene Polyakov
+Eva Farvaque
+Evan Saunders
+Evanantwerpen
+Eveleighbrett
+Evelyn Tan1
+EvilGardenGnome
+Evilsearat
+Fabian "Yoshimon1" Hafner
+Fabien Llorca
+Faraz Huq
+Felix330
+Ferruccio Cinquemani
+Fireant
+Firestorm "Danger" Dash
+Flameche
+Florent Berthelot
+Florian Mehm
+Forest
+Fortisflamma
+Francis Nguyen
+Franco Costales
+Frank Baumgarten
+Frank Boshoff
+Frank VandePar
+Frank Wecke
+Fredrik Pettersen1
+Frozen Trout
+Frunk
+FSavoir
+Fuji_San3776jp
+Fujita
+Gabriel da Cruz
+Garett Medlin
+Gary Flood
+Gavin Oakman
+Gb26566
+Geekoncomp
+Geoffporter_Lotr
+George Zamfir
+Giacomo Russo
+Gilles Ketting
+Glunas
+Godie_Osm
+Goseltine
+Greg Lemonnier
+Greg Morris
+Gregory Avery-Weir
+Gsakitsuki
+Gtpoliveira
+Guillaume Chau
+Guillaume Gautier
+Guillaume Ospital
+Hallo8
+Happyguy
+Harriet Dam
+Harry "Fishfreeek" Jones
+Hassan King
+Hegefloegstad
+Henrieke Goorhuis
+Henrik Stevn Nielsen
+Henry Martin
+Henry Yip
+Hjuygelfar
+Holger Bast
+Hyaku
+Ian Hawley
+Ianodea
+Ignatius Montenegro
+Iris Chu
+Istalindir
+Ivan Skorikov
+Iwan_G
+Jackson Pietsch
+Jacob Albano
+Jacob Doughty
+Jakub Sadowski
+Jan Paulsson
+Janne Lehtonen
+Jaranys Longtail
+Jared McDonald
+JaredkodjuRimos
+Jarmo Petäjäaho
+Jarobi
+Jason Brown
+Jason F. Broadley
+Jason Gillespie
+Jason Kogler
+Jaume Mora
+Javier Sandino
+Jdfront
+Jean-Baptiste Dionisi
+Jean-Noel G.
+Jeff & Amanda Robinson
+Jeff & Sara Jane Stanton
+Jeff Sasmor
+Jeff Sweeney
+Jérémie Béguet
+Jeremy Leung
+Jerker "Azdaarf" Röjder
+Jerome Argot
+Jessedavid
+Jim89
+Jimmey Burrows
+JJ
+JJ. Irwin
+JlsEngr
+Jmo10
+Jmoo050
+Jo Fries
+Joaolucas002
+Jochen Wehrle
+Joel Thieffry
+Johan Öhman
+Johannes Schrder
+John DiFante
+John Utke
+John Vaskis
+Johnny_Joyzee
+Jon Hernandez
+Jonatan Spejare
+Jonathan Clark1
+Jonathan Faith
+Jonathan Labud
+Jonathan Simpson
+Jonrabbit
+Joseph Cortese
+Josua21
+JPBrun
+Juanjo Reguera (Green Kingdom Entertainment)
+Judydarrell1958
+Jules Chicoinewilson
+Jules Letters
+Julien Hillaire
+Justin Stewart
+K Murnane
+K P Burke
+K.S. Moore
+Kaalo Lovett
+Kapten Stoffe
+Karl Lundengard
+Karvea
+Katechiero
+Kathologist
+Kay Zaradny
+Keenan Cole
+Kelso McCauley
+Ken Teague
+Kenneth Goodman-Farle
+Kevin Boykin
+Kevin Callanan
+Kevin Waldhof
+Kevin Yablonski
+Khani Parker
+Kiah Smith
+Kimberley Baker
+Kingyoshi
+Kitty Shay
+Konstantin Kitmanov
+Kris Green
+Lancerc07
+Langdon Oliver
+Laura Vales
+Leezer
+Legham13
+Leonardo Clavijo
+Lhexa
+Lhommedesbois
+Linh_10
+Logan C
+Lord ZYRK
+Lordvorbis
+Loreille Thomas
+Lowtec
+Ltgow
+M Háire Stritter
+Mackburchell
+Madnessclown
+Mads Hansen
+Maeda_21
+Manos Karatarakis
+Marco Rosenberg
+Marcusforssell24
+Mario "StranaMente" Laudonio
+Mark & Aspen
+Mark Hartsuyker
+Marta Emilia
+Martin Dvorak
+Martin Mouritzen
+Martin Troels Eberhard
+Martin Walls
+Martine Spaans
+Masse Gwenael
+Mathias Eliasson
+Mathieu Loiseau
+Matrium
+Matt Otto
+Matt959
+Matta Cleveland
+Matthew Beattie
+Matthew Huster
+Matthew Korda
+Matthias Biesel
+Matthieu Donze
+Mattias Cederfeldt
+Max Humber
+Maxime Houlier
+Maxmansung
+MaxouelKiller
+Mbaraclough
+Melissa Valen
+Michael Engelbart
+Michael Evans
+Michael Fischer2
+Michael Fraiz
+Michael Hoffmann
+Michael Holt
+Michael Manomivibul 
+Michael Melnikoff
+Michael Perfeito 
+Michael Renner
+Michael Simon77
+Michal Lam
+Michel Koch
+Midu
+Mikebert42
+Mikkohe
+Miko Squiz
+Mjchatham
+MKWatson999
+Mogiko
+MorningDojiStar
+MrRojan
+Mske007
+MStein
+Muehlmax
+Nate Hartman
+Nathan Walker
+Ncasey
+Neil Saunders
+Nekojika
+Nemrod1710
+Neospike2k5
+Nicholas "Idzuna" McGrath
+Nick Luckett
+NIckGould
+Niclas Ogeryd
+Nicolas "Kluster" Hafner
+NicolasGomez
+NicoRoska
+Nikutai88
+Niuage
+Noah Parker
+Oliver Begg
+Olli Tietavainen
+Ollysteele
+Omnomnom_1991
+Oneeyedziggy
+Osmosis
+Otravn Morous
+Ozgarden Tsuge
+Pascal Lenotte
+Patrick M. Hurley
+Patrick Palmer2
+Paul (Triadalliance)
+Paul James
+Paul L. Stewart
+Paul Littlefair1247
+Paul Maloney4
+Paul McAllister
+Paul Woolman
+Pawel Bialkowski
+Per Sjödén
+Peter
+Peter C&U
+Peter DiMaria Jr
+Peter Gronich
+Peter T. Baish
+Petronius79
+Pfsm999
+Phatnerd05
+Philipp Schfer
+Philipp98
+Phillip Eurs
+Phoebe Pitassi
+Pierre Faucheux
+Pilliwiggin
+PO-8
+Polk3us
+Posvet
+Potatoe_Be_Me
+Ppkonings
+Psycosamurai1990
+Pti-Titus
+Purefedora
+Qligtvoet
+R_Gelling
+R0R31
+Rackjabbit2013
+Raff Raff
+Rahxephon64
+Ray Cummins
+Reallylongword
+Reifberger
+Reiji Mitsurugi
+Rémi C.
+Renaldas Zioma AKA ReJ
+Rene Castillo1
+Rene Devlin
+Rhynri
+Rhys Lewis
+Ricardo Fernandes De Souza
+Riccardo "Hammer" Nauti
+Richard Meredith
+Richard Stitselaar
+Rick 'n Morty
+Rik Nicol
+Ringtailstarr
+Rneilson
+Rob Jones1
+Robbie McCray
+Robert Friis
+Robyn Bremner
+Rodrigo García Barroso
+Roger Isaac
+Roland Smith
+Roleplaygame
+Romain Ezannic
+Roman Luks
+Rooshoes
+RopeSnake
+Ross Rosenberg
+Ross Williams1
+Rpw_Daryl
+Rstevens
+Russ_O4
+Russell Fawcett
+Ruthevans89
+Ryan Lawrence
+Ryan Sellars
+S. Dirks
+S_Barbier
+Sadie Spruce
+Saerkinare
+Safetybrickprime
+Sam DeRuyck
+Sam Klein
+Sam Workman
+Sanderrp
+Sarah J Brown
+Sasukesan767
+ScaniX
+Schoeps Markus
+ScorchingSpitfire
+Scott Beca
+Scott Button1
+Scott Early
+Scott McPhee
+Sebastian Wolff
+Sébastien Bérat
+Sébastien Delahaye
+Sebastien Lalanne
+Selahattin Kulaksiz
+Selthis
+Seralla Mist
+Sergey Usatenko
+Seth Bernson
+Shadi Boomi
+Shane88
+Shatteredeagle
+Shaun Riley
+Shawn Walkup
+Siegfried Bruner
+Simon "Zinic" Madsen
+Simon Ellis-Hopwood
+Simon Fellow
+Simon Isakovic
+Simon Jennings1
+Sincerityisdead
+Sjdupreez
+Skazinka
+Skrymir
+Skyrik
+Sleepingwolf01
+Smashywinks
+Smixie
+Smrcordray
+Snowyote
+Solto
+Solvi Stokkeland
+Some Guy
+Son Kim
+Soren Johansen
+Sptrashcan
+Sren Lauridsen
+Stefan Schliching
+Stefan11
+Stefano Galvagni
+Stephen Keating
+Sterling Wild Pigeon Treadwell
+Steven Gilmore
+Steven Medbury
+Stonesfolly
+StroganovA
+Stubbadub
+Sudish Joseph
+Svante Ekstrom
+Sven Trottnow
+Svendelmaus
+Switch1
+Sylvain Fanget
+Sylvain Mitchell
+Sylvr Falkon
+Syniurge
+Szymon Konarski
+Tannim
+Tanukisan
+Tanya Cumpston
+Techpawpad
+Tecklenborg Jan
+Teressa Wright
+TheAttilla
+Theferds2310
+Theninch
+Thierry Gurin
+Thomas Asten
+Thomas Chassin
+Thomas Furlan
+Thomas Hotz
+Thomas Nielsen
+Thomas Schönteich
+Thrombar
+Thysios
+Tiago Gons
+Tiare
+TickTackToad
+Tijs De Jong
+Till Brandt
+Timo Schrader
+Timothy Lose
+Tired Joe
+TJDeKemper
+Tkitchin
+Tokejepsen
+Tomás Capek
+Tommaso Cazzaniga
+Tor Iver Wilhelmsen
+ToZaugg
+Tuhie
+Tuuli
+Tyler Jay Martin
+Tyler L.T. Logan
+Typhoeus971
+Tzepesh
+Ulrich Wurzer
+Unlawfulsalmon
+Valdemar Sjöström
+Valkur
+Vanessa "Zombie_Garou" Marold
+Vaniki
+Veljo Hagu
+Vince Price
+Vincent38
+Vladmir560
+Vmlpag
+Warren G. Harding
+Webrlamy
+Willem-Jan Bertram
+William Newcome
+William Will2bill Moore
+Windcastpictures
+Winged Mapu
+Wladislaw Neumann
+Wotfanar
+Wres1
+Writer Manuel
+Xavier Le Naour
+Ybalex
+Yiel Fai Lee
+Yohann Toutain
+Zachary Cross
+Zarawesome
+Zarxii
+Zyrxil
+
+<u><size=90%>Curious Backers</size></u>
+
+Reeve Armstrong
+Alexander Danko
+Alexander Malyshkin
+Ben2theedge
+C. Efros
+Charlie Collier
+Dan Ashling-Silva
+Dean Friedman
+Halfassured
+Helen
+Ilana Katz
+Int3rmission
+Ivovan Dijk
+Jmcguinness932
+Johnwinants
+Josef Andersson
+Josh Hartley
+Kamarad
+Kelecable
+Lucas Cisterne
+Mary Clark
+Naomi_C1509
+Nico Zajonc
+Nospam17
+Quiotu
+Sabaa Rehmani
+Sam Griffin
+Sireombre
+Spacew
+Steve Gillingham
+Steven Patriquin
+STreibitz
+Szabolcs Kurdi
+Tim Lampe
+
+<u><size=90%>Mousey Backers</size></u>
+
+Nic DeStefano
+Aladar Apponyi
+Alex Fisher
+Anthony Levan
+Armodillo17
+Brendon Duncan
+Daniel Cousar
+Dominique Lyoen
+Erika Jane Wilson
+Gary (Generalmills4)
+Gick Thomson
+Hypocerebral
+Kyle Viehmann
+Michael Frank 
+Msfackler
+Phil Tousignant
+Razkrik
+Robertrmorrow
+Roneyjon
+Samy
+senmar8
+Tellef Rygh
+Tsuyu

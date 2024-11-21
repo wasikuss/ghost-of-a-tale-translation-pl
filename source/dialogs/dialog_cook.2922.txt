@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.2" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="B6B93288E29444C5A9CF06C19B5BFEE0"/>
+<title text="dialog_cook" customized="True"/>
+<images containsImages="True"/>
+<style key="quest_style"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="70" x="-59" y="4251"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="KK_bL5Gv5kmctJqkaFyN4g" x="1490.00" y="448.00" palette="1" colorinfo="1" text="dialog_cook">
+<note>
+[characters:Cook;Tilo]version_04-15-18_006-Added node to stop Tilo from spending more than he can afford-locked node where Cook asks Tilo to return to do a jobversion_02-24-18_005-checking for fancy hat-checking for duinlan armourversion_01-26-18_004-Added full reading of &apos;the Termite&apos;s Lair...&apos;-Restructured using hubs A,B,Cversion_01-14-18_003-Added proper name for pie, and checked if at least one order had been collectedversion_01-13-18_002-Added question to query the two guards names.-Added question about the special pie-Different exit node while food quest is running
+</note>
+</topic>
+<topic id="1" parent="0" guid="2hoDr7bGnESFKScwvodwlQ" x="1197.00" y="1202.00" palette="5" colorinfo="5" text="cook: Morning,\Nmy lovely...">
+<parent-relation guid="L9XtrHY3_UmLfIsdL8nIcA"/>
+<note>
+[reveal:timeOfDay=morning][variationIndex=0][lockableThread:firstIntroA][lockThread:firstIntroA;firstIntroB;firstIntroC]
+</note>
+</topic>
+<topic id="2" parent="1" guid="87vNtgL6D0q0JPvbWojMcg" x="1472.67" y="1478.66" text="cook: ... take a seat and I&apos;ll\Nbe with you soon as I-">
+<children>
+<image guid="J_xhD-hiyUOYn1RuanAHPw" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="152.50" y="-52.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="J_xhD-hiyUOYn1RuanAHPw" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="152.50" y="-52.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[counter:metCook=0][updateCounter:metCook+1]
+</note>
+</topic>
+<topic id="3" parent="2" guid="3XONi9qJ2E--5DR17EIVAA" x="1472.67" y="1722.69" text="cook: Oh... a ranger...\NWhat can I do for you, sir?">
+<children>
+<image guid="xFyWVuhTckCkcIwtvMBuAQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="160.68" y="-21.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="xFyWVuhTckCkcIwtvMBuAQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="160.68" y="-21.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:costume_ranger=true]
+</note>
+</topic>
+<topic id="4" parent="3" guid="HyV8-NzuukCYDJMIxBRyGw" x="1697.51" y="2098.45" text="tilo: I&apos;m here in search\Nof a fugitive.">
+<parent-relation guid="Xc2nacpfCE652_n9mVAu2g"/>
+</topic>
+<topic id="5" parent="4" guid="TIMUJzZ7hUeYqOerzpLaXQ" x="1697.51" y="2203.67" text="cook: A fugitive? Oh, I&apos;m just an\Nold cook, sir--I&apos;m not sure what I\Ncould do to help find a fugitive..."/>
+<topic id="6" parent="5" guid="I8BATRVhw0yKn5at3wItGg" x="1697.51" y="2307.87" text="tilo: You can begin by\Ntelling me your name."/>
+<topic id="7" parent="6" guid="FRzDsasF-EORRhj0EDd-ww" x="1697.51" y="2415.77" text="cook: My name?\NOf course..."/>
+<topic id="8" parent="3" guid="KXfxZuY3x0ec6t-TtoAXDQ" x="1472.67" y="2376.09" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="9" parent="2" guid="Coh4LUZ1P0WynMcwJ05PlQ" x="881.73" y="1478.66" text="cook: Oh! Here&apos;s a new face--I&apos;ve not\Nseen you here before, Private...?">
+<parent-relation guid="uJ8N0cZH7EClUHqyukMXgQ"/>
+<children>
+<image guid="M06L5vf_5U-hEwpy8htVqQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="219.47" y="-24.51" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="M06L5vf_5U-hEwpy8htVqQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="219.47" y="-24.51" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="10" parent="9" guid="Pl_IJn8VCkWhzf7geinuyw" x="714.48" y="1722.69" text="tilo: My name? I&apos;m\NScow. Private Scow."/>
+<topic id="11" parent="10" guid="T5zRCZctkkyPRSLClaDMyg" x="1109.83" y="2532.63" text="cook: Oh, I&apos;m afraid I&apos;m terrible\Nwith names, my lovely."/>
+<topic id="12" parent="11" guid="zpS42HQsKEepyZOqm3nQGg" x="1423.10" y="2532.63" text="cook: But where are\Nmy manners?!">
+<children>
+<image guid="FQ2wH66EgkSkcGkkocHqtQ" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-94.29" y="-86.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="FQ2wH66EgkSkcGkkocHqtQ" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-94.29" y="-86.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="13" parent="12" guid="s2rmDN9V7kmFoRIFmdIJKQ" x="1697.51" y="2532.63" text="cook: I&apos;m Rezzia--Ouma\NRezzia--that&apos;s what they all\Nlike to call me around here.">
+<parent-relation guid="VAViYNnsq0SIYKKnR4S_RQ"/>
+<note>
+[executeAction:revealTrueName=character_cook]
+</note>
+</topic>
+<topic id="14" parent="13" guid="EpOY7JW8gkaQALWaIW2b2g" x="1299.92" y="2663.63" text="tilo: Ouma Rezzia.\NIt&apos;s good to meet you."/>
+<topic id="15" parent="14" guid="RVD8DCM0EEu4UBLz5NyygA" x="1299.92" y="3002.35" text="cook: So... they&apos;re letting Mice\Njoin the Rat Guard now, are they?">
+<parent-relation guid="RqZrBwHHe0-XoUiThCv8qw"/>
+<note>
+[reveal:costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="16" parent="15" guid="BGLcT_M9vUOvLhQgySkj-g" x="1160.97" y="3207.93" text="tilo: A-aye...\Nthat&apos;s right."/>
+<topic id="17" parent="16" guid="IKJJyNEBVUeEF6Ymi7NPDA" x="1160.97" y="3435.36" text="cook: As you like."/>
+<topic id="18" parent="15" x="1501.47" y="3207.93" text="tilo: Mouse? I don&apos;t\Nknow what you mean..."/>
+<topic id="19" parent="18" guid="xvzs70FaHkKRuuGYkAdZrw" x="1501.47" y="3311.93" text="cook: Please, I can\Nsmell it a mile away."/>
+<topic id="20" parent="19" guid="qgU5noi3Q0a7BRAf9400JA" x="1501.47" y="3435.36" text="cook: I might be old,\Nbut I&apos;m not a fool.">
+<children>
+<image guid="G7P534FY9ECNqg_Y5jFN7A" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="134.44" y="-30.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="G7P534FY9ECNqg_Y5jFN7A" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="134.44" y="-30.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="21" parent="20" guid="gSfaz8_SSU2oif8doiMDCw" x="1501.47" y="3542.41" text="cook:  You&apos;re no guard...">
+<note>
+[reveal:costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="22" parent="21" guid="V3YjewTXmU2BOpI-JcIImg" x="2009.73" y="3944.39" text="cook: No... you&apos;re a\Nprisoner--aren&apos;t you, my\Nlovely?">
+<parent-relation guid="8cP-vdqV90WlyexEbjzXpQ"/>
+</topic>
+<topic id="23" parent="22" guid="Twh1wvTNO06pt4JDul2Ayw" x="2009.73" y="4074.89" text="cook: You&apos;re a ways from the main\Ngate, if you&apos;re looking to escape."/>
+<topic id="24" parent="23" guid="Sh3_Jd7hQkiHCKX3zfGmgw" x="2009.73" y="4206.82" text="cook: So what brings\Nyou to my kitchen?">
+<children>
+<image guid="MOYBmNH_zkKbYs464FyqAw" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="136.94" y="-28.65" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="MOYBmNH_zkKbYs464FyqAw" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="136.94" y="-28.65" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="25" parent="24" guid="NFq4eyBr60WqHqMtLJolpg" x="2341.40" y="4697.79" text="DIALOGUE_HUB_A">
+<parent-relation guid="2Wbyu3DtW0237ddSn2tYoA"/>
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="26" parent="25" guid="seIkiyZyrEuOMp727COcTw" x="2486.07" y="4827.39" text="DIALOGUE_HUB_B"/>
+<topic id="27" parent="26" guid="t560Kg_ctE-K9JIzUW6PjQ" x="2626.82" y="5225.96" text="tilo: Alright, I&apos;ll take the\Norders--you make the tonic.">
+<note>
+[reveal:quest_hangoverTonic.talkToCook=active][lockableThread:tiloAgreesToTakeOrders=true][completeTask:quest_hangoverTonic.talkToCook]
+</note>
+</topic>
+<topic id="28" parent="27" guid="vun_pDwh1keRooByp6YOAw" x="2626.82" y="5375.96" text="cook: Good, good. Now\Ngo, and let me work!"/>
+<topic id="29" parent="26" guid="OzRDm92AMEudT9YToNNkkA" x="4603.82" y="5023.39" text="tilo: Remind me--what dish\Ngoes where again?">
+<note>
+[reveal:quest_hangoverTonic.giveOrdersToCook=complete;quest_hangoverTonic.returnToCook=inactive]
+</note>
+</topic>
+<topic id="30" parent="29" x="4307.57" y="5235.89" text="cook: Listen...">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="31" parent="30" guid="fenBlQclgUysmCZOTzvgtA" x="4603.82" y="5379.06" text="cook: ... the roast leg of lizard is\Nfor Private Flakh on table five...">
+<note>
+[executeAction:revealTrueName=character_guard_offDutyB][updateCounter:dialog_guard_offDutyB.metGuard_offDutyB=1]
+</note>
+</topic>
+<topic id="32" parent="29" x="4603.82" y="5182.14" text="cook: Pay attention this time...">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="33" parent="29" guid="NOfjMBOe60qfBxp6kNBx9Q" x="4897.57" y="5235.89" text="cook: Come on, love...">
+<children>
+<image guid="dG8ZnBJoUEad7cTPqvVSzA" name="742fc517e3dfe987807461d2704492634edb61ea" x="106.25" y="76.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="dG8ZnBJoUEad7cTPqvVSzA" name="742fc517e3dfe987807461d2704492634edb61ea" x="106.25" y="76.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="34" parent="26" guid="MlGMr4Syp0mCMeO1bQHO1Q" x="-1497.49" y="4508.65" text="tilo: Please... can you\Nspare any food?">
+<note>
+[lockableThread:buyFood][lockThread:buyFood]
+</note>
+</topic>
+<topic id="35" parent="34" guid="ErZlqClSxkC3l7eZPlCujQ" x="-1497.49" y="4707.91" text="cook: What did you\Nhave in mind?">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="36" parent="34" guid="Psay_bUQTEGa5CwbjE7HEA" x="-961.99" y="4707.91" text="cook: Anything\Ntaking your fancy?">
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="37" parent="34" guid="rlDZiRgYLUeo_hAu57LPoA" x="-1908.19" y="4707.91" text="cook: There is something you\Ncould do for me if you&apos;re\Nlooking for food, my love.">
+<parent-relation guid="sfV2T6ThU0ehr-n2jSINPg"/>
+<note>
+[variationIndex=0][lockableThread:foodIntro][lockThread:foodIntro]
+</note>
+</topic>
+<topic id="38" parent="37" guid="4aNyRNRt1kqcgnpyiBFfSA" x="-1908.19" y="4826.24" text="cook: You must have seen our\Napiary down in the garden, by now."/>
+<topic id="39" parent="38" guid="OyN7mbZ8TECBPEVtfsUTUg" x="-1908.19" y="4947.60" text="cook: We had a mite infestation last\Nsummer--the bees abandoned their\Nhives and settled out in the forest.">
+<parent-relation guid="FmvKeCcGQUCDKdSzZEFr_w"/>
+</topic>
+<topic id="40" parent="39" guid="BPmuagA3oUeKvndDcgO0Aw" x="-1908.19" y="5077.66" text="cook: There&apos;s been no honey since. If\Nyou can find the three queens and\Nbring them back, the rest should follow.">
+<note>
+[startQuest:quest_theApiary]
+</note>
+</topic>
+<topic id="41" parent="40" guid="UwjmR0xaSkmuJOOVglFBuQ" x="-1908.19" y="5191.64" text="cook: You do that, and you can\Nhave all the honey you like. Otherwise...">
+<parent-relation guid="sfsr5muhLky5fChKX57viQ"/>
+</topic>
+<topic id="42" parent="41" guid="aIyil6KCikaqQKOYxaYDvA" x="-1908.19" y="5295.45" text="cook: ... let&apos;s see... I might have a\Nfew bits and pieces lying around...">
+<parent-relation guid="hVNBjfAcikiBZYz0bgKXWQ"/>
+<children>
+<image guid="YRtlMXCtO0-LUSlr_tpMXg" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="208.33" y="-11.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="YRtlMXCtO0-LUSlr_tpMXg" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="208.33" y="-11.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="43" parent="42" guid="Fn3FfRy8bEiG53TIG9lqBQ" x="-1908.19" y="5384.56" text="cook: ... but you&apos;ll need to\Ngive me something for them.">
+<children>
+<image guid="mSfos9FP7UK93nYXafpUmw" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="195.00" y="48.10" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="mSfos9FP7UK93nYXafpUmw" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="195.00" y="48.10" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="44" parent="43" guid="4HWlZU4W6UuA68iGi81XeA" x="-1497.49" y="5449.76" text="DIALOGUE_HUB">
+<parent-relation guid="FMV0jSF8vkCdZBuV2y39mg"/>
+</topic>
+<topic id="45" parent="44" guid="jzEJG1i3VkScvb9QzxwRDA" x="-685.11" y="5432.62" outline-collapsed="True" text="tilo: I&apos;m afraid I don&apos;t have\Nmuch money to spare...">
+<note>
+[reveal:hasMoney&lt;8]
+</note>
+</topic>
+<topic id="46" parent="45" guid="F7iEzSd_lUadh5prFXS36A" x="-865.94" y="5617.06" text="cook: I&apos;d hold onto it\Nfor now, then, lovely.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="47" parent="45" guid="tgs9xuJWMUqKPBHkfwUG3g" x="-685.11" y="5693.73" text="cook: When you have a few\Nextra [florins], let me know.">
+<note>
+[variationIndex=1][footnote:florin]
+</note>
+</topic>
+<topic id="48" parent="45" guid="7dw0zKi-z0awBcJE-mq92Q" x="-495.53" y="5617.06" text="cook: Oh, love... I&apos;ll still\Nbe here when you do.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="49" parent="44" guid="Qm2SVulg1E2zFEQuCTLUIw" x="-2754.47" y="5843.50" outline-collapsed="True" text="tilo: How about bugs?\NCan you spare any?">
+<note>
+[reveal:hasMoney=8]
+</note>
+</topic>
+<topic id="50" parent="49" guid="wGCHmSbz_U6AXlGITDOorg" x="-2754.47" y="5971.06" text="cook: Greenies only, I&apos;m\Nafraid. Two for three [florins].">
+<note>
+[footnote:florin][showMoney]
+</note>
+</topic>
+<topic id="51" parent="50" guid="MMlDR8ZT5EObKhnm9p19iw" x="-2754.47" y="6094.11" text="tilo: Three florins...\Nyes! Here...">
+<note>
+[executeAction:giveMoney=3]
+</note>
+</topic>
+<topic id="52" parent="51" guid="9ZUhzsVZ20Kp_SKlI7MjTg" x="-2754.47" y="6255.54" text="The cook opens a jar and picks\Nyou out two dried green bugs.">
+<note>
+[narration][executeAction:receiveItem=bug_green*2][unlockThread:deniedFood]
+</note>
+</topic>
+<topic id="53" parent="44" guid="jbTItzHmNU6Tx3skA8vszg" x="-2408.53" y="5843.50" outline-collapsed="True" text="tilo: Cheese... I&apos;d love\Na chunk of cheese...">
+<note>
+[reveal:hasMoney=8]
+</note>
+</topic>
+<topic id="54" parent="53" guid="G__H-_ZdWEGCsf-LstLnpg" x="-2408.53" y="5971.06" text="cook: Four [florins].">
+<note>
+[footnote:florin][showMoney]
+</note>
+</topic>
+<topic id="55" parent="54" guid="88BzLXWhXUa-Aq_6JM77tQ" x="-2408.53" y="6094.11" text="tilo: Very well.\NThere--four florins...">
+<note>
+[executeAction:giveMoney=4]
+</note>
+</topic>
+<topic id="56" parent="55" guid="__o4F4SUeUmS3ZMFELwpFg" x="-2408.53" y="6255.54" text="Ouma Rezzia goes to the\Nlarder and fetches you a\Ngood-sized wedge of cheese.">
+<note>
+[narration][executeAction:receiveItem=cheese_swiss][unlockThread:deniedFood]
+</note>
+</topic>
+<topic id="57" parent="44" guid="7BepLV63G0-IVHk7GEoaWQ" x="-2073.98" y="5843.50" outline-collapsed="True" text="tilo: Carrots--do you\Nhave any carrots?">
+<note>
+[reveal:hasMoney=7]
+</note>
+</topic>
+<topic id="58" parent="57" guid="TlS7xh7aZUaXoUK7GWnlSQ" x="-2073.98" y="5971.06" text="cook: I can spare you three\Ncarrots for, say, two [florins].">
+<note>
+[footnote:florin][showMoney]
+</note>
+</topic>
+<topic id="59" parent="58" guid="czlV_654EUGygjrSvezLKg" x="-2073.98" y="6094.11" text="tilo: Three for two\Nflorins... it&apos;s a deal.">
+<note>
+[executeAction:giveMoney=2]
+</note>
+</topic>
+<topic id="60" parent="59" guid="VBjfhtZaHkGqL4S3f5VThg" x="-2073.98" y="6202.54" text="The cook pulls three carrots from her\Napron pocket and hands them over.">
+<note>
+[narration][executeAction:receiveItem=carrot*3]
+</note>
+</topic>
+<topic id="61" parent="60" guid="JLfErRhC2Ey4x_6RGBJQJA" x="-2073.98" y="6282.54" text="cook: Fresh from the garden!">
+<children>
+<image guid="loHBaZZgSkSS4f905glZnA" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="175.00" y="53.10" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="loHBaZZgSkSS4f905glZnA" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="175.00" y="53.10" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[unlockThread:deniedFood]
+</note>
+</topic>
+<topic id="62" parent="44" guid="KKkR4ORYD02elea8s4OioA" x="-3157.13" y="5855.50" outline-collapsed="True" text="tilo: Do you have\Nany bread?">
+<note>
+[reveal:hasMoney=8]
+</note>
+</topic>
+<topic id="63" parent="62" guid="Gn2Xp3c7C0-UhrQOXJgmaw" x="-3157.13" y="5981.89" text="cook: I can spare the heel of a loaf."/>
+<topic id="64" parent="63" guid="h7NuBxPWAUOEHO4jqKIjgg" x="-3305.85" y="6110.78" text="cook: It&apos;s a bit stale,\Nbut still good.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="65" parent="63" guid="WW1G784LTkCJBlrf-FnNBQ" x="-3157.13" y="6170.78" text="cook: It&apos;s the end of\Nyesterday&apos;s loaf.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="66" parent="65" guid="Ftmo6FnM_Um9V5H37HPBqw" x="-3157.13" y="6276.33" text="cook: Let&apos;s say...\Nthree [florins].">
+<children>
+<image guid="K5qmXG_tzkmP5G4V4v0Ayw" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="125.00" y="-10.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="K5qmXG_tzkmP5G4V4v0Ayw" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="125.00" y="-10.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[footnote:florin][showMoney]
+</note>
+</topic>
+<topic id="67" parent="66" guid="NYbrL98Hvk-hOWCSS8v6mg" x="-3157.13" y="6375.00" text="tilo: One... two...\Nthree florins--here.">
+<note>
+[executeAction:giveMoney=3]
+</note>
+</topic>
+<topic id="68" parent="67" guid="DIDvuibmCUShcPc44Be7aw" x="-3157.13" y="6475.89" text="Rezzia slips the coins into her apron\Npocket and passes you the bread.">
+<note>
+[narration][executeAction:receiveItem=bread_half][unlockThread:deniedFood]
+</note>
+</topic>
+<topic id="69" parent="63" guid="3uAPgK_ehEmB9PbQ9nFMog" x="-3010.30" y="6110.78" text="cook: It should last\Nyou a while.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="70" parent="44" guid="apXh2HGX20a8YtTV60YjBA" x="-1642.86" y="5835.50" outline-collapsed="True" text="tilo: A handful\Nof grain...">
+<note>
+[reveal:hasMoney=7]
+</note>
+</topic>
+<topic id="71" parent="70" guid="MHUNFXkHhk2w12vXPcbfeA" x="-1642.86" y="5971.06" text="cook: I&apos;m sure I can let you have a\Nlittle bit of grain. Two [florins]?">
+<note>
+[footnote:florin][showMoney]
+</note>
+</topic>
+<topic id="72" parent="71" guid="E1yYshDWn0iznurdEnufNA" x="-1642.86" y="6094.11" text="tilo: Two florins it is!">
+<note>
+[executeAction:giveMoney=2]
+</note>
+</topic>
+<topic id="73" parent="72" guid="hUh67bCCXEKKFk6znmzsUQ" x="-1642.86" y="6202.54" text="The cook fetches a sack from the\Npantry and pours a little grain into\Nyour cupped paws.">
+<note>
+[narration][executeAction:receiveItem=grain]
+</note>
+</topic>
+<topic id="74" parent="73" guid="ZAsVG42LK0iIJ8E1PTggOw" x="-1642.86" y="6308.09" text="cook: There you go--[a\Nrascal] for a rascal!">
+<children>
+<image guid="i3t564rb9EqS_lwZCI_MIg" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="147.50" y="44.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="i3t564rb9EqS_lwZCI_MIg" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="147.50" y="44.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+<note>
+[unlockThread:deniedFood][footnote:rascal]
+</note>
+</topic>
+<topic id="75" parent="44" guid="CQeco2kaZEKPIKrCo80Xdg" x="-3570.39" y="5864.07" outline-collapsed="True" text="tilo: An apple\Nwould be nice...">
+<note>
+[reveal:hasMoney=7]
+</note>
+</topic>
+<topic id="76" parent="75" guid="yMbTWiuaDkOTIJsjZhspUw" x="-3570.39" y="5992.13" text="cook: I can let you have\Nthat for two [florins].">
+<note>
+[footnote:florin][showMoney]
+</note>
+</topic>
+<topic id="77" parent="76" guid="SQTh_1IIRUqGJbeykYiVpg" x="-3570.39" y="6109.35" text="tilo: Two florins...\Nalright, here.">
+<note>
+[executeAction:giveMoney=2]
+</note>
+</topic>
+<topic id="78" parent="77" guid="XRrNLJqtHkyLoOyAJRWr0g" x="-3570.39" y="6213.35" text="The cook pockets the\Ncoins, fetches an apple from\Nthe pantry, and hands it to you.">
+<note>
+[narration][executeAction:receiveItem=apple][unlockThread:deniedFood]
+</note>
+</topic>
+<topic id="79" parent="78" guid="148pmNxIuUOvweZrOIbz3g" x="-1587.17" y="6483.35" text="cook: Alright..."/>
+<topic id="80" parent="79" guid="Grfv3Dv9hEe8jPm4QwZ1lQ" x="-1992.92" y="6678.91" text="cook: Is there anything else\Nyou might want, love?">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="81" parent="80" guid="-JW5tPSWFUKrIxLn1ttjZw" x="-1587.17" y="6875.37" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="82" parent="79" guid="GLs5wcdEkEiW5Az5ZgT3Zg" x="-1414.35" y="6625.21" text="cook: Anything else\Ntake your fancy?">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="83" parent="79" guid="TLbigZTLC0qCZ92V37UbWw" x="-1166.70" y="6678.91" text="cook: Is that\Neverything, my love?">
+<children>
+<image guid="O0RAGpDkW0-jDP8rnMvSaw" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="109.17" y="-65.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="O0RAGpDkW0-jDP8rnMvSaw" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="109.17" y="-65.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="84" parent="79" guid="VmNExGwF302WJEMgy2iSbQ" x="-1672.28" y="6625.21" text="cook: Can I get you\Nanything else, my lovely?">
+<children>
+<image guid="DH692q9Z-0qYklu7pb_k0g" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-118.33" y="-81.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="DH692q9Z-0qYklu7pb_k0g" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-118.33" y="-81.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="85" parent="76" guid="hBtEeqy3NUyzgBMMpeyGoQ" x="-2073.98" y="6496.21" text="tilo: Thank you...\Nperhaps later."/>
+<topic id="86" parent="44" guid="BuswMpT41kWjUVCoS5eGzw" x="-1247.09" y="5835.50" outline-collapsed="True" text="tilo: What\Nabout acorns?">
+<note>
+[reveal:hasMoney=6]
+</note>
+</topic>
+<topic id="87" parent="86" guid="gm-ayIQc5E6RbwthSAmGvQ" x="-1247.09" y="5971.06" text="cook: I can give you a couple of\Nacorns... if you can spare a [florin].">
+<note>
+[footnote:florin][showMoney]
+</note>
+</topic>
+<topic id="88" parent="87" guid="mm2vKsut8Umn9Zo8dlqzMg" x="-1247.09" y="6094.11" text="tilo: One florin? Here!">
+<note>
+[executeAction:giveMoney=1]
+</note>
+</topic>
+<topic id="89" parent="88" guid="cB1rkIGJZEO0Ei9tz1tcVg" x="-1247.09" y="6202.54" text="Ouma Rezzia fishes two acorns\Nout of her apron&apos;s breast pocket.">
+<note>
+[narration][executeAction:receiveItem=acorn*2]
+</note>
+</topic>
+<topic id="90" parent="89" guid="I0jfqeTddEuoqOz15NGrmw" x="-1247.09" y="6308.09" text="cook: I was saving\Nthem for a snack!">
+<children>
+<image guid="96Iv5c4Z3kaQTh7dZT0skA" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="140.00" y="57.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="96Iv5c4Z3kaQTh7dZT0skA" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="140.00" y="57.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_laughing.png"/>
+</image>
+</images>
+<note>
+[unlockThread:deniedFood]
+</note>
+</topic>
+<topic id="91" parent="44" guid="Txpp366-iku9nREIvh10Cw" x="-854.95" y="5835.50" outline-collapsed="True" text="tilo: I could do with a\Nfew mushrooms...">
+<note>
+[reveal:hasMoney=8]
+</note>
+</topic>
+<topic id="92" parent="91" guid="qATmzLky-EmzxVAMtROI4g" x="-854.95" y="5971.06" text="cook: I can let you have two\Nsprouts of mushrooms for three\N[florins]?">
+<note>
+[footnote:florin][showMoney]
+</note>
+</topic>
+<topic id="93" parent="92" guid="tkc7LJRR_Ean7bX2IqmGjw" x="-854.95" y="6094.11" text="tilo: Here you go. Three florins.">
+<note>
+[executeAction:giveMoney=3]
+</note>
+</topic>
+<topic id="94" parent="93" guid="NyflIrTtrkexef61JGs7lQ" x="-854.95" y="6202.54" text="Rezzia unstops a jar and selects\Ntwo sprouts of dried mushrooms.">
+<note>
+[narration][executeAction:receiveItem=mushrooms_a*2]
+</note>
+</topic>
+<topic id="95" parent="94" guid="aCpzQvlq2E2VcYg8MyY21w" x="-854.95" y="6308.09" text="cook: I always think\Nthey&apos;re better dried.">
+<note>
+[unlockThread:deniedFood]
+</note>
+</topic>
+<topic id="96" parent="44" guid="WimGRMjSh0qz-FiC19vZiQ" x="-321.53" y="5716.17" outline-collapsed="True" text="tilo: Thank you,\Nbut I&apos;ll manage.">
+<parent-relation guid="_smeNU6G2Uy1N-vC44HhNQ"/>
+</topic>
+<topic id="97" parent="96" guid="0yg9WPqw8kSGUozxli1wMw" x="-495.53" y="6056.10" text="cook: Make sure you do,\Nlove--you&apos;re wasting\Naway!">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="98" parent="97" guid="hPvVRL6jdE-WzVvVrxy7eQ" x="-212.95" y="6357.02" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="99" parent="96" guid="5SBnGAYn6EC8DJK9QZhVCA" x="-321.53" y="5967.43" text="cook: Look--take this\Napple core, at least.">
+<note>
+[variationIndex=1][lockableThread:freeAppleCore][lockThread:freeAppleCore][executeAction:receiveItem=apple_core]
+</note>
+</topic>
+<topic id="100" parent="96" guid="SEnVIL1_pUyGUDfx_CJSaA" x="-80.48" y="5967.43" text="cook: Promise me you&apos;ll\Nget yourself something.">
+<children>
+<image guid="6UA8Df2qskqOH_vQ-vUV9w" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-30.00" y="-88.57" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="6UA8Df2qskqOH_vQ-vUV9w" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-30.00" y="-88.57" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="101" parent="96" guid="9ewjnUvmykqQOUI10YXbiw" x="82.62" y="6056.10" text="cook: Oh, love--I\Nworry about you!">
+<children>
+<image guid="Ug8bycacOESRTnPiZRFRHQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="31.67" y="-91.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="Ug8bycacOESRTnPiZRFRHQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="31.67" y="-91.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="102" parent="34" guid="Ve8s8UvalEO9KiKpdlqzmg" x="-1243.66" y="4669.58" text="cook: Let&apos;s see... I&apos;m not\Nsure what&apos;s left.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="103" parent="34" guid="UbuTV7-r4kmpDDWUTVl75A" x="-212.83" y="4852.82" text="cook: Oh love!">
+<note>
+[priorityOverride][reveal:recentlyTalkedTo=30][lockableThread:deniedFood=true]
+</note>
+</topic>
+<topic id="104" parent="103" guid="CUtHkMoHGESryrFNZVRhTw" x="-490.66" y="5102.91" text="cook: I should think you&apos;ve\Nhad enough for now!">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="105" parent="104" guid="IGytAgNHSUiyEjjad2suAA" x="-212.83" y="5334.58" text="cook: Why don&apos;t\Nyou wait awhile?"/>
+<topic id="106" parent="103" guid="KuvJDJx7gUOtCRq_fV-7AQ" x="-4.49" y="5102.91" text="cook: Don&apos;t be\Ngreedy, now!">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="107" parent="103" guid="F-l2s6D9TkCDKOaeZ8SoJg" x="-212.83" y="5038.65" text="cook: No, no, no! ">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="108" parent="26" guid="V36TZ7vRZESSWLj8q4UhBw" x="1230.57" y="5246.19" text="tilo: Was it you helped\Nme escape my cell?">
+<note>
+[lockableThread:helpedEscape][lockThread:helpedEscape][reveal:quest_jailbreak=active]
+</note>
+</topic>
+<topic id="109" parent="108" guid="6w6t50paC06-u_Nkb2ywGg" x="1230.57" y="5368.16" text="cook: Oh, love, no--I\Nwouldn&apos;t dream of it!">
+<parent-relation guid="kQTGPFhjVkyg6E6wy1xYZw"/>
+</topic>
+<topic id="110" parent="109" guid="D2cZyp4CYkyhe69_jOTsBA" x="1230.57" y="5509.98" text="cook: It&apos;s taken me years to get\Nwhere I am. I wouldn&apos;t throw\Nthat away for anything!"/>
+<topic id="111" parent="26" guid="7Dfpyrzz4Ue-PQzazQbVsA" x="1637.71" y="5112.55" text="tilo: A-are you going\Nto report me?">
+<parent-relation guid="sMDJW65xPki7aLf3CHQ0Eg"/>
+<note>
+[lockableThread:reportToGuards][lockThread:reportToGuards]
+</note>
+</topic>
+<topic id="112" parent="111" guid="Kvvb11OwE0qSYhh3JV-Jyg" x="1637.71" y="5246.19" text="cook: Oh, love, of course not!">
+<parent-relation guid="b_BuSoSAzk6wXs7mYaOvSA"/>
+</topic>
+<topic id="113" parent="112" guid="TPdDq_h1uUy0GyGz8eBMow" x="1637.71" y="5368.16" text="cook: Though it might be best you\Ndon&apos;t show your face here too often."/>
+<topic id="114" parent="113" guid="50g_DuMaGkS87HqkLST_Iw" x="1637.71" y="5509.98" text="cook: There are a lot of guards coming\Nin and out of the commissary..."/>
+<topic id="115" parent="114" guid="oxgSw95DTke9WaGTkW4h7A" x="1637.71" y="5649.07" text="cook: ... I&apos;d hate to see\Nanything happen to you."/>
+<topic id="116" parent="26" guid="zF0Y0B9-9kWdacpZGjONoA" x="839.57" y="5246.19" text="tilo: I&apos;m searching for my wife,\NMerra. Have you seen her?">
+<parent-relation guid="O5sbbCkkeECsEDPC2qHm7w"/>
+<note>
+[lockableThread:searchingForMerra][lockThread:searchingForMerra][reveal:quest_jailbreak=active]
+</note>
+</topic>
+<topic id="117" parent="116" guid="oEDuUZbGLEyTRgTRf8Bb6Q" x="839.57" y="5368.16" text="cook: Merra--that&apos;s a\Nlovely name..."/>
+<topic id="118" parent="117" guid="55LxleK7dkqJPphJYGXL9A" x="839.57" y="5509.98" text="cook: I wish I could help you,\Nmy love, I really do."/>
+<topic id="119" parent="118" guid="VFuLyIJir0-pIluS7Ijgdw" x="1230.57" y="5880.98" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="120" parent="26" guid="yXOCPXV_6E2hElK6_a8YEg" x="433.57" y="5267.14" text="tilo: I&apos;m looking for\Nsomebody named &apos;S&apos;.">
+<parent-relation guid="h5yX6hdjZky83MeS0L4uiw"/>
+<note>
+[lockableThread:searchingForS][lockThread:searchingForS][reveal:quest_jailbreak=active]
+</note>
+</topic>
+<topic id="121" parent="120" guid="8IJAcHqh8Ui6vPjke1WkUg" x="433.57" y="5429.75" text="cook: Let&apos;s see... &apos;S&apos;... &apos;S&apos;..."/>
+<topic id="122" parent="121" guid="J3u422LIk0e_F8M1neDeRw" x="433.57" y="5587.00" text="cook: Ah! Have you been\Nto the roof of this tower?">
+<parent-relation guid="fOFfnCCB5UuoBeBAtOytzA"/>
+<children>
+<image guid="KcI5abJtzUam3jY6e10qRg" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-176.67" y="-45.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="KcI5abJtzUam3jY6e10qRg" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-176.67" y="-45.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="123" parent="122" guid="iB3ns1rCeEa4zm__BgAe0Q" x="433.57" y="5716.17" text="cook: There may be someone\Nwho can help you waiting there."/>
+<topic id="124" parent="26" guid="H3EAxugcqkqaG9NeAIxmWw" x="7297.10" y="4417.32" text="tilo: What are you\Ncooking, Ouma?">
+<note>
+[lockableThread:whatsCooking][lockThread:whatsCooking][rollDice:7]
+</note>
+</topic>
+<topic id="125" parent="124" guid="Gh_91byYLEiAob4rKcIF6g" x="6921.92" y="4662.03" text="cook: A soup...">
+<note>
+[reveal:dice=2]
+</note>
+</topic>
+<topic id="126" parent="124" guid="iiA2F0y4xk2-6QJbMRLiww" x="7297.10" y="4662.03" text="cook: I&apos;ve got a\Npie in the oven...">
+<note>
+[reveal:dice=4]
+</note>
+</topic>
+<topic id="127" parent="124" guid="FijQ9u2ohUK-_n6RAl0Yvg" x="7102.63" y="4662.03" text="cook: A\Nbone broth...">
+<children>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[reveal:dice=3]
+</note>
+</topic>
+<topic id="128" parent="124" guid="BqxuL6bmfE2a2r2JObUpTA" x="7667.57" y="4662.03" text="cook: A stew...">
+<note>
+[reveal:dice=6]
+</note>
+</topic>
+<topic id="129" parent="124" guid="q-ET72yiDUWKTAXuBj0xcA" x="6721.80" y="4662.03" text="cook: Porridge...">
+<note>
+[reveal:dice=1]
+</note>
+</topic>
+<topic id="130" parent="129" guid="QkRg_YKnRESbE1Ds-BWylA" x="7297.10" y="5050.60" text="cook: ... will you try some?">
+<children>
+<image guid="jAczvqOJqkSaWFV3t9NCDA" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-2.86" y="-76.66" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="jAczvqOJqkSaWFV3t9NCDA" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-2.86" y="-76.66" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[unlockThread:aTasteOfWhatsCooking]
+</note>
+</topic>
+<topic id="131" parent="130" guid="0LXk39vWs0SmHDzYt_LAaA" x="7054.24" y="5290.60" text="tilo: Just a little,\NOuma, if I may?"/>
+<topic id="132" parent="131" guid="Sn7DA-nfPU2smWJ2N9HzTA" x="7054.24" y="5449.41" text="cook: It&apos;s cooling right now, but remind\Nme to give you a taste before you go."/>
+<topic id="133" parent="130" guid="gvTEOXJyz0ug65OBLmn7qw" x="7514.53" y="5290.60" text="tilo: Not right now,\Nthank you Ouma.">
+<parent-relation guid="Eqk3_ii_l0-1JUZs1PEgiQ"/>
+</topic>
+<topic id="134" parent="133" guid="uysEGrljDk-u9SQOaN5AMw" x="7514.53" y="5449.41" text="cook: I&apos;ll put some aside for you,\Nin case you change your mind."/>
+<topic id="135" parent="124" guid="EokO6AVNpUuqxIY_ME8LQw" x="7847.34" y="4662.03" text="cook: Gruel...">
+<note>
+[reveal:dice=7]
+</note>
+</topic>
+<topic id="136" parent="124" guid="M5cunpELxE-STRoPOXglNA" x="7490.15" y="4662.03" text="cook: I&apos;m\Nbaking bread...">
+<children>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[reveal:dice=5]
+</note>
+</topic>
+<topic id="137" parent="26" guid="PWAi7OJDkUapToF2Uy_Lgg" x="4269.19" y="7089.21" text="tilo: What can you tell me about\Nthe disappearance of the Jailer?">
+<parent-relation guid="PDnELJNGiEqgcWvIlDOfhw"/>
+<note>
+[lockableThread:findJailer][lockThread:findJailer][reveal:quest_findJailer.talkToCommander=inactive]
+</note>
+</topic>
+<topic id="138" parent="137" guid="UzFUpvDtkUmxCzmq7qkIog" x="4269.19" y="7233.50" text="cook: The night before the Blood Moon he\Nwas in here with the Signal Guard--Silas, is it?"/>
+<topic id="139" parent="138" guid="UgyXsSYX1U--M4MDh0-PTw" x="4036.01" y="7445.82" text="tilo: What happened?"/>
+<topic id="140" parent="139" guid="lUMeRYKr7ESIXQYvskRKiQ" x="4036.01" y="7564.93" text="cook: There were raised voices,\Na few choice words said."/>
+<topic id="141" parent="140" guid="_uN831yjtEWbk6ZR8arjAQ" x="3836.30" y="7747.89" text="tilo: Raised voices?\NOver what?">
+<note>
+[updateCounter:dialog_silas.askSilasAboutDebt=1]
+</note>
+</topic>
+<topic id="142" parent="141" guid="DZz3ZGN1_k2vykCSkFAzBw" x="3836.30" y="7922.64" text="cook: I couldn&apos;t tell you exactly, but it\Nsounded like Silas owes old Volker a fair sum\Nof money. Anyway, you know how bucks are..."/>
+<topic id="143" parent="142" guid="EX8hXmAaqEu34EmDAqf6HQ" x="3836.30" y="8103.46" text="cook: ... always arguing over\Nwho has the longer tail.">
+<parent-relation guid="NwlHs4LCjUOA6j6HzGZcOg"/>
+</topic>
+<topic id="144" parent="138" guid="8l2PUtm8FEWqSt45Nle0Ew" x="4269.19" y="7796.43" text="tilo: I see..."/>
+<topic id="145" parent="144" guid="zO6fhXRTrkmCwXTNpnFeHQ" x="4269.19" y="8103.46" text="cook: I&apos;m sure it\Nwas nothing.">
+<children>
+<image guid="NSuOH9Zlck292iPQm-BPXg" name="742fc517e3dfe987807461d2704492634edb61ea" x="115.36" y="-35.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="NSuOH9Zlck292iPQm-BPXg" name="742fc517e3dfe987807461d2704492634edb61ea" x="115.36" y="-35.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="146" parent="26" guid="nxtbBh_RfECRfTA1vXFyWQ" x="25.92" y="6754.82" text="tilo: I haven&apos;t forgotten\Nabout the bees, Ouma.">
+<note>
+[reveal:quest_theApiary=active][lockableThread:beeQuestActive][lockThread:beeQuestActive]
+</note>
+</topic>
+<topic id="147" parent="146" guid="zx6428lYpEGIRK8cuHPqxQ" x="318.42" y="6948.82" text="cook: I didn&apos;t doubt you\Nfor a second, my love.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="148" parent="146" guid="DTJvsNxNrUGR3QVRWUmJVg" x="-307.94" y="6948.82" text="cook: They&apos;ll be out in the forest,\Nlove. Either there, or somewhere\Non the northern slopes.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="149" parent="148" guid="QS5vuVGjSEiwa5oaU8dUAw" x="-9.08" y="7328.96" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="150" parent="146" guid="O2cmO_8zi0SMyD1XjardZA" x="25.92" y="7015.82" text="cook: They&apos;ll be in the trees.\NDon&apos;t forget to look up!">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="151" parent="26" guid="nq110GNOyEOJoF--Ef_EQA" x="6358.71" y="4091.56" text="tilo: SKIP TO TILO&apos;S\NKIDNAP/TO THE FAR TOWER">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="152" parent="26" guid="-00okpQk80SkacMX0VN1LA" x="4156.40" y="4893.50" text="tilo: What&apos;s your\Nspecial today, Ouma?">
+<note>
+[lockableThread:whatSpecial][lockThread:whatSpecial][reveal:quest_hangoverTonic.giveOrdersToCook=complete;quest_hangoverTonic.returnToCook=inactive]
+</note>
+</topic>
+<topic id="153" parent="152" guid="fn1H5Sa5fkWnAzpjtvQhpQ" x="4156.40" y="5023.39" text="cook: The carrot pie,\Nlove--over there on the bench."/>
+<topic id="154" parent="26" guid="Ghk-MIaj2EaxLBid6n2kzg" x="3168.49" y="5225.96" text="tilo: Here--I have\Nsome of the orders...">
+<parent-relation guid="_tOUoV0fnEKmjLA7LlCnoA"/>
+<note>
+[reveal:quest_hangoverTonic.giveOrdersToCook=inactive;quest_hangoverTonic.getFirstOrder=complete|quest_hangoverTonic.getSecondOrder=complete|quest_hangoverTonic.getThirdOrder=complete|quest_hangoverTonic.getFourthOrder=complete]
+</note>
+</topic>
+<topic id="155" parent="154" guid="_cGSnoM790SpRcGhr-Jb_g" x="2982.49" y="5437.21" text="cook: No, no, no--I\Nneed all of the orders!">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="156" parent="154" guid="qbWqTtr4TUSJ3TgkRRaFMw" x="3168.49" y="5532.75" text="cook: Collect all of them first,\Nthen bring them to me.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="157" parent="154" guid="wEg3WXo1cUaDUFXJzgXpjA" x="3357.49" y="5437.21" text="cook: Give me strength\Nnot to strangle him...">
+<children>
+<image guid="2Ei4rHi28kmprymv3ML89Q" name="742fc517e3dfe987807461d2704492634edb61ea" x="156.94" y="52.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="2Ei4rHi28kmprymv3ML89Q" name="742fc517e3dfe987807461d2704492634edb61ea" x="156.94" y="52.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="158" parent="157" guid="HMuzGjJurkCJ-a_8Wmv9IA" x="3357.49" y="5674.71" text="cook: ... I said I need\NALL the orders!"/>
+<topic id="159" parent="26" guid="JnHUFTZ4TE6a6nSKBmzuug" x="1940.93" y="4467.39" text="tilo: &quot;The termite&apos;s lair\Nspreads far, unseen...&quot;">
+<note>
+[lockableThread:masterAndSmugglers][lockThread:masterAndSmugglers][reveal:quest_findSmugglers.findSmugglersMark=complete;quest_findSmugglers.talkToCommander=inactive]
+</note>
+</topic>
+<topic id="160" parent="159" guid="iCG5lusY6EOBkG60VpReRw" x="1940.93" y="4614.53" text="cook: Termites?! In the\Nkitchen?! Where, love?"/>
+<topic id="161" parent="160" guid="yd60FqJ_n0GyP6zPlq5b_g" x="1940.93" y="4735.96" text="cook: I&apos;ll have to have\Nsomething done about that.">
+<children>
+<image guid="MYjrutN0CkCX8X89UzSoaA" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-187.78" y="-17.36" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="MYjrutN0CkCX8X89UzSoaA" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-187.78" y="-17.36" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="162" parent="26" x="2626.82" y="4969.61" text="DIALOGUE_HUB_C"/>
+<topic id="163" parent="162" guid="_w9PW_VV-EyNW0XKc5iJhw" x="4016.40" y="3152.65" text="tilo: I&apos;ll get to it, then.">
+<parent-relation guid="RGKHH3WNLkWgyAqsvZK9Ug"/>
+<note>
+[reveal:quest_hangoverTonic.talkToCook=complete;quest_hangoverTonic.talkToSilas=inactive]
+</note>
+</topic>
+<topic id="164" parent="162" guid="xqAcD6GJlUeHEp4a2M7_gQ" x="5282.43" y="2488.81" text="tilo: Well, I think it&apos;s\Nprobably best if I go.">
+<parent-relation guid="OCJURL14ik6qTHVKZ-iVhw"/>
+<note>
+[reveal:quest_hangoverTonic=inactive|quest_hangoverTonic.talkToCook=active|quest_hangoverTonic.returnToCook=complete|quest_hangoverTonic=complete][lockThread:reportToGuards]
+</note>
+</topic>
+<topic id="165" parent="164" guid="mMqALcsqHkCZmgGGDN9B_g" x="4764.07" y="3198.20" text="cook: Aye... I should get on.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="166" parent="164" guid="HfWLd1_YEEqNdDoQYB085g" x="4379.87" y="3152.65" text="cook: Aye... I&apos;ve worked hard to\Nearn the respect of the Rats.">
+<note>
+[variationIndex=0][lockableThread:endingA][lockThread:endingA]
+</note>
+</topic>
+<topic id="167" parent="166" guid="boWK6zfwxUSunUDkzrHvBQ" x="4379.87" y="3261.54" text="cook: I don&apos;t want\Nanything to jeopardize that."/>
+<topic id="168" parent="164" guid="f1zNINQXcEOzxVBk0kFhGw" x="5144.24" y="3209.73" text="cook: Aye... the last thing I want is\Nthe [Red Paw] sniffing around.">
+<note>
+[variationIndex=2][lockableThread:endingB][lockThread:endingB][footnote:red_paw]
+</note>
+</topic>
+<topic id="169" parent="164" guid="cnlbWLKyb0WW_AgCVQAmtA" x="5464.34" y="3164.47" text="cook: Right you are, love.">
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="170" parent="164" guid="fD_JuuEJfU-7LhmSNaQyyg" x="5866.40" y="2803.65" text="cook: Before you do, love...">
+<note>
+[priorityOverride][lockableThread:cooksSurpriseForTilo=true][lockThread:cooksSurpriseForTilo]
+</note>
+</topic>
+<topic id="171" parent="170" guid="NI4UFf7TBEGQNuERyhJGoQ" x="5866.40" y="2962.53" text="The cook draws a ladle from a\Nbubbling pot, and offers it to you.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="172" parent="171" guid="BNZOLI6WLU2_L-n-mtQEmg" x="5866.40" y="3116.97" text="cook: ... try some of this.">
+<children>
+<image guid="onn-_43bTUC36X8jS1p6vQ" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="141.43" y="-38.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="onn-_43bTUC36X8jS1p6vQ" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="141.43" y="-38.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="173" parent="172" guid="aMC4wufbbUmR_fQNbQ9-3g" x="5667.85" y="3311.42" text="tilo: Thank you, Ouma,\NI&apos;m sure it&apos;s delicious."/>
+<topic id="174" parent="173" guid="ErDbpHzPYUmoz_Rt1avn0g" x="5667.85" y="3478.08" text="You take the ladle, give a blow to\Ncool the steaming liquid, and drink.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="175" parent="174" guid="mTCjfxInn0GOHBv3Y6DKOw" x="5667.85" y="3648.08" text="cook: Well...?">
+<children>
+<image guid="-RSry7HQ2kW_lhGSsDwp3A" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="103.93" y="-39.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="-RSry7HQ2kW_lhGSsDwp3A" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="103.93" y="-39.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="176" parent="175" guid="ihC4Q693cEGaPUL4EEe84w" x="5476.97" y="3875.85" text="tilo: It could use a little\Nhoney, perhaps?"/>
+<topic id="177" parent="176" guid="W1Q_ReHJSUCc4YE8z-YWIA" x="5476.97" y="4091.56" text="cook: Honey. I&apos;ll\Nremember that for the\Nnext time, my lovely.">
+<children>
+<image guid="5UJ6dz7i8U2LEPGjAJaU2g" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="108.57" y="-93.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="5UJ6dz7i8U2LEPGjAJaU2g" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="108.57" y="-93.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="178" parent="175" guid="LlRNIEwyAUC1yLavrDPhmw" x="5866.40" y="3875.85" text="tilo: I-it&apos;s very good!"/>
+<topic id="179" parent="178" guid="tMroHarVBEyoU9xhRoDfZA" x="5866.40" y="3985.85" text="cook: Oh, I am pleased!">
+<children>
+<image guid="g_l9iDgKM0inJKL9TB2CiQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="156.79" y="-65.15" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="g_l9iDgKM0inJKL9TB2CiQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="156.79" y="-65.15" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="180" parent="179" guid="E16F3-9NN0CA28KalivFBQ" x="5866.40" y="4091.56" text="cook: I&apos;m glad I could give you\Nsomething nice for your last\Nmeal.">
+<children>
+<image guid="QgJiRwObnUuOUvJamDTyhQ" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="175.71" y="-46.66" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="QgJiRwObnUuOUvJamDTyhQ" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="175.71" y="-46.66" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="181" parent="180" guid="XaNYvvrEnkqjpj2da2Jgog" x="5866.40" y="4223.24" text="The cook&apos;s words seem to slur\Nand lose their meaning as you\Nsink into unconsciousness.">
+<parent-relation guid="p3QknbTQUE6N57WRL_Z2XA"/>
+<note>
+[narration]
+</note>
+</topic>
+<topic id="182" parent="181" guid="zv7s7nQgRkW4QbucxPqx6A" x="5866.40" y="4348.22" text="cook: The termite&apos;s lair\Nspreads far, unseen...">
+<parent-relation guid="uUi5Cl_cIEOcJ2IsvK33EA"/>
+<children>
+<image guid="F0VjkG1oqUi77NY3Jt-68w" name="2f43288748b24b52adb10ab66c9627088e87b01f" x="157.14" y="-13.28" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_default.png"/>
+</image>
+</children>
+<images>
+<image guid="F0VjkG1oqUi77NY3Jt-68w" name="2f43288748b24b52adb10ab66c9627088e87b01f" x="157.14" y="-13.28" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_default.png"/>
+</image>
+</images>
+<note>
+[lockThread:masterAndSmugglers]
+</note>
+</topic>
+<topic id="183" parent="182" guid="WzxnIuQDZk20Gu5uQzLxNA" x="5866.40" y="4456.57" text="cook: ... And at its centre\Ndwells the queen...">
+<parent-relation guid="FvX1MwqTKE68SrTQEJMTUA"/>
+<children>
+<image guid="UczyoPdN7kigz7Pjn5s0nw" name="742fc517e3dfe987807461d2704492634edb61ea" x="-148.93" y="-25.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="UczyoPdN7kigz7Pjn5s0nw" name="742fc517e3dfe987807461d2704492634edb61ea" x="-148.93" y="-25.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</images>
+<note>
+[executeAction:sendTiloToFarTower][completeTask:quest_findTheMaster.findMastersIdentity]
+</note>
+</topic>
+<topic id="184" parent="172" guid="F6mbOlM9oUyiKoXBaEJFGw" x="6091.18" y="3311.42" text="tilo: What is it?"/>
+<topic id="185" parent="184" guid="vKPy1FCzYU6JJxabBmpAOg" x="6091.18" y="3478.08" text="cook: A new recipe I&apos;m\Nworking on--please, and let\Nme know what you think...">
+<children>
+<image guid="8h1JCxWCi0egeh09n-IspA" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="155.71" y="-26.66" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="8h1JCxWCi0egeh09n-IspA" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="155.71" y="-26.66" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="186" parent="172" guid="WzJUDxix4U-sUW_rhyaGhQ" x="6517.65" y="3639.23" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="187" parent="164" guid="Lp4fRyNzqk2CW3F4GNLpbg" x="6926.87" y="2485.64" text="cook: Wait,\NMouse! Here...">
+<note>
+[priorityOverride][lockableThread:aTasteOfWhatsCooking=true][lockThread:aTasteOfWhatsCooking]
+</note>
+</topic>
+<topic id="188" parent="187" guid="HVPG-mQRYUWbEZp47tCV6Q" x="6503.83" y="2730.35" text="cook: ... I promised\Nyou some soup!">
+<note>
+[reveal:dice=2]
+</note>
+</topic>
+<topic id="189" parent="187" guid="DXkTbdN_R0iUa9haXY4wPQ" x="6926.87" y="2730.35" text="cook: ... the pie!">
+<children>
+<image guid="IdoIAKhMR0eM93XXRrS7qQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="-6.07" y="-80.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="IdoIAKhMR0eM93XXRrS7qQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="-6.07" y="-80.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:dice=4]
+</note>
+</topic>
+<topic id="190" parent="187" guid="UY5oFA76T061ZyJTgL5www" x="6721.15" y="2730.35" text="cook: ... you haven&apos;t\Nhad your broth!">
+<children>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[reveal:dice=3]
+</note>
+</topic>
+<topic id="191" parent="187" guid="LQB81L1wekS8Gla06lC6xg" x="7372.34" y="2730.35" text="cook: ... have a\Ntaste of the stew!">
+<children>
+<image name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:dice=6]
+</note>
+</topic>
+<topic id="192" parent="187" guid="kbWxsDotwUy419xjwyaNsg" x="6293.71" y="2730.35" text="cook: ... don&apos;t forget\Nyour porridge!">
+<children>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[reveal:dice=1]
+</note>
+</topic>
+<topic id="193" parent="192" guid="kM49YhHDpkmGgg5-ls6JxA" x="6926.87" y="3118.92" text="You have a small taste\Nof Rezzia&apos;s food and\Nfeel reinvigorated.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="194" parent="187" guid="ytf96nvwOkOQ1uyqkt2kww" x="7570.36" y="2730.35" text="cook: ... the gruel&apos;s\Nready to try!">
+<note>
+[reveal:dice=7]
+</note>
+</topic>
+<topic id="195" parent="187" guid="eB7Ck8_NoEGcCJGiTdmrOw" x="7149.42" y="2730.35" text="cook: ... you said you&apos;d\Ntry some of the bread!">
+<children>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[reveal:dice=5]
+</note>
+</topic>
+<topic id="196" parent="25" guid="rYg32vqzGU-AhHKaEqRhgw" x="2113.78" y="5225.96" text="tilo: I need a tonic, to\Nhelp sober someone up.">
+<parent-relation guid="IU8RwyWLpEq1uMqJC3UEiQ"/>
+<note>
+[reveal:quest_hangoverTonic.talkToCook=active][lockableThread:askForTonic][lockThread:askForTonic][unlockThread:tiloAgreesToTakeOrders]
+</note>
+</topic>
+<topic id="197" parent="196" guid="tq2rwAJ1fEeNXr0WkVpgrw" x="2113.78" y="5323.96" text="cook: Silas, is it?"/>
+<topic id="198" parent="197" x="2237.78" y="5437.21" text="tilo: Silas, aye."/>
+<topic id="199" parent="198" x="2237.78" y="5558.21" text="cook: Somebody needs\Nto get him out of here\Nbefore there&apos;s trouble."/>
+<topic id="200" parent="199" guid="nEhMft2gU0y4Nwh8tegNKA" x="2110.78" y="5695.75" text="cook: Tell you what, my love--go find\Nout for me who wants what to eat...">
+<children>
+<image guid="ZhbOThgI9UGzWJftSD2Jrg" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-234.44" y="-13.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="ZhbOThgI9UGzWJftSD2Jrg" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-234.44" y="-13.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="201" parent="200" guid="wCSWZ0gTgU-MTsvzvkD9LQ" x="2110.78" y="5807.14" text="cook: ... and while you&apos;re taking\Nthe food out the tables..."/>
+<topic id="202" parent="201" guid="vg4dj7pE3ESF24MsGC-y5Q" x="2110.78" y="5943.75" text="cook: ... I&apos;ll do my best to whip up the\Ntonic. How does that sound?"/>
+<topic id="203" parent="197" x="1950.78" y="5437.21" text="tilo: What&apos;s happened,\Ndo you think?"/>
+<topic id="204" parent="203" guid="YQ5WMqYHLkuMKUnnvLHdrw" x="1950.78" y="5558.21" text="cook: No idea, but\NI&apos;ve never seen him\Nso far gone before."/>
+<topic id="205" parent="197" guid="cvC151U3oUmjCz8YXDsgKA" x="2423.78" y="5637.47" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="206" parent="25" guid="9467uFu6x0Ow1kgnX11z1w" x="3919.74" y="5142.63" text="tilo: Here, I have all\Nof the orders!">
+<parent-relation guid="sNyiaPpSuUq3Bly4WiqoPQ"/>
+<note>
+[reveal:quest_hangoverTonic.giveOrdersToCook=active][executeAction:activateFoodItems]
+</note>
+</topic>
+<topic id="207" parent="206" guid="pa2VfwgVeESxxME4_PLMcw" x="3919.74" y="5264.89" text="cook: Alright... we have a roast leg of\Nlizard for Private Flakh on table five...">
+<children>
+<image guid="3EBHw3DK0kGd65Xy6ZYyxA" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-231.25" y="-23.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="3EBHw3DK0kGd65Xy6ZYyxA" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-231.25" y="-23.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[executeAction:revealTrueName=character_guard_offDutyB][updateCounter:dialog_guard_offDutyB.metGuard_offDutyB=1]
+</note>
+</topic>
+<topic id="208" parent="207" guid="oemzfxg-GEGNe_hm4_UMOQ" x="3919.74" y="5379.06" text="cook: ... the special for\NPakov on table three...">
+<children>
+<image guid="DE6HWI3gf06YBjF7plIqJw" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-167.50" y="-2.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="DE6HWI3gf06YBjF7plIqJw" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-167.50" y="-2.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[executeAction:revealTrueName=character_guard_offDutyA][updateCounter:dialog_guard_offDutyA.metGuard_offDutyA=1]
+</note>
+</topic>
+<topic id="209" parent="208" guid="kMsu14xFmUemZThgBCnNCQ" x="3919.74" y="5505.72" text="cook: ... Vaelian trout for Bellar\NLarr, over on table one...">
+<children>
+<image guid="f-HIQ6qinU2cDQpzRSvSkg" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-195.00" y="12.27" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="f-HIQ6qinU2cDQpzRSvSkg" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-195.00" y="12.27" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="210" parent="209" guid="3UTYT0bIzUKnxVyP83uWxw" x="3919.74" y="5632.39" text="cook: ... and a wheel of\Ncheese for Silas.">
+<children>
+<image guid="KMGESxr-R0OKT-em1JuSww" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="131.25" y="-23.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="KMGESxr-R0OKT-em1JuSww" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="131.25" y="-23.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_hangoverTonic.giveOrdersToCook]
+</note>
+</topic>
+<topic id="211" parent="210" guid="At3wRR8_lk6_kJSRkbXTJQ" x="3680.91" y="5975.31" text="cook: Got it?">
+<note>
+[lockableThread:secondReadingOfOrders=true]
+</note>
+</topic>
+<topic id="212" parent="210" guid="46JYBoCNCkiO7qpsi_WyXw" x="4165.74" y="5975.31" text="cook: The cheese is\Nin the pantry there...">
+<note>
+[lockableThread:firstReadingOfOrders][lockThread:firstReadingOfOrders][unlockThread:secondReadingOfOrders]
+</note>
+</topic>
+<topic id="213" parent="212" guid="oChmtoRiL0OQys6tbbbb9Q" x="4165.74" y="6094.29" text="The cook hands you a key,\Ncovered with flour and grease.">
+<note>
+[narration][executeAction:receiveItem=key_kitchen]
+</note>
+</topic>
+<topic id="214" parent="213" guid="tNBDdlpn6UGaQYR5dna-YA" x="4165.74" y="6205.63" text="cook: ... you&apos;ll need this."/>
+<topic id="215" parent="214" guid="tqGJbzQG10m6vP4hvk2paQ" x="4165.74" y="6320.31" text="cook: Well go on! The food&apos;s\Nnot going to serve itself!">
+<parent-relation guid="EX4uHRcnykClwklXERQKVg"/>
+</topic>
+<topic id="216" parent="25" guid="J_HjWwDUs0mu5-PX-_Rrog" x="5274.74" y="4872.39" text="tilo: It&apos;s done! All of the food\Nhas been served!">
+<parent-relation guid="_B78QHJ_vEaiYMB9ftBFzg"/>
+<note>
+[reveal:quest_hangoverTonic.returnToCook=active][executeAction:activateSilasInCot]
+</note>
+</topic>
+<topic id="217" parent="216" guid="vmijHCV80ES30nPSm7UbVg" x="5274.74" y="5023.39" text="cook: Alright, here..."/>
+<topic id="218" parent="217" guid="K5AsGqChn0iSdmbzYLl_Zw" x="5274.74" y="5155.06" text="The cook gives you a small glass\Nbottle, filled with a green liquid and\Nstopped with a cork.">
+<note>
+[narration][executeAction:receiveItem=tonic_hangover]
+</note>
+</topic>
+<topic id="219" parent="218" guid="Rwe8sMXvh0STsPzwyvK4kw" x="5274.74" y="5281.02" text="cook: Give this to Silas. It&apos;ll\Nput him out for six hours or so..."/>
+<topic id="220" parent="219" guid="InwurYpxDkydalmjEedSgA" x="5274.74" y="5394.48" text="cook: ... but it should take the\Nedge off his hangover...">
+<parent-relation guid="h9f9Qi34t0mjrPgyrI632g"/>
+<note>
+[completeTask:quest_hangoverTonic.returnToCook]
+</note>
+</topic>
+<topic id="221" parent="220" guid="EXwYcRM-AEGZCyI9NWBoQQ" x="5274.74" y="5509.06" text="cook: ... if you can find him.">
+<note>
+[executeAction:activateCommander]
+</note>
+</topic>
+<topic id="222" parent="221" x="5101.40" y="5700.73" text="tilo: Excuse me?"/>
+<topic id="223" parent="222" guid="DxFgS6hDf0aW1iRbry7wMQ" x="5101.40" y="5894.06" text="cook: Well, look. Your\Nfriend, Silas--he&apos;s gone.">
+<children>
+<image guid="oc5KmaFFdk6jEdXou3aV8w" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-157.00" y="-52.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="oc5KmaFFdk6jEdXou3aV8w" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-157.00" y="-52.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="224" parent="221" guid="rS8o3DdzEkqgYJM_PF4SEg" x="5459.74" y="5700.73" text="tilo: I will, thank you!"/>
+<topic id="225" parent="224" guid="AgzCb-y85UqHmT4T_ZUowQ" x="5274.74" y="6189.73" text="cook: Come back and see me later--I\Nmight have another job for you!">
+<note>
+[lockableThread:defunctQuest=true]
+</note>
+</topic>
+<topic id="226" parent="25" guid="KuuZs3TONkqnzY0a8N-6aA" x="787.15" y="6599.78" text="tilo: Ouma, did you find a key,\Ndropped in the commissary?">
+<parent-relation guid="OHf6pPTnHUSuUC4dxgP-8A"/>
+<note>
+[lockableThread:smugglerKey][reveal:quest_findSmugglers.findSmugglerEKey=active]
+</note>
+</topic>
+<topic id="227" parent="226" guid="iBe18e_EO02aB9R6V8uNZQ" x="787.15" y="6752.28" text="cook: A key? Let&apos;s see... Oh! I\Ndid indeed. It&apos;s put away in\Nthe pantry for safe-keeping.">
+<note>
+[priorityOverride][reveal:quest_hangoverTonic=inactive|quest_hangoverTonic=complete][unlockThread:cooksSurpriseForTilo][lockThread:smugglerKey]
+</note>
+</topic>
+<topic id="228" parent="227" x="787.15" y="6907.28" text="cook: I had no idea it\Nwas yours, love."/>
+<topic id="229" parent="228" x="622.15" y="7119.78" text="tilo: It is, aye."/>
+<topic id="230" parent="229" guid="IgUrzYeN3kSgHwDUm3EZTA" x="622.15" y="7276.45" text="cook: I&apos;ll fetch it for you\Nwhen I&apos;m done here.">
+<note>
+[executeAction:activateFootlockerKey]
+</note>
+</topic>
+<topic id="231" parent="228" x="1004.65" y="7119.78" text="tilo: Mine? No, I&apos;m just\Ncollecting it for a friend."/>
+<topic id="232" parent="231" guid="PVmajTKtf0G3JOzMED3XOg" x="1004.65" y="7276.45" text="cook: That&apos;s kind of you,\Nmy love. I always thought\Nyou had a kind face."/>
+<topic id="233" parent="226" guid="hCiyiRrxGUS9WxFA6GcMHQ" x="1291.71" y="6907.28" text="cook: Oh, love! I&apos;m up to\Nmy eyes in dishes--can we\Ntalk about this later?">
+<parent-relation guid="yMx7y80WBEmZMhujfIrCAA"/>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="234" parent="226" guid="d2uMCQwQSUeJHhZlux28cQ" x="1611.15" y="6998.10" text="cook: Now&apos;s not the time, My\Nlovely--let me work.">
+<parent-relation guid="mC0Wi_jri0es6tHWoCtftw"/>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="235" parent="226" guid="W1El8yKIIkC-7B__eKxNYw" x="1925.82" y="6905.39" text="cook: Can&apos;t you see I&apos;m busy?!\NSorry, love, I&apos;ve tried being polite,\Nbut you just don&apos;t seem to get it!">
+<parent-relation guid="szR49nXL40u_RKumPkYlLA"/>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="236" parent="20" guid="G9Y4dae9SEeqK6l3ba-_Aw" x="2009.73" y="3542.41" text="cook: You may be a lot of\Nthings, but you&apos;re no ranger.">
+<parent-relation guid="2qesem7-tkSDDTvxCUbWdw"/>
+<note>
+[reveal:costume_ranger=true]
+</note>
+</topic>
+<topic id="237" parent="13" guid="5_s7C6KLwkCNUi3rCfBYlQ" x="2009.73" y="2663.63" text="tilo: &apos;Ouma&apos;?"/>
+<topic id="238" parent="237" guid="acKPOKwzhEWY06b5oh4EhQ" x="2009.73" y="2780.62" text="cook: Aye, we&apos;re one big family\Nhere at Dwindling Heights..."/>
+<topic id="239" parent="238" guid="Y3W_WxvYAUeypTiu9FulNg" x="2009.73" y="2888.48" text="cook: ... I&apos;m like a second mother to\Nthem all--Mouse and Rat alike."/>
+<topic id="240" parent="239" guid="lEjhpq7arEukrpF70mAbOA" x="2009.73" y="3002.35" text="cook: I think it&apos;s\Nthe cooking.">
+<parent-relation guid="0km87NY880-RK11-ArRD4A"/>
+<children>
+<image guid="TsJN3h7sRkGGL9dokr1hUQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="112.86" y="-25.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="TsJN3h7sRkGGL9dokr1hUQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="112.86" y="-25.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="241" parent="240" guid="H-aSGKfUxEOIy7ltZ3Neng" x="2009.73" y="3106.75" text="cook: Now, &apos;ranger&apos;, tell me...\Nwhat are you really doing here?">
+<parent-relation guid="jZF1-hnYnEmkhPsSijIkIw"/>
+<children>
+<image guid="BFIhYvZJ7EOQPICX3uXElg" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="178.57" y="-29.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="BFIhYvZJ7EOQPICX3uXElg" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="178.57" y="-29.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[reveal:costume_ranger=true]
+</note>
+</topic>
+<topic id="242" parent="241" guid="MTuckOnZTUa43VzojfKfzw" x="1838.90" y="3252.01" text="tilo: I-I don&apos;t know\Nwhat you mean...">
+<parent-relation guid="1-vHMBZN_E-CVHNVxB-eAA"/>
+</topic>
+<topic id="243" parent="242" guid="NgoUm1egFUehbGHG2QP21w" x="2009.73" y="3392.26" text="cook: A ranger\Nwith a lute?"/>
+<topic id="244" parent="241" guid="pW4erzSU5E6AYkjYth7tuQ" x="2206.90" y="3252.01" text="tilo: You doubt\Nmy word? Why?"/>
+<topic id="245" parent="240" guid="AZNlmqOl6kC6d0QsQBc__A" x="2445.15" y="3002.35" text="cook: But you&apos;re not here\Nto play for us, are you?">
+<note>
+[reveal:costume_guard=false;costume_ranger=false;costume_duinlan=false]
+</note>
+</topic>
+<topic id="246" parent="13" guid="O-X_xhfI4kWkwfBKS-R-Iw" x="898.40" y="3469.60" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="247" parent="9" guid="vr7CiLoKW0G9-wuDQHe9zg" x="1073.51" y="1722.69" text="tilo: Aye, I was just\Ntransferred here from Yuva."/>
+<topic id="248" parent="9" guid="_jRBtb5p0kuoanhdBQ_jcA" x="2186.09" y="2376.09" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="249" parent="2" guid="MqArjR14JE26bEMaUQeOCg" x="2233.94" y="1476.98" text="cook: Who&apos;s this? A minstrel?">
+<parent-relation guid="V92rO6Gu5E6SvChGEP_MYg"/>
+<children>
+<image guid="H0ekCV-eaUauvPheLu5IIQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="173.41" y="-11.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="H0ekCV-eaUauvPheLu5IIQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="173.41" y="-11.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:costume_guard=false;costume_ranger=false;costume_duinlan=false]
+</note>
+</topic>
+<topic id="250" parent="249" guid="NA1I-OarC0mE2NPkolMi6A" x="2233.94" y="1630.98" text="cook: I&apos;m afraid I wasn&apos;t expecting\Nyou--we only have entertainment\Nhere in the winter months."/>
+<topic id="251" parent="250" guid="NvjNb0OZYU6tbChVPrw-fQ" x="2039.44" y="1861.98" text="tilo: My name is\NTilo, Ma&apos;am."/>
+<topic id="252" parent="250" guid="EbZ32v7FM0SEosfnYR37fg" x="2412.44" y="1861.98" text="tilo: Oh! Then perhaps you would\Nwelcome a song, Ma&apos;am?"/>
+<topic id="253" parent="252" guid="KhgXdLtAlU2FwgZgFpiUuQ" x="2412.44" y="2011.98" text="cook: Oh, love! You make me\Nfeel like an old maid--&quot;Ma&apos;am&quot;!"/>
+<topic id="254" parent="0" guid="pO6dVS7rn0CptX0lm-ylGQ" x="1472.67" y="1202.00" palette="6" colorinfo="6" text="cook: Afternoon,\Nmy lovely...">
+<parent-relation guid="C8khlnmQtkaJfDUpG__HzA"/>
+<note>
+[reveal:timeOfDay=afternoon][variationIndex=1][lockableThread:firstIntroB][lockThread:firstIntroA;firstIntroB;firstIntroC]
+</note>
+</topic>
+<topic id="255" parent="0" guid="janlnbVbCUqdqlNdhLvE6Q" x="1748.67" y="1202.00" palette="7" colorinfo="7" text="cook: Good evening,\Nmy lovely...">
+<parent-relation guid="40b3SmJTsU2gOBH--j7iKw"/>
+<note>
+[reveal:timeOfDay=evening|timeOfDay=night][variationIndex=2][lockableThread:firstIntroC][lockThread:firstIntroA;firstIntroB;firstIntroC]
+</note>
+</topic>
+<topic id="256" parent="0" guid="hrDAGCz5CE2fTEKuqQ2ytw" x="2930.38" y="1026.97" palette="8" colorinfo="8" text="cook: Good morning,\N&apos;Private&apos;...">
+<parent-relation guid="DwZz4SxMS0eN98ize_Z9KA"/>
+<note>
+[variationIndex=7][reveal:timeOfDay=morning;costume_guard=true|costume_duinlan=true][unlockThread:whatsCooking;beeQuestActive;buyFood]
+</note>
+</topic>
+<topic id="257" parent="0" guid="bEGtTtzy_0qDujYuqZZ8Tw" x="3216.63" y="982.57" palette="2" colorinfo="2" text="cook: Good afternoon,\N&apos;Private&apos;...">
+<parent-relation guid="g6iAdsmeYEuctTYB8qHUOw"/>
+<note>
+[variationIndex=8][reveal:timeOfDay=afternoon;costume_guard=true|costume_duinlan=true][unlockThread:whatsCooking;beeQuestActive;buyFood]
+</note>
+</topic>
+<topic id="258" parent="0" guid="oTRX9EVu8kK9yFoSu4qEsg" x="3477.99" y="935.07" palette="3" colorinfo="3" text="cook: Good evening,\N&apos;Private&apos;...">
+<parent-relation guid="i8dyorjzPkSwGYzmZ0TSaw"/>
+<note>
+[variationIndex=9][reveal:timeOfDay=evening;costume_guard=true|costume_duinlan=true][unlockThread:whatsCooking;beeQuestActive;buyFood]
+</note>
+</topic>
+<topic id="259" parent="0" guid="G80t9TS1AUyfF7OqyFLCEQ" x="4500.33" y="769.71" palette="4" colorinfo="4" text="cook: You again! What is it\Nyou want, Mouse?">
+<children>
+<image name="742fc517e3dfe987807461d2704492634edb61ea" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</children>
+<images>
+<image name="742fc517e3dfe987807461d2704492634edb61ea" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=12][unlockThread:whatsCooking;beeQuestActive;buyFood]
+</note>
+</topic>
+<topic id="260" parent="0" guid="10FjJGeBSE-L_fbWoEIsWw" x="2698.55" y="1066.86" palette="2" colorinfo="2" text="cook: Oh! Don&apos;t\Nyou look fine!">
+<children>
+<image name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=6][unlockThread:whatsCooking;beeQuestActive;buyFood][reveal:costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="261" parent="0" guid="wpUK_-pWAkudOItfy0rZ8w" x="4141.32" y="824.47" palette="2" colorinfo="2" text="cook: Oh! You could do with\Nfattening up, my love--you&apos;re\Nlooking skinnier than ever!">
+<children>
+<image guid="1hRGOrtbdEyCGXVDvvebMw" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="-1.25" y="-100.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="1hRGOrtbdEyCGXVDvvebMw" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="-1.25" y="-100.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=11][unlockThread:whatsCooking;beeQuestActive;buyFood]
+</note>
+</topic>
+<topic id="262" parent="0" guid="q-ASB-eiw0CEQhCN7bdG6A" x="2131.72" y="1183.33" palette="3" colorinfo="3" text="cook: There he is!">
+<note>
+[variationIndex=4][unlockThread:whatsCooking;beeQuestActive;buyFood]
+</note>
+</topic>
+<topic id="263" parent="262" guid="TswSEaFduE6ZPcJvrhdEqA" x="3136.72" y="1630.98" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="264" parent="0" guid="VTWhemk20kOAfrJ3aWvKkg" x="2447.72" y="1150.00" palette="2" colorinfo="2" text="cook: There you are! I&apos;d been\Nwondering what had happened to you!">
+<note>
+[variationIndex=5][unlockThread:whatsCooking;beeQuestActive;buyFood]
+</note>
+</topic>
+<topic id="265" parent="0" guid="rDXuI_3YHkCt722G8QHK_A" x="3781.72" y="895.83" palette="3" colorinfo="3" text="cook: Where have you been? I\Nwas worried sick about you!">
+<children>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[variationIndex=10][unlockThread:whatsCooking;beeQuestActive;buyFood]
+</note>
+</topic>
+<topic id="266" parent="0" guid="Ky_q1EvFeE-_KcBhaADO4w" x="1981.28" y="1277.17" palette="4" colorinfo="4" text="cook: Well don&apos;t just stand\Nthere, my love--come in!">
+<note>
+[variationIndex=3][unlockThread:whatsCooking;beeQuestActive;buyFood][lockThread:reportToGuards]
+</note>
+</topic>
+<topic id="267" parent="0" guid="y_utMMcVZ021unAHoNkGVA" x="5808.44" y="200.92" palette="2" colorinfo="2" text="cook: Oh! love... you gave me such\Na fright! Where have you been?!">
+<parent-relation guid="-3A4u2n6dEGbu9p7QMlCRw">
+<path>
+<custom-point x="1589.35" y="-134.46"/>
+</path>
+</parent-relation>
+<children>
+<image guid="CxpvsBKv-km8mglHz5421Q" name="c6cb11c394d1b5e4219e8f5302758b91f1f1c337" x="192.50" y="-28.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="CxpvsBKv-km8mglHz5421Q" name="c6cb11c394d1b5e4219e8f5302758b91f1f1c337" x="192.50" y="-28.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_surprised.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][lockableThread:surpriseTheMaster][lockThread:surpriseTheMaster][reveal:quest_findTheMaster.findMastersEvidence=active|quest_findTheMaster.talkToCommander=active][unlockThread:whatsCooking;beeQuestActive;buyFood]
+</note>
+</topic>
+<topic id="268" parent="267" guid="uqffaal82U6YJUMf9qXejg" x="5985.61" y="480.50" text="tilo: You\Npoisoned me!"/>
+<topic id="269" parent="268" guid="YAV-0SwArkKC_8s9nN5D1Q" x="5985.61" y="637.38" text="cook: It&apos;s no slight against you,\Nmy lovely. I actually quite like you..."/>
+<topic id="270" parent="269" guid="tgnnfg425Uetd7ZfmLZqsw" x="5985.61" y="794.25" text="cook: ... but you&apos;re\Nbeing a nuisance.">
+<children>
+<image guid="HaVbfuku70SM67eDTleWmg" name="742fc517e3dfe987807461d2704492634edb61ea" x="126.50" y="-30.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="HaVbfuku70SM67eDTleWmg" name="742fc517e3dfe987807461d2704492634edb61ea" x="126.50" y="-30.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="271" parent="270" guid="CePrwazZiEGsNvB6SH13yg" x="6260.36" y="1115.50" text="tilo: ... I know that\Nyou&apos;re the Master."/>
+<topic id="272" parent="271" guid="vzG_d7NMd0O-SlIoZGJ_Xw" x="6007.04" y="1356.75" text="cook: That&apos;s a fine\Nstory, Minstrel... but\Nyou&apos;ve no proof.">
+<children>
+<image guid="kYVSycEDIUGVnXsAbyPCHQ" name="742fc517e3dfe987807461d2704492634edb61ea" x="129.00" y="-52.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="kYVSycEDIUGVnXsAbyPCHQ" name="742fc517e3dfe987807461d2704492634edb61ea" x="129.00" y="-52.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:quest_findTheMaster.findMastersEvidence=active]
+</note>
+</topic>
+<topic id="273" parent="271" guid="KtZg01tNd065khCnwVGlsg" x="6523.69" y="1356.75" text="cook: I would be very careful\Nwho you repeat that to, my love.">
+<children>
+<image guid="4DITnhDkNkirh2CJn3EtYQ" name="742fc517e3dfe987807461d2704492634edb61ea" x="194.17" y="-8.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="4DITnhDkNkirh2CJn3EtYQ" name="742fc517e3dfe987807461d2704492634edb61ea" x="194.17" y="-8.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:quest_findTheMaster.talkToCommander=active]
+</note>
+</topic>
+<topic id="274" parent="273" guid="xQzdJwABVkeYfdOulWMEcA" x="6523.69" y="1495.50" text="cook: I would hate for\Nanything to happen to you."/>
+<topic id="275" parent="270" guid="AmSY_DTZD0W_PomuLRkO1A" x="5668.11" y="1115.50" text="tilo: ... Then perhaps\NI should just go."/>
+<topic id="276" parent="275" guid="XDlM4ckuYEK28kdvB90hPw" x="5668.11" y="1356.75" text="cook: Aye, love. That\Nwould be for the best."/>
+<topic id="277" parent="276" guid="1Og4HFCpSkSqNztgKGBa-g" x="5668.11" y="1495.50" text="cook: Why don&apos;t we just stay\Nout of each other&apos;s way?">
+<parent-relation guid="4l2VaP-p00aJEvLBPhyw-w"/>
+<children>
+<image guid="Ig4lhA9axk-kY7DSWFKGFg" name="742fc517e3dfe987807461d2704492634edb61ea" x="-146.50" y="-44.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Ig4lhA9axk-kY7DSWFKGFg" name="742fc517e3dfe987807461d2704492634edb61ea" x="-146.50" y="-44.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="278" parent="267" guid="21pZ3SkvyEan-I9-nZIq_w" x="5495.20" y="354.67" text="tilo: Surprised to\Nsee me, Ouma?"/>
+<topic id="279" parent="278" guid="zjC1v-p5E020bORLv-Xqbw" x="5495.20" y="480.50" text="cook: Relieved--I&apos;ve been\Nworried sick about you, my love.">
+<children>
+<image guid="efdoz0qbxU2fBn3HH3KJjA" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="182.50" y="-28.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="efdoz0qbxU2fBn3HH3KJjA" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="182.50" y="-28.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="280" parent="279" guid="yQo9y1JCmUGphCZVMUklbw" x="5495.20" y="592.38" text="tilo: Are you really going to\Npretend nothing happened?"/>
+<topic id="281" parent="280" guid="XWPMsFK3pEqO69Lwgknfmg" x="5495.20" y="694.98" text="cook: Ha! Haha. No... no.">
+<children>
+<image guid="Ut_ktdzNcEiYkUa0Ag5wJg" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="166.00" y="-12.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="Ut_ktdzNcEiYkUa0Ag5wJg" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="166.00" y="-12.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="282" parent="281" guid="baTzH1hStUuXRz2uv4l6VA" x="5495.20" y="794.25" text="cook: It was foolish of\Nyou to come back. I hate\Nto tell you this, love...">
+<parent-relation guid="RKJAMXSxdkWPIhpqS7O3cw"/>
+</topic>
+<topic id="283" parent="267" guid="fOD1yk15V0Sp3xfdQR0d3g" x="6609.61" y="426.86" text="tilo: I... I woke up in the far tower.\NI have no idea how I got there..."/>
+<topic id="284" parent="283" guid="UF7qXNEWi0WLtNXm8CDNNA" x="6609.61" y="583.74" text="cook: The far tower? I\Nthought it was abandoned..."/>
+<topic id="285" parent="284" guid="yAZqR6ypfkqhlniLfAJclQ" x="6609.61" y="709.70" text="cook: You... really don&apos;t remember\Nwhat happened to you?"/>
+<topic id="286" parent="285" guid="rPTxwsPgNU6QEGGU39g9xw" x="6437.63" y="876.07" text="tilo: Nothing..."/>
+<topic id="287" parent="286" guid="7DaCTb6A2kWPtcLKbOvqnA" x="6609.61" y="1019.19" text="cook: Strange...">
+<children>
+<image guid="swGH7dCyNECizCJWO_vuiw" name="742fc517e3dfe987807461d2704492634edb61ea" x="118.50" y="-28.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="swGH7dCyNECizCJWO_vuiw" name="742fc517e3dfe987807461d2704492634edb61ea" x="118.50" y="-28.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="288" parent="287" guid="QFfEfYGYAESHpuEimaMZSQ" x="6609.61" y="1115.50" text="cook: Well, as long as you&apos;re alright,\Nmy love, I should get on.">
+<parent-relation guid="So0sY9QflEKlz0INUycPlg"/>
+<children>
+<image guid="3iNNlqjVwEyAp9cUp5CUDg" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="212.50" y="-24.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="3iNNlqjVwEyAp9cUp5CUDg" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="212.50" y="-24.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="289" parent="285" guid="nMpegy7eoE-FLhGIDZL4PA" x="6760.09" y="876.07" text="tilo: Just\Nfragments..."/>
+<topic id="290" parent="0" guid="X2y94v6XJ0CkxrrDRpnxnw" x="696.25" y="455.50" palette="2" colorinfo="2" text="cook: Hoy!">
+<children>
+<image guid="_zAWNm_BBU6kSx0_VOos8Q" name="c6cb11c394d1b5e4219e8f5302758b91f1f1c337" x="34.64" y="-73.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="_zAWNm_BBU6kSx0_VOos8Q" name="c6cb11c394d1b5e4219e8f5302758b91f1f1c337" x="34.64" y="-73.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_surprised.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:hasItemEquipped=hat_pumpkin]
+</note>
+</topic>
+<topic id="291" parent="290" guid="X-G1l85YvkqAam5m2UXnJA" x="180.50" y="753.75" text="cook: What have you\Ndone to my weevil decoy?!">
+<children>
+<image guid="YImx8v6wPUmPKrgGvlCIow" name="c6cb11c394d1b5e4219e8f5302758b91f1f1c337" x="34.64" y="-92.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="YImx8v6wPUmPKrgGvlCIow" name="c6cb11c394d1b5e4219e8f5302758b91f1f1c337" x="34.64" y="-92.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="292" parent="291" guid="wvawQIkbvkGagLIhe4cKig" x="180.50" y="911.25" text="cook: Get on with\Nyou, you great fool!">
+<children>
+<image guid="PiOvxitvzUWctMIk_h0K5A" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="134.38" y="-32.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="PiOvxitvzUWctMIk_h0K5A" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="134.38" y="-32.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="293" parent="290" guid="zl4mP0oMI02NtGbx_w8j9g" x="529.25" y="711.25" text="cook: Clear out--and get\Nthat thing off your head!">
+<children>
+<image guid="zSICamwC3EGEj8eml2t0qA" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="57.50" y="-88.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="zSICamwC3EGEj8eml2t0qA" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="57.50" y="-88.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_laughing.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="294" parent="290" guid="W0bhiL-j9UKSMnftSpHw3g" x="791.76" y="711.25" text="cook: Blasted\Nnuisance! Get away!">
+<children>
+<image guid="b1Jqrq_ZxEy7R7_-DIJFoQ" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="61.88" y="-89.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="b1Jqrq_ZxEy7R7_-DIJFoQ" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="61.88" y="-89.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_laughing.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="295" parent="290" guid="VPCTt39Qb0CdXadpRyNeig" x="1051.50" y="753.75" text="cook: Get out of my kitchen\Nwhat that nonsense--go on!">
+<children>
+<image guid="oB5q8IVEWEa5Wd9crpiybw" name="c6cb11c394d1b5e4219e8f5302758b91f1f1c337" x="99.00" y="-86.81" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="oB5q8IVEWEa5Wd9crpiybw" name="c6cb11c394d1b5e4219e8f5302758b91f1f1c337" x="99.00" y="-86.81" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="296" parent="0" guid="EgLDa0DWd0aWghyWZAkd_Q" x="4875.39" y="694.98" palette="2" colorinfo="2" text="cook: Ooh, love!\NWhat a fancy hat!">
+<children>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:counter.metCook=1;hasItemEquipped=hat_fancy][lockableThread:fancyHat][lockThread:fancyHat][unlockThread:whatsCooking;beeQuestActive;buyFood]
+</note>
+</topic>
+<topic id="297" parent="0" guid="zbF4errOp0OEIWpqizx7XQ" x="4973.87" y="838.01" palette="2" colorinfo="2" text="cook: My, my! Been snooping around\Nhave you, love? Eavesdropping?">
+<note>
+[priorityOverride][reveal:counter.dialog_faustus.enableBigEars=1;counter.metCook=1][lockableThread:hasBigEars][lockThread:hasBigEars][unlockThread:whatsCooking;beeQuestActive;buyFood]
+</note>
+</topic>
+<topic id="298" parent="297" guid="NS9QnIksK0qZWDB8lzaMXg" x="4728.61" y="1016.01" text="tilo: Sorry? What do\Nyou mean?"/>
+<topic id="299" parent="298" guid="CM09y1v2E0u70gjRsNLlFw" x="4728.61" y="1198.51" text="cook: &quot;Mind your business, or you&apos;ll get\Nbig ears.&quot; Did your ouma never warn you?"/>
+<topic id="300" parent="299" guid="du3mT37XDUqzc4j7UAdMag" x="4728.61" y="1317.12" text="tilo: Oh, aye. Ha!"/>
+<topic id="301" parent="300" guid="9N_DhHTh10qIHw2E3IceNQ" x="4728.61" y="1464.07" text="cook: You should be careful, love.\NSomeone might cut them off."/>
+<topic id="302" parent="297" guid="ZVvUKrt0eEaO7YolEkMNmQ" x="5201.01" y="1198.51" text="tilo: Oh, the ears? It was something\NFaustus gave me that did it."/>
+<topic id="303" parent="302" guid="WeaVI7onQU2VBMm-YuDA9Q" x="5201.01" y="1342.96" text="cook: Faustus...?"/>
+<topic id="304" parent="303" guid="UbbJELO71k6eNFJD-nkyqg" x="5201.01" y="1464.07" text="cook: ... Sorry,\Nlove--you&apos;ve lost me."/>
+<topic id="305" parent="-1" guid="vBErtjbqM0GvlAqJ0sR8jQ" x="1578.11" y="43.46" palette="1" colorinfo="1" text="rezzia"/>
+<topic id="306" parent="305" x="1190.53" y="347.21" palette="2" colorinfo="2" text="default">
+<children>
+<image guid="9SR823pxqEK8ZxXrbSwr6A" name="2f43288748b24b52adb10ab66c9627088e87b01f" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_default.png"/>
+</image>
+</children>
+<images>
+<image guid="9SR823pxqEK8ZxXrbSwr6A" name="2f43288748b24b52adb10ab66c9627088e87b01f" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="307" parent="305" x="1321.11" y="347.21" palette="3" colorinfo="3" text="insistent">
+<children>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</children>
+<images>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="308" parent="305" x="1447.36" y="347.21" palette="4" colorinfo="4" text="laughing">
+<children>
+<image name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_laughing.png"/>
+</image>
+</children>
+<images>
+<image name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="309" parent="305" x="1578.11" y="347.21" palette="5" colorinfo="5" text="nasty">
+<children>
+<image name="81d7aac0935c7b88f406c832ef852a8ee140c755" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_nasty.png"/>
+</image>
+</children>
+<images>
+<image name="81d7aac0935c7b88f406c832ef852a8ee140c755" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_nasty.png"/>
+</image>
+</images>
+</topic>
+<topic id="310" parent="305" x="1719.86" y="347.21" palette="6" colorinfo="6" text="smiling">
+<children>
+<image name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="311" parent="305" x="1887.61" y="347.21" palette="7" colorinfo="7" text="stern">
+<children>
+<image name="742fc517e3dfe987807461d2704492634edb61ea" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</children>
+<images>
+<image name="742fc517e3dfe987807461d2704492634edb61ea" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="312" parent="305" x="2038.32" y="347.21" palette="8" colorinfo="8" text="surprised">
+<children>
+<image name="c6cb11c394d1b5e4219e8f5302758b91f1f1c337" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="c6cb11c394d1b5e4219e8f5302758b91f1f1c337" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_cook_surprised.png"/>
+</image>
+</images>
+</topic>
+</topics>
+<relations>
+<relation source="157" target="155"/>
+<relation guid="8prJT2PjyUWicu3zSM9KoA" source="156" target="25"/>
+<relation guid="jT7pjpDYhkeMCCvMdyk0yw" source="158" target="25"/>
+<relation guid="TkWvzXGVkU-R5tKtqyuSpQ" source="202" target="25"/>
+<relation source="33" target="30"/>
+<relation source="32" target="31"/>
+<relation source="33" target="31"/>
+<relation source="31" target="208"/>
+<relation guid="eABY7EZQbUOiHDJbycjWCg" source="211" target="25"/>
+<relation source="204" target="199"/>
+<relation source="247" target="13"/>
+<relation source="17" target="20"/>
+<relation guid="FgLwXtZovkqadZFJ9De2GA" source="240" target="15"/>
+<relation source="254" target="2"/>
+<relation source="255" target="2"/>
+<relation guid="yd4N8qCh20SxcW1t_P638Q" source="7" target="13"/>
+<relation source="243" target="20"/>
+<relation source="244" target="243"/>
+<relation guid="uazCU8Wx90mY2kDJ_rw9bg" source="251" target="11"/>
+<relation source="253" target="13"/>
+<relation source="14" target="241"/>
+<relation source="14" target="245"/>
+<relation source="236" target="22"/>
+<relation source="245" target="22"/>
+<relation source="264" target="263"/>
+<relation source="260" target="263"/>
+<relation source="265" target="263"/>
+<relation source="261" target="263"/>
+<relation source="259" target="263"/>
+<relation guid="aNO8JYzJI0GJdRBuKCufZg" source="258" target="1"/>
+<relation source="266" target="263"/>
+<relation source="256" target="263"/>
+<relation source="257" target="263"/>
+<relation source="258" target="263"/>
+<relation source="223" target="225"/>
+<relation guid="gJ3WtpjOSku6fU_1U8CWuQ" source="169" target="166"/>
+<relation source="115" target="119"/>
+<relation guid="3iQSN6UnvkKD3XS5JWyAqg" source="110" target="119"/>
+<relation guid="xUkVEnn5lUSuoEgKlssarA" source="123" target="119"/>
+<relation source="263" target="25"/>
+<relation source="101" target="97"/>
+<relation source="99" target="98"/>
+<relation source="100" target="98"/>
+<relation source="101" target="98"/>
+<relation source="98" target="25"/>
+<relation source="69" target="64"/>
+<relation source="64" target="66"/>
+<relation source="69" target="66"/>
+<relation source="35" target="44"/>
+<relation guid="uegPeGCbp0KWpnQBVm1pvw" source="36" target="35"/>
+<relation source="66" target="85"/>
+<relation source="85" target="79"/>
+<relation source="83" target="80"/>
+<relation source="84" target="81"/>
+<relation source="83" target="81"/>
+<relation source="82" target="81"/>
+<relation source="81" target="44"/>
+<relation source="68" target="79"/>
+<relation source="54" target="85"/>
+<relation source="56" target="79"/>
+<relation source="58" target="85"/>
+<relation source="61" target="79"/>
+<relation source="50" target="85"/>
+<relation source="52" target="79"/>
+<relation source="71" target="85"/>
+<relation guid="7mQbLOgZN0uHN_Hez2Gpbg" source="74" target="79"/>
+<relation source="90" target="79"/>
+<relation source="87" target="85"/>
+<relation source="95" target="79"/>
+<relation guid="hfWfNe116kGn0tmf4NCF-A" source="92" target="85"/>
+<relation source="119" target="25"/>
+<relation source="185" target="174"/>
+<relation source="282" target="270"/>
+<relation guid="6uAjd-1u3EGgBU6ulKW0jg" source="274" target="277"/>
+<relation guid="feQvIhyn90-HzfisrYIS6g" source="272" target="277"/>
+<relation source="277" target="25"/>
+<relation source="279" target="268"/>
+<relation source="125" target="130"/>
+<relation source="127" target="130"/>
+<relation source="126" target="130"/>
+<relation source="136" target="130"/>
+<relation source="128" target="130"/>
+<relation source="135" target="130"/>
+<relation guid="F35nN9f07UCeZDl53WGlfA" source="140" target="144"/>
+<relation source="143" target="145"/>
+<relation source="147" target="148"/>
+<relation source="150" target="149"/>
+<relation source="147" target="149"/>
+<relation source="149" target="25"/>
+<relation source="188" target="193"/>
+<relation source="190" target="193"/>
+<relation source="189" target="193"/>
+<relation source="195" target="193"/>
+<relation source="191" target="193"/>
+<relation source="194" target="193"/>
+<relation source="8" target="13"/>
+<relation guid="TllNjutBlUCwzLFhOA7aXw" source="248" target="13"/>
+<relation guid="CAv7MYbS6UmntGAyn4ZwBQ" source="246" target="24"/>
+<relation source="205" target="202"/>
+<relation guid="0Zjaz7k2w0qfhjIXSr5OPg" source="186" target="180"/>
+<relation source="102" target="44"/>
+<relation source="36" target="44"/>
+<relation guid="ls5WPQqBykKsmQog98gs0Q" source="289" target="287"/>
+<relation guid="A9eyS61KG02Hi1ZKgfbAOg" source="288" target="25"/>
+<relation source="107" target="105"/>
+<relation source="106" target="105"/>
+<relation source="106" target="104"/>
+<relation source="105" target="98"/>
+<relation source="295" target="291"/>
+<relation source="3" target="248"/>
+<relation source="250" target="248"/>
+<relation source="151" target="180"/>
+<relation source="235" target="233"/>
+<relation source="153" target="25"/>
+<relation source="232" target="230"/>
+<relation guid="G2dC36r1xkuPTEj-REuAnA" source="230" target="25"/>
+<relation source="155" target="25"/>
+<relation source="161" target="25"/>
+<relation source="177" target="180"/>
+<relation source="296" target="263"/>
+<relation guid="DmflxOo-IE6HzK--LqUCbQ" source="132" target="25"/>
+<relation guid="im96f1FP1UyYXpc0eEujOQ" source="134" target="25"/>
+<relation source="233" target="119"/>
+<relation source="234" target="119"/>
+<relation source="235" target="119"/>
+<relation guid="IibCTCKIdUunubammDKWYw" source="145" target="25"/>
+<relation source="3" target="251"/>
+<relation source="5" target="251"/>
+<relation source="46" target="98"/>
+<relation source="47" target="98"/>
+<relation source="48" target="98"/>
+<relation source="48" target="46"/>
+<relation guid="_tQiJ3EgVka3oXyQIm-4Bg" source="301" target="263"/>
+<relation source="299" target="302"/>
+<relation source="304" target="263"/>
+</relations>
+<stylesheet>
+<general description="quest_style" timestamp="2014-10-28+11:16:41" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<cross-links line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

@@ -1,0 +1,678 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Seith</Author>
+  <LastAuthor>Paul</LastAuthor>
+  <Created>2014-02-06T22:34:15Z</Created>
+  <LastSaved>2018-01-04T20:30:37Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>3</Index>
+    <RGB>#0084D1</RGB>
+   </Color>
+   <Color>
+    <Index>4</Index>
+    <RGB>#C0C0C0</RGB>
+   </Color>
+   <Color>
+    <Index>5</Index>
+    <RGB>#FF0000</RGB>
+   </Color>
+   <Color>
+    <Index>6</Index>
+    <RGB>#FF950E</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11415</WindowHeight>
+  <WindowWidth>26610</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <TabRatio>237</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Default">
+  </Style>
+  <Style ss:ID="s64" ss:Parent="s62">
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s65" ss:Parent="s62">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF6600"
+    ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s66" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s67" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s71" ss:Parent="s62">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s72" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#0066CC" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s73" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#0066CC" ss:Bold="1"/>
+   <Interior ss:Color="#9BC2E6" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s75" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s77" ss:Parent="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s78" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#548235" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s80" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s82" ss:Parent="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s84" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s86" ss:Parent="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s87" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s88">
+   <Alignment ss:Vertical="Bottom"/>
+   <Interior/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Items">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="89" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s64" ss:DefaultColumnWidth="60"
+   ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="203.25"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="186.75"/>
+   <Column ss:StyleID="s67" ss:AutoFitWidth="0" ss:Width="294.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s71">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">XML_id</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">displayName</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">shortDescription</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_acquired</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You have acquired: &lt;item&gt;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_allLanternsAreEmpty</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">All of your lanterns are empty!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s82">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_bannerIsAttached</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">The banner is hooked onto the cauldron of the dying light.;The banner is now attached to the dying light.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_beehiveEmpty</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">This beehive has been abandoned.;This beehive is empty.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_beetleGoesBackToSilas</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">The beetle flies back to Silas.;The skapp heads off in the direction of the watchtower.;The skappbeetle flies away in search of its master.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_burnFirstBanner</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">The banner of the Red Paw&#45;-the symbol of an oppressive regime!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_burningBannersIsForbidden</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">This is too risky…;You can't burn banners while you're being watched!;It's not safe to burn a banner right now...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_candlestickIsEmpty</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">No candles left!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_candlestickIsRefilled</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You put a new candle on your candlestick!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_candlestickNotEmpty</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Your candlestick already has a candle!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_cantCarryAnymoreCandles</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You can't carry any more candles!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_cantCarryAnymoreTool</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You can't carry any more tools of this type!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_cantChangeClothesWhileChased</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You can't change clothes while you're being chased!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_cantChangeClothesWithNPC</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You can't change clothes while you're near someone!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_cantChangeClothesInCommandersOffice</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">It would be unwise to remove your armour in the Commander's quarters.;Removing your armour in the Commander's quarters would be a mistake.;You should keep your armour on while in the Commander's quarters.;Undressing in the Commander's quarters?! Have you no shame?!!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_cantDropInElevator</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You can't drop this item in an elevator!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_cantDropInTheAir</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Find a flat surface to put down this item!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_cantPickLock</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You can't pick this lock!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_cantPlayLuteWithArmor</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You can't play the lute while wearing armour!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_cantSleepWhileAttacked</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You can't sleep while under attack!;No time to rest, you're in danger!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_cantSleepYet</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">There's no time to sleep!;You don't feel tired.;You can sleep once you're safe!;Maybe later.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_cantSwim</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You can't swim!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_cantUnequip</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You can't unequip your &lt;item&gt;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_dyingLightDoesntBurn</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">The eerie flame is quite cool to the touch.;You feel the cold flutter of the dying light's flames.&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_dontHaveAnyLanternToRefill</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">You have no lantern to refill.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_dontHaveMap</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">You don't have a map of your current location!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_elevatorIsAlreadyAtBottom</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">The elevator is already at the bottom!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_elevatorIsAlreadyAtTop</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">The elevator is already at the top!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_elevatorIsAlreadyHere</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">The elevator is already here!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_elevatorIsOnItsWay</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">The elevator is already on its way!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_emptyContainer</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">This is empty.;Nothing inside!;You didn't find anything useful here.;There's nothing interesting in there.;Nothing in there.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_emptyContainerRemains</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">These remains have long since been stripped of any riches.;You find nothing of value among these bones.;Some thief has been here before you.;This body has already been looted of its treasures.;Nothing but bones...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_figurinesSilas</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">No Mouse would ever willingly entrust their lutkas to a Rat…</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_finalBattle</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Something tells you that once you go through there's no way back.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_finalBattleIsOver</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">The skeletal creatures crumble and fall. The battle is over...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_findAClearSpot</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Find a vacant spot to put down this item!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_foundObolA</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Obol A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_foundObolB</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Obol B</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_foundObolC</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Obol C</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_gameAutoSaved</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Autosave done!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_gameSaved</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Game saved!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_GamescomScrollsQuest</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;#99FF00FF&gt;Open for Gamescom!&lt;/color&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_grabStruggle</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">&lt;#FFD700FF&gt;Escape the guard's grasp!&lt;/color&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_hideIsForbidden</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;#FFD700FF&gt;Your assailant can still see you!&#10;Give him the slip before trying to hide.&lt;/color&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_hideTutorial</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Keep a look out for places to hide...&#10;&lt;#00AAFF&gt;Hold Right Trigger and press B Button to hide.&lt;/color&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_hornetsNest</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">A swarm of angry hornets assaults you!;You've disturbed a hornets' nest!;Hornets attack!;Beware the hornets' wrath!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_inspectDiscoverItem</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">There was something inside!;You found an item when you looked inside!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_inspectDiscoverMoney</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">You found some florins inside!;There were some florins inside!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_inspectDiscoverNothing</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">You searched inside but found nothing.;Disappointing&#45;-there was nothing inside!;You looked thoroughly within but no dice.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_interactionTutorial</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;#00AAFFFF&gt;Press B button to interact.&lt;/color&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_itemRequiresCandlestick</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">You need the candlestick for that.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_keyOnGuard</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">One of the guards must have the key.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_keyOutOfReach</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">The key is right above you, just out of reach.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_lanternAlreadyFilled</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Your lantern has already been filled up!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_lanternIsEmpty</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Your lantern is empty!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_lanternIsRefilled</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Your lantern is now refilled!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_lanternsAlreadyFilled</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Your lanterns are already full!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_lanternsAreRefilled</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">All of your lanterns are full!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_locked</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">It's locked! You need the </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_locked_old</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">It's locked!;You need a key for that!;Without a key it's hopeless!;If only you had the key!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_lookLikeDuinlan</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">In this armour you could be mistaken for a hero of legend.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_lookLikeGuard</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Now you look like a scrawny Rat recruit!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_lookLikeKing</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Hail the noble king of old!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_lookLikeMinstrel</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">You're in your own minstrel garb again.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_lookLikePirate</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">The resemblance to the infamous Captain Powderkeg is striking!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_lookLikeRanger</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">You're a dead ringer for a ranger!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_lookLikeThief</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">You're the spitting image of Tulong the Thief!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_needLight</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">It's really dark in here…;You need a source of light!;It's hard to see anything in this place...;Only darkness... You can't see a thing.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_newFlowerBookPage</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">A new page has been added to your flower book…</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_openedFinalChest</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"> Oh, what have you done…?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_perceptionAlreadyInEffect</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">The Red Mist already has you in its grip! </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_perceptionNotEnoughStamina</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You don't have stamina enough to summon the Red Mist!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_pickedLock</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You picked the lock!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_pickpocketingIsForbidden</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">This is too risky…;You can't steal from somebody while they're watching you!;You can't pickpocket items while you're in plain sight.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_pressurePlateNotHeavyEnough</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">You're not heavy enough to trigger this mechanism.;These gates were designed for larger, heavier creatures to pass through...;These halls were once patrolled by Rats in full armour...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s77">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_refillingBeehives</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">From now on the beehives will produce honey every forty-eight hours.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_silasHasAwaken</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Silas should have awoken by now…</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_sneakTutorial</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Tread lightly and try not to wake the guard…&#10;&lt;#00AAFFFF&gt;Hold Right Trigger to sneak.&lt;/color&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_snuffOutVotiveCandles</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">An ill wind blows, snuffing out the obelisk candles...;Once more the wind extinguishes the candles. &quot;The dead are watching,&quot; you whisper.;The candles flicker, and die. The wind is a warning, to honour the dead in the order that they fell.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_sprintTutorial</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;#00AAFFFF&gt;Hold Left Trigger while moving to sprint.&lt;/color&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_stickTutorial</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">That’s a fine stick!&#10;[00AAFF]Press X Button to throw.[-]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_timer_finalBattle1stBrisance</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Detonate a brisance cask near the chest!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_timer_leakingStill</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Plug all of the still's leaks.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_undroppableItem</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">You can't drop your &lt;item&gt;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_unequipBeforeDropping</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">You must unequip the item before dropping it!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_uninteresting</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Nothing about this item strikes you as unusual.;You examine the item but find nothing of interest.;You notice nothing remarkable about this item.;You find nothing interesting about this item.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_usedItem</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">You used the &lt;item&gt;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s86">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">prompt_useDpad</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;#00AAFFFF&gt;Tap D-Pad to equip or stow items.&lt;/color&gt;</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.4921259845"/>
+    <Footer x:Margin="0.4921259845"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>4</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>2</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>16</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <x:WorksheetOptions/>
+ </Worksheet>
+</Workbook>

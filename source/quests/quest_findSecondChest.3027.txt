@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="D14B06A13B87428B82A6713566F9F9FB"/>
+<title text="quest_findSecondChest" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="80" x="310" y="354"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="dqgdT0XmcEa8CmEzMeDCEA" x="878.82" y="561.37" palette="2" colorinfo="2" text="Ring &amp; Remembrance">
+<note>
+[mainQuest]version_01-16-18_002-Added renown on final node at tier 3 (temp)version_07-11-17_001-First draft
+</note>
+</topic>
+<topic id="1" parent="0" guid="ekRI3EImBk6-4bIwJB3GGw" x="1378.32" y="561.37" palette="8" colorinfo="8" text="There was no ring amongst the tomb&apos;s treasures.\NSilas would have you find it. Duinlan knows more."/>
+<topic id="2" parent="0" guid="Kogv5bjL4kmGY4Nlupjs0w" x="878.82" y="694.49" palette="6" colorinfo="6" text="Meet Duinlan in the bell tower.">
+<parent-relation guid="J6DsIUhkEky193oB0SQ7kg"/>
+<note>
+[taskName=talkToDuinlanA]
+</note>
+</topic>
+<topic id="3" parent="2" guid="YUFGmIJ1kkyP4ZNoJHPXow" x="1378.32" y="694.49" palette="8" colorinfo="8" text="Search the forest for the grave of Duinlan&apos;s\Nlove. His name might spark her memory."/>
+<topic id="4" parent="2" guid="EsrPvsJrtk2xI5VbKdIYYw" x="878.82" y="856.89" palette="4" colorinfo="4" text="Find the name\Nof Duinlan&apos;s love.">
+<note>
+[taskName=findTrueLovesName]
+</note>
+</topic>
+<topic id="5" parent="4" guid="UAgg4YyEDUqLtS-eX9RarA" x="878.82" y="1016.53" palette="4" colorinfo="4" text="Meet Duinlan at the\Narmoury stairwell.">
+<parent-relation guid="jeMd98URb0iXCRJNROXWMA"/>
+<note>
+[taskName=talkToDuinlanB]
+</note>
+</topic>
+<topic id="6" parent="5" guid="F8AlZrQfAEq1dkLP62c9LA" x="1378.32" y="1016.53" palette="8" colorinfo="8" text="The ring and its thief lie beneath a rock\Nfall. An explosion might clear the rubble..."/>
+<topic id="7" parent="5" guid="Vz2stKVFEEmE-vWfqsK2ww" x="878.82" y="1185.85" palette="6" colorinfo="6" text="Clear rubble from\Nthe armoury stairwell.">
+<parent-relation guid="GoVeV2-J9k-sO7IoprOxMA"/>
+<note>
+[taskName=clearRubble]
+</note>
+</topic>
+<topic id="8" parent="7" guid="nGN5mZOWdU-Apgeqr1uWYw" x="878.82" y="1367.27" palette="4" colorinfo="4" text="Retrieve the ring.">
+<note>
+[taskName=getChest]
+</note>
+</topic>
+<topic id="9" parent="8" guid="W_-eLREb3UOuaYUxuoV5yA" x="878.82" y="1520.13" palette="2" colorinfo="2" text="Return to Silas.">
+<note>
+[taskName=talkToSilas][grantRenown=3]
+</note>
+</topic>
+<topic id="10" parent="9" guid="dxmb5RHJbkWd2gOGjOMhgg" x="1386.40" y="1520.13" palette="8" colorinfo="8" text="You presented Silas with the ring."/>
+<topic id="11" parent="8" guid="pdkoLWcVqka1HTFYiiOhLQ" x="1386.40" y="1367.27" palette="8" colorinfo="8" text="You retrieved the ring from\Nbeneath the rock fall."/>
+<topic id="12" parent="7" guid="nnGinZwO5kGWobzLTxrnQQ" x="1385.54" y="1185.85" palette="8" colorinfo="8" text="You cleared away the rock fall, revealing\Nthe gateway to the northern slopes."/>
+<topic id="13" parent="4" guid="9JQU_V9MvUmVQ45mosrrsQ" x="1378.32" y="856.89" palette="8" colorinfo="8" text="Her love&apos;s name sparked Duinlan&apos;s memory.\NThe ring was taken by a thief. He did not get far..."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

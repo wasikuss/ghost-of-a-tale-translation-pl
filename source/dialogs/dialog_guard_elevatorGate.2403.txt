@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.2" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="5C4B5A58BD574D82AB887C36C84651A9"/>
+<title text="dialog_guard_elevatorGate" customized="True"/>
+<images containsImages="True"/>
+<style key="quest_style"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="70" x="1098" y="279"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="VYyoyXBmSUOmavItMBQCNg" x="1598.35" y="796.43" palette="4" colorinfo="4" text="dialog_guard_elevatorGate">
+<note>
+[characters:guard_elevatorGate;Tilo]version_04-15-18_009Added nodes and actions to address if Tilo is promoted to sergeant.version_03-03-18_008-Added portraitsversion_02-24-18_007-Added conditions to deal with Duinlan&apos;s armourversion_11-08-17_006-Restructured to incorporate a hub-Restructured to force Tilo to visit the Commander before he goesversion_07-20-16_005-Updated name of &apos;paper_manuscript_ordersLowerKeep&apos; to make it readableversion_07-05-16_004Modified the guard&apos;s response to Tilo presenting the commander&apos;s ordersversion_06-04-16_003-Added instructions to lock out all other questions about where Tilo is to references of Dwinding Heights.version_03-02-16_002Removed all non-standard apostrophesversion_110716_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="4YQOoyH2o0iU52sPmV34sQ" x="377.80" y="1170.75" palette="4" colorinfo="4" text="guard_elevatorGate: Halt!">
+<children>
+<image guid="emjR-U-bc06KAM_IMjmzOA" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="7.78" y="-60.74" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="emjR-U-bc06KAM_IMjmzOA" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="7.78" y="-60.74" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][reveal:costume_guard=true;quest_mysteryOfDuinlansTomb=inactive|quest_mysteryOfDuinlansTomb.talkToSquadCommander=inactive]
+</note>
+</topic>
+<topic id="2" parent="1" guid="x32nT9nR_UazwVJ1-cRgRA" x="377.80" y="1269.56" text="guard_elevatorGate: The\Nlower keep and harbour are\Nclosed. Commander&apos;s orders."/>
+<topic id="3" parent="2" guid="PfutLl0CcEikOk85X12mTg" x="1410.48" y="1777.63" text="DIALOGUE_HUB_A">
+<parent-relation guid="rLBC9zQYAU6F8SQIHYSxDg"/>
+</topic>
+<topic id="4" parent="3" guid="t-HQLUPjR0u6wWHkWsrjuw" x="1554.88" y="1872.47" text="DIALOGUE_HUB_B">
+<parent-relation guid="l-D522MLH0S57AtEPpaKbQ"/>
+</topic>
+<topic id="5" parent="4" guid="eA2D-HmG_0OnhSAOyFIeYg" x="2033.92" y="2198.31" text="tilo: Here--I have orders to join\Nthe squad in the catacombs.">
+<parent-relation guid="fpisURsvCUSbmF72lVJIMQ"/>
+<note>
+[reveal:hasItem=paper_manuscript_ordersLowerKeep*1]
+</note>
+</topic>
+<topic id="6" parent="5" guid="LXnsFKUZJUis6UV9W-YxIw" x="2033.92" y="2284.10" text="guard_elevatorGate: ..."/>
+<topic id="7" parent="6" guid="6qEfgRgqVUuncexzBqbF2w" x="1711.82" y="2478.52" text="guard_elevatorGate:\NCommander wants to see you\Nbefore you go, Scow--his office.">
+<parent-relation guid="ym52bWmt-ka3WHA3anqMWw"/>
+<children>
+<image guid="11ISTZa-ZUGaFFbx_Pg7yg" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-95.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="11ISTZa-ZUGaFFbx_Pg7yg" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-95.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[lockThread:FirstFarewell][variationIndex=0]
+</note>
+</topic>
+<topic id="8" parent="6" guid="NQ9S6_aW3UeCGgTB92NY-g" x="2025.74" y="2403.90" text="guard_elevatorGate:\NCommander&apos;s waiting\Nfor you, Scow...">
+<parent-relation guid="8USgmc2LlEmGZuXwpnoLyA"/>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="9" parent="6" guid="ybF914ZbdkazmHh1Q4AdGQ" x="2340.70" y="2478.52" text="guard_elevatorGate: I&apos;m not\Nletting you through until you&apos;ve\Nspoken to the Commander.">
+<parent-relation guid="PFIC_jJmpEaasiI8pIkmfw"/>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="10" parent="6" guid="rYQi_JsPCUu0VmyxeoJ4tQ" x="2822.13" y="2328.76" text="guard_elevatorGate: ... This all\Nseems to be in order.">
+<parent-relation guid="hBXN2uMAVEy8uW2fHI2wRg"/>
+<note>
+[priorityOverride][reveal:counter.dialog_commander.metCommander=1]
+</note>
+</topic>
+<topic id="11" parent="10" guid="4s6u5itW7U6clMSP2bkjvw" x="2822.13" y="2478.52" text="guard_elevatorGate: OPEN THE GATE!">
+<children>
+<image guid="Qq7eoISXuk65GHWjHmcD8g" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="187.14" y="-58.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="Qq7eoISXuk65GHWjHmcD8g" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="187.14" y="-58.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+<note>
+[executeAction:openElevatorCorridorDoor;playSound=westGateOpens]
+</note>
+</topic>
+<topic id="12" parent="11" guid="uc4cm8XmHUaOlgeoYfTitA" x="2822.13" y="2572.79" text="guard_elevatorGate: Best of\Nluck down there, Scow. Get one for me.">
+<note>
+[executeAction:giveItem=paper_manuscript_ordersLowerKeep][completeTask:quest_mysteryOfDuinlansTomb.goToWestGate]
+</note>
+</topic>
+<topic id="13" parent="4" guid="BXSVpBepqE6IlPNE4dv80Q" x="550.28" y="2988.52" text="tilo: &quot;The termites&apos; lair spreads far, unseen...&quot;">
+<parent-relation guid="I4KWqqCbrk-clBygpBLVEw"/>
+<note>
+[lockableThread:masterAndSmugglers][lockThread:masterAndSmugglers][reveal:quest_findSmugglers.findSmugglerC=active|quest_findSmugglers.findSmugglerE=active|quest_findSmugglers.findSmugglerF=active]
+</note>
+</topic>
+<topic id="14" parent="13" guid="JmiDKS3KxkCu26DXgg8lfg" x="550.28" y="3171.36" text="guard_elevatorGate: &quot;... And at its centre\Ndwells the queen.&quot;">
+<children>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="15" parent="14" guid="KZgJVMR7l02hT6R3W3XQSw" x="546.88" y="3419.14" text="guard_elevatorGate: ... I didn&apos;t realize you\Nwere one of us, Scow.">
+<children>
+<image guid="bgiyKNjHnkSMzoER2N-qDg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.39" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="bgiyKNjHnkSMzoER2N-qDg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.39" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.dialog_guard_mainGate.askAboutSmugglers=1]
+</note>
+</topic>
+<topic id="16" parent="15" guid="JtPLRQP57067s6YuNZ4lkg" x="546.88" y="3619.97" text="guard_elevatorGate: What is it you need?">
+<children>
+<image guid="DxIRpamixEOpiMKmitNSSg" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="167.50" y="-75.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="DxIRpamixEOpiMKmitNSSg" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="167.50" y="-75.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="17" parent="16" x="396.88" y="3742.88" text="tilo: I need the key for\Nyour footlocker."/>
+<topic id="18" parent="17" guid="srONpm4EpUuC8ZZks68JlA" x="396.88" y="3994.06" text="guard_elevatorGate:\NAlready?! It feels like\Nit&apos;s been only a few\Nweeks since the last\Npick-up.">
+<children>
+<image guid="xeZslu_RGkeSs5tqRhuj5A" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-2.50" y="-107.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="xeZslu_RGkeSs5tqRhuj5A" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-2.50" y="-107.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.dialog_guard_mainGate.askAboutSmugglers=1]
+</note>
+</topic>
+<topic id="19" parent="18" guid="rOf0eNpYdEaurRheMBWFYA" x="392.72" y="4122.01" text="guard_elevatorGate: *SIGH* ...\NAlright, here."/>
+<topic id="20" parent="19" guid="z6XIVbibp0qvRo7K4EDB4g" x="392.72" y="4247.70" text="The Rat slips\Nyou his key.">
+<note>
+[narration][executeAction:receiveItem=key_footlocker_smugglerF]
+</note>
+</topic>
+<topic id="21" parent="20" guid="Uw1SWILw606jVDYH1WxUVA" x="392.72" y="4372.85" text="guard_elevatorGate: Tell the Master I&apos;ll make\Nup the shortfall next month.">
+<note>
+[updateCounter:dialog_guard_mainGate.askAboutSmugglers=2][completeTask:quest_findSmugglers.findSmugglerF]
+</note>
+</topic>
+<topic id="22" parent="16" x="661.99" y="3742.88" text="tilo: &quot;The Master\Nwants his tythe.&quot;"/>
+<topic id="23" parent="22" guid="Ym089W6pgU-a8GDK-zo1rw" x="661.99" y="3994.06" text="guard_elevatorGate:\NExactly...">
+<note>
+[reveal:counter.dialog_guard_mainGate.askAboutSmugglers=2]
+</note>
+</topic>
+<topic id="24" parent="14" guid="a5dEVoJ4OU6L1zBfEfQtCg" x="14.91" y="3488.40" text="guard_elevatorGate: Scow? I&apos;m surprised...">
+<children>
+<image guid="8Nll0-JaEkWYGy-EBtXePw" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="7.50" y="-74.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="8Nll0-JaEkWYGy-EBtXePw" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="7.50" y="-74.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.dialog_guard_mainGate.askAboutSmugglers=0]
+</note>
+</topic>
+<topic id="25" parent="24" guid="KglcXUnhjEG7FxXQkFH1wA" x="14.91" y="3652.92" text="guard_elevatorGate: I suppose the Master\Nwants his tythe. Here..."/>
+<topic id="26" parent="25" guid="uOx-xXkuAkuWa4CPZEqifg" x="14.91" y="3831.92" text="The Rat presses something\Ninto your paw--a small key.">
+<note>
+[narration][executeAction:receiveItem=key_footlocker_smugglerC]
+</note>
+</topic>
+<topic id="27" parent="26" guid="zUnOms3C4kC9H4lBa9XVGA" x="14.91" y="4002.62" text="guard_elevatorGate:  I&apos;ve left it\Nin the same place as\Nusual--my footlocker.">
+<note>
+[updateCounter:dialog_guard_mainGate.askAboutSmugglers=1][completeTask:quest_findSmugglers.findSmugglerC]
+</note>
+</topic>
+<topic id="28" parent="14" guid="EkVy_UfrA0SoOQS95Dpwpw" x="1012.92" y="3492.47" text="guard_elevatorGate: Private\NScow... so you&apos;re the new recruit.">
+<parent-relation guid="iPK8VhU9FEWsq0lBA2XKVg"/>
+<children>
+<image guid="yoLawzVplUaLRAe7lSvmVA" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="5.00" y="-73.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="yoLawzVplUaLRAe7lSvmVA" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="5.00" y="-73.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.dialog_guard_mainGate.askAboutSmugglers=2]
+</note>
+</topic>
+<topic id="29" parent="28" guid="ofBJGhvUqUihOFhO5VJLRg" x="1012.92" y="3742.88" text="guard_elevatorGate: Listen, I&apos;ve lost\Nmy footlocker key. Dropped it in the\Ncommissary, I think."/>
+<topic id="30" parent="29" guid="-i8R1Y6qlEqv3LcTRjatcw" x="1012.92" y="3862.46" text="guard_elevatorGate: I&apos;m hoping the\Ncook has just put it aside somewhere."/>
+<topic id="31" parent="30" guid="m9V8n4VtT0ODAcZPclMQqQ" x="1012.92" y="3980.17" text="guard_elevatorGate: If it falls into\Nthe Commander&apos;s hands, or if the\NMaster finds out, well...">
+<children>
+<image guid="gTEdz3PTMki15gwGJGhs9w" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="207.50" y="42.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="gTEdz3PTMki15gwGJGhs9w" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="207.50" y="42.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+</topic>
+<topic id="32" parent="31" x="1012.92" y="4113.20" text="tilo: Don&apos;t worry, I&apos;ll\Nfind it for you."/>
+<topic id="33" parent="32" guid="osZGig-wxEqoiklyPYqhIQ" x="1012.92" y="4241.20" text="guard_elevatorGate: If you can get me\Nthat key, I&apos;ll be grateful.">
+<note>
+[completeTask:quest_findSmugglers.findSmugglerE]
+</note>
+</topic>
+<topic id="34" parent="4" guid="sIdniGcNs0uxnNqOkP-Pfg" x="2996.69" y="2791.95" text="tilo: I have some\Nquestions, about the Jailer.">
+<parent-relation guid="uzpl_f12CEugnKF7qQcUuA"/>
+<note>
+[lockableThread:findJailer][reveal:quest_findJailer.talkToCommander=inactive;counter.jailerQuestions&lt;4][counter:jailerQuestions=0]
+</note>
+</topic>
+<topic id="35" parent="34" guid="joO6Nl2orECYZIrBX37xzg" x="2691.80" y="2992.87" text="guard_elevatorGate: Oh?\NWhat kind of questions?">
+<children>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="36" parent="35" guid="08NH1HPTK0uIxrE4TswNZA" x="2996.69" y="3187.00" text="DIALOGUE_HUB">
+<parent-relation guid="LbJV31YKMke6QiArZh-6Mg"/>
+</topic>
+<topic id="37" parent="36" guid="ax5pyK7KmEeap5OcvilY4w" x="3374.37" y="3337.08" text="tilo: He spends a lot of\Ntime in the harbour?">
+<parent-relation guid="6OQVD6qrD0OFrWpkXZoAfw"/>
+<note>
+[lockableThread:jailerQuestionD=true][lockThread:jailerQuestionD][updateCounter:jailerQuestions+1]
+</note>
+</topic>
+<topic id="38" parent="37" guid="OIQidYgU30K8OtaFWA8PKw" x="3374.37" y="3488.72" text="guard_elevatorGate: Most\Nprisoners are brought in by boat.\NHe&apos;s often there to meet them."/>
+<topic id="39" parent="36" guid="YOkaoufdbky1ZOqjjp_Mmg" x="2672.68" y="3310.72" text="tilo: The night the Jailer\Ndisappeared--you were here?">
+<parent-relation guid="lj5xfgKdu0epL6OiID54zw"/>
+<note>
+[lockableThread:jailerQuestionA][lockThread:jailerQuestionA][updateCounter:jailerQuestions+1]
+</note>
+</topic>
+<topic id="40" parent="39" guid="foxwk7zCXUmRko2K1xlvvQ" x="2676.35" y="3462.36" text="guard_elevatorGate: My watch ended at\Nsundown, the day of the Blood Moon. The\NSmithy was still working at the forge...">
+<parent-relation guid="eyqrkOmkfEanOub2QIAlsA"/>
+<children>
+<image guid="nLVmeCbXhka4tcuNw6KN_w" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="239.64" y="-40.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="nLVmeCbXhka4tcuNw6KN_w" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="239.64" y="-40.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+</topic>
+<topic id="41" parent="40" guid="WN13fbgGPkajHt7GUK2vFg" x="2676.35" y="3659.81" text="guard_elevatorGate: ... and\Nthrough the window I could just\Nmake out the Jailer at his table.">
+<children>
+<image guid="Mhd2roWkf0y_e4Eb0DfOlg" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-191.79" y="-70.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="Mhd2roWkf0y_e4Eb0DfOlg" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-191.79" y="-70.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+<note>
+[unlockThread:jailerQuestionB]
+</note>
+</topic>
+<topic id="42" parent="41" guid="zd962Zh0TEy3R9fjOrqGmQ" x="2892.85" y="3840.53" text="tilo: You have a\Ngood memory."/>
+<topic id="43" parent="42" guid="pY13J0RgNUKlotTooW6uLg" x="2892.85" y="3984.47" text="guard_elevatorGate: The\NBlood Moon fell on my\Nbirthday this year."/>
+<topic id="44" parent="43" guid="kRl_NCjVo06BKqHn_5yGFg" x="2892.85" y="4103.53" text="guard_elevatorGate: Let&apos;s\Nhope it&apos;s not an omen.">
+<children>
+<image guid="gPYezVuTvEuSw6GJoqafKQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="180.00" y="5.02" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="gPYezVuTvEuSw6GJoqafKQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="180.00" y="5.02" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="45" parent="36" guid="DvdHdkK67EejMB8GCjUGlw" x="3606.94" y="3037.25" text="tilo: The Jailer--what can\Nyou tell me about him?">
+<note>
+[lockableThread:jailerQuestionC][lockThread:jailerQuestionC][updateCounter:jailerQuestions+1]
+</note>
+</topic>
+<topic id="46" parent="45" guid="oy9jHVFoFEaDuNbQ4nH7oQ" x="3606.94" y="3188.25" text="guard_elevatorGate: I don&apos;t know him\Nthat well. He&apos;ll sometimes come through\Nhere on his way down to the harbour.">
+<parent-relation guid="VfFwbw_7TUWnf2m-FuAmqA"/>
+<note>
+[unlockThread:jailerQuestionD]
+</note>
+</topic>
+<topic id="47" parent="36" guid="gw0CU3LgHUeKhsL202wOBg" x="2442.29" y="3840.53" text="tilo: The night of the Blood Moon,\Nafter you, who came on watch here?">
+<parent-relation guid="fxklQjeyHkW6Ity1COeLxQ"/>
+<note>
+[lockableThread:jailerQuestionB=true][lockThread:jailerQuestionB][updateCounter:jailerQuestions+1]
+</note>
+</topic>
+<topic id="48" parent="47" guid="HVXQldQxm0qcyroi7ZVR2Q" x="2442.29" y="4103.53" text="guard_elevatorGate: Monock Brig.\NHe&apos;s on duty in the commissary right\Nnow. You can talk with him there.">
+<children>
+<image guid="S-OloLOt50ee5VbcZ9c6FA" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="-157.50" y="-96.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="S-OloLOt50ee5VbcZ9c6FA" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="-157.50" y="-96.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[unlockThread:dialog_guard_commissaryDuty.jailerWellClue]
+</note>
+</topic>
+<topic id="49" parent="36" guid="fACSNm4J9Uu-_-IgwE3M0A" x="3850.69" y="3287.00" text="tilo: Alright, I think\Nthat&apos;s everything."/>
+<topic id="50" parent="49" guid="9pmAIhXPt0yiODu3eI9Uaw" x="3662.67" y="3488.72" text="guard_elevatorGate:\NI hope so.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="51" parent="49" guid="diV04IfOik2Jy5QvmEaI8A" x="4012.88" y="3488.72" text="guard_elevatorGate:\NThat&apos;s it, now--no\Nmore questions.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="52" parent="49" guid="6pBvWgH0-kKjLEE_XgtFyg" x="4161.44" y="3287.00" text="guard_elevatorGate: ... You\Ndidn&apos;t ask me anything.">
+<children>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:counter.jailerQuestions=0]
+</note>
+</topic>
+<topic id="53" parent="52" guid="SYRQURQ0bEK_DRSNT8jPiA" x="4000.69" y="3938.90" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="54" parent="34" guid="hQD-398h30GRaHPDJxvjBQ" x="2996.69" y="2992.87" text="guard_elevatorGate: More? I\Nthought we were done.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="55" parent="34" guid="ojuMBFfba06zG9XZm3R3mA" x="3314.73" y="2992.87" text="guard_elevatorGate: I told\Nyou, I&apos;ve nothing more to say.">
+<note>
+[variationIndex=2][lockThread:findJailer]
+</note>
+</topic>
+<topic id="56" parent="4" x="1690.13" y="1979.97" text="DIALOGUE_HUB_C"/>
+<topic id="57" parent="56" guid="n1pew7-QeUqPfZHINsIaBw" x="3267.32" y="1860.39" text="tilo: I should get on...">
+<parent-relation guid="Eurr3fC4B0yjH0JMSSrSrA"/>
+</topic>
+<topic id="58" parent="57" guid="JXcY7PA_yk2XauLsalUhdQ" x="2822.13" y="2158.80" text="guard_elevatorGate: ... Private Scow, isn&apos;t it?\NThe Commander wants to see you in his office.">
+<children>
+<image guid="jvN6jpuePU-vJi-hEhvUow" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="-183.75" y="-84.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="jvN6jpuePU-vJi-hEhvUow" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="-183.75" y="-84.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][lockableThread:FirstFarewell][lockThread:FirstFarewell][reveal:counter.dialog_commander.metCommander=0][updateCounter:dialog_guard_valet.orderedToTheCommander=1]
+</note>
+</topic>
+<topic id="59" parent="57" guid="AXAjo8dQwUyBAVFzBAy-dQ" x="3010.18" y="2080.23" text="guard_elevatorGate: Oh, and don&apos;t forget that you&apos;re to\Nreport to the Commander&apos;s office as soon as possible.">
+<note>
+[variationIndex=1][reveal:counter.dialog_commander.metCommander=0][updateCounter:dialog_guard_valet.orderedToTheCommander=1]
+</note>
+</topic>
+<topic id="60" parent="57" guid="IXQHWRc9BESgnit1N0MIfw" x="3560.36" y="2080.23" text="guard_elevatorGate: Don&apos;t forget about the\NCommander. He&apos;s not known for his patience...">
+<children>
+<image guid="maa6_QLrWEqngZIwGZoCKA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="97.78" y="-77.68" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="maa6_QLrWEqngZIwGZoCKA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="97.78" y="-77.68" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2][reveal:counter.dialog_commander.metCommander=0][updateCounter:dialog_guard_valet.orderedToTheCommander=1]
+</note>
+</topic>
+<topic id="61" parent="57" guid="7-85W4OQ0kGG4crT4_38vg" x="3779.04" y="2158.80" text="guard_elevatorGate: Scow--you still haven&apos;t\Nreported to the Commander&apos;s office, have you?">
+<note>
+[variationIndex=3][reveal:counter.dialog_commander.metCommander=0][updateCounter:dialog_guard_valet.orderedToTheCommander=1]
+</note>
+</topic>
+<topic id="62" parent="57" guid="zrrY6_48LUKFbhejN0EKgw" x="3921.59" y="2345.19" text="guard_elevatorGate: Aye...">
+<note>
+[priorityOverride][reveal:counter.dialog_faustus.enableBigEars=1][lockableThread:hasBigEars][lockThread:hasBigEars]
+</note>
+</topic>
+<topic id="63" parent="62" guid="XbUK5p1jE0afQZfLAwImYQ" x="3921.59" y="2446.10" text="guard_elevatorGate: ... Big-eared [scrunt].">
+<parent-relation guid="BF_j1Q68wESW-KvYGXfLGw"/>
+<note>
+[footnote:scrunt]
+</note>
+</topic>
+<topic id="64" parent="3" guid="NhaIuD1J4Ei5No-7Eesbwg" x="1354.45" y="2163.45" text="tilo: The gate&apos;s closed? Why?">
+<parent-relation guid="QYgvHTZy4Ey-EuWQQgShWQ"/>
+<note>
+[lockableThread:whyAskedA][lockThread:whyAskedA][reveal:quest_mysteryOfDuinlansTomb=inactive|quest_mysteryOfDuinlansTomb.talkToSquadCommander=inactive;hasItem=paper_manuscript_ordersLowerKeep*0]
+</note>
+</topic>
+<topic id="65" parent="64" guid="1PVbWwsTiUCJhtLlZpzF6w" x="1354.45" y="2308.19" text="guard_elevatorGate: Commander&apos;s\Nsending a squad into the\Ncatacombs to deal with the spiders."/>
+<topic id="66" parent="65" guid="7ilsa5Kw4UWGIwBhBm7r5A" x="1354.45" y="2464.16" text="guard_elevatorGate: The\Ngate and elevator are to stay\Noff-limits until then."/>
+<topic id="67" parent="3" guid="aOQeW-4IkUqQlsW67kihSg" x="2345.19" y="1639.13" text="tilo: Help me! The Green\NFlame has returned!">
+<note>
+[reveal:quest_stopTheGreenFlame=active][lockableThread:greenFlamePlea][lockThread:greenFlamePlea]
+</note>
+</topic>
+<topic id="68" parent="67" guid="8xkDT_N3okGsVVPTSPCbZw" x="2345.19" y="1792.35" text="guard_elevatorGate: Have you been at\Nthe rotgut, Scow?">
+<children>
+<image guid="iCfFfMBN6EWwW-xYFEiOxg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-173.33" y="-76.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="iCfFfMBN6EWwW-xYFEiOxg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-173.33" y="-76.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="69" parent="0" guid="HRGKjAo5l0iQxxu67WQ-XQ" x="1137.38" y="1222.47" palette="2" colorinfo="2" text="guard_elevatorGate: I&apos;ve told you more than\Nonce, now--the gate is closed.">
+<note>
+[variationIndex=2][reveal:costume_guard=true;quest_mysteryOfDuinlansTomb=inactive|quest_mysteryOfDuinlansTomb.talkToSquadCommander=inactive]
+</note>
+</topic>
+<topic id="70" parent="0" guid="F4iAyxJUx0ynO4HmWI6H2w" x="1515.02" y="1275.56" palette="3" colorinfo="3" text="guard_elevatorGate:\NGate&apos;s closed, like I said.">
+<note>
+[variationIndex=3][reveal:costume_guard=true;quest_mysteryOfDuinlansTomb=inactive|quest_mysteryOfDuinlansTomb.talkToSquadCommander=inactive]
+</note>
+</topic>
+<topic id="71" parent="0" guid="NyiEJ8TfEk-XlKAXP_5kWA" x="1772.80" y="1177.14" palette="5" colorinfo="5" text="guard_elevatorGate: You\Nshould get on--the rest of the\Nsquad will be waiting on you.">
+<note>
+[variationIndex=4][reveal:quest_mysteryOfDuinlansTomb.talkToSquadCommander=active;costume_guard=true]
+</note>
+</topic>
+<topic id="72" parent="0" guid="PJydWyWxcEmnfjlXj4i3MA" x="733.24" y="1170.75" palette="6" colorinfo="6" text="guard_elevatorGate: Did you\Nnot hear me?">
+<parent-relation guid="zwewzsWQZkms33l83SxhEQ"/>
+<children>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1][reveal:costume_guard=true;quest_mysteryOfDuinlansTomb=inactive|quest_mysteryOfDuinlansTomb.talkToSquadCommander=inactive]
+</note>
+</topic>
+<topic id="73" parent="72" guid="lQsbrTGzqUOz18NcxCxInA" x="733.24" y="1269.56" text="guard_elevatorGate: The\NCommander&apos;s ordered the\NWest Gate closed."/>
+<topic id="74" parent="0" guid="BGay52Xbkk-T-2HlCUH_LQ" x="3045.98" y="1179.56" palette="7" colorinfo="7" text="guard_elevatorGate:\NHow goes it, Scow?">
+<children>
+<image guid="wuUfm4uMNUuoaa-ES0Sb3w" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="1.11" y="-76.61" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="wuUfm4uMNUuoaa-ES0Sb3w" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="1.11" y="-76.61" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=10][reveal:quest_mysteryOfDuinlansTomb.talkToSquadCommander=complete;costume_guard=true|costume_duinlan=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="75" parent="0" guid="LXE9OI6pn0OX_YOCyxlwvA" x="2304.45" y="1195.33" palette="8" colorinfo="8" text="guard_elevatorGate:\NMorning, Scow.">
+<note>
+[variationIndex=6][reveal:quest_mysteryOfDuinlansTomb.talkToSquadCommander=complete;timeOfDay=morning;costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="76" parent="0" guid="d-bmQV5tnESUCBjDYxmonQ" x="2478.95" y="1275.56" palette="2" colorinfo="2" text="guard_elevatorGate:\NAfternoon, Scow.">
+<note>
+[variationIndex=7][reveal:quest_mysteryOfDuinlansTomb.talkToSquadCommander=complete;timeOfDay=afternoon;costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="77" parent="0" guid="63gh6sjvdUmJa_UdtdZ-QA" x="2652.03" y="1195.33" palette="3" colorinfo="3" text="guard_elevatorGate:\NEvening, Scow.">
+<note>
+[variationIndex=8][reveal:quest_mysteryOfDuinlansTomb.talkToSquadCommander=complete;timeOfDay=evening;costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="78" parent="0" guid="0ZNJVcFivEqN7flYX1i4Vg" x="2870.03" y="1275.56" palette="4" colorinfo="4" text="guard_elevatorGate:\NFair night, Scow.">
+<note>
+[variationIndex=9][reveal:quest_mysteryOfDuinlansTomb.talkToSquadCommander=complete;timeOfDay=night;costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="79" parent="0" guid="WHDF1ZlOY0WYYIJMTruoxw" x="2058.26" y="1275.56" palette="2" colorinfo="2" text="guard_elevatorGate: Scow?\NYou should be down in the\Ncatacombs by now.">
+<children>
+<image guid="hguTHxmf3EKgXz-x2ymSmw" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="0.00" y="-97.14" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="hguTHxmf3EKgXz-x2ymSmw" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="0.00" y="-97.14" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=5][reveal:quest_mysteryOfDuinlansTomb.talkToSquadCommander=active;costume_guard=true]
+</note>
+</topic>
+<topic id="80" parent="0" guid="PSLJbexXCkC1vKm6EndIsg" x="32.53" y="1819.83" palette="2" colorinfo="2" text="guard_elevatorGate: Ranger!">
+<parent-relation guid="3hZGVs9YDU-uSjk1afJvhA"/>
+<children>
+<image guid="e8yJCej5UEayM2H8f4hKZQ" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="18.57" y="-64.71" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="e8yJCej5UEayM2H8f4hKZQ" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="18.57" y="-64.71" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:costume_ranger=true]
+</note>
+</topic>
+<topic id="81" parent="80" guid="LITFx1P1SE-jU-Wq0wFmOw" x="-583.85" y="2069.98" text="guard_elevatorGate: I want no trouble\Nwhile you&apos;re here, understood?">
+<note>
+[variationIndex=0][lockableThread:secondIntroRanger][lockThread:secondIntroRanger]
+</note>
+</topic>
+<topic id="82" parent="81" guid="_HCF0LFY6EWB6hjjOhBMNw" x="-778.35" y="2239.98" text="tilo: There&apos;ll be no\Ntrouble if I&apos;m left alone."/>
+<topic id="83" parent="82" guid="5LydKJcLA0S8zrGukegC3A" x="-778.35" y="2381.52" text="guard_elevatorGate:\NHa! I can&apos;t promise you that...">
+<children>
+<image guid="imJs4cxtx0Kemi2tEhCMNg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-145.71" y="-50.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="imJs4cxtx0Kemi2tEhCMNg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-145.71" y="-50.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="84" parent="81" guid="A2x3nsfNqkKcdsVbvb7VLQ" x="-425.61" y="2239.98" text="tilo: I have no quarrel with you."/>
+<topic id="85" parent="84" guid="XTksw9EVc0q48a3g2iRYWg" x="-425.61" y="2381.52" text="guard_elevatorGate:\NLet&apos;s keep it that way..."/>
+<topic id="86" parent="80" guid="xp4B6XXSd0WyI_wPICpgfg" x="30.71" y="2105.89" text="guard_elevatorGate:\NMove along, now.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="87" parent="86" guid="QCFKB-LxeEuT-otm1KLX0w" x="-117.26" y="2280.89" text="tilo: Or you&apos;ll\Ndo what?"/>
+<topic id="88" parent="87" guid="3yhf-VPZ0EuOT5ZM5t572Q" x="-117.26" y="2461.52" text="The guard strikes you\Nwith his halberd, knocking\Nyou unconscious.">
+<note>
+[executeAction:sendTiloToJail][narration]
+</note>
+</topic>
+<topic id="89" parent="86" guid="hVWGP6juTEuOP6-YCGdmww" x="216.02" y="2280.89" text="tilo: Very well..."/>
+<topic id="90" parent="80" guid="2XYtMEtydUKQ9Khpr_9ybQ" x="819.59" y="2109.98" text="guard_elevatorGate: I\Ndidn&apos;t see you there...">
+<note>
+[variationIndex=4][reveal:timeOfDay=evening|timeOfDay=night]
+</note>
+</topic>
+<topic id="91" parent="90" guid="EhY7EDZwT0Gmih-Q2mpbKg" x="679.22" y="2319.15" text="guard_elevatorGate: The\Nnight&apos;s drawing in...">
+<children>
+<image guid="oPz5jNXWaUGESDT6tsNKeA" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-20.36" y="-76.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="oPz5jNXWaUGESDT6tsNKeA" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-20.36" y="-76.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+<note>
+[reveal:timeOfDay=evening]
+</note>
+</topic>
+<topic id="92" parent="90" guid="rlw5nt7rLkibOHrWpjcxOw" x="980.62" y="2319.15" text="guard_elevatorGate:\NIt&apos;s a bitter night.">
+<children>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[reveal:timeOfDay=night]
+</note>
+</topic>
+<topic id="93" parent="80" guid="h5uti1-f2EK6uhbzZT2Mnw" x="327.67" y="2013.98" text="guard_elevatorGate: Don&apos;t\Ncross me, I&apos;m warning you.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="94" parent="80" guid="huYztKNKO0mZkLJnwiXgDg" x="660.37" y="2013.98" text="guard_elevatorGate: Make sure\Nyou keep your nose out of [Red\NPaw] business, understood?">
+<note>
+[variationIndex=3][footnote:red_paw]
+</note>
+</topic>
+<topic id="95" parent="0" guid="namnaoIUl0SDvbm4cnBHeg" x="1201.98" y="569.20" palette="2" colorinfo="2" text="guard_elevatorGate: Leave me be!">
+<children>
+<image guid="ukcJ5yDRrE6UwSWQWSnctg" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="5.56" y="-65.18" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="ukcJ5yDRrE6UwSWQWSnctg" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="5.56" y="-65.18" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][counter:talkLater=0][reveal:recentlyTalkedTo=20;counter.talkLater=0;costume_guard=true|costume_duinlan=true][updateCounter:talkLater=1]
+</note>
+</topic>
+<topic id="96" parent="0" guid="9vBH3Zaan0in1RiSp5chQQ" x="1113.64" y="670.00" palette="3" colorinfo="3" text="guard_elevatorGate: Stop wasting my time, Scow,">
+<note>
+[priorityOverride] [reveal:recentlyTalkedTo=20;counter.talkLater=1;costume_guard=true|costume_duinlan=true][updateCounter:talkLater=2]
+</note>
+</topic>
+<topic id="97" parent="0" guid="D_XRZYSzwUqg3SppDSlrCw" x="965.75" y="754.78" palette="4" colorinfo="4" text="guard_elevatorGate: We&apos;ll talk again later.">
+<note>
+[priorityOverride] [reveal:recentlyTalkedTo=20;counter.talkLater=2;costume_guard=true|costume_duinlan=true][updateCounter:talkLater=3]
+</note>
+</topic>
+<topic id="98" parent="0" guid="qLKUHJyfjUyxwdkYfaH7Xw" x="824.72" y="826.52" palette="5" colorinfo="5" text="guard_elevatorGate: Go on now, Scow.">
+<note>
+[priorityOverride] [reveal:recentlyTalkedTo=20;counter.talkLater=3;costume_guard=true|costume_duinlan=true][updateCounter:talkLater=0]
+</note>
+</topic>
+<topic id="99" parent="0" guid="CtaId5nm-UKYIO7NccegRw" x="2049.37" y="688.01" palette="2" colorinfo="2" text="guard_elevatorGate: Y-your\Narmour... it&apos;s so... magnificent!">
+<children>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:costume_duinlan=true][lockableThread:goldenArmour][lockThread:goldenArmour]
+</note>
+</topic>
+<topic id="100" parent="0" guid="XtInKRCSM0WeHxSg6Pbfyg" x="2520.35" y="665.95" palette="2" colorinfo="2" text="guard_elevatorGate: I\Nhear congratulations are\Nin order, &apos;Sergeant Scow&apos;.">
+<note>
+[priorityOverride][lockableThread:firstIntroPromotion][lockThread:firstIntroPromotion][reveal:counter.dialog_commander.promotionToSergeant=1;costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="101" parent="100" guid="GS5e7D0I-kGGezQfjMAG8g" x="2520.35" y="797.93" text="guard_elevatorGate: Just don&apos;t expect any from\Nme. You might have impressed the Commander..."/>
+<topic id="102" parent="101" guid="2IQQFIJDz0-gTaU8oA26OQ" x="2520.35" y="924.60" text="guard_elevatorGate: ... but you&apos;re making the\Nrest of us look bad. Watch your step..."/>
+<topic id="103" parent="-1" guid="OYyntgbNyUuG8_B_GKDJrw" x="532.72" y="4719.48" palette="1" colorinfo="1" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="104" parent="-1" guid="j45kMHWzakm6FlfzNcvBnw" x="1698.54" y="99.22" palette="1" colorinfo="1" text="guard"/>
+<topic id="105" parent="104" x="1365.05" y="402.97" palette="2" colorinfo="2" text="angry">
+<children>
+<image name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="106" parent="104" x="1512.79" y="402.97" palette="3" colorinfo="3" text="smiling">
+<children>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="107" parent="104" x="1643.54" y="402.97" palette="4" colorinfo="4" text="default">
+<children>
+<image name="fb95c613bd7268546244ccb0c5603e9de3bd158f" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_default.png"/>
+</image>
+</children>
+<images>
+<image name="fb95c613bd7268546244ccb0c5603e9de3bd158f" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="108" parent="104" x="1785.29" y="402.97" palette="5" colorinfo="5" text="surprised">
+<children>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="109" parent="104" guid="_PWCNQd9LEeNzke6YKFLUw" x="1953.04" y="402.97" palette="6" colorinfo="6" text="thinking">
+<children>
+<image name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+</topic>
+<topic id="110" parent="104" x="2103.75" y="402.97" palette="7" colorinfo="7" text="stunned">
+<children>
+<image name="c885518916022fec2a2efcf4a6f720f1ed630df8" x="2.50" y="-90.87" scale="1.11" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_stunned.png"/>
+</image>
+</children>
+<images>
+<image name="c885518916022fec2a2efcf4a6f720f1ed630df8" x="2.50" y="-90.87" scale="1.11" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_stunned.png"/>
+</image>
+</images>
+</topic>
+</topics>
+<relations>
+<relation guid="70zqxWWZ10yDxq2noTTb9A" source="74" target="1"/>
+<relation guid="zz_asbmNf0SReP3HhEkIdw" source="33" target="103"/>
+<relation guid="YY7zmq_H5UutYxib5UmIrw" source="103" target="3"/>
+<relation guid="BDVClon7P0KTC8o_GIIEng" source="73" target="3"/>
+<relation guid="kF11W1hP0kaArR1wgiZcQQ" source="69" target="3"/>
+<relation guid="mMYL5rPflk6s_EVlQII8Kg" source="70" target="3"/>
+<relation guid="8jyYo4IsXEq3pqsHL6_SMQ" source="71" target="3"/>
+<relation guid="tyiZYZ4TGEizWuQ6YmkM9Q" source="61" target="58"/>
+<relation source="9" target="7"/>
+<relation source="74" target="3"/>
+<relation source="78" target="3"/>
+<relation source="77" target="3"/>
+<relation source="76" target="3"/>
+<relation source="75" target="3"/>
+<relation source="79" target="3"/>
+<relation source="66" target="3"/>
+<relation source="38" target="36"/>
+<relation source="46" target="36"/>
+<relation source="44" target="36"/>
+<relation source="48" target="36"/>
+<relation source="41" target="47"/>
+<relation source="54" target="36"/>
+<relation source="55" target="35"/>
+<relation guid="bgJP-jsW30KvVNBvGgisaw" source="55" target="3"/>
+<relation source="51" target="50"/>
+<relation source="50" target="53"/>
+<relation source="51" target="53"/>
+<relation guid="e-rm_rhQLkeWE3fhFgISTg" source="53" target="3"/>
+<relation source="22" target="18"/>
+<relation source="23" target="33"/>
+<relation source="31" target="22"/>
+<relation source="27" target="103"/>
+<relation source="21" target="103"/>
+<relation source="90" target="86"/>
+<relation source="92" target="91"/>
+<relation source="99" target="3"/>
+<relation guid="HQKuqiy4AUajAS6itXTGpg" source="102" target="3"/>
+</relations>
+<stylesheet>
+<general description="quest_style" timestamp="2014-10-28+11:16:41" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<cross-links line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

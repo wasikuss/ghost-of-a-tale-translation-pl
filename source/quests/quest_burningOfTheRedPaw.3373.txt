@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="A5693654374840F1B3C525552FAABC1E"/>
+<title text="quest_burningOfTheRedPaw" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="110" x="620" y="416"/>
+<selection guid="uvessDEiGkOIk0ThQnbwyQ" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="uvessDEiGkOIk0ThQnbwyQ" x="878.24" y="624.98" palette="2" colorinfo="2" text="The Burning of the Red Paw">
+<note>
+version_03-02-18_004-Added renown points award to questversion_01-09-18_003-Updated quest to include a task to report crimeversion_05-18-16_002-Increased number of banners to 13.version_11-07-15_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="BGtyzzEUQU-r1RT_lQvRQw" x="878.24" y="796.58" palette="6" colorinfo="6" text="Burn the banners of the Red Paw.">
+<note>
+[taskName=burnAllBanners][interactionCounter=banner/13]
+</note>
+</topic>
+<topic id="2" parent="1" guid="_CtnlOv6JUe177PF85HX0g" x="1378.74" y="796.58" palette="8" colorinfo="8" text="You burned thirteen banners\Nand struck a blow for liberty!"/>
+<topic id="3" parent="1" guid="bukom4zb0kyBcFedY3mrRg" x="879.35" y="990.90" text="Report the crime to\Nthe Commander.">
+<note>
+[taskName=talkToCommander][grantRenown=2]
+</note>
+</topic>
+<topic id="4" parent="3" guid="nAwzFIRuUUKgkiSKmFBakA" x="1383.85" y="990.90" palette="8" colorinfo="8" text="Fearing an uprising, the Commander sends\Nword to Yuva. Your renown is spreading..."/>
+<topic id="5" parent="0" guid="_erSIUpm_EKvH5Eqv_2kTw" x="1378.74" y="627.48" palette="8" colorinfo="8" text="Rebel against the Red Paw; set light to\Nthirteen banners bearing their mark."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

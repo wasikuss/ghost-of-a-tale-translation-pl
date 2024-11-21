@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="748793634A904743848F2049BB1A002D"/>
+<title text="quest_prepareForCatacombs" customized="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="90" x="1177" y="380"/>
+<selection guid="d6uy08A4n0yi0iyNEUSk5w" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="d6uy08A4n0yi0iyNEUSk5w" x="1521.42" y="738.47" palette="2" colorinfo="2" text="Gearing Up">
+<note>
+[mainQuest]version_01-16-18_003-Added renown on final node at tier 3 (temp)version_07-23-16_002-Removed full stop from titleversion_07-05-16_001-Replaces venom quest
+</note>
+</topic>
+<topic id="1" parent="0" guid="rpeGczLzNESiOYk4B-yUZA" x="1812.27" y="952.46" palette="6" colorinfo="6" text="Find an antidote to\Nspider venom.">
+<parent-relation guid="NZ2wWCAAjkKZvp_kSffWYg"/>
+<note>
+[taskName=getSpiderAntidote]
+</note>
+</topic>
+<topic id="2" parent="1" guid="TTnOMPP6VEmYA4rQRwiYMA" x="2210.68" y="952.46" palette="8" colorinfo="8" text="Faustus made for you\Nan antidote to spider venom."/>
+<topic id="3" parent="0" guid="Qo9_IYS8wkWhYp6xyDpG-A" x="1262.42" y="948.47" palette="6" colorinfo="6" text="Assemble a\Nsuit of armour.">
+<note>
+[taskName=getArmour]
+</note>
+</topic>
+<topic id="4" parent="3" guid="hzLTcKkhSUKGz9DIDr4UfA" x="1518.42" y="1167.22" palette="5" colorinfo="5" text="Report to Silas\Nwearing your armour.">
+<note>
+[taskName=talkToSilas][grantRenown=3]
+</note>
+</topic>
+<topic id="5" parent="4" guid="Xb6bS2-pj0ua-rE8olYptQ" x="2210.68" y="1167.22" palette="8" colorinfo="8" text="Silas gave you the Commander&apos;s papers,\Nordering you to join the squad in the lower keep."/>
+<topic id="6" parent="3" guid="MCiuvsJCmk6gbi-LuJGrcw" x="904.81" y="948.47" palette="8" colorinfo="8" text="You found a complete\Nsuit of armour."/>
+<topic id="7" parent="0" guid="R2GP-mAUDk-60UWYfd4nYQ" x="2210.68" y="738.47" palette="8" colorinfo="8" text="Gather the things you need for your\Njourney into the keep&apos;s catacombs."/>
+</topics>
+<relations>
+<relation source="1" target="4"/>
+</relations>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="D8B9BDAD6778401ABE363B7324432BD1"/>
+<title text="quest_sleep" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="110" x="630" y="366"/>
+<selection guid="kW6o0OMwKEytNO54MDYHqw" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="894.91" y="624.98" palette="2" colorinfo="2" text="A Good Night&apos;s Sleep">
+<note>
+[mainQuest]version_03-02-18_002-Switched renown to tier 2version_01-16-18_007-Added renown on final node at tier 3 (temp)version_110716_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="Bud-HMlZoUeYr4vXlcD9fg" x="1369.86" y="627.48" palette="8" colorinfo="8" text="Silas wants you to get some sleep\Nbefore you begin your quest."/>
+<topic id="2" parent="0" guid="uyw9pnPXCEGN5R-ZMKw5lg" x="896.43" y="775.78" palette="6" colorinfo="6" text="Head to Silas&apos; cot,\Nand get some sleep.">
+<note>
+[taskName=getSleep]
+</note>
+</topic>
+<topic id="3" parent="2" guid="bTKWrrDHyUyNgmJJ0FkxsA" x="896.16" y="896.89" palette="4" colorinfo="4" text="Return to Silas.">
+<note>
+[taskName=talkToSilas][grantRenown=2]
+</note>
+</topic>
+<topic id="4" parent="3" guid="MoMgvrrgMEaJ1PoXgm691A" x="1360.55" y="899.11" palette="8" colorinfo="8" text="Refreshed after some sleep\Nyou returned to Silas."/>
+<topic id="5" parent="2" guid="JxCCSSiyLUeXDlnB5QWdrQ" x="1360.55" y="775.78" palette="8" colorinfo="8" text="Exhausted after escaping the jail\Nyou got some sleep in Silas&apos; cot."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

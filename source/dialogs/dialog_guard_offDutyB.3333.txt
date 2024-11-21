@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="A1798193FE054334959F560C456B226E"/>
+<title text="dialog_guard_offDutyB" customized="True"/>
+<images containsImages="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="80" x="1575" y="1373"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="X5zpLsO6FEC1FUReX61twQ" x="1032.00" y="696.43" palette="1" colorinfo="1" text="dialog_guard_offDutyB">
+<note>
+[characters:guard_offDutyB;Tilo]version_02-24-18_003-Added condition to account for Tilo wearing Duinlan&apos;s armourversion_01-13-18_002-Added character name revealversion_12-20-17_001-First release
+</note>
+</topic>
+<topic id="1" parent="0" guid="H3d-SuyrWkSVZAWlFQIQVA" x="500.75" y="1103.75" palette="2" colorinfo="2" text="guard_offDutyB: This table&apos;s taken...\NI suggest you find another seat.">
+<note>
+[variationIndex=0][lockableThread:firstIntro][lockThread:firstIntro][reveal:costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="2" parent="1" guid="9V7tIDMIrECn1z8sCBsz7w" x="1032.00" y="1695.00" text="DIALOGUE_HUB_A">
+<parent-relation guid="nWV3eWu5k0aNZyd2JA5G2A"/>
+</topic>
+<topic id="3" parent="2" guid="SkRWj4MC6ES59DEUxjv7tA" x="1174.75" y="1830.00" text="DIALOGUE_HUB_B"/>
+<topic id="4" parent="3" guid="-LEE248BvU2SmM02c0lrWg" x="1174.75" y="2266.25" text="tilo: Remind me what it\Nwas you ordered.">
+<note>
+[reveal:quest_hangoverTonic.getFourthOrder=complete;quest_hangoverTonic.deliverFourthOrder=inactive|quest_hangoverTonic.deliverFourthOrder=active]
+</note>
+</topic>
+<topic id="5" parent="4" guid="Q-CcJ1O0hE-9A1-qezokPg" x="1174.75" y="2423.30" text="guard_offDutyB: The\Ncook&apos;s seasonal pie.">
+<parent-relation guid="iEEJRO8hx0GIYpQYxlRh9g"/>
+</topic>
+<topic id="6" parent="3" guid="XGdCuuYRB0-ddSECVGbSZg" x="2140.17" y="2126.25" text="tilo: How was your day?"/>
+<topic id="7" parent="6" guid="wHgSNsFM7E6GDJp7fYIUcg" x="1865.84" y="2358.72" text="guard_offDutyB: What\Nbusiness is it of yours?">
+<parent-relation guid="ITTj9i8DBkexQP_WfO000Q"/>
+<children>
+<image name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][lockableThread:firstIntro][lockThread:firstIntro]
+</note>
+</topic>
+<topic id="8" parent="7" guid="UZf1_shngkCramvfOcki3A" x="2140.17" y="2573.11" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="9" parent="6" guid="TWDvQOmH_EiSIA1L0EQcYw" x="2385.14" y="2358.72" text="guard_offDutyB: Long,\Nand I&apos;m starved.">
+<parent-relation guid="A3zwVguQ9k2OVOZtm4nrmw"/>
+<children>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="10" parent="6" guid="KVWYJ8VpnESDoghrpVdzDQ" x="2140.17" y="2307.47" text="guard_offDutyB: Leave\Nme alone, [scrunt].">
+<parent-relation guid="dKCBHDU4PUOQPmSVwbUtMA"/>
+<note>
+[variationIndex=1][footnote:scrunt]
+</note>
+</topic>
+<topic id="11" parent="3" guid="xzqj19D-hUKCMojCyRAitQ" x="1532.97" y="2095.18" text="tilo: I&apos;m looking for the\Ngambler, Bellar Larr?">
+<note>
+[lockableThread:findGambler][lockThread:findGambler][reveal:quest_retrieveStolenBand.talkToGambler=active;counter.dialog_guard_gambler.metGuard_gambler=0]
+</note>
+</topic>
+<topic id="12" parent="11" guid="AW93WFq5nUSrJrQ4_-BaKQ" x="1532.97" y="2229.63" text="guard_offDutyB:\NThere, by the kitchen.">
+<note>
+[executeAction:revealTrueName=character_guard_gambler]
+</note>
+</topic>
+<topic id="13" parent="3" guid="xZUwXqXTYEOgPPzwJvOM8Q" x="602.46" y="1830.00" text="tilo: What&apos;s your\Nname, friend?">
+<note>
+[lockableThread:askName][lockThread:askName][reveal:counter.metGuard_offDutyB=0]
+</note>
+</topic>
+<topic id="14" parent="13" guid="TN3e3KFbpk64O6Kc2NjkkQ" x="602.46" y="1968.57" text="guard_offDutyB: Pakov,\Nand I&apos;m no friend of yours.">
+<note>
+[counter:metGuard_offDutyB=0][updateCounter:metGuard_offDutyB=1][executeAction:revealTrueName=character_guard_offDutyB]
+</note>
+</topic>
+<topic id="15" parent="3" guid="YOX6g0n1UEmj5ancpJ7-Dg" x="164.50" y="2122.96" text="tilo: &quot;The termites&apos; lair\Nspreads far, unseen...&quot;">
+<note>
+[lockableThread:masterAndSmugglers=true][lockThread:masterAndSmugglers][reveal:quest_findSmugglers.findSmugglersMark=complete;quest_findSmugglers.talkToCommander=inactive]
+</note>
+</topic>
+<topic id="16" parent="15" guid="bZLxUQkDb0yEE7xcdMEfVA" x="164.50" y="2269.82" text="guard_offDutyB:\NKeep your voice down!">
+<children>
+<image guid="sxMIrK0_FUqbqvmWKU0hUA" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="149.17" y="-53.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="sxMIrK0_FUqbqvmWKU0hUA" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="149.17" y="-53.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="17" parent="16" guid="KmZF7PE1QUOFw44hmgVNHw" x="164.50" y="2425.82" text="guard_offDutyB: ... Listen, I\Ntold you lot I was out, and I&apos;m\Nstaying out. Understand?"/>
+<topic id="18" parent="3" x="1295.61" y="1968.57" text="DIALOGUE_HUB_C"/>
+<topic id="19" parent="18" guid="mc2FWEWacU2N3iQRMwAalA" x="1796.75" y="1678.75" text="tilo: I&apos;ll leave you\Nin peace.">
+<parent-relation guid="CQLLspW89UiagcIs6LVk5A"/>
+</topic>
+<topic id="20" parent="19" guid="dnLqf5eoKES15CI9qVAnfg" x="1796.75" y="1830.00" text="guard_offDutyB: Good.">
+<note>
+[lockableThread:firstFarewell][lockThread:firstFarewell]
+</note>
+</topic>
+<topic id="21" parent="2" guid="vGlgxP3lmk6QNl8NTdbAdw" x="705.50" y="2266.25" text="tilo: I&apos;m taking orders for the\Nkitchen. Can I get you anything?">
+<parent-relation guid="IPCHSL4zbU-sgWFbDzGM8Q"/>
+<note>
+[reveal:quest_hangoverTonic.getFourthOrder=active]
+</note>
+</topic>
+<topic id="22" parent="21" guid="Re90vovCxkOXk2kdhmwZpw" x="705.50" y="2423.30" text="guard_offDutyB: Aye, I&apos;ve a hankering\Nfor pie. Bring me the cook&apos;s special.">
+<children>
+<image guid="ITqLwMaiqECr1T_ooIzS4A" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="233.61" y="-13.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="ITqLwMaiqECr1T_ooIzS4A" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="233.61" y="-13.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_hangoverTonic.getFourthOrder]
+</note>
+</topic>
+<topic id="23" parent="22" guid="yPjocPHhT0SOC7TZpK1GtQ" x="556.33" y="2562.81" text="tilo: &quot;Please.&quot;"/>
+<topic id="24" parent="23" guid="VQCJS8SOHU-bU6DRvkx5fw" x="556.33" y="2671.30" text="guard_offDutyB:\NYou heard what I said."/>
+<topic id="25" parent="22" guid="Cu4hgXrzCk2_PFwrxdFljw" x="838.83" y="2562.81" text="tilo: Cook&apos;s special\Ncoming up!"/>
+<topic id="26" parent="0" guid="2eYed_REHUKr1NKT-lR97g" x="699.25" y="995.00" palette="3" colorinfo="3" text="guard_offDutyB: Move on,\Nbuck... I prefer to eat alone.">
+<note>
+[variationIndex=1][reveal:costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="27" parent="0" guid="cwkp0QGDSU-e6PeP-q94Tg" x="862.97" y="1103.75" palette="4" colorinfo="4" text="guard_offDutyB: Keep\Nmoving, Ranger. You&apos;re\Nnot welcome here.">
+<note>
+[variationIndex=2][reveal:costume_ranger=true]
+</note>
+</topic>
+<topic id="28" parent="0" guid="y21rVCMCoE2eS3BQJY0kWA" x="1032.00" y="995.00" palette="5" colorinfo="5" text="guard_offDutyB: Leave me\Nbe. I&apos;m in no mood to talk.">
+<note>
+[variationIndex=3][reveal:costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="29" parent="0" guid="Kdu6SP5UEEGd1WVipHgcKA" x="1160.97" y="1103.75" palette="6" colorinfo="6" text="guard_offDutyB:\NHow goes it, buck?">
+<note>
+[variationIndex=4][reveal:costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="30" parent="0" guid="UQSG06wViUynSkTeOGl8KQ" x="2280.82" y="673.18" palette="2" colorinfo="2" text="guard_offDutyB:\NWhat&apos;s this?!">
+<children>
+<image guid="Bwdj_wwxZka9VK4NyI7yyQ" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="8.75" y="-69.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="Bwdj_wwxZka9VK4NyI7yyQ" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="8.75" y="-69.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][lockableThread:wrongFood=true][lockThread:wrongFood]
+</note>
+</topic>
+<topic id="31" parent="30" guid="Ibpqi7srSEeuFO9-u7tJcA" x="2019.84" y="897.73" text="guard_offDutyB: I ordered\Nthe special, you fool!">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="32" parent="30" guid="5EcZi_IuN0e5WBHN6VThVw" x="2280.82" y="838.05" text="guard_offDutyB: Where&apos;s my carrot pie?">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="33" parent="30" guid="hz7SWGRWgEeGxJaI8z8bBQ" x="2509.78" y="897.73" text="guard_offDutyB: This\Nisn&apos;t what I ordered!">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="34" parent="0" guid="p0LYaWu_BESDOeAKUNrhXA" x="2598.75" y="590.75" palette="3" colorinfo="3" text="guard_offDutyB: Finally!">
+<note>
+[priorityOverride][lockableThread:correctFood=true][lockThread:correctFood]
+</note>
+</topic>
+<topic id="35" parent="34" guid="Ex4viTkVIkiLi1EzxZVVvA" x="2598.75" y="738.75" text="guard_offDutyB: There&apos;s\Nnothing like a good pie...">
+<children>
+<image guid="mxh3cDAVNEawu_yaQvXSYg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="176.25" y="-22.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="mxh3cDAVNEawu_yaQvXSYg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="176.25" y="-22.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_hangoverTonic.deliverFourthOrder]
+</note>
+</topic>
+<topic id="36" parent="0" guid="jnVyeTo7B0OkbAOjtmkxGQ" x="1608.84" y="1103.75" palette="8" colorinfo="8" text="guard_offDutyB: Get out of\Nhere, buck. Let me be.">
+<children>
+<image guid="w0O2KS6z7EqFd4uP7bhFeQ" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="193.75" y="-4.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="w0O2KS6z7EqFd4uP7bhFeQ" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="193.75" y="-4.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+<note>
+[variationIndex=6][reveal:costume_ranger=true]
+</note>
+</topic>
+<topic id="37" parent="0" guid="BlGfYYs180yNXANRZe7ESg" x="1379.86" y="933.33" palette="4" colorinfo="4" text="guard_offDutyB:\NWhat&apos;s that stink?">
+<note>
+[variationIndex=5][reveal:costume_ranger=true]
+</note>
+</topic>
+<topic id="38" parent="37" guid="dOxZ-oRmGESMwNt1D20O6w" x="1379.86" y="1022.50" text="guard_offDutyB: Ranger...\Ndidn&apos;t see you there.">
+<children>
+<image guid="lGliUXcKTkSBz_rKYE9V6A" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="180.00" y="-20.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="lGliUXcKTkSBz_rKYE9V6A" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="180.00" y="-20.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="39" parent="0" guid="XF4vcXNrHECeCrdI2qTOpA" x="1786.36" y="601.70" palette="7" colorinfo="7" text="guard_offDutyB:\NWhere&apos;s my food?">
+<parent-relation guid="aXQ6VtiHfUajV-1Y1HzEtA"/>
+<note>
+[priorityOverride][reveal:quest_hangoverTonic.getFourthOrder=complete;quest_hangoverTonic.deliverFourthOrder=inactive|quest_hangoverTonic.deliverFourthOrder=active]
+</note>
+</topic>
+<topic id="40" parent="39" guid="oYtAQLkE_UuYTR6tgBw0pQ" x="1550.98" y="764.23" text="guard_offDutyB: I&apos;ve been\Nwaiting a good while now.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="41" parent="39" guid="7cJfGt6O_USnDhz2TeFW6g" x="1786.36" y="815.00" text="guard_offDutyB:\NI&apos;m all but starved!">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="42" parent="39" guid="sjUvrW1jwECI4rUYCziSFg" x="2003.13" y="764.23" text="guard_offDutyB: This\Nis getting ridiculous!">
+<children>
+<image guid="Ofx729MTdEKZ064xc-z2AQ" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="33.75" y="-71.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="Ofx729MTdEKZ064xc-z2AQ" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="33.75" y="-71.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="43" parent="-1" guid="dm4Vj3bc7UGqaW8QEa-6KQ" x="996.51" y="257.12" palette="1" colorinfo="1" text="guard"/>
+<topic id="44" parent="43" x="663.02" y="560.87" palette="2" colorinfo="2" text="angry">
+<children>
+<image name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="45" parent="43" x="810.76" y="560.87" palette="3" colorinfo="3" text="smiling">
+<children>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="46" parent="43" x="941.51" y="560.87" palette="4" colorinfo="4" text="default">
+<children>
+<image name="fb95c613bd7268546244ccb0c5603e9de3bd158f" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_default.png"/>
+</image>
+</children>
+<images>
+<image name="fb95c613bd7268546244ccb0c5603e9de3bd158f" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="47" parent="43" x="1083.26" y="560.87" palette="5" colorinfo="5" text="surprised">
+<children>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="48" parent="43" x="1251.01" y="560.87" palette="6" colorinfo="6" text="thinking">
+<children>
+<image name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+</topic>
+<topic id="49" parent="43" x="1401.72" y="560.87" palette="7" colorinfo="7" text="stunned">
+<children>
+<image name="c885518916022fec2a2efcf4a6f720f1ed630df8" x="2.50" y="-90.87" scale="1.11" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_stunned.png"/>
+</image>
+</children>
+<images>
+<image name="c885518916022fec2a2efcf4a6f720f1ed630df8" x="2.50" y="-90.87" scale="1.11" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_stunned.png"/>
+</image>
+</images>
+</topic>
+</topics>
+<relations>
+<relation guid="4ysqZNNqVUKjQUotiDvhCA" source="36" target="1"/>
+<relation source="26" target="2"/>
+<relation source="28" target="2"/>
+<relation guid="fJgfT8gz00aTO2-Zl0qaYA" source="29" target="2"/>
+<relation guid="p1qccnAezk-4BHYtLoec2A" source="9" target="7"/>
+<relation source="10" target="8"/>
+<relation source="9" target="8"/>
+<relation source="33" target="31"/>
+<relation source="42" target="40"/>
+<relation source="40" target="2"/>
+<relation source="41" target="2"/>
+<relation source="42" target="2"/>
+<relation source="14" target="2"/>
+<relation source="17" target="2"/>
+<relation guid="PyDxEQDesUWZeLbcN-k85w" source="8" target="2"/>
+</relations>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

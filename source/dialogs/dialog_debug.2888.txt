@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="6ACC754ED0E14F09B5A0E583258596F6"/>
+<title text="dialog_debug"/>
+<images containsImages="True"/>
+<style key="quest_style"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="80" x="-1123" y="3701"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="KOKIDu-AXkex_YZvi0862Q" x="791.40" y="76.76" palette="1" colorinfo="1" text="dialog_debug">
+<note>
+[characters:commander;Tilo;kerold;silas;gusto;fatale;rolo]version_07-05-16_006-Added option to reveal all map markersversion_05-20-16_006-Added test for revealing map locators, and receiving skill upgradesversion_05-03-16_005-Added &apos;start all tasks&apos;version_03-02-16_004Removed all non-standard apostrophesversion_12-14-15_003
+</note>
+</topic>
+<topic id="1" parent="0" guid="FZn-JdqeA0CtmscKID2_4g" x="708.25" y="379.11" palette="7" colorinfo="7" text="debug: Alright, Mouse.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="2" parent="1" guid="37fSaI7Em0CH8ncWlhRIgA" x="693.25" y="842.65" text="DIALOGUE_HUB">
+<parent-relation guid="0_LJFmiq80uSFQyeuGQYwQ"/>
+</topic>
+<topic id="3" parent="2" guid="Ru0B0XRQBES2f61r4jmEaA" x="1020.83" y="482.55" text="tilo: Nothing, I must go...">
+<parent-relation guid="XZFAzAR5QEWwoR5DwkBYgw"/>
+</topic>
+<topic id="4" parent="2" guid="7Ik44llNF0OZXAhKMOpIIg" x="1647.92" y="515.99" text="tilo: Start master!!">
+<note>
+[completeTask:quest_findTheMaster.findMastersIdentity]
+</note>
+</topic>
+<topic id="5" parent="4" guid="-dR0UXPQj0GJz5rgGBuMLA" x="1647.92" y="714.32" text="debug: end master!!">
+<note>
+[completeTask:quest_findTheMaster.findMastersEvidence]
+</note>
+</topic>
+<topic id="6" parent="2" guid="k-0oNyWlG0mHAdr9GSHi9w" x="481.25" y="1152.65" text="tilo: START GREEN\NFLAME QUEST">
+<note>
+[startQuest:quest_stopTheGreenFlame]
+</note>
+</topic>
+<topic id="7" parent="2" guid="x3BOC-LGdk2r9oLicUt5BQ" x="-497.58" y="862.58" text="tilo: START AND STEP\NTHROUGH SMUGGLER QUEST">
+<note>
+[startQuest:quest_findSmugglers]
+</note>
+</topic>
+<topic id="8" parent="7" guid="kEXRHwUlQUC5slMn4eg6nQ" x="-497.58" y="979.87" text="debug: ALRIGHT"/>
+<topic id="9" parent="8" guid="yEIhGUsgG0CiXxv8fK99vQ" x="-497.58" y="1119.66" text="debug: TALK TO\NROLO--GET C&amp;F KEYS">
+<note>
+[completeTask:quest_findSmugglers.talkToRolo]
+</note>
+</topic>
+<topic id="10" parent="9" guid="IY8R9ea-HE2pAuXXpq06OA" x="-497.58" y="1241.53" text="debug: MEET ROLO ON CLIFFS">
+<note>
+[completeTask:quest_findSmugglers.learnSmugglersMark]
+</note>
+</topic>
+<topic id="11" parent="10" x="-497.58" y="1363.41" text="debug: FIND BANNER">
+<note>
+[completeTask:quest_findSmugglers.findSmugglersMark]
+</note>
+</topic>
+<topic id="12" parent="11" x="-497.58" y="1477.16" text="debug: GET GUARD C KEY">
+<note>
+[completeTask:quest_findSmugglers.findSmugglerC]
+</note>
+</topic>
+<topic id="13" parent="12" guid="vcqTEU63LEKZdmL5yMdScw" x="-497.58" y="1625.91" text="debug: GET GUARD F KEY">
+<note>
+[completeTask:quest_findSmugglers.findSmugglerF]
+</note>
+</topic>
+<topic id="14" parent="13" guid="_QnIaYkiQUaNwCnInfIieA" x="-497.58" y="1717.75" text="debug: TALK TO\NSMUGGLER E">
+<note>
+[completeTask:quest_findSmugglers.findSmugglerE]
+</note>
+</topic>
+<topic id="15" parent="14" guid="vEObvshXT0OUlMNsejg5pQ" x="-497.58" y="1809.59" text="debug: GET A&amp;B KEYS">
+<note>
+[completeTask:quest_findSmugglers.findSmugglerA]
+</note>
+</topic>
+<topic id="16" parent="15" guid="YsmVpkYAYUu27R5v5ExLGA" x="-497.58" y="1977.10" text="debug: GET B KEY">
+<note>
+[completeTask:quest_findSmugglers.findSmugglerB]
+</note>
+</topic>
+<topic id="17" parent="16" guid="g3MaYlffjUm2ie23D5ooJg" x="-497.58" y="2068.94" text="debug: GET\NSMUGGLER E KEY">
+<note>
+[completeTask:quest_findSmugglers.findSmugglerEKey]
+</note>
+</topic>
+<topic id="18" parent="2" guid="cz02x5lfHUW4VeKW9SBMIw" x="-930.42" y="745.99" text="tilo: FIND JAILER">
+<note>
+[completeTask:quest_findJailer.findBody]
+</note>
+</topic>
+<topic id="19" parent="2" guid="FOOa_4ZTUU22VG6uzvgpfw" x="-148.75" y="954.32" text="tilo: FIND MASTER">
+<note>
+[updateTask:quest_findTheMaster.findMastersIdentity]
+</note>
+</topic>
+<topic id="20" parent="19" guid="3aTYzDhQBUKPSHQ00FJ_jg" x="-148.75" y="1102.65" text="debug: COMPLETE TASK">
+<note>
+[completeTask:quest_findTheMaster.findMastersEvidence]
+</note>
+</topic>
+<topic id="21" parent="2" guid="iEYOTecm5kK2a_6txbQX_g" x="1249.92" y="1599.28" text="tilo: CATACOMB QUEST">
+<note>
+[startQuest:quest_mysteryOfDuinlansTomb]
+</note>
+</topic>
+<topic id="22" parent="21" guid="6wfd8apmmkez6U36eJauNA" x="1249.92" y="1729.24" text="debug: Head to the West Gate.">
+<parent-relation guid="DWTVV9SvI0SXJ1n6aem4jg"/>
+<note>
+[completeTask:quest_mysteryOfDuinlansTomb.goToWestGate]
+</note>
+</topic>
+<topic id="23" parent="22" guid="BmgnhR8ih0CNLzPquUNaPQ" x="1249.56" y="1901.38" palette="4" colorinfo="4" text="debug: Rendezvous with\Nyour squad.">
+<note>
+[completeTask:quest_mysteryOfDuinlansTomb.talkToSquadCommander]
+</note>
+</topic>
+<topic id="24" parent="23" guid="W0TGqowlRkimlqttCnpLSA" x="1248.06" y="2077.19" palette="6" colorinfo="6" text="debug: Navigate the catacombs\Nand find the altar.">
+<note>
+[completeTask:quest_mysteryOfDuinlansTomb.findChest]
+</note>
+</topic>
+<topic id="25" parent="24" guid="t3LNbZ6aUEmI2xrYmwbcAQ" x="1247.51" y="2248.10" palette="4" colorinfo="4" text="debug: Confer with the ghost.">
+<note>
+[completeTask:quest_mysteryOfDuinlansTomb.talkToDuinlan]
+</note>
+</topic>
+<topic id="26" parent="25" guid="95hcWAYd806IHq4IcERzLw" x="1247.51" y="2414.60" palette="4" colorinfo="4" text="debug: Carry the chest\Nback to Silas.">
+<note>
+[completeTask:quest_mysteryOfDuinlansTomb.getChest]
+</note>
+</topic>
+<topic id="27" parent="26" guid="gCsxAe7pWUmC6_HUaNo8iQ" x="1247.51" y="2574.99" palette="6" colorinfo="6" text="debug: Retrieve the contents\Nof the chest.">
+<note>
+[completeTask:quest_mysteryOfDuinlansTomb.getChestContents]
+</note>
+</topic>
+<topic id="28" parent="27" guid="jcaK0pVLBkmH4FZodKLjuA" x="1247.51" y="2727.85" palette="5" colorinfo="5" text="debug: Return to Silas.">
+<note>
+[completeTask:quest_mysteryOfDuinlansTomb.talkToSilas]
+</note>
+</topic>
+<topic id="29" parent="2" guid="SRh6ocKprUezt0_C2MSPXw" x="2176.25" y="339.32" text="tilo: Herr Kommandant, der Reiseplan des Gefangenentransportes muss unterschrieben werden."/>
+<topic id="30" parent="29" x="2154.58" y="449.32" text="debug: Ach!"/>
+<topic id="31" parent="2" guid="CJ15JjA_hk6TRVlSGCOGqA" x="2273.25" y="515.99" text="tilo: Der Reiseplan des Gefangenentransportes muss unterschrieben werden."/>
+<topic id="32" parent="31" guid="h_aXaGeFtke9tPNiUm_4VQ" x="2273.25" y="655.91" text="debug: Ach!"/>
+<topic id="33" parent="2" guid="1MFbVfXeu0WB_wNO9L50Ig" x="822.92" y="1355.99" text="tilo: START RINGTAIL QUEST">
+<parent-relation guid="m7FVXOsggk2sfaespk3jGA"/>
+<note>
+[startQuest:quest_cureForRingtail]
+</note>
+</topic>
+<topic id="34" parent="33" guid="aEM3H8u290iFR0hmSqgohw" x="822.92" y="1494.32" text="debug: COMPLETE TASK">
+<note>
+[completeTask:quest_cureForRingtail.talkToFaustus]
+</note>
+</topic>
+<topic id="35" parent="2" guid="Uhua6V-iREKG1u9vrxddig" x="2034.27" y="1095.99" text="tilo: Try out Duinlan.">
+<parent-relation guid="yXytWcSQX0qoqPmnixvzBQ"/>
+</topic>
+<topic id="36" parent="35" guid="i63Jl_ytu0i0OjP_LxGkfA" x="2034.27" y="1234.41" text="duinlan: Nothing remembered\Never truly dies...">
+<parent-relation guid="3u6O3EvwT0u8Z-i5TMfPag"/>
+</topic>
+<topic id="37" parent="36" x="2034.27" y="1370.66" text="duinlan: My comrades\Nwill live on in memory."/>
+<topic id="38" parent="37" x="2034.27" y="1506.91" text="duinlan: I&apos;m grateful to you for\Nthis kindness. Pray, take this... may it\Nprovide you illumination without end."/>
+<topic id="39" parent="38" guid="N9LgydthsUKsnPbD4TF18A" x="2034.27" y="1644.41" text="You find yourself holding a curious\Nlantern, burning with a bluish flame.\NWhen you look the ghost is gone.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="40" parent="2" guid="w0SoYDU2K0exH3Rgm79nVg" x="-125.04" y="1649.57" text="tilo: If you\Nchange your mind..."/>
+<topic id="41" parent="2" guid="a3TnC4neME26x5AZC0CwHQ" x="2595.15" y="1093.55" text="tilo: Your mother&apos;s\Nlullaby--may I hear it?"/>
+<topic id="42" parent="41" x="2595.15" y="1204.68" text="silas: ... I&apos;ve not much\Nof a voice, but..."/>
+<topic id="43" parent="42" x="2598.48" y="1342.71" text="...">
+<note>
+[executeAction:performSong=song_lullaby]
+</note>
+</topic>
+<topic id="44" parent="43" x="2598.48" y="1487.72" text="silas: That&apos;s all that\NI remember of it."/>
+<topic id="45" parent="44" x="2422.65" y="1647.73" text="tilo: It&apos;s very beautiful."/>
+<topic id="46" parent="45" x="2422.65" y="1767.18" text="silas: Like Mother,\Nby all accounts."/>
+<topic id="47" parent="44" x="2776.20" y="1659.39" text="tilo: ... You were right\Nabout the voice."/>
+<topic id="48" parent="47" x="2776.20" y="1778.84" text="silas: Heh!\NTold you."/>
+<topic id="49" parent="2" guid="loOtboZQIkWsjPEF9PDGaw" x="2923.15" y="2591.55" text="tilo: My Lady, I think I have\Nthe name you bid me find.">
+<note>
+[counter:quizFindTrueLove=4]
+</note>
+</topic>
+<topic id="50" parent="49" x="2491.90" y="3039.73" text="duinlan: A name...?">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="51" parent="50" x="2321.40" y="3176.31" text="tilo: Aye, hidden\Nin the forest?"/>
+<topic id="52" parent="51" x="2321.40" y="3310.74" text="duinlan: A name... Aye,\Nthe name of my love..."/>
+<topic id="53" parent="50" x="2694.01" y="3176.31" text="tilo: The name of\Nthe one you loved."/>
+<topic id="54" parent="53" x="2694.01" y="3310.74" text="duinlan: Then, pray, speak it.">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="55" parent="54" guid="T24I6A08HU-oGVGyo-iNKA" x="2693.24" y="3487.85" text="DIALOGUE_HUB"/>
+<topic id="56" parent="55" guid="OGt-_jKd6Eq_BXjl30BVZA" x="2538.42" y="3927.36" text="tilo: I found the name of\NOulle, carved in stone...">
+<note>
+[lockableThread:incorrectNameC]
+</note>
+</topic>
+<topic id="57" parent="56" x="2538.42" y="4033.64" text="duinlan: Oulle?\NYou&apos;re sure?">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="58" parent="57" x="2622.92" y="4168.04" text="tilo: Wait... let\Nme think..."/>
+<topic id="59" parent="58" x="2622.92" y="4285.90" text="duinlan: Take all the\Ntime you need, good Mouse.">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="60" parent="57" x="2424.13" y="4168.04" text="tilo: I&apos;m\Ncertain of it.">
+<note>
+[lockThread:incorrectNameC]
+</note>
+</topic>
+<topic id="61" parent="60" x="2538.42" y="4489.81" text="duinlan: Oulle... The name\Nmeans nothing to me.\NCould you be mistaken?">
+<note>
+[updateCounter:quizFindTrueLove-1][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="62" parent="55" x="4444.63" y="3384.28" text="tilo: Rodrik--does this name\Nmean anything to you?">
+<note>
+[lockableThread:incorrectNameY]
+</note>
+</topic>
+<topic id="63" parent="62" x="4444.63" y="3506.74" text="duinlan: Rodrik. You found\Nthis name in the forest?">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="64" parent="63" x="4307.63" y="3667.60" text="tilo: Aye, I think so...">
+<note>
+[lockThread:incorrectNameY]
+</note>
+</topic>
+<topic id="65" parent="64" x="4444.63" y="3979.17" text="duinlan: Rodrik... &apos;tis a name I\Nhave heard--and not so long ago...">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="66" parent="65" x="4444.63" y="4152.03" text="duinlan: ... but my love? Nay.">
+<note>
+[updateCounter:quizFindTrueLove-1][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="67" parent="63" x="4565.63" y="3667.60" text="tilo: Perhaps it&apos;s just an\Nold name, that&apos;s all..."/>
+<topic id="68" parent="67" x="4565.63" y="3784.40" text="duinlan: Then you wish\Nto change your mind?">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="69" parent="55" guid="dC8bQVpdOEKR73gtQT1qpg" x="3610.03" y="3943.74" text="tilo: Canlunn, his\Nname was Canlunn.">
+<note>
+[lockableThread:incorrectNameB]
+</note>
+</topic>
+<topic id="70" parent="69" x="3610.03" y="4062.88" text="duinlan: Canlunn... Is that so?">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="71" parent="70" x="3456.70" y="4180.74" text="tilo: Aye... Canlunn,\Nthere&apos;s no doubt.">
+<note>
+[lockThread:incorrectNameB]
+</note>
+</topic>
+<topic id="72" parent="71" x="3601.14" y="4467.23" text="duinlan: Canlunn... Canlunn?\NImpossible! I&apos;ve no love for that oaf!">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="73" parent="72" x="3601.14" y="4599.27" text="duinlan: Nay, this\Nmust be wrong...">
+<note>
+[updateCounter:quizFindTrueLove-1][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="74" parent="70" x="3758.20" y="4180.74" text="tilo: ... Let me take a\Nmoment to make sure..."/>
+<topic id="75" parent="74" x="3758.20" y="4317.11" text="duinlan: I have waited almost a\Nthousand years. A few moments\Nmore will make no difference...">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="76" parent="55" guid="X5JldFPw00S2Ew37HnZanw" x="2067.85" y="4076.56" text="tilo: The name on the\Nstone was Hythe.">
+<note>
+[lockableThread:correctName]
+</note>
+</topic>
+<topic id="77" parent="76" x="2067.85" y="4200.24" text="duinlan: Hythe...\Nyou&apos;re certain?">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="78" parent="77" x="2177.85" y="4333.99" text="tilo: Wait... let\Nme think..."/>
+<topic id="79" parent="78" x="2177.85" y="4430.42" text="duinlan: By all\Nmeans...">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="80" parent="77" x="1969.57" y="4333.99" text="tilo: Aye, I&apos;m\Nsure of it."/>
+<topic id="81" parent="80" guid="smf55KXOn0GnGyWBqOAwNg" x="1969.57" y="4699.17" text="duinlan: Hythe... aye! Hythe... this\Nplace was named for both of us...">
+<note>
+[counter:hytheQuestions=0][executeAction:grantRenown=quizFindTrueLove]
+</note>
+</topic>
+<topic id="82" parent="55" guid="8GipS_CHcUm_EG9csaF_aQ" x="3104.37" y="3785.31" text="tilo: I believe his\Nname was Jothe.">
+<note>
+[lockableThread:incorrectNameA]
+</note>
+</topic>
+<topic id="83" parent="82" x="3104.26" y="3927.36" text="duinlan: Jothe?\NThere&apos;s no doubt?">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="84" parent="83" x="3188.76" y="4048.01" text="tilo: Wait--I should\Nmake sure..."/>
+<topic id="85" parent="84" x="3188.76" y="4165.87" text="duinlan: Pray, do\Nwhat you must...">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="86" parent="83" x="2989.97" y="4048.01" text="tilo: None at all...">
+<note>
+[lockThread:incorrectNameA]
+</note>
+</topic>
+<topic id="87" parent="86" x="3082.94" y="4351.02" text="duinlan: Jothe... I remember\NJothe... She was dear to\Nme indeed. But my true love...?">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="88" parent="87" x="3082.94" y="4531.17" text="duinlan: Nay, I think\Nyou are mistaken.">
+<note>
+[updateCounter:quizFindTrueLove-1][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="89" parent="55" x="3984.45" y="3486.74" text="tilo: Your true love--\Nhis name was Jahrlan.">
+<note>
+[lockableThread:incorrectNameX]
+</note>
+</topic>
+<topic id="90" parent="89" guid="UqoRwwGGJUmAkyvdymrOOw" x="3984.45" y="3590.45" text="duinlan: Jahrlan... This was\Nmy true love&apos;s name?">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="91" parent="90" guid="CcDeHMi2fUeuEGGbu4sSmw" x="3847.45" y="3751.31" text="tilo: Aye, I\Nthink so.">
+<note>
+[lockThread:incorrectNameX]
+</note>
+</topic>
+<topic id="92" parent="91" x="3984.45" y="4062.88" text="duinlan: Jahrlan...\NJahrlan? Nay...">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="93" parent="92" x="3984.45" y="4467.23" text="duinlan: He was a fellow\Nwarrior--perhaps the best of\Nus--and a good friend...">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="94" parent="93" x="3984.45" y="4599.27" text="duinlan: ...but my\Ntrue love? Never.">
+<note>
+[updateCounter:quizFindTrueLove-1][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="95" parent="90" x="4105.45" y="3751.31" text="tilo: Wait--you&apos;ve got\Nme doubting myself..."/>
+<topic id="96" parent="95" x="4105.45" y="3868.11" text="duinlan: I did not mean to, good\NMouse. Please, take your time...">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="97" parent="55" x="4440.60" y="4542.89" text="tilo: Let me think\Nfor a moment..."/>
+<topic id="98" parent="97" x="4192.44" y="4786.13" text="duinlan: I have\Nonly time...">
+<note>
+[variationIndex=0][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="99" parent="97" x="4715.90" y="4786.13" text="duinlan: I have faith\Nin you, good Mouse.">
+<note>
+[variationIndex=2][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="100" parent="97" x="4440.60" y="4719.03" text="duinlan: I have endured\Nfor a thousand years. I can wait\Na few moments longer.">
+<note>
+[variationIndex=1][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="101" parent="55" x="4747.00" y="4528.10" text="tilo: Forgive me, I should\Ngo and look again..."/>
+<topic id="102" parent="55" guid="P5kNFrlhf0-lS7NpeuOGFw" x="1201.29" y="5359.44" text="tilo: Habladme de Merra."/>
+<topic id="103" parent="102" x="1340.86" y="5514.73" text="ravik: ..."/>
+<topic id="104" parent="103" x="1340.86" y="5593.22" text="ravik: Muy bien. Debo consultar entonces con [Myghlar]...">
+<children>
+<image name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="168.56" y="-72.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="168.56" y="-72.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+<note>
+[footnote:myghlar]
+</note>
+</topic>
+<topic id="105" parent="104" x="1340.86" y="5741.99" text="Ravik cierra los ojos y extiende por completo las alas. Por un instante --casi una eternidad-- reina el silencio más absoluto. Y entonces la urraca habla con una voz tan clara que sientes como si fuera el único sonido que jamás hubiera existido.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="106" parent="105" x="1340.86" y="5900.11" text="ravik: Debes viajar a la [Isla de Periclave]. Allí te aguarda lo que estás buscando.">
+<children>
+<image name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="180.00" y="22.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="180.00" y="22.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+<note>
+[footnote:periclave][completeTask:quest_magpieAndMouseKing.askAboutMerra]
+</note>
+</topic>
+<topic id="107" parent="106" x="1872.10" y="6119.05" text="tilo: No me estáis mintiendo, ¿verdad, buena señora?">
+<note>
+[lockableThread:lyingMagpie][lockThread:lyingMagpie]
+</note>
+</topic>
+<topic id="108" parent="107" x="1872.10" y="6223.18" text="ravik: ¡Vigila tu lengua, ratón, si no quieres que te la arranque!">
+<children>
+<image name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="173.33" y="-39.68" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</children>
+<images>
+<image name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="173.33" y="-39.68" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="109" parent="108" x="1872.10" y="6311.89" text="ravik: Cuando digo algo, lo digo de veras.">
+<children>
+<image name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="181.07" y="20.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="181.07" y="20.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+</topic>
+<topic id="110" parent="106" x="1340.86" y="5997.75" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="111" parent="110" x="1127.81" y="6325.27" text="tilo: ¿Entonces la isla perdida de Periclave es real?"/>
+<topic id="112" parent="111" x="1128.67" y="6416.12" palette="4" colorinfo="4" text="ravik: ¿Perdida? Sigue estando en el mismo lugar de siempre. Y es muy real, te lo prometo."/>
+<topic id="113" parent="110" x="1549.30" y="6325.53" text="tilo: Periclave... Solo había oído hablar de ella en leyendas."/>
+<topic id="114" parent="113" x="1551.92" y="6416.36" text="ravik: Yo nací allí, en lo alto de las ruinas de la [gran torre].">
+<note>
+[footnote:periclave]
+</note>
+</topic>
+<topic id="115" parent="114" x="1722.94" y="6537.27" text="tilo: Entonces debo ir a Periclave."/>
+<topic id="116" parent="115" x="1722.94" y="6646.79" text="ravik: Necesitarás un barco y una buena dosis de suerte para llegar allí..."/>
+<topic id="117" parent="116" x="1722.94" y="6756.30" text="ravik: ... además de un mapa para sortear la corriente."/>
+<topic id="118" parent="117" x="1473.19" y="6964.17" text="tilo: Solo para encontrar los mapas me va a hacer falta un montón de suerte..."/>
+<topic id="119" parent="117" x="1722.94" y="6858.16" text="tilo: ¿Corriente?"/>
+<topic id="120" parent="119" x="1722.94" y="7036.73" palette="4" colorinfo="4" text="ravik: Eso lo serás tú, yo soy extraordinaria.">
+<children>
+<image name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="61.07" y="-75.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="61.07" y="-75.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="121" parent="120" x="1722.94" y="7179.78" text="ravik: Al pie de este acantilado, en una orilla inhóspita, encontrarás una barca de remos adecuada a tu tamaño."/>
+<topic id="122" parent="121" x="1527.19" y="7324.57" text="tilo: ¿Y qué hay de los mapas?"/>
+<topic id="123" parent="122" x="1527.19" y="7417.55" text="ravik: No puedo guiarte."/>
+<topic id="124" parent="123" x="1722.94" y="7565.65" text="ravik: Solo conozco las corrientes vistas desde el cielo. El lago es dominio de piratas y [ranas].">
+<note>
+[startQuest:quest_findPirateTreasure][footnote:vaelian_frogs]
+</note>
+</topic>
+<topic id="125" parent="124" x="1568.34" y="7728.99" text="tilo: ¿Y tal vez de ranas piratas?"/>
+<topic id="126" parent="125" x="1568.34" y="7824.52" text="ravik: Me he topado con unas cuantas."/>
+<topic id="127" parent="126" x="1736.51" y="7963.17" text="DIALOGUE_HUB"/>
+<topic id="128" parent="127" x="1551.05" y="8062.27" text="tilo: ¿Volveremos a vernos?"/>
+<topic id="129" parent="128" x="1551.05" y="8171.26" text="ravik: Me debes una gesta de tus aventuras. Un día vendré a cobrar la deuda."/>
+<topic id="130" parent="127" x="1941.45" y="8062.27" text="tilo: Os doy las gracias de corazón, Ravik de Periclave."/>
+<topic id="131" parent="130" x="1941.45" y="8173.16" text="ravik: Te voy a contar otro secreto..."/>
+<topic id="132" parent="131" x="1941.95" y="8290.18" text="ravik: ... eres un ratón valiente, Tilo el Trovador."/>
+<topic id="133" parent="132" x="1941.95" y="8397.49" text="ravik: Casi me alegro de no haberte convertido en mi cena."/>
+<topic id="134" parent="133" x="1941.95" y="8497.32" text="ravik: ¡Adiós!">
+<children>
+<image name="079c5637046b32005f3dab6504d618bd4ceae27c" x="118.18" y="1.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</children>
+<images>
+<image name="079c5637046b32005f3dab6504d618bd4ceae27c" x="118.18" y="1.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</images>
+<note>
+[executeAction:deactivateRavik]
+</note>
+</topic>
+<topic id="135" parent="134" x="1941.95" y="8614.59" text="Y con un batir de sus alas, la urraca desaparece.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="136" parent="124" x="1910.96" y="7728.99" text="tilo: Puede que ni llegue al lago."/>
+<topic id="137" parent="136" x="1910.96" y="7824.52" text="ravik: Probablemente no..., pero tampoco apostaría por ello."/>
+<topic id="138" parent="121" x="1942.01" y="7334.46" text="tilo: Por favor, seguro que conocéis algunos de los secretos del lago."/>
+<topic id="139" parent="117" x="1962.09" y="6916.73" text="tilo: ¿No podríais llevarme hasta allí?"/>
+<topic id="140" parent="139" x="1962.09" y="7036.73" text="ravik: Te puedo llevar en mi estómago.">
+<children>
+<image name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="124.40" y="20.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="124.40" y="20.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="141" parent="114" x="1339.27" y="6612.27" text="tilo: Si lo que se cuenta es cierto, debe ser un lugar peligroso."/>
+<topic id="142" parent="141" x="1338.66" y="6755.21" palette="4" colorinfo="4" text="ravik: ¿[Peligroso]? Es más tranquilo que un cementerio. Pero la travesía hasta allí ya es otro cantar.">
+<note>
+[footnote:periclave_legend]
+</note>
+</topic>
+<topic id="143" parent="106" x="940.80" y="6119.05" text="tilo: ¿Periclave? El barco de Merra se perdió en el Manto de Periclave.">
+<note>
+[lockableThread:lostInPericlavesCloak][lockThread:lostInPericlavesCloak]
+</note>
+</topic>
+<topic id="144" parent="143" x="940.80" y="6236.83" text="ravik:  Sin duda."/>
+<topic id="145" parent="55" guid="3BzUE0uQuE6G3k5cvD7AOg" x="-736.38" y="4509.10" text="tilo: Habladme de Merra."/>
+<topic id="146" parent="145" x="-596.81" y="4664.39" text="ravik: ..."/>
+<topic id="147" parent="146" x="-596.81" y="4742.88" text="ravik: Muy bien. Debo consultar entonces con [Myghlar]...">
+<children>
+<image name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="168.56" y="-72.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="168.56" y="-72.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+<note>
+[footnote:myghlar]
+</note>
+</topic>
+<topic id="148" parent="147" guid="kFChJfhh_06MWxa-jaiO5A" x="-596.81" y="4891.65" text="Ravik cierra los ojos y extiende por completo las alas. Por un instante --casi una eternidad-- reina el silencio más absoluto.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="149" parent="148" x="-596.81" y="5049.77" text="ravik: Debes viajar a la [Isla de Periclave]. Allí te aguarda lo que estás buscando.">
+<children>
+<image name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="180.00" y="22.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="180.00" y="22.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+<note>
+[footnote:periclave][completeTask:quest_magpieAndMouseKing.askAboutMerra]
+</note>
+</topic>
+<topic id="150" parent="149" x="-65.57" y="5268.71" text="tilo: No me estáis mintiendo, ¿verdad, buena señora?">
+<note>
+[lockableThread:lyingMagpie][lockThread:lyingMagpie]
+</note>
+</topic>
+<topic id="151" parent="150" x="-65.57" y="5372.84" text="ravik: ¡Vigila tu lengua, ratón, si no quieres que te la arranque!">
+<children>
+<image name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="173.33" y="-39.68" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</children>
+<images>
+<image name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="173.33" y="-39.68" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="152" parent="151" x="-65.57" y="5461.55" text="ravik: Cuando digo algo, lo digo de veras.">
+<children>
+<image name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="181.07" y="20.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="181.07" y="20.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+</topic>
+<topic id="153" parent="149" x="-596.81" y="5147.41" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="154" parent="153" x="-809.86" y="5474.93" text="tilo: ¿Entonces la isla perdida de Periclave es real?"/>
+<topic id="155" parent="154" x="-809.00" y="5565.78" palette="4" colorinfo="4" text="ravik: ¿Perdida? Sigue estando en el mismo lugar de siempre. Y es muy real, te lo prometo."/>
+<topic id="156" parent="153" x="-388.37" y="5475.19" text="tilo: Periclave... Solo había oído hablar de ella en leyendas."/>
+<topic id="157" parent="156" x="-385.75" y="5566.02" text="ravik: Yo nací allí, en lo alto de las ruinas de la [gran torre].">
+<note>
+[footnote:periclave]
+</note>
+</topic>
+<topic id="158" parent="157" x="-214.73" y="5686.93" text="tilo: Entonces debo ir a Periclave."/>
+<topic id="159" parent="158" x="-214.73" y="5796.45" text="ravik: Necesitarás un barco y una buena dosis de suerte para llegar allí..."/>
+<topic id="160" parent="159" x="-214.73" y="5905.96" text="ravik: ... además de un mapa para sortear la corriente."/>
+<topic id="161" parent="160" x="-464.48" y="6113.83" text="tilo: Solo para encontrar los mapas me va a hacer falta un montón de suerte..."/>
+<topic id="162" parent="160" x="-214.73" y="6007.82" text="tilo: ¿Corriente?"/>
+<topic id="163" parent="162" x="-214.73" y="6186.39" palette="4" colorinfo="4" text="ravik: Eso lo serás tú, yo soy extraordinaria.">
+<children>
+<image name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="61.07" y="-75.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="61.07" y="-75.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="164" parent="163" x="-214.73" y="6329.44" text="ravik: Al pie de este acantilado, en una orilla inhóspita, encontrarás una barca de remos adecuada a tu tamaño."/>
+<topic id="165" parent="164" x="-410.48" y="6474.23" text="tilo: ¿Y qué hay de los mapas?"/>
+<topic id="166" parent="165" x="-410.48" y="6567.21" text="ravik: No puedo guiarte."/>
+<topic id="167" parent="166" x="-214.73" y="6715.31" text="ravik: Solo conozco las corrientes vistas desde el cielo. El lago es dominio de piratas y [ranas].">
+<note>
+[startQuest:quest_findPirateTreasure][footnote:vaelian_frogs]
+</note>
+</topic>
+<topic id="168" parent="167" x="-369.33" y="6878.65" text="tilo: ¿Y tal vez de ranas piratas?"/>
+<topic id="169" parent="168" x="-369.33" y="6974.18" text="ravik: Me he topado con unas cuantas."/>
+<topic id="170" parent="169" x="-201.16" y="7112.83" text="DIALOGUE_HUB"/>
+<topic id="171" parent="170" x="-386.62" y="7211.93" text="tilo: ¿Volveremos a vernos?"/>
+<topic id="172" parent="171" x="-386.62" y="7320.92" text="ravik: Me debes una gesta de tus aventuras. Un día vendré a cobrar la deuda."/>
+<topic id="173" parent="170" x="3.78" y="7211.93" text="tilo: Os doy las gracias de corazón, Ravik de Periclave."/>
+<topic id="174" parent="173" x="3.78" y="7322.82" text="ravik: Te voy a contar otro secreto..."/>
+<topic id="175" parent="174" x="4.28" y="7439.84" text="ravik: ... eres un ratón valiente, Tilo el Trovador."/>
+<topic id="176" parent="175" x="4.28" y="7547.15" text="ravik: Casi me alegro de no haberte convertido en mi cena."/>
+<topic id="177" parent="176" x="4.28" y="7646.98" text="ravik: ¡Adiós!">
+<children>
+<image name="079c5637046b32005f3dab6504d618bd4ceae27c" x="118.18" y="1.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</children>
+<images>
+<image name="079c5637046b32005f3dab6504d618bd4ceae27c" x="118.18" y="1.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</images>
+<note>
+[executeAction:deactivateRavik]
+</note>
+</topic>
+<topic id="178" parent="177" x="4.28" y="7764.25" text="Y con un batir de sus alas, la urraca desaparece.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="179" parent="167" x="-26.71" y="6878.65" text="tilo: Puede que ni llegue al lago."/>
+<topic id="180" parent="179" x="-26.71" y="6974.18" text="ravik: Probablemente no..., pero tampoco apostaría por ello."/>
+<topic id="181" parent="164" x="4.34" y="6484.12" text="tilo: Por favor, seguro que conocéis algunos de los secretos del lago."/>
+<topic id="182" parent="160" x="24.42" y="6066.39" text="tilo: ¿No podríais llevarme hasta allí?"/>
+<topic id="183" parent="182" x="24.42" y="6186.39" text="ravik: Te puedo llevar en mi estómago.">
+<children>
+<image name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="124.40" y="20.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="124.40" y="20.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="184" parent="157" x="-598.40" y="5761.93" text="tilo: Si lo que se cuenta es cierto, debe ser un lugar peligroso."/>
+<topic id="185" parent="184" x="-599.01" y="5904.87" palette="4" colorinfo="4" text="ravik: ¿[Peligroso]? Es más tranquilo que un cementerio. Pero la travesía hasta allí ya es otro cantar.">
+<note>
+[footnote:periclave_legend]
+</note>
+</topic>
+<topic id="186" parent="149" x="-996.87" y="5268.71" text="tilo: ¿Periclave? El barco de Merra se perdió en el Manto de Periclave.">
+<note>
+[lockableThread:lostInPericlavesCloak][lockThread:lostInPericlavesCloak]
+</note>
+</topic>
+<topic id="187" parent="186" x="-996.87" y="5386.49" text="ravik:  Sin duda."/>
+<topic id="188" parent="49" x="2803.15" y="3039.73" text="duinlan: Perhaps this time...">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="189" parent="49" x="3105.14" y="2999.73" text="duinlan: His true name?">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="190" parent="49" x="3407.67" y="3039.73" text="duinlan: Tell me, good\NMouse--please...">
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="191" parent="0" guid="bCe_NYhmQEK84QIoxnw_0g" x="1020.83" y="378.62" palette="3" colorinfo="3" text="debug: What is it?">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="192" parent="0" guid="sK5NvW1Em0uVMCd3p1rJJg" x="1142.95" y="76.76" palette="4" colorinfo="4" text="The great Magpie&apos;s cry shakes the hall,\Nknocking you from your feet. The\Nchest slips from your paws and\Nsplinters against the flagstones.">
+<note>
+[priorityOverride][narration][lockableThread:narrationAsFirstNode=true][lockThread:narrationAsFirstNode]
+</note>
+</topic>
+<topic id="193" parent="-1" guid="AnNeova8WEi2ZUGu4cpmGg" x="-125.04" y="2120.89" palette="1" colorinfo="1" text="silas: ... You don&apos;t remember\Nwhen we first met, do you?">
+<note>
+[lockableThread:silasConfesses=true][lockThread:silasConfesses]
+</note>
+</topic>
+<topic id="194" parent="-1" guid="Na8Cj_DywEuQIxTwEvzjmw" x="-125.04" y="1897.53" palette="1" colorinfo="1" text="You place the cell key on the\Nbunk beside your friend.">
+<note>
+[narration][unlockThread:silasConfesses]
+</note>
+</topic>
+</topics>
+<relations>
+<relation guid="EGAlgnVGokSkBT2-sNtXGA" source="191" target="2"/>
+<relation source="191" target="1"/>
+<relation guid="BYAkB3usX0SNwA24divllQ" source="39" target="2"/>
+<relation source="194" target="193"/>
+<relation source="40" target="194"/>
+<relation source="61" target="55"/>
+<relation source="88" target="55"/>
+<relation source="94" target="55"/>
+<relation source="73" target="55"/>
+<relation source="79" target="55"/>
+<relation source="59" target="55"/>
+<relation source="85" target="55"/>
+<relation source="75" target="55"/>
+<relation source="96" target="55"/>
+<relation source="52" target="54"/>
+<relation source="190" target="188"/>
+<relation source="189" target="54"/>
+<relation source="188" target="55"/>
+<relation source="190" target="55"/>
+<relation source="66" target="55"/>
+<relation source="68" target="55"/>
+<relation source="99" target="98"/>
+<relation source="98" target="55"/>
+<relation source="100" target="55"/>
+<relation source="99" target="55"/>
+<relation source="140" target="121"/>
+<relation source="118" target="121"/>
+<relation source="112" target="114"/>
+<relation source="142" target="117"/>
+<relation source="109" target="110"/>
+<relation source="144" target="110"/>
+<relation source="137" target="127"/>
+<relation source="138" target="124"/>
+<relation source="129" target="131"/>
+<relation source="183" target="164"/>
+<relation source="161" target="164"/>
+<relation source="155" target="157"/>
+<relation source="185" target="160"/>
+<relation source="152" target="153"/>
+<relation source="187" target="153"/>
+<relation source="180" target="170"/>
+<relation source="181" target="167"/>
+<relation source="172" target="174"/>
+</relations>
+<stylesheet>
+<general description="quest_style" timestamp="2014-10-28+11:16:41" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<cross-links line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

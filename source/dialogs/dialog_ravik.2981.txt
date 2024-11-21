@@ -1,0 +1,1979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="8C749498F2084B178C4F8D063C8E620F"/>
+<title text="dialog_ravik"/>
+<images containsImages="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="50" x="258" y="-737"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="OMJKNYuep0ynoH8pZ9PS7g" x="722.22" y="-2443.34" palette="1" colorinfo="1" text="dialog_ravik">
+<note>
+[characters:Ravk;Tilo]version_06-03-18_006-Added quizzes for renownversion_05-03-18_005-Added portraitsversion_02-24-18_004-Added action to start dying light elevatorversion_02-14-18_003Updated the song to refer to Duinlan as &apos;Her&apos;version_08-11-17_002Updated to reflect that Merra is on Periclaveversion_110716_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="mlZy8EYgU0yG36aFkuJDIw" x="-1311.85" y="-1825.66" palette="2" colorinfo="2" text="ravik: Who is this that\Napproaches in the dark?">
+<children>
+<image guid="_cICZc_0vU-WDHu5L048ng" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="93.75" y="-77.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="_cICZc_0vU-WDHu5L048ng" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="93.75" y="-77.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+<note>
+[lockableThread:firstIntro][lockThread:firstIntro][variationIndex=0][reveal:costume_king=true][counter:metRavik=0][updateCounter:metRavik=1]
+</note>
+</topic>
+<topic id="2" parent="1" guid="KiZPPG1Oj0CtFq8a8y5mBg" x="-1478.80" y="-1698.07" text="tilo: Magpie, I must\Nspeak with you."/>
+<topic id="3" parent="2" guid="Ut3NIvdSAEOJLx3i178wUQ" x="-1478.80" y="-1582.07" text="ravik: By what authority do\Nyou claim such a privilege?">
+<children>
+<image guid="znE7aAF6zUKblbCgdW8OgA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="141.25" y="-74.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="znE7aAF6zUKblbCgdW8OgA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="141.25" y="-74.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="4" parent="3" guid="9_ruxdB9fEGzsr59qnKNLQ" x="-1349.08" y="-1354.07" text="tilo: By the\Nright of a king!"/>
+<topic id="5" parent="3" guid="6hs2GtBLsk-Mp3tdmkPLyA" x="-1609.80" y="-1461.96" text="tilo: Do you not\Nsee who you are\Naddressing?"/>
+<topic id="6" parent="5" guid="CrXY8taNNU6hBcx1CI2r4A" x="-1609.80" y="-1354.07" text="ravik: This light is no\Ngood for my eyes.\NCome closer...">
+<children>
+<image guid="DMs17Cf9lUWrgSsKar_GPw" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="93.75" y="42.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="DMs17Cf9lUWrgSsKar_GPw" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="93.75" y="42.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+<note>
+[unlockThread:comeCloserIntro]
+</note>
+</topic>
+<topic id="7" parent="1" guid="nqvZ2WwhekeownnXSxOYOw" x="-1146.48" y="-1582.07" text="tilo: Bow your head,\NMagpie. You are in the\Npresence of royalty."/>
+<topic id="8" parent="7" guid="1xop_FIHnEqgqBWowDWF4w" x="-1146.48" y="-1353.08" text="ravik: A king...?">
+<children>
+<image guid="5eO0WFcl9kqVe4vs2zpkeg" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="60.00" y="-59.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="5eO0WFcl9kqVe4vs2zpkeg" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="60.00" y="-59.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+</topic>
+<topic id="9" parent="8" guid="MX25xcUcLEK57KxiNLFqnA" x="-1147.07" y="-1239.92" text="ravik: Your\NMajesty, this is\Nan honour!">
+<children>
+<image guid="GfoSR-DVskeTv6Jcgkv2Bw" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="97.50" y="19.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="GfoSR-DVskeTv6Jcgkv2Bw" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="97.50" y="19.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="10" parent="9" guid="WsXK1zB3rEuKXyo8QKUqcQ" x="-1146.79" y="-1103.25" text="ravik: I am Ravik, descendant of\N[Myghlar], and daughter of Elgim.">
+<note>
+[footnote:myghlar][executeAction:revealTrueName=character_ravik]
+</note>
+</topic>
+<topic id="11" parent="10" guid="d5Cyr3vzDkSDJjbgXfVMUw" x="-1369.50" y="-887.53" text="tilo: I am\NKing Souk."/>
+<topic id="12" parent="11" guid="LfICodJgq0qF9t16cUBBuA" x="-1367.91" y="-726.45" text="ravik: King Souk the Elusive,\Nwhose name is known by all, but\Nwhose face is difficult to place?">
+<children>
+<image guid="PUfy1kMQJ0KPiUf8mXcRuw" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="-163.75" y="-85.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="PUfy1kMQJ0KPiUf8mXcRuw" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="-163.75" y="-85.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="13" parent="12" guid="Afo3X7r2Fka46H_lCq-GPg" x="-1366.32" y="-588.72" text="ravik: King Souk the Enigmatic,\Nabout whom only vagaries are\Nknown?">
+<parent-relation guid="C03qf3ELAEyUTe052vZOeA"/>
+</topic>
+<topic id="14" parent="13" guid="sjCIfqW8r022wffVphtrCQ" x="-1368.65" y="-312.05" text="ravik: King Souk the Indefinable,\Nwhose magnificence is\Nimpossible to put into words?">
+<children>
+<image guid="gfmCEMduS0-28SheXbfsNg" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="-186.25" y="-39.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="gfmCEMduS0-28SheXbfsNg" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="-186.25" y="-39.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="15" parent="10" guid="RQ3wdLbn9EqQt0IuvGbOQA" x="-987.29" y="-890.07" text="tilo: And I am\NKing Nor."/>
+<topic id="16" parent="15" guid="nY3QtJ14s0mWNCG_1Whkcg" x="-987.52" y="-724.12" text="ravik: King Nor the Ruthless,\Nwhose armies almost brought\Nthe five Rat lands to their knees?">
+<children>
+<image guid="EDH9EVB0Hk6t27lf6UJTlA" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="142.50" y="-91.67" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="EDH9EVB0Hk6t27lf6UJTlA" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="142.50" y="-91.67" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="17" parent="16" guid="QGwTB1KHl0i7aKLjGCrcMg" x="-991.26" y="-592.25" text="ravik: King Nor the Querulous,\Nquick to anger, and known\Nnever to forgive?"/>
+<topic id="18" parent="17" guid="w8P1DNv3a0aXYq30-Ebcrw" x="-992.95" y="-457.58" text="ravik: King Nor the Rancorous,\Nwho visits swift vengeance\Nupon all who displease him?">
+<children>
+<image guid="oF5UbfVvUUeRIM0UoN9QYA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="178.57" y="30.66" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="oF5UbfVvUUeRIM0UoN9QYA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="178.57" y="30.66" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="19" parent="18" guid="v7Zfi99OsEeKRMHhGLUdqQ" x="-994.90" y="-312.47" text="ravik: King Nor the Crepuscular,\Nwhose victims&apos; cries haunt the\Ndusk and the dawn?"/>
+<topic id="20" parent="19" guid="kCIsR4whoUqXBJ_H1GZ1fQ" x="-1166.30" y="-160.14" text="NULL NODE">
+<parent-relation guid="kuNwRJix0UCEzbmwE4h5DA"/>
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="21" parent="20" guid="w2oGohpH0EKbipSZr23t0A" x="-1334.81" y="19.37" text="tilo: The very same--and I\Nam in need of your counsel."/>
+<topic id="22" parent="21" guid="erseal_vBUmzGLwNJ7_YPQ" x="-1336.19" y="173.37" text="ravik: And I am\Nhonour-bound to give\Nit, Your Highness...">
+<children>
+<image guid="4dorCFs79EmJ6NdI0Gd91w" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="-148.89" y="58.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="4dorCFs79EmJ6NdI0Gd91w" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="-148.89" y="58.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="23" parent="22" guid="JoQU3LRfy0mJZduixgYkgg" x="-1182.56" y="452.21" text="ravik: ... but first, would you kindly\Nremove the shade from this [dying\Nlight] and illuminate the hall?">
+<note>
+[completeTask:quest_magpieAndMouseKing.talkToMagpieA][footnote:dying_light]
+</note>
+</topic>
+<topic id="24" parent="23" guid="TmUcPYLc0EWx5WxIBMTfSg" x="-1182.56" y="626.19" text="DIALOGUE_HUB"/>
+<topic id="25" parent="24" guid="gNh8bg8YUEu5UXCMckNUgg" x="-1324.57" y="781.83" text="tilo: Illuminate the hall?\NFor what reason?">
+<parent-relation guid="zwyd0UI9DkyjYXiMpRdKVw"/>
+<note>
+[lockableThread:whyLightBraziers][lockThread:whyLightBraziers]
+</note>
+</topic>
+<topic id="26" parent="25" guid="xcubE301dEGYqA6xxwDTeg" x="-1324.57" y="913.50" text="ravik: For what\Nreason? So I might\Nbetter see your majesty."/>
+<topic id="27" parent="24" guid="hJzVu5YqvESHFqshwO8hcA" x="-740.77" y="796.54" text="tilo: Give me the answers\NI seek, and I will help\Nyou in return.">
+<parent-relation guid="HSYl7wn19kOYOS8tvEJFpQ"/>
+<note>
+[lockableThread:askForAnswers][lockThread:askForAnswers]
+</note>
+</topic>
+<topic id="28" parent="27" guid="H0SCErrhlEKI8TGYdWG8PQ" x="-740.77" y="914.13" text="ravik: Forgive me,\NYour Majesty, but it&apos;s so dark..."/>
+<topic id="29" parent="28" guid="P1WzAiML5EGYYdJf0pD4GA" x="-740.77" y="1024.79" text="ravik: ... and I can scarcely\Nsee my [Codex Feathers].">
+<children>
+<image guid="SBpNxSQ57E2d4DLfiWOZWw" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="156.25" y="7.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="SBpNxSQ57E2d4DLfiWOZWw" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="156.25" y="7.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+<note>
+[footnote:codex_feathers]
+</note>
+</topic>
+<topic id="30" parent="24" guid="n6D34_9vWEaLgHnngtnapw" x="-1599.31" y="781.83" text="tilo: Who am I to refuse a\NMagpie&apos;s request?"/>
+<topic id="31" parent="30" guid="DBxikmQ8bEqxFWu27KfACA" x="-1599.31" y="913.50" text="ravik: Sire, you\Nare gracious indeed.">
+<parent-relation guid="0SwMKjgtqUKU5bVK8JOZ_w"/>
+<children>
+<image guid="GOxz1_D3-Umcm4PI_iZqWA" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="-150.00" y="-5.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="GOxz1_D3-Umcm4PI_iZqWA" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="-150.00" y="-5.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+<note>
+[executeAction:deactivateSilasInCot]
+</note>
+</topic>
+<topic id="32" parent="20" guid="jGk_7KbaH0GmVd5jZIHMbg" x="-1044.52" y="-41.81" text="tilo: Then you&apos;ve\Nheard of me."/>
+<topic id="33" parent="32" guid="wGbdvdb63UyVUECnXtlr9A" x="-1043.83" y="56.24" text="ravik: Can there be any\Ncreature that hasn&apos;t?">
+<children>
+<image guid="NoxfyLpP8UGJxkg-iEZWFQ" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="150.00" y="-61.67" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="NoxfyLpP8UGJxkg-iEZWFQ" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="150.00" y="-61.67" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="34" parent="33" guid="oa_12nTga02CnFpnD7fgNA" x="-1044.59" y="153.32" text="ravik: It is an honour to\Nbe in your presence...">
+<children>
+<image guid="HmjvBtIWwE6_Lv6glpV6DA" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="134.44" y="4.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="HmjvBtIWwE6_Lv6glpV6DA" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="134.44" y="4.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="35" parent="34" x="-1047.03" y="263.75" text="ravik: ... and I would\Nsing of your magnificence..."/>
+<topic id="36" parent="1" x="-426.87" y="-396.39" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="37" parent="0" guid="Idk49rK5f0e80DI2RVuQtQ" x="815.71" y="-2048.51" palette="3" colorinfo="3" text="ravik: Your Majesty\Nhas returned!">
+<children>
+<image guid="DdeAeIig60yo_UmlxZDEIA" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="-40.00" y="-90.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="DdeAeIig60yo_UmlxZDEIA" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="-40.00" y="-90.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2][reveal:costume_king=true;quest_magpieAndMouseKing.getTapestry=inactive][unlockThread:libraryTorchesActive]
+</note>
+</topic>
+<topic id="38" parent="37" guid="l4BCNRVyxESHSvjrt_TNMg" x="985.80" y="-1875.39" text="DIALOGUE_HUB_A"/>
+<topic id="39" parent="38" guid="nUSlX-XZxEqlrShpm07uRw" x="1152.96" y="-1746.01" text="DIALOGUE_HUB_B">
+<parent-relation guid="F0C41QX4GEGJN1GYM4lyjg"/>
+</topic>
+<topic id="40" parent="39" guid="ZdomWmSMsEGRBxKp3MtKfw" x="271.53" y="-1344.22" text="tilo: I haven&apos;t yet been able to\Nuncover the dying light, Lady Magpie.">
+<parent-relation guid="gXd2Fr7nuEGz29SW5e3gfw"/>
+<note>
+[lockableThread:libraryTorchesActive][lockThread:libraryTorchesActive][reveal:quest_magpieAndMouseKing.illuminateHall=active]
+</note>
+</topic>
+<topic id="41" parent="40" guid="08MWf_r150meDQUUYqfE7g" x="37.64" y="-1098.56" text="ravik: So I see.\NThus, I do not.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="42" parent="41" guid="lJZKF47ZNkOePlHF2ZflOg" x="273.53" y="-860.22" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="43" parent="40" guid="9syr5F8OWEeEAxeONsn8pw" x="511.53" y="-1098.56" text="ravik: It&apos;s so dark,\NYour Majesty...">
+<children>
+<image guid="T11o0eyubU2u9h5ztdbPEQ" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="115.71" y="16.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="T11o0eyubU2u9h5ztdbPEQ" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="115.71" y="16.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="44" parent="40" guid="0MqURAjSC06OH39wMlv0wg" x="271.53" y="-1170.22" text="ravik: Please, Your\NHighness, you must try.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="45" parent="39" guid="qrXjeGRhp02_4T6Ac5xPFA" x="2510.23" y="-1001.77" text="tilo: Great Magpie, please, I\Ncame here to ask you a question.">
+<note>
+[lockableThread:tapestryBeginning=true][lockThread:tapestryBeginning][reveal:quest_magpieAndMouseKing.talkToMagpieB=active]
+</note>
+</topic>
+<topic id="46" parent="45" guid="KCGkHa6RyU2bVzAcJ801Yw" x="2509.50" y="-814.49" text="ravik: By my reckoning\Nmy debt to you is paid."/>
+<topic id="47" parent="46" guid="5weE3aiy5063wq7SqF_l1Q" x="2385.91" y="-705.10" text="tilo: Did I not show you the\Nrespect you are due?"/>
+<topic id="48" parent="47" guid="zLI6QAsD90mw5RKCGN_TXg" x="2385.91" y="-633.44" text="ravik: Disguised\Nas a king?!">
+<children>
+<image guid="_CMpAieoS0e9c9jyn--dqg" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="-110.83" y="46.91" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="_CMpAieoS0e9c9jyn--dqg" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="-110.83" y="46.91" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="49" parent="48" guid="PMmd3SwsaUmifnQoIT3Spg" x="2517.68" y="-531.77" text="ravik: You tried\Nto deceive me.">
+<parent-relation guid="0UBiujaRx0SUUZlhPlEntQ"/>
+</topic>
+<topic id="50" parent="49" x="2653.33" y="-436.03" text="tilo: Did I not pay for\Nmy lie with the truth?"/>
+<topic id="51" parent="50" guid="v-VTiUjnVUes_MayQ1M1Zg" x="2653.33" y="-355.88" text="ravik: You merely\Nsang me a song.">
+<children>
+<image guid="ePv9LoDWAEWfsTkQYAZvOw" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="93.61" y="45.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="ePv9LoDWAEWfsTkQYAZvOw" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="93.61" y="45.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+</topic>
+<topic id="52" parent="51" guid="dmDwdRaVvUKJz4K0M3juFQ" x="2510.46" y="-235.01" text="ravik: And I\Nlet you live.">
+<children>
+<image guid="oxiQrPmqcUivgYkiDdlXew" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="91.11" y="13.61" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="oxiQrPmqcUivgYkiDdlXew" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="91.11" y="13.61" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="53" parent="52" x="2510.46" y="-115.57" text="ravik: But perhaps there is a\Nbargain to be made between us."/>
+<topic id="54" parent="53" guid="NklNh8ZqUUO7GOncopeGmA" x="2510.46" y="17.47" text="ravik: I came to this place only\Nonce before, as a fledgling, but\Nthe tunnels seem to have grown\Nnarrower in the years since."/>
+<topic id="55" parent="54" guid="9rt3JLRGKE-WOqn9cMKhLA" x="2510.46" y="156.42" text="ravik: I wish to explore the\NLower Hall, but this hole here\Nhas shrunk more than the rest.">
+<children>
+<image guid="9obspKSCf0O7_DeTLqJPDg" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="177.78" y="18.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="9obspKSCf0O7_DeTLqJPDg" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="177.78" y="18.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="56" parent="55" guid="BRKsoLP8A0e9GvZJCM88eA" x="2510.46" y="277.31" text="ravik: Perhaps you\Ncan go in my stead.">
+<parent-relation guid="Ah-zFD-ZgEunfCqLXivw1A"/>
+<note>
+[unlockThread:acceptTapestryTask]
+</note>
+</topic>
+<topic id="57" parent="56" x="2679.34" y="514.01" text="tilo: I don&apos;t think so."/>
+<topic id="58" parent="57" guid="--1oqktjr02Ne9pM2FlxEw" x="2679.34" y="654.40" text="ravik: Then our\Nconversation is at an end."/>
+<topic id="59" parent="58" guid="9f2CeUs8F0OYbDk5Bistdw" x="2679.34" y="793.80" text="ravik: You have until my strength\Nreturns to change your mind.">
+<children>
+<image guid="8sGVynXIuEKiNJZ_g9igjQ" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="173.61" y="-71.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="8sGVynXIuEKiNJZ_g9igjQ" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="173.61" y="-71.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="60" parent="49" guid="2OQcR-b4nkiQ734QAnqlIw" x="2366.63" y="-401.77" text="tilo: I played for you!"/>
+<topic id="61" parent="46" guid="0kapw3NJakyizX-iu68EEw" x="2620.47" y="-679.51" text="tilo: But... I\Nbrought you light!"/>
+<topic id="62" parent="39" guid="Ev9s4eqAh0Oong1yXNLo2g" x="6222.88" y="-2116.54" text="tilo: I&apos;ve done everything\Nthat you&apos;ve asked of me.">
+<parent-relation guid="Y9ZKRrc39UORRdCZSvv8-A"/>
+<note>
+[reveal:quest_magpieAndMouseKing.askAboutMerra=active]
+</note>
+</topic>
+<topic id="63" parent="62" guid="gikEsq9FvUufnTMlSnoL7Q" x="6222.88" y="-2019.23" text="ravik: You have indeed."/>
+<topic id="64" parent="63" guid="qhkF6OU4N0mgHP5nWv9iDQ" x="6222.88" y="-1909.40" text="ravik: Now, Mouse. You may ask\None question of me, and one only.">
+<children>
+<image guid="QteiVF9Z_kC5F-4axWrjJg" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="192.50" y="27.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="QteiVF9Z_kC5F-4axWrjJg" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="192.50" y="27.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="65" parent="64" guid="v44L8517V0OfcsB0LFe9ng" x="6373.37" y="-1743.72" text="tilo: Merra… where is she?"/>
+<topic id="66" parent="64" x="6050.36" y="-1748.81" text="tilo: Why did Merra refuse\Nto sing to the Baron?"/>
+<topic id="67" parent="66" guid="wK4Sc_0xukKRY6sgu3ltXg" x="6227.86" y="-1627.53" text="ravik: ...">
+<children>
+<image guid="4gWzNLH2Qk64YjRMql5rEQ" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="75.36" y="13.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="4gWzNLH2Qk64YjRMql5rEQ" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="75.36" y="13.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="68" parent="67" guid="KDN7pWMk_U2hQrakRnDLZQ" x="6227.86" y="-1521.81" text="ravik: ... Who?"/>
+<topic id="69" parent="68" x="6088.86" y="-1336.81" text="tilo: Merra, my wife."/>
+<topic id="70" parent="69" guid="wO5m8kGrWUmhSj4lf7DfjA" x="6243.86" y="-1141.81" text="ravik: You... don’t want to ask\Nme anything else? Perhaps\Nabout the [uprising in the north]?">
+<children>
+<image guid="MG2mi-8ga0qy1QZYlckABQ" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="205.56" y="-6.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="MG2mi-8ga0qy1QZYlckABQ" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="205.56" y="-6.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+<note>
+[footnote:great_birham]
+</note>
+</topic>
+<topic id="71" parent="70" guid="qszTwq6t10CG2Rwi9EYtUQ" x="6101.86" y="-952.43" text="tilo: Please,\Nanswer my question."/>
+<topic id="72" parent="71" guid="W8BPxCVzG0GObn-yRa4nbQ" x="6242.86" y="-745.81" text="ravik: Perhaps I could tell you of how the\Nstars were sewn into heaven&apos;s tapestry,\Nor reveal the mysteries of what lies beyond!">
+<children>
+<image guid="S4mNxKj_DU6ThcA501ZkEA" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="242.22" y="29.15" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="S4mNxKj_DU6ThcA501ZkEA" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="242.22" y="29.15" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="73" parent="72" guid="LfwT1VJ5_kmm7XuIJ6LDOA" x="6101.86" y="-592.95" text="tilo: The heavens?\NNo thank you."/>
+<topic id="74" parent="73" guid="hHzm-kt4SkmjAPzpkzqRTA" x="6101.86" y="-489.81" text="ravik: No good?">
+<children>
+<image guid="0BOl3OOZTEKTQeSN1SeikQ" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="102.50" y="22.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="0BOl3OOZTEKTQeSN1SeikQ" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="102.50" y="22.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="75" parent="74" guid="phJpYAFb00ybns22O5ihhQ" x="6259.36" y="-357.81" text="ravik: I can give you the secret to making gold from\Nlead, or tell you the final words of King Rodgar?"/>
+<topic id="76" parent="75" guid="ySun3ag6f0CSPr8lSMntMQ" x="6103.29" y="-173.67" text="tilo: Tell me about Merra."/>
+<topic id="77" parent="76" guid="mF3A-mVCvkOYc4GEIgVZuA" x="6242.86" y="-18.38" text="ravik: ..."/>
+<topic id="78" parent="77" guid="4kIumU9bHkyKbhMk2z9iPA" x="6242.86" y="60.11" text="ravik: Very well--then I\Nmust consult with\N[Myghlar]…">
+<children>
+<image guid="-pxXygwIv0-iV-5CeB98lw" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="162.02" y="-71.22" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="-pxXygwIv0-iV-5CeB98lw" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="162.02" y="-71.22" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+<note>
+[footnote:myghlar]
+</note>
+</topic>
+<topic id="79" parent="78" guid="mXH97y3juEGW89aD2T2Q0w" x="6242.86" y="208.88" text="Ravik closes her eyes, and stretches\Nout her wings to their fullest extent.\NThere is a moment, almost an eternity, of\Nabsolute silence. And then the\NMagpie speaks, her voice so clear\Nthat it seems to you as if it is the\Nonly sound that has ever existed.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="80" parent="79" guid="GqFyhCFNt0u3SMgvdjON1g" x="6242.86" y="367.00" text="ravik: You must journey to the\N[Isle of Periclave]. What you\Nseek is waiting for you there.">
+<parent-relation guid="ZLVhPV3LqUmqbRJqeQ_LQw"/>
+<children>
+<image guid="6A4t2OoOE0CjxfWNU8nuAg" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="180.00" y="22.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="6A4t2OoOE0CjxfWNU8nuAg" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="180.00" y="22.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+<note>
+[footnote:periclave][completeTask:quest_magpieAndMouseKing.askAboutMerra]
+</note>
+</topic>
+<topic id="81" parent="80" guid="kyaZZvRxBEaOfKkE3yOiNg" x="6774.10" y="585.94" text="tilo: You&apos;re not lying to\Nme, are you Miss?">
+<parent-relation guid="w_ikz1ahRUip1D0j6Oynzw"/>
+<note>
+[lockableThread:lyingMagpie][lockThread:lyingMagpie]
+</note>
+</topic>
+<topic id="82" parent="81" guid="DKqTvfRryUCPzErQNqQ6Bg" x="6774.10" y="690.07" text="ravik: Watch your tongue,\NMouse, or I&apos;ll take it from you!">
+<children>
+<image guid="1CyeFjz7qE2tXPHonyaMDA" name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="173.33" y="-39.68" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="1CyeFjz7qE2tXPHonyaMDA" name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="173.33" y="-39.68" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="83" parent="82" guid="Q4YzDRVQnEOCQaacdGVyOQ" x="6774.10" y="778.78" text="ravik: I say only what I mean.">
+<children>
+<image guid="uPy4Y4Hio0eLU5ONTG1adA" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="181.07" y="20.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="uPy4Y4Hio0eLU5ONTG1adA" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="181.07" y="20.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+</topic>
+<topic id="84" parent="80" guid="4Hgl9IrHpUurCRiQxbmRcQ" x="6242.86" y="464.64" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="85" parent="84" guid="LO0bm3CiI0eLQjnrNnbn8w" x="6029.81" y="792.16" text="tilo: So there truly is a lost island of Periclave?">
+<parent-relation guid="o9VjF3x80EeEd230ebKUXg"/>
+</topic>
+<topic id="86" parent="85" guid="pXlAx-1PGkyKVJRCQLB4cQ" x="6030.67" y="883.01" palette="4" colorinfo="4" text="ravik: Lost? It’s exactly\Nwhere it’s always been. And\Nit is real, I promise you."/>
+<topic id="87" parent="84" guid="Vh9ms7RBkUuF7sWUAt5NAQ" x="6451.30" y="792.42" text="tilo: Periclave... I&apos;ve heard it\Nspoken of only in legend.">
+<parent-relation guid="i9YLgdJ9G0yYOVoCckp1aA"/>
+</topic>
+<topic id="88" parent="87" guid="Kfz8gL_sj0GzjHEghEdyog" x="6453.92" y="883.25" text="ravik: I was born there, atop\Nthe ruins of the [great tower].">
+<note>
+[footnote:periclave]
+</note>
+</topic>
+<topic id="89" parent="88" guid="JGEljWNIzEyaVF1XjMywQA" x="6624.94" y="1004.16" text="tilo: Then I must\Ngo to Periclave."/>
+<topic id="90" parent="89" guid="Lbj2ZFHvP0yxK3De8N_Glw" x="6624.94" y="1113.68" text="ravik: You’ll need a ship, and\Nsome luck to carry you there..."/>
+<topic id="91" parent="90" guid="TZvikWk340OuLzZKHSBG2w" x="6624.94" y="1223.19" text="ravik: ... and a chart to\Nnavigate the currents.">
+<parent-relation guid="2hUSdwN9UEOhZWwE8LZFaQ"/>
+</topic>
+<topic id="92" parent="91" guid="E8l6Va_9gkycOvtOAqayOA" x="6375.19" y="1431.06" text="tilo: I&apos;ll need luck just\Nto find the charts..."/>
+<topic id="93" parent="91" guid="JQ9xspObdUulV51yTYPNhg" x="6624.94" y="1325.05" text="tilo: Currents?"/>
+<topic id="94" parent="93" guid="FsY1zfHNOU2k_PDSCpc7Dw" x="6624.94" y="1503.62" palette="4" colorinfo="4" text="ravik: No thank you,\Nthey upset my stomach.">
+<children>
+<image guid="mwtVpBnXVUuA8WzNrbBluA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="61.07" y="-75.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="mwtVpBnXVUuA8WzNrbBluA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="61.07" y="-75.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="95" parent="94" guid="Sb-SiZ3aF0-d2740MwLPTw" x="6624.94" y="1646.67" text="ravik: At the bottom of this\Ncliff, on a desolate shore, you&apos;ll find\Na rowboat about your size."/>
+<topic id="96" parent="95" guid="jhwRWWWEgU2TOOwLN0C7Yg" x="6429.19" y="1791.46" text="tilo: What about\Nthe charts?"/>
+<topic id="97" parent="96" guid="2zcIbHyzx0ukZnRD4FpcoQ" x="6429.19" y="1884.44" text="ravik: I cannot help\Nyou find your way."/>
+<topic id="98" parent="97" guid="YUM0a6Z5aE2FIS6KW-Klkg" x="6624.94" y="2032.54" text="ravik: I know only the currents of\Nthe sky above. The lake is the\Ndomain of pirates and [Frogs].">
+<parent-relation guid="cEMjND93bEOb8QuuwANmzQ"/>
+<note>
+[startQuest:quest_findPirateTreasure][footnote:vaelian_frogs]
+</note>
+</topic>
+<topic id="99" parent="98" guid="cnqfn-9eUUqemV5OjDi25Q" x="6470.34" y="2195.88" text="tilo: And perhaps\Npirate Frogs?"/>
+<topic id="100" parent="99" guid="jEsJxdL5sUucqavb9Y9Z0A" x="6470.34" y="2291.41" text="ravik: I&apos;ve seen\Nmore than a few."/>
+<topic id="101" parent="100" guid="CL6K7Ct65kyHMw4Q8iYWiA" x="6638.51" y="2430.06" text="DIALOGUE_HUB"/>
+<topic id="102" parent="101" guid="edUX9-sFjEWnQJOqmKBOng" x="6453.05" y="2529.16" text="tilo: Will we meet again?">
+<parent-relation guid="cGCFuyAAyEGephodbxuevA"/>
+</topic>
+<topic id="103" parent="102" guid="WIJPRTaX90aCaiBD0zKIlA" x="6453.05" y="2638.15" text="ravik: You owe me a fine\Ntale of adventure. One day\NI shall come to collect it.">
+<parent-relation guid="nf9xHO24802D43u6s0ZPfA"/>
+</topic>
+<topic id="104" parent="101" guid="brfOBfctHk-zbj7wa2lXFg" x="6843.45" y="2529.16" text="tilo: You have my thanks,\NRavik of Periclave.">
+<parent-relation guid="sx-CVCJDvk2ICeMfeTpOBA"/>
+</topic>
+<topic id="105" parent="104" guid="Sg0ljGoP3kq2C1uXhDUDsQ" x="6843.45" y="2640.05" text="ravik: I will tell you\None more secret...">
+<parent-relation guid="cpPB8k8ut0mgJcVdCxc95w"/>
+</topic>
+<topic id="106" parent="105" guid="eMurP3zCd06rdiDQPEd2pg" x="6843.95" y="2757.07" text="ravik: ... you&apos;re a brave\NMouse, Tilo the Minstrel."/>
+<topic id="107" parent="106" guid="YFe-8wBfuEicGmQq0HCNaQ" x="6843.95" y="2864.38" text="ravik: I&apos;m almost glad\NI didn&apos;t eat you."/>
+<topic id="108" parent="107" guid="nzHdLELtHU2BVm28XuHTiA" x="6843.95" y="2964.21" text="ravik: Farewell!">
+<parent-relation guid="I5itV9wdgUac6U8t8e77ag"/>
+<children>
+<image guid="g6wOHXIxz0a0eDCEzXvZDA" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="118.18" y="1.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="g6wOHXIxz0a0eDCEzXvZDA" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="118.18" y="1.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</images>
+<note>
+[executeAction:deactivateRavik]
+</note>
+</topic>
+<topic id="109" parent="108" guid="HlSHmmrre0ia7Ic1zA5MJA" x="6843.95" y="3081.48" text="With a beat of her wings,\Nthe Magpie is gone.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="110" parent="98" guid="NtJ_WdfJAUqiKp4dUrP0CQ" x="6812.96" y="2195.88" text="tilo: I might not even\Nmake it to the lake."/>
+<topic id="111" parent="110" guid="Ai_5DZ0lXE-ixE6PXg-hqA" x="6812.96" y="2291.41" text="ravik: You probably\Nwon&apos;t... but I would not\Nmake a wager against it."/>
+<topic id="112" parent="95" guid="yTKsoJ-k30e5n4tbFFUrMA" x="6844.01" y="1801.35" text="tilo: Please, you must know\Nsomething of the lake&apos;s secrets."/>
+<topic id="113" parent="91" guid="pwLBiRbwmE2yePMc3gb8Aw" x="6864.09" y="1383.62" text="tilo: You can&apos;t\Ncarry me there?"/>
+<topic id="114" parent="113" guid="HsprucOaj0GyiSIKNrU5Pg" x="6864.09" y="1503.62" text="ravik: I&apos;ll carry you\Nin my stomach.">
+<children>
+<image guid="hVIUJGq7lkSHqlDLKC1xAQ" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="124.40" y="20.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="hVIUJGq7lkSHqlDLKC1xAQ" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="124.40" y="20.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="115" parent="88" guid="slmWc9CtIkuvwAiHBzpdHw" x="6241.27" y="1079.16" text="tilo: It must be a\Ndangerous place, if\Nthe stories are true."/>
+<topic id="116" parent="115" guid="Z8gPQGP2x0mDPkJqVSvpeg" x="6240.66" y="1222.10" palette="4" colorinfo="4" text="ravik: [Dangerous]? It&apos;s as\Nquiet as the grave. But\Nthe journey there will be a\Ndifferent tale altogether.">
+<note>
+[footnote:periclave_legend]
+</note>
+</topic>
+<topic id="117" parent="80" guid="j_T19OwjLE2GtI7FxcNOJQ" x="5842.80" y="585.94" text="tilo: Periclave? Merra&apos;s ship was\Nlost in the Cloak of Periclave.">
+<note>
+[lockableThread:lostInPericlavesCloak][lockThread:lostInPericlavesCloak]
+</note>
+</topic>
+<topic id="118" parent="117" guid="08SnpTpe3E2LWGLOmGlDIg" x="5842.80" y="703.72" text="ravik: \NIndeed."/>
+<topic id="119" parent="75" guid="SQ_KHE6zRUGpKaHyOv151Q" x="6416.11" y="-211.54" text="tilo: You won&apos;t\Nanswer my question?"/>
+<topic id="120" parent="119" guid="A2nZwTRxJ0OqeI1McwC2jg" x="6416.11" y="-109.72" text="ravik: It&apos;s such a\Nsimple one, barely\Nworth my time.">
+<children>
+<image guid="S7zlsyBfBU-tAh-fNDZn3w" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="125.36" y="17.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="S7zlsyBfBU-tAh-fNDZn3w" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="125.36" y="17.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="121" parent="72" x="6379.36" y="-548.81" text="tilo: I want to know\Nonly what I asked you."/>
+<topic id="122" parent="70" guid="2vtJXzg-yEmRQLDYuoR2uA" x="6388.86" y="-995.43" text="tilo: You mean Great Birham?\NI already know about that."/>
+<topic id="123" parent="122" guid="kyocnADqJUmheKDoMQP5lQ" x="6388.86" y="-909.92" text="ravik: ... You do?">
+<children>
+<image guid="UIjqiPZoikunrZdYFXvhLw" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="113.61" y="22.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="UIjqiPZoikunrZdYFXvhLw" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="113.61" y="22.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="124" parent="68" guid="H_aKvJrET0yuyngYuo3Qmw" x="6373.37" y="-1387.12" text="tilo: My wife--the\Ndancer, Merra?"/>
+<topic id="125" parent="124" guid="9jC77LuDj0WkXzC6v60B3w" x="6373.37" y="-1284.81" text="ravik: Dancer?">
+<children>
+<image guid="XNu3i_ak80628_Kv4inzFQ" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="106.94" y="5.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="XNu3i_ak80628_Kv4inzFQ" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="106.94" y="5.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="126" parent="39" guid="R1uhM4YxBU6C2iMz5NsEkw" x="2328.84" y="521.51" text="tilo: So... what is it you hope\Nto find in the Lower Hall?">
+<parent-relation guid="obuinNu32EiU0ZdHIF3eDQ"/>
+<note>
+[lockableThread:acceptTapestryTask=true][lockThread:acceptTapestryTask]
+</note>
+</topic>
+<topic id="127" parent="126" guid="HjZcJ8wu2UifASfc62M0eA" x="2328.84" y="654.40" text="ravik: I recall seeing a tapestry,\Nadorned with Magpies, and a great\Nbattle. I want you to bring it to me."/>
+<topic id="128" parent="127" x="2327.84" y="793.80" text="ravik: I wish to see it again\Nwith my own eyes."/>
+<topic id="129" parent="128" guid="X0SCE3JtB02Q3vJTObDI5Q" x="2098.84" y="974.01" text="tilo: Are you sure? I&apos;ve already explored\Nthis place, and saw nothing of Magpies."/>
+<topic id="130" parent="129" guid="ZtZ1ZJUVO0-I5X14XzNmzA" x="2097.58" y="1067.80" text="ravik: Then you\Nmust go deeper...">
+<children>
+<image guid="QmvPgwxtMEep26tiB849cA" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="116.94" y="35.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="QmvPgwxtMEep26tiB849cA" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="116.94" y="35.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+</topic>
+<topic id="131" parent="128" x="2516.84" y="1041.01" text="tilo: ... Very well."/>
+<topic id="132" parent="131" guid="w0xJtxP9IU2iylyNnPvhag" x="2321.73" y="1319.90" text="ravik: Ride the [dying light],\Ndown into the Lower Hall.">
+<note>
+[executeAction:activateDyingLight][footnote:dying_light]
+</note>
+</topic>
+<topic id="133" parent="132" guid="-6i2yPNMTUeUnOQBjn65qQ" x="2323.34" y="1463.24" text="ravik: Bring back with you\Nthe tapestry of the Magpie.">
+<note>
+[completeTask:quest_magpieAndMouseKing.talkToMagpieB][unlockThread:tapestryActive][counter:quizFindTapestry=4][showRenown:quizFindTapestry]
+</note>
+</topic>
+<topic id="134" parent="133" guid="vRWaZBAI30GL_LCQcCQzBg" x="2145.67" y="1661.02" text="tilo: Ride the dying light?\NBut I&apos;ll be burned!"/>
+<topic id="135" parent="134" guid="abF17TBJskaHVHlnOVrTQg" x="2145.67" y="1813.24" text="ravik: You know as well\Nas I, Mouse, the [dying\Nlight] burns cool.">
+<note>
+[showRenown:quizFindTapestry][footnote:dying_light]
+</note>
+</topic>
+<topic id="136" parent="133" guid="2btb5CZgAU2Fi9Tf6Zwqvg" x="2516.84" y="1661.02" text="tilo: I&apos;ll do as you ask."/>
+<topic id="137" parent="39" guid="iWPMy5t3W0KcGob6qfbX7A" x="1804.58" y="-2064.67" text="tilo: Forgive me,\NMagpie. I must go.">
+<parent-relation guid="n5ni1wLzokOfKi5hnp84dg"/>
+</topic>
+<topic id="138" parent="0" guid="BOxRsltfvEuGt_t5EmnGDA" x="985.80" y="-2131.20" palette="4" colorinfo="4" text="ravik: Your Highness,\NI bid you welcome.">
+<children>
+<image name="079c5637046b32005f3dab6504d618bd4ceae27c" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</children>
+<images>
+<image name="079c5637046b32005f3dab6504d618bd4ceae27c" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3][reveal:costume_king=true;quest_magpieAndMouseKing.getTapestry=inactive][unlockThread:libraryTorchesActive]
+</note>
+</topic>
+<topic id="139" parent="0" guid="VCypG3IJgEaZ4YS7fnsZwQ" x="1212.97" y="-2178.34" palette="5" colorinfo="5" text="ravik: Your Majesty,\Nit&apos;s an honour.">
+<children>
+<image guid="FoPqVcgAYECVje5-vb4SsQ" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="-10.00" y="-90.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="FoPqVcgAYECVje5-vb4SsQ" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="-10.00" y="-90.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+<note>
+[variationIndex=4][reveal:costume_king=true;quest_magpieAndMouseKing.getTapestry=inactive][unlockThread:libraryTorchesActive]
+</note>
+</topic>
+<topic id="140" parent="0" guid="-BU9_6mgLkSzJjHrPpScSw" x="1432.82" y="-2194.69" palette="6" colorinfo="6" text="ravik: What news\Nhave you, Mouse?">
+<note>
+[variationIndex=5][lockableThread:mouseResponseA=true][unlockThread:libraryTorchesActive]
+</note>
+</topic>
+<topic id="141" parent="0" guid="KVWSOpMHVEaTXO7Vs6I7TA" x="1614.96" y="-2217.74" palette="7" colorinfo="7" text="ravik: How\Nnow, Mouse?">
+<note>
+[variationIndex=6][lockableThread:mouseResponseB=true][unlockThread:libraryTorchesActive]
+</note>
+</topic>
+<topic id="142" parent="0" guid="0ClVaD2TC0a3jbT49CwJDg" x="1804.58" y="-2255.69" palette="8" colorinfo="8" text="ravik: Lo, the False\NKing has returned!">
+<note>
+[variationIndex=7][lockableThread:mouseResponseC=true][unlockThread:libraryTorchesActive]
+</note>
+</topic>
+<topic id="143" parent="0" guid="ocz16nQ2ukib76q-l2YaVQ" x="-711.45" y="-1775.00" palette="2" colorinfo="2" text="ravik: What&apos;s this? A king!\NForgive me, Please...">
+<children>
+<image guid="WKy2-xG1I0q8ddQpH2J03w" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="165.00" y="-14.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="WKy2-xG1I0q8ddQpH2J03w" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="165.00" y="-14.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+<note>
+[lockableThread:comeCloserIntro=true][lockThread:comeCloserIntro][variationIndex=1][reveal:costume_king=true]
+</note>
+</topic>
+<topic id="144" parent="0" guid="ycUTVAETFk61so9Vxj8D0w" x="3608.26" y="-3357.12" palette="2" colorinfo="2" text="ravik: What&apos;s this?">
+<parent-relation guid="_SpFIq0PIUi7VfwtMIBCZg"/>
+<children>
+<image guid="FshU_Cv6OkqCxtI09NihEg" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="52.50" y="-75.31" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="FshU_Cv6OkqCxtI09NihEg" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="52.50" y="-75.31" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:quest_magpieAndMouseKing.getTapestry=active][lockableThread:wrongTapestry=true][lockThread:wrongTapestry][unlockThread:tapestryActive][showRenown:quizFindTapestry]
+</note>
+</topic>
+<topic id="145" parent="144" guid="cXUmAI5VRkCAqg_gIoAsew" x="3478.43" y="-3035.09" text="ravik: This isn&apos;t the\Nbanner I remember.">
+<note>
+[variationIndex=1][showRenown:quizFindTapestry][updateCounter:quizFindTapestry-1]
+</note>
+</topic>
+<topic id="146" parent="145" guid="eNbclog_TEyr7l6GEymoYQ" x="3587.93" y="-2864.09" text="ravik: Try again.">
+<note>
+[showRenown:quizFindTapestry]
+</note>
+</topic>
+<topic id="147" parent="144" guid="6vpjBiLmW0Oy2KX9v60xsw" x="3709.04" y="-3035.09" text="ravik: This isn&apos;t the right\Nbanner either, Mouse.">
+<children>
+<image guid="3h7K2Yw550CRxxq5K3-z4g" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="-44.17" y="-74.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="3h7K2Yw550CRxxq5K3-z4g" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="-44.17" y="-74.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2][showRenown:quizFindTapestry][updateCounter:quizFindTapestry-1]
+</note>
+</topic>
+<topic id="148" parent="144" guid="RhFCoLvCeUe9hcXlK6eitw" x="3300.57" y="-3124.76" text="ravik: Do you see a\NMagpie on this tapestry?">
+<children>
+<image guid="p-_sNiRAKkiQ2wmM7KW6Xw" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="41.39" y="-70.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="p-_sNiRAKkiQ2wmM7KW6Xw" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="41.39" y="-70.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][showRenown:quizFindTapestry][updateCounter:quizFindTapestry-1]
+</note>
+</topic>
+<topic id="149" parent="144" guid="7_v5YEPApUKZ1CM_AuL3zw" x="3905.14" y="-3124.76" text="ravik: Wrong again, Your\NMajesty. Look for a Magpie!">
+<children>
+<image guid="YgLRei7VckakadymChpfFQ" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="10.00" y="-79.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="YgLRei7VckakadymChpfFQ" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="10.00" y="-79.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3][showRenown:quizFindTapestry][updateCounter:quizFindTapestry-1]
+</note>
+</topic>
+<topic id="150" parent="0" guid="-LTfmvXLjUC_VR_-wRZzTw" x="2761.07" y="-3342.06" palette="3" colorinfo="3" text="ravik: Where is the\Nbanner, Mouse?">
+<parent-relation guid="OhN_wghuwke2EguTNpY6JA"/>
+<children>
+<image guid="-pMzQ2z0ZEa00gbcMxaNjg" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="61.39" y="-77.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="-pMzQ2z0ZEa00gbcMxaNjg" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="61.39" y="-77.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:quest_magpieAndMouseKing.getTapestry=active][lockableThread:tapestryActive][showRenown:quizFindTapestry]
+</note>
+</topic>
+<topic id="151" parent="150" guid="FQWIZFcjEE64fgEqcG1aSw" x="2534.53" y="-3185.39" text="ravik: Should I\Njust eat you now?">
+<note>
+[variationIndex=0][showRenown:quizFindTapestry]
+</note>
+</topic>
+<topic id="152" parent="151" guid="981g63JnSU21QZEapLV9FA" x="2761.07" y="-2875.15" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="153" parent="150" guid="grxqRruiEkalPiz2Jg_WKQ" x="2994.29" y="-3185.39" text="ravik: I am growing\Nimpatient, and hungry.">
+<children>
+<image guid="tKgEPj_3TEOS5UfQCJFf2A" name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="125.56" y="-44.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="tKgEPj_3TEOS5UfQCJFf2A" name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="125.56" y="-44.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2][showRenown:quizFindTapestry]
+</note>
+</topic>
+<topic id="154" parent="150" guid="w_ofGM30Gk2bpRkVeW72lQ" x="2761.07" y="-3230.63" text="ravik: It was but one\Namong many.">
+<note>
+[variationIndex=1][showRenown:quizFindTapestry]
+</note>
+</topic>
+<topic id="155" parent="0" guid="TxXr546-J0mICqRnL9udOg" x="4351.84" y="-3353.51" palette="4" colorinfo="4" text="ravik: Aye... this is the\None I was searching for!">
+<parent-relation guid="fAPEqiQblUKfe6D5EXBApw"/>
+<note>
+[priorityOverride][reveal:quest_magpieAndMouseKing.getTapestry=active][lockableThread:correctTapestry=true][completeTask:quest_magpieAndMouseKing.getTapestry][executeAction:grantRenown=quizFindTapestry]
+</note>
+</topic>
+<topic id="156" parent="155" guid="WojGsTqFAUyeiKagyziHKQ" x="4351.84" y="-3215.56" text="ravik: But this Magpie...\Nwhat is she doing?">
+<children>
+<image guid="iljrW6PGeECNfGyWAf5sVA" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="151.25" y="-59.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="iljrW6PGeECNfGyWAf5sVA" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="151.25" y="-59.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+</topic>
+<topic id="157" parent="156" guid="lvdDAS8NVEm7yJRtF9ozOg" x="4542.63" y="-3027.34" text="tilo: The Magpie... Is\Nshe wearing a saddle?">
+<parent-relation guid="SGdMCeqEwEuDvNMUnwZGQg"/>
+</topic>
+<topic id="158" parent="157" guid="v6QFBKxwKUy23K0YHedMrA" x="4543.32" y="-2881.16" text="ravik: A saddle?! A saddle for whom?">
+<children>
+<image guid="gXjy38sIuEWmf7el_3s4ww" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="168.13" y="-74.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="gXjy38sIuEWmf7el_3s4ww" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="168.13" y="-74.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="159" parent="158" guid="32vCMk3luEqGL3QBBibSUw" x="4351.84" y="-2677.71" text="tilo: There was a banner\Nbeside this, of a noble Rat."/>
+<topic id="160" parent="159" guid="ExBaibfEhUGbKYOh12xwCw" x="4351.84" y="-2539.10" text="ravik: I see."/>
+<topic id="161" parent="160" guid="PCj0gpg0-kSMEbKCzUOTHA" x="4351.84" y="-2370.21" text="The Magpie snatches up\Nthe banner in her claws.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="162" parent="161" guid="_Jlp8zDky0Cwd_ONEom7YA" x="4351.84" y="-2210.48" text="ravik: ... Tell no one\Nof this, Mouse.">
+<parent-relation guid="AKsMKIoje0ycuUxSPrNazA"/>
+<children>
+<image guid="Cgh3GJ4bykyHjrsuWdmXhA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="137.50" y="-4.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Cgh3GJ4bykyHjrsuWdmXhA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="137.50" y="-4.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_magpieAndMouseKing.talkToMagpieC]
+</note>
+</topic>
+<topic id="163" parent="158" guid="FHBqUwHp8UGY_J8zJdq3bA" x="4716.65" y="-2677.71" text="tilo: ... It makes no sense.">
+<parent-relation guid="0Lc2bRcBEUakkm2bvYkeLQ"/>
+</topic>
+<topic id="164" parent="156" guid="KcrcxB6wMUGm8B0RI3kvGQ" x="4178.51" y="-3027.34" text="tilo: She seems\Nto be weeping...">
+<parent-relation guid="j9GTtU1DvUa6OPrB2oPupw"/>
+</topic>
+<topic id="165" parent="164" guid="cgfUU8RVIUilWCIqoHYczw" x="4178.51" y="-2881.16" text="ravik: Impossible! A Magpie\Nweeps for no rodent!">
+<children>
+<image guid="z503Eymwnka0lnM0pP6wZA" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="127.50" y="-85.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="z503Eymwnka0lnM0pP6wZA" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="127.50" y="-85.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="166" parent="165" guid="QLAWdEPYb0aKuR8nZ8DDGw" x="4031.84" y="-2677.71" text="tilo: And yet\Nthere it is."/>
+<topic id="167" parent="0" guid="oZ91UmuP4UuhuoebjDyD_g" x="638.37" y="-1955.52" palette="2" colorinfo="2" text="ravik: Oh! Such\Nsplendour!">
+<children>
+<image name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:quest_magpieAndMouseKing.talkToMagpieB=active][lockableThread:illuminationCompleted][lockThread:illuminationCompleted]
+</note>
+</topic>
+<topic id="168" parent="167" guid="SJRXdBZ-3Uu23M9Hbr616A" x="1169.44" y="-1479.56" text="tilo: I trust the light is to your\Nsatisfaction, wise Magpie?">
+<parent-relation guid="gAAGOchw8k6yiwUC6fMp-Q"/>
+</topic>
+<topic id="169" parent="168" guid="A3QaT5V-EUKsS6SfmAARZA" x="1169.44" y="-1372.06" text="ravik: Oh, most illuminating,\NYour Highness.">
+<children>
+<image guid="3n7jlYEhMkq0y8YZXmiRog" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="171.07" y="1.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="3n7jlYEhMkq0y8YZXmiRog" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="171.07" y="1.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="170" parent="169" guid="tAtVYyoUcEKnGmDSiQeexA" x="1169.44" y="-1275.25" text="ravik: How fortunate am I, to\Ngaze at last upon your majesty."/>
+<topic id="171" parent="170" guid="mkDFr3Ne2EOFAEn0rpBPTg" x="1167.73" y="-1162.19" text="ravik: Tell me, are\Nthose diamonds or\Nsapphires in your crown?">
+<parent-relation guid="FjojXDPN_UW5O_LIOwNwVw"/>
+<children>
+<image guid="x8SkhPeN5kO_-ZLs0qFoXg" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="158.21" y="-39.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="x8SkhPeN5kO_-ZLs0qFoXg" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="158.21" y="-39.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+</topic>
+<topic id="172" parent="171" x="1168.41" y="-1053.21" text="tilo: Diamonds."/>
+<topic id="173" parent="172" guid="NbKBSlAu4Eak7aG0hW1UbA" x="1169.06" y="-931.18" text="ravik: And those\Nbuttons, on your tunic--are\Nthey silver, or white gold?"/>
+<topic id="174" parent="173" guid="kTZ2k6E7n0WNrc0FiImFrQ" x="1272.38" y="-789.73" text="tilo: White\Ngold, of course."/>
+<topic id="175" parent="174" guid="3LDRVVjAeEaZq5FBbJTyLw" x="1169.06" y="-661.37" text="ravik: I could scarcely\Nimagine such wonders."/>
+<topic id="176" parent="175" guid="pLo25tuTUUWFd0S4w64-KQ" x="1169.06" y="-530.13" text="ravik: Strange, though… I’d\Nheard Your Majesty lost his tail\Nat the [Battle of Lye Sands].">
+<note>
+[footnote:battle_lye_sands]
+</note>
+</topic>
+<topic id="177" parent="176" guid="JTkC0ifD1EKyqlnC-czQzA" x="1049.17" y="-364.66" text="tilo: It was recovered\Nafter the battle, and\Nstitched back on."/>
+<topic id="178" parent="177" guid="wB4hk9VAa0uqyMm_ezRs1g" x="1050.11" y="-196.64" text="ravik: Ah! Then you\Nmust know [Malpetus the\NPhysician]. How is he?">
+<children>
+<image guid="C_r8P_tY20aFlldzofGbNQ" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="-141.43" y="-64.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="C_r8P_tY20aFlldzofGbNQ" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="-141.43" y="-64.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</images>
+<note>
+[footnote:malpetus]
+</note>
+</topic>
+<topic id="179" parent="178" guid="7hgnPTwYekmfzNtQMAhtpQ" x="904.61" y="-44.30" text="tilo: Oh, about\Nthe same."/>
+<topic id="180" parent="179" guid="BlnbmFo1_keeGmtbhgchRQ" x="904.61" y="79.16" text="ravik: Ah. Still\Ndead then?"/>
+<topic id="181" parent="178" guid="d_pf9tK0ak6BUIkTbohM-w" x="1192.81" y="-44.30" text="tilo: He&apos;s very well."/>
+<topic id="182" parent="181" guid="7ZYXELuEzkOUXSEIzLrL9Q" x="1192.81" y="79.16" text="ravik: Excellent! Death is\Nno longer the handicap it\Nonce was, is it?"/>
+<topic id="183" parent="182" guid="NrXpbQArSkSP0sYBq37ajw" x="1192.81" y="203.78" text="ravik: But forgive me, I\Nremember you being taller.">
+<children>
+<image guid="-RZ7shqfXkCfSJjIn_u2pw" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="178.21" y="-32.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="-RZ7shqfXkCfSJjIn_u2pw" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="178.21" y="-32.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+</topic>
+<topic id="184" parent="183" guid="n6TCnjprE0ixeZ3X_HemlQ" x="1340.33" y="328.74" text="tilo: A king stands\Nupon the shoulders of\Nhis forefathers."/>
+<topic id="185" parent="184" x="1339.26" y="417.80" text="ravik: Ah, but you\Nhave come here alone."/>
+<topic id="186" parent="185" guid="yNxJLmfxckCSTOstBVwOMA" x="1186.92" y="624.59" text="ravik: And didn’t you\Nused to be a Ferret?">
+<children>
+<image guid="c2gaDtJeMkW6qCJx1Y45hg" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="119.64" y="-66.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="c2gaDtJeMkW6qCJx1Y45hg" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="119.64" y="-66.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="187" parent="186" guid="gKgBwwg4TUWZnDH4wSEhPg" x="1316.10" y="758.69" text="tilo: Ah, you must be\Nthinking of my brother Stedd."/>
+<topic id="188" parent="187" guid="HLXi2h7Wfker4br3ohxhQg" x="1314.24" y="908.70" text="ravik: Of course,\Nmy apologies.">
+<children>
+<image guid="x9niB31YUkul6il7bHJFRg" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="87.14" y="40.74" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="x9niB31YUkul6il7bHJFRg" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="87.14" y="40.74" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="189" parent="186" guid="fzoBEficAEOZ5jAG2XiCiQ" x="1026.41" y="758.69" text="tilo: It&apos;s true I fought with\Nsuch fury that I could be\Nmistaken for one."/>
+<topic id="190" parent="189" guid="GsJ03L3xlUiPUtnoRIWQ2w" x="1026.41" y="903.70" text="ravik: Forgive me, I\Nmust indeed be mistaken.">
+<children>
+<image guid="UbVN2lZn3EKrjvrpbIlKJA" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="-178.57" y="-19.26" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="UbVN2lZn3EKrjvrpbIlKJA" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="-178.57" y="-19.26" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="191" parent="190" guid="KlIqjP3Q3UiVFvzj2az7hA" x="1284.12" y="1134.27" text="ravik: Now, Mouse..."/>
+<topic id="192" parent="191" guid="KNSBcTUsb0O2BB4HWJgrsQ" x="1282.96" y="1296.60" text="ravik: ... tell me\Nyour true name. I like to\Nknow who it is I&apos;m eating.">
+<children>
+<image guid="Ie_5LalwY0Wb_4ika-1iQA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="155.36" y="29.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Ie_5LalwY0Wb_4ika-1iQA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="155.36" y="29.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+<note>
+[lockThread:magpieSilenceA;magpieSilenceB;magpieSilenceC][unlockThread:mouseResponseA;mouseResponseB;mouseResponseC]
+</note>
+</topic>
+<topic id="193" parent="192" guid="6DY4BIWYEk-8xCZuF8--hA" x="1087.15" y="1488.55" text="tilo: W-what? You&apos;d\Ndare challenge a king?"/>
+<topic id="194" parent="193" guid="VIszrKUANkCKVzOIc5fivw" x="1087.15" y="1598.97" text="ravik: And what king is that? The\NKing of Lies? The King of Fools?">
+<children>
+<image guid="YSID3y-PuUy7Kz5Z0OvrdQ" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="-183.21" y="-66.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="YSID3y-PuUy7Kz5Z0OvrdQ" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="-183.21" y="-66.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="195" parent="194" guid="2h88LiWBYk-hrknXtBRBtg" x="841.25" y="1765.74" text="tilo: F-forgive me, I... I need your help.">
+<parent-relation guid="Kaqh92MHIE-UVI7LxSAj4Q"/>
+</topic>
+<topic id="196" parent="195" guid="rAEWEZZqN06-ragIWV0SQw" x="841.25" y="1854.19" text="ravik: And so you\Nthought it wise to try\Nand [deceive a Magpie]?">
+<children>
+<image guid="rJ87ibLVV0G_9MAuE7Y-eg" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="175.36" y="-9.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="rJ87ibLVV0G_9MAuE7Y-eg" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="175.36" y="-9.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+<note>
+[footnote:magpies_mice]
+</note>
+</topic>
+<topic id="197" parent="196" guid="ZjUukqegTk28po9EB2MaMg" x="841.50" y="1953.69" text="ravik: You are either\Na fool, or a thief.">
+<children>
+<image guid="7fKJKsfbsEqQwYeAVqfWXw" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="155.36" y="-4.82" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="7fKJKsfbsEqQwYeAVqfWXw" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="155.36" y="-4.82" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+</topic>
+<topic id="198" parent="197" guid="vY9Fdu8ltEeT367MSKs1Hg" x="613.25" y="2065.94" text="tilo: A little\Nbit of both?"/>
+<topic id="199" parent="198" guid="SfJobS0xdEqsceWEC8g1cQ" x="613.25" y="2155.19" text="ravik: Ha!\NNo doubt.">
+<children>
+<image guid="JQ1DcawCCk6cw69NyIXICQ" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="-95.71" y="10.74" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="JQ1DcawCCk6cw69NyIXICQ" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="-95.71" y="10.74" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="200" parent="197" guid="snxUC2NlbU6C-QfQtRfG-w" x="1071.61" y="2065.94" text="tilo: Perhaps\NI am a fool."/>
+<topic id="201" parent="200" guid="XSrzhG1elUeXSVLLg2Sdqw" x="1071.61" y="2155.19" text="ravik: There&apos;s no\N&apos;perhaps&apos; about it.">
+<children>
+<image guid="2R5Y_rlD60S9ahpBkilkDA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="122.50" y="-58.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="2R5Y_rlD60S9ahpBkilkDA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="122.50" y="-58.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="202" parent="197" x="842.00" y="2065.94" text="tilo: I&apos;m no\Nthief!"/>
+<topic id="203" parent="202" guid="GW7T0h5N8EiITG4NdXhZ3A" x="844.25" y="2155.19" text="ravik: You tried\Nto gain [knowledge]\Nthat wasn&apos;t yours to have.">
+<note>
+[footnote:magpies_knowledge]
+</note>
+</topic>
+<topic id="204" parent="203" guid="H6BW1xy0L06RMKvXqzfYEg" x="846.94" y="2289.88" text="ravik: But you\Nare no coward..."/>
+<topic id="205" parent="204" guid="EwxkKSVpRUadscUn8MKn_g" x="846.94" y="2449.41" text="tilo: I-I&apos;m a minstrel."/>
+<topic id="206" parent="205" guid="JZr3nXcKBkab2kmyF4zf7A" x="846.94" y="2587.16" text="ravik: A minstrel? ">
+<children>
+<image guid="iYjDH9Kx40igsBMuuzi8nA" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="-126.07" y="-10.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="iYjDH9Kx40igsBMuuzi8nA" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="-126.07" y="-10.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="207" parent="206" guid="d3F3MjxajkCL4Bh15FfWgw" x="1074.11" y="2805.91" text="ravik: Why didn&apos;t\Nyou say so?">
+<children>
+<image guid="He-hnLqKFEyUvBLcRN575Q" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="132.50" y="-0.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="He-hnLqKFEyUvBLcRN575Q" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="132.50" y="-0.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="208" parent="207" guid="d6hbGEIyukmed7R6xX42PQ" x="1074.11" y="2909.50" text="ravik: A minstrel is [far\Ngreater than any king.]">
+<children>
+<image guid="ZL1Z-rdeNUqi9w_0zPETag" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="130.00" y="34.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="ZL1Z-rdeNUqi9w_0zPETag" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="130.00" y="34.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</images>
+<note>
+[footnote:magpies_knowledge]
+</note>
+</topic>
+<topic id="209" parent="208" guid="BYhmFPm790C0kjkAvOXxnQ" x="1074.11" y="3100.71" text="ravik: Sing something--a song I&apos;ve not\Nheard before--something of historical value...">
+<note>
+[counter:quizASongOfValue=2][showRenown:quizASongOfValue]
+</note>
+</topic>
+<topic id="210" parent="209" guid="LmcEJgpHlke6tdIWWfbs1A" x="1074.78" y="3201.98" text="... and perhaps I&apos;ll let you live.">
+<note>
+[showRenown:quizASongOfValue]
+</note>
+</topic>
+<topic id="211" parent="210" guid="JbhmsoaKm0ycaac9_54Xcg" x="1075.44" y="3303.25" text="DIALOGUE_HUB">
+<parent-relation guid="L17_gJd3AU2aihcbVsgaOA"/>
+<note>
+[executeAction:showSongBook]
+</note>
+</topic>
+<topic id="212" parent="211" guid="vPm0Y-GwZ0O-rXWtoynNwg" x="513.01" y="3458.46" text="tilo: The Rat with Two Tails">
+<note>
+[lockableThread:ratWithTwoTails][lockThread:ratWithTwoTails][executeAction:performSong=song_ratTwoTails]
+</note>
+</topic>
+<topic id="213" parent="212" guid="C6cFk-0DCEKJo3LKaaHheQ" x="513.45" y="3637.93" text="ravik: Even the youngest\Nof fledglings knows that\Nsong. Try again!">
+<note>
+[showRenown:quizASongOfValue][updateCounter:quizASongOfValue-1]
+</note>
+</topic>
+<topic id="214" parent="211" guid="oGDWVjtzmk2BW2SGa0ZQaw" x="798.73" y="3500.07" text="tilo: The Maiden Wouldn&apos;t Sing">
+<note>
+[lockableThread:balladofMerra][lockThread:balladofMerra][executeAction:performSong=song_maiden]
+</note>
+</topic>
+<topic id="215" parent="214" guid="Xk9kyrYMwUiPMMyh3quiJA" x="798.73" y="3622.81" text="ravik: I&apos;ve heard better.\NGive me one more!">
+<note>
+[showRenown:quizASongOfValue][updateCounter:quizASongOfValue-1]
+</note>
+</topic>
+<topic id="216" parent="211" x="1070.33" y="3460.96" text="tilo: Heaven in a Bottle">
+<note>
+[lockableThread:drinkingShanty][lockThread:drinkingShanty][executeAction:performSong=song_pirateSong]
+</note>
+</topic>
+<topic id="217" parent="216" guid="I33jdmWIcU2y_fAe2jNl4w" x="1072.45" y="3622.81" text="ravik: You didn&apos;t even\Nget the words right.\NDon&apos;t make the same\Nmistake this time.">
+<note>
+[showRenown:quizASongOfValue][updateCounter:quizASongOfValue-1]
+</note>
+</topic>
+<topic id="218" parent="211" guid="dmLfY4vCVU-ih8JjMtCocA" x="1351.41" y="3466.86" text="tilo: A Murder of Crows">
+<note>
+[lockableThread:gatheringSong][lockThread:gatheringSong][executeAction:performSong=song_insultingSong]
+</note>
+</topic>
+<topic id="219" parent="218" guid="ArwSAJbksUijbGuoP7phlQ" x="1354.05" y="3580.03" text="ravik: This is the best\Nyou have? Give me\Nanother!">
+<children>
+<image guid="5mWnTWMrrEyUXTYbITbLtw" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="63.33" y="66.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="5mWnTWMrrEyUXTYbITbLtw" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="63.33" y="66.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizASongOfValue][updateCounter:quizASongOfValue-1]
+</note>
+</topic>
+<topic id="220" parent="211" guid="FhpU8_6uhE6XDk5E9xwlsA" x="1578.80" y="3467.21" text="tilo: The Ballad of\Nthe Coward King">
+<note>
+[lockableThread:balladOfTheCowardKing][lockThread:balladOfTheCowardKing][executeAction:performSong=song_cowardKing]
+</note>
+</topic>
+<topic id="221" parent="220" guid="xy_e5lkycUekekMS2o1R8Q" x="1578.48" y="3631.68" text="ravik: Again!">
+<children>
+<image guid="bYYfYxGVZEqBKQhJq1-XeA" name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="0.00" y="-60.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="bYYfYxGVZEqBKQhJq1-XeA" name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="0.00" y="-60.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizASongOfValue][updateCounter:quizASongOfValue-1]
+</note>
+</topic>
+<topic id="222" parent="211" guid="5mcQbV1fWE2ufOz1WcD8HA" x="1832.91" y="3467.75" text="tilo: The Orphan Prince">
+<parent-relation guid="90Iy_wM4p06mW8NTdpqfqA"/>
+<note>
+[executeAction:performSong=song_silas]
+</note>
+</topic>
+<topic id="223" parent="222" guid="ftMwv8BdkE6N_oF2-eMmmg" x="1832.91" y="3580.03" text="ravik: This &apos;Orphan Prince&apos;... what\Nelse do you know of him?">
+<children>
+<image guid="iSKN9ZVLh0STcr0hZEPdbQ" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="106.67" y="61.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="iSKN9ZVLh0STcr0hZEPdbQ" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="106.67" y="61.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+<note>
+[executeAction:grantRenown=quizASongOfValue][counter:threeTruths=0][showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="224" parent="223" guid="BW_EN1M9Okah2sEzyvzfjw" x="1832.91" y="3720.30" text="DIALOGUE_HUB"/>
+<topic id="225" parent="224" guid="eMdrJneF70SzRaphKAsHgw" x="869.19" y="4231.29" text="tilo: He has great wealth,\Nhidden away in a dungeon!">
+<parent-relation guid="NQIYRkycS068mLhPqbgnaQ"/>
+<note>
+[lockableThread:untruthA][lockThread:untruthA][counter:quizPrinceKnowledge=4][showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="226" parent="225" guid="9KTLIOXdCkOnimLZirySWQ" x="869.19" y="4359.39" text="ravik: I see.">
+<note>
+[showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="227" parent="226" guid="3mVa1MczFkyUeo5fGJUQyw" x="869.19" y="4504.39" text="ravik: Lying comes\Neasily to you, doesn&apos;t it?">
+<note>
+[showRenown:quizPrinceKnowledge][updateCounter:quizPrinceKnowledge-1]
+</note>
+</topic>
+<topic id="228" parent="227" guid="cg16b4Z1UUOjDzqVDOFd5Q" x="869.19" y="4631.89" text="ravik: I&apos;ll give you\Nanother chance...">
+<note>
+[showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="229" parent="224" guid="7MqeWHWeU0WTl78WC1g3GQ" x="1156.31" y="4231.29" text="tilo: His\Nname is Silas.">
+<parent-relation guid="rJ9mHkhJV0-iKiV1RqJciA"/>
+<note>
+[updateCounter:threeTruths+1][lockableThread:truthA][lockThread:truthA]
+</note>
+</topic>
+<topic id="230" parent="229" guid="AP1DjKAmeUiK5bPjMsl3bw" x="1156.31" y="4359.39" text="ravik: Silas. Interesting...">
+<note>
+[showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="231" parent="224" guid="IuA95BLVqkSlAvZlV_R3pA" x="1428.38" y="4231.29" text="tilo: H-he was\Nraised by Mice!">
+<parent-relation guid="mlXBR0GtmEGldH2cysrd2Q"/>
+<note>
+[updateCounter:threeTruths+1][lockableThread:truthB][lockThread:truthB]
+</note>
+</topic>
+<topic id="232" parent="231" guid="C5Wtx-ksBkCX7UEqt2mSNA" x="1428.38" y="4359.39" text="ravik:\NMice? Curious...">
+<children>
+<image guid="v-dtevWjZ0ykprF1nkfw0g" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="112.50" y="27.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="v-dtevWjZ0ykprF1nkfw0g" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="112.50" y="27.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="233" parent="232" guid="9ppH84kWo02pKdBw6mn5BA" x="2003.82" y="4823.93" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="234" parent="233" guid="iVrtyZmPIk-bsiprHWv2Fw" x="1709.93" y="5080.93" text="ravik: Tell me\Nmore...">
+<parent-relation guid="iMxZq5nkykmgqnbdX8_BjQ"/>
+<note>
+[reveal:counter.threeTruths=1][showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="235" parent="233" guid="OmAsFgwez0uPMjIIjR4Ahw" x="2003.82" y="5080.93" text="ravik: Go on...">
+<children>
+<image guid="g2-88YCRvk2zMWeWBvQfew" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="74.72" y="-63.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="g2-88YCRvk2zMWeWBvQfew" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="74.72" y="-63.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.threeTruths=2][showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="236" parent="233" guid="Nv4InMVJdE6yHe9fYpqZZA" x="2326.98" y="5080.93" text="ravik: Very well, Minstrel...">
+<children>
+<image guid="9PPaGrvhgku-rXQPL5kyNg" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="130.28" y="-60.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="9PPaGrvhgku-rXQPL5kyNg" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="130.28" y="-60.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.threeTruths=3][showRenown:quizPrinceKnowledge][executeAction:grantRenown=quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="237" parent="236" guid="4GbBlMXVr0WSFEUr1t2mNA" x="2326.98" y="5207.66" text="ravik: ... you may go.">
+<note>
+[unlockThread:tapestryBeginning]
+</note>
+</topic>
+<topic id="238" parent="237" guid="ijP7CaBvFkGTMe3NJ2AqKg" x="2190.10" y="5400.53" text="tilo: Wait, Magpie, please--I\Ncame here for your help!"/>
+<topic id="239" parent="238" guid="hVwY32N-cEunxnZfG78m3g" x="1766.09" y="5400.53" text="ravik: I&apos;ve given you your life,\Nand still you ask for more?">
+<children>
+<image guid="2mhBkRQNOECH_agRr1rMrQ" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="88.21" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="2mhBkRQNOECH_agRr1rMrQ" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="88.21" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="240" parent="237" guid="1tq_ijSh_k-JGRZnwoo35w" x="2579.97" y="5400.53" text="tilo: Forgive me,\NMagpie. Farewell.">
+<parent-relation guid="zLnkG7GrqE-7aSvPII3pMg"/>
+</topic>
+<topic id="241" parent="224" guid="RZo-OmO2uEezSXjRBbApVA" x="1753.74" y="4231.29" text="tilo: He has a set of silver\Nrings, left by his father.">
+<parent-relation guid="grjcbnkbTkSMeJWUGnir1Q"/>
+<note>
+[updateCounter:threeTruths+1][lockableThread:truthC][lockThread:truthC]
+</note>
+</topic>
+<topic id="242" parent="241" guid="qWS718GvfUeG3n1imL1kmQ" x="1753.74" y="4359.39" text="ravik: The tail rings of\Nthe Rat Kings of old...">
+<children>
+<image guid="4s3zeYzB6EKXtP7Qr3BU7Q" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="122.50" y="31.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="4s3zeYzB6EKXtP7Qr3BU7Q" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="122.50" y="31.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="243" parent="224" guid="Gi99N9LC1EqsSHm1cRpK6A" x="2095.10" y="4243.51" text="tilo: He has a\Nnoble soul.">
+<parent-relation guid="2TN51dFHgkmtd0ZAVfSb1w"/>
+<note>
+[lockableThread:untruthB][lockThread:untruthB]
+</note>
+</topic>
+<topic id="244" parent="243" guid="RnjvgvTIfUOZAb6oEL-Rsg" x="2095.38" y="4364.94" text="ravik: You give an opinion\Nas if it were truth...">
+<note>
+[showRenown:quizPrinceKnowledge][updateCounter:quizPrinceKnowledge-1]
+</note>
+</topic>
+<topic id="245" parent="244" guid="FT2UYEdo80Gz3YQbp33WKw" x="2095.38" y="4476.61" text="ravik: ... are you sure\Nyou&apos;re not part Crow?">
+<children>
+<image guid="pYe4oFlqHkazed4fD9yZHQ" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="129.17" y="30.24" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="pYe4oFlqHkazed4fD9yZHQ" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="129.17" y="30.24" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="246" parent="245" guid="k8YxVWs1HkiJdWSpXNX3Ew" x="2095.38" y="4601.15" text="ravik: Try again.">
+<children>
+<image guid="TG3WwzvgIEaYJav_f7AIZw" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="100.28" y="21.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="TG3WwzvgIEaYJav_f7AIZw" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="100.28" y="21.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="247" parent="224" guid="RGOc9ry2ekWJaSdngTGmWw" x="2408.19" y="4254.33" text="tilo: He is a great\Nwarrior, forged in battle.">
+<parent-relation guid="-pvtYP3w2EqZQDQpMa0ERA"/>
+<note>
+[lockableThread:untruthC][lockThread:untruthC]
+</note>
+</topic>
+<topic id="248" parent="247" guid="psGHHI13Fk-3qhi1MKEf-Q" x="2408.19" y="4364.94" text="ravik: Don&apos;t lie to\Nme Mouse--do you\Nthink me a fool?">
+<children>
+<image guid="4cwBrqTrcEONrn20DFxzCA" name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="134.44" y="-34.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="4cwBrqTrcEONrn20DFxzCA" name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="134.44" y="-34.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizPrinceKnowledge][updateCounter:quizPrinceKnowledge-1]
+</note>
+</topic>
+<topic id="249" parent="248" guid="FgQddD2Z-UqKqDofW045rw" x="2408.19" y="4490.29" text="ravik: The truth,\Nthis time...">
+<note>
+[showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="250" parent="224" guid="uCGcvGp-WkSHhe_eCeRdEA" x="2756.34" y="4257.71" text="tilo: He is sorely\Nashamed of his Father.">
+<parent-relation guid="DAIauWdZdUagQIigq1i1fA"/>
+<note>
+[updateCounter:threeTruths+1][lockableThread:truthD][lockThread:truthD]
+</note>
+</topic>
+<topic id="251" parent="250" guid="juIyeJFxKkmxWZ9oidq3xg" x="2756.34" y="4366.95" text="ravik: Then he does not\Nknow the truth.">
+<note>
+[showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="252" parent="251" guid="HqF2teNBPE6CiXQu-vzYqQ" x="2650.09" y="4490.29" text="tilo: The truth? What\Ndo you mean?"/>
+<topic id="253" parent="252" guid="4A-VXGEet0OwpT5DXCL5iA" x="2650.09" y="4653.02" text="ravik: I mean\Nwhat I say.">
+<note>
+[showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="254" parent="251" guid="GGi_-nonMEGX9ASzD1Ob5w" x="2884.88" y="4490.29" text="tilo: &lt;REMAIN\NSILENT&gt;"/>
+<topic id="255" parent="254" guid="tiyq2-v2REKjNn4fqiGFBQ" x="2884.88" y="4653.02" text="ravik: Ah... for once\Nthere is silence.">
+<note>
+[showRenown:quizPrinceKnowledge]
+</note>
+</topic>
+<topic id="256" parent="211" guid="XcPDsK6pQ0qnHLk-vGDAlg" x="204.58" y="3477.43" text="tilo: The Poisoned Cup">
+<note>
+[lockableThread:poisonedCup][lockThread:poisonedCup][executeAction:performSong=song_poisonedCup]
+</note>
+</topic>
+<topic id="257" parent="256" guid="gPsqcR_LjEuX4u_AsIzDQQ" x="204.17" y="3616.61" text="ravik: Your lute needs\Ntuning. Do better this time...">
+<children>
+<image guid="xRlnx2-Np0yaQEx12ZXyuA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="105.83" y="74.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="xRlnx2-Np0yaQEx12ZXyuA" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="105.83" y="74.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizASongOfValue][updateCounter:quizASongOfValue-1]
+</note>
+</topic>
+<topic id="258" parent="211" guid="Vl_VfGxAs0K33o5nS_pXhw" x="-77.17" y="3454.89" text="tilo: The Gilded Warrior">
+<note>
+[lockableThread:gildedWarrior][lockThread:gildedWarrior][executeAction:performSong=song_gildedWarrior]
+</note>
+</topic>
+<topic id="259" parent="258" guid="rssfMLOG1k-wYYzaXHFedg" x="-77.17" y="3551.32" text="ravik: &quot;Her&quot;? Duinlan\Nwas a buck.">
+<children>
+<image guid="KiAFl6vbr02vFtSfQxfGWQ" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="-149.17" y="-2.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="KiAFl6vbr02vFtSfQxfGWQ" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="-149.17" y="-2.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizASongOfValue][updateCounter:quizASongOfValue-1]
+</note>
+</topic>
+<topic id="260" parent="259" guid="p5c-Acn_G0-OY6FqXZXpWQ" x="-77.17" y="3651.61" text="ravik: Why do\Nyou say &quot;her&quot;?">
+<children>
+<image guid="zF9cGPLmrke4_BkfiFg7gA" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="-120.83" y="5.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image guid="zF9cGPLmrke4_BkfiFg7gA" name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="-120.83" y="5.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizASongOfValue]
+</note>
+</topic>
+<topic id="261" parent="260" guid="vwhOqRDKHUmHCe4l9NlCPg" x="-77.17" y="3757.32" text="ravik: Even the songs\Nyou know are wrong.">
+<note>
+[showRenown:quizASongOfValue]
+</note>
+</topic>
+<topic id="262" parent="211" guid="IxcT-FdM-0ylmY7LN5Z0eg" x="2142.45" y="3467.75" text="tilo: Rascals&apos; Whirligig">
+<note>
+[lockableThread:balladOfThieves][lockThread:balladOfThieves][executeAction:performSong=song_gustoAndFatale][reveal:counter.dialog_gustoAndFatale.composed_song_gustoAndFatale=1]
+</note>
+</topic>
+<topic id="263" parent="262" guid="wrks7KHQAkyRTEyMbQgm1A" x="2142.45" y="3580.03" text="ravik: You&apos;re one syllable\Nshort on most of your lines.">
+<note>
+[showRenown:quizASongOfValue][updateCounter:quizASongOfValue-1]
+</note>
+</topic>
+<topic id="264" parent="192" guid="em8uDoTSiEa4XqC7PRgDJQ" x="1469.08" y="1598.97" text="tilo: B-but you\Ngave me your word!"/>
+<topic id="265" parent="264" guid="YbmQbg5DOkK0USB9S4ppmQ" x="1469.08" y="1765.74" text="ravik: I pretended to give\Nmy word, to a pretend king."/>
+<topic id="266" parent="265" guid="roEanLQJMU6NVieqkmGVAQ" x="1469.08" y="1917.91" text="tilo: You have\Nno honour, Magpie!"/>
+<topic id="267" parent="266" guid="IKL1YfYmLkuYLdsze8fsFA" x="1469.03" y="1997.18" text="ravik: And you,\NMouse, are no king!">
+<children>
+<image guid="LQDUIoPeWEOXbQFB9pVYVg" name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="134.29" y="-15.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="LQDUIoPeWEOXbQFB9pVYVg" name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="134.29" y="-15.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="268" parent="267" guid="tqSjkTkxpUCXLS5G4WTK7w" x="1469.78" y="2102.18" text="ravik: Your ruse no\Nlonger amuses me.\NTell me who you are.">
+<children>
+<image guid="3zrRtkMbdkWXQXm7khYDKQ" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="141.07" y="29.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="3zrRtkMbdkWXQXm7khYDKQ" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="141.07" y="29.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="269" parent="268" guid="Gx87Bx1au0G4goJ3EHDdPw" x="1469.78" y="2289.88" text="tilo: M-my\Nname is Tilo, Miss..."/>
+<topic id="270" parent="269" guid="aHMXjTaNZUinZEfGVXNLqA" x="1473.19" y="2492.22" text="ravik: Tilo?\NApprentice to\N[Lewlin]?">
+<children>
+<image guid="zEC3DrtoL0-RZcdrHBRHWA" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="119.64" y="-3.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="zEC3DrtoL0-RZcdrHBRHWA" name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="119.64" y="-3.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+<note>
+[footnote:master_lewlin]
+</note>
+</topic>
+<topic id="271" parent="270" guid="Cv8yVbSFQkyio602tZ9PuQ" x="1266.19" y="2650.66" text="tilo: Aye, the same."/>
+<topic id="272" parent="270" guid="uNp59yEG0UyiyulBdLLtcQ" x="1684.36" y="2650.66" text="tilo: Y-you know of\NMaster Lewlin?"/>
+<topic id="273" parent="272" guid="4rfpHwzsRECK1YZSgJ_jow" x="1684.36" y="2909.50" text="ravik: Of course! He is a\Nking among minstrels...">
+<children>
+<image guid="4Nj3LMEjGkOxKc7EhoPefQ" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="140.00" y="17.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="4Nj3LMEjGkOxKc7EhoPefQ" name="079c5637046b32005f3dab6504d618bd4ceae27c" x="140.00" y="17.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="274" parent="273" guid="BZXX7E1J50mahjG336kFfw" x="1684.36" y="3100.71" text="ravik: ... and a minstrel is [far\Ngreater than any king.]">
+<note>
+[footnote:magpies_knowledge]
+</note>
+</topic>
+<topic id="275" parent="186" guid="Hdtr5PK23UuMg1k2clMtlw" x="1597.53" y="758.69" text="tilo: In my younger days,\Naye. It was a phase."/>
+<topic id="276" parent="275" guid="97cQU_h95k2rRvS3FaYMgQ" x="1597.53" y="908.70" text="ravik: Youth makes\Nfools of us all."/>
+<topic id="277" parent="183" x="1048.20" y="320.61" text="tilo: Age has taken its toll."/>
+<topic id="278" parent="277" guid="xUx3im-MSkyqoJo6vPeDSA" x="1047.39" y="407.38" text="ravik: None of us\Ncan escape it.">
+<children>
+<image guid="emQZcR9IQEidjwtbZHT70g" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="78.57" y="49.31" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="emQZcR9IQEidjwtbZHT70g" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="78.57" y="49.31" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="279" parent="176" guid="94YX34noa068W15NLyuhug" x="1335.71" y="-371.35" text="tilo: Oh, aye. This is a false tail."/>
+<topic id="280" parent="279" x="1337.46" y="-192.60" text="ravik: It certainly\Nsounds like one."/>
+<topic id="281" parent="173" guid="sxQnstQY60y_FF_8sB20xA" x="1067.98" y="-789.73" text="tilo: They&apos;re of\Nthe finest silver."/>
+<topic id="282" parent="171" x="998.30" y="-1055.29" text="tilo: Sapphires."/>
+<topic id="283" parent="171" x="1333.69" y="-1054.29" text="tilo: A little\Nbit of both."/>
+<topic id="284" parent="171" x="1850.18" y="1663.85" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="285" parent="167" guid="QMSe99qqvkWhyWQuwC5nvg" x="638.37" y="-1479.56" text="tilo: Am I not as good as\Nmy word, wise Magpie?"/>
+<topic id="286" parent="285" guid="uf6KfFJJs0OeivLhDKv3xw" x="638.37" y="-1275.25" text="ravik: Oh, indeed, Sire.">
+<children>
+<image guid="fpFemE6jiEic5Z3zaOuBtg" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="87.14" y="-77.83" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="fpFemE6jiEic5Z3zaOuBtg" name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="87.14" y="-77.83" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="287" parent="0" guid="IUcP1Hx8b0qWH4rIYHN0gQ" x="-207.38" y="-2827.39" palette="2" colorinfo="2" text="The Magpie fixes you\Nwith a dark stare.">
+<note>
+[priorityOverride][narration][reveal:costume_king=false;quest_magpieAndMouseKing:talkToMagpieB=inactive;quest_mysteryOfDuinlansTomb=complete|quest_magpieAndMouseKing.talkToMagpieB=active][lockableThread:magpieSilenceA][lockThread:magpieSilenceA][unlockThread:magpieSilenceB]
+</note>
+</topic>
+<topic id="288" parent="287" guid="XoNyvh3I4Ui23frazSaVFg" x="-434.52" y="-2623.34" text="tilo: Great Magpie,\Nhear me!">
+<note>
+[lockableThread:logic_bug_a=true][lockThread:logic_bug_a]
+</note>
+</topic>
+<topic id="289" parent="287" guid="J8JARHrOr0ing-mIy4Wv7w" x="-2.71" y="-2623.34" text="tilo: Wise Magpie, I\Nneed your help!">
+<note>
+[lockableThread:logic_bug_b=true][lockThread:logic_bug_b]
+</note>
+</topic>
+<topic id="290" parent="289" guid="PBmGThZtkk6JbAkpr1lj1Q" x="-207.38" y="-2433.34" text="ravik: Strange. I hear a voice...">
+<children>
+<image guid="0qTb6sXoi0OsxbWZBSaA5A" name="b3f510a7817d5ff32a0db3ab7ddd68b88201caf1" x="0.00" y="-65.60" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_default.png"/>
+</image>
+</children>
+<images>
+<image guid="0qTb6sXoi0OsxbWZBSaA5A" name="b3f510a7817d5ff32a0db3ab7ddd68b88201caf1" x="0.00" y="-65.60" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="291" parent="290" guid="kLsVTOoaTkGcdhWeMC41Fw" x="-207.38" y="-2296.20" text="ravik: ... yet before me\Nstands NOTHING.">
+<children>
+<image guid="WFGk-zjawk2EBsDGoOFwSw" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="147.50" y="-58.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="WFGk-zjawk2EBsDGoOFwSw" name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="147.50" y="-58.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="292" parent="0" guid="We4TRjgfqkeMU8zNi2CaEw" x="137.01" y="-2899.34" palette="2" colorinfo="2" text="The great Magpie&apos;s black eye burns\Ninto you, yet she does not speak.">
+<note>
+[priorityOverride][narration][reveal:costume_king=false;quest_magpieAndMouseKing:talkToMagpieB=inactive;quest_mysteryOfDuinlansTomb=complete|quest_magpieAndMouseKing.talkToMagpieB=active][lockableThread:magpieSilenceB][lockThread:magpieSilenceB][unlockThread:magpieSilenceC]
+</note>
+</topic>
+<topic id="293" parent="0" guid="2Bn3tvmPBE6_Bi5AHtdgog" x="541.76" y="-2827.39" palette="2" colorinfo="2" text="The monstrous bird glowers\Nsilently at you through the gloom.">
+<note>
+[priorityOverride][narration][reveal:costume_king=false;quest_magpieAndMouseKing:talkToMagpieB=inactive;quest_mysteryOfDuinlansTomb=complete|quest_magpieAndMouseKing.talkToMagpieB=active][lockableThread:magpieSilenceC][lockThread:magpieSilenceC][unlockThread:magpieSilenceA]
+</note>
+</topic>
+<topic id="294" parent="0" guid="MiHrIeAMDUm95cQHdaSJhQ" x="-84.78" y="-3193.34" palette="2" colorinfo="2" text="The great Magpie&apos;s cry shakes the hall,\Nknocking you from your feet. The\Nchest slips from your paws and\Nsplinters against the flagstones.">
+<note>
+[priorityOverride][narration][reveal:quest_mysteryOfDuinlansTomb=active][lockableThread:magpieAttack][lockThread:magpieAttack]
+</note>
+</topic>
+<topic id="295" parent="-1" guid="dWDhjfGSnECXMnekuQ7nbw" x="-449.15" y="440.55" palette="1" colorinfo="1" text="tilo: The dying light? Forgive me,\Nwise Magpie. I don&apos;t understand...">
+<note>
+[lockableThread:dyingLightQuery][lockThread:dyingLightQuery]
+</note>
+</topic>
+<topic id="296" parent="295" guid="mScLD8TdjUabdoyyr7MGFw" x="-449.15" y="584.99" palette="2" colorinfo="2" text="ravik: The cauldron, here\Nabove me, Your Majesty."/>
+<topic id="297" parent="-1" guid="1piHtjezPUaa3udy64r_LA" x="990.28" y="-3306.75" palette="1" colorinfo="1" text="ravik"/>
+<topic id="298" parent="297" x="602.70" y="-3003.00" palette="2" colorinfo="2" text="default">
+<children>
+<image name="b3f510a7817d5ff32a0db3ab7ddd68b88201caf1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_default.png"/>
+</image>
+</children>
+<images>
+<image name="b3f510a7817d5ff32a0db3ab7ddd68b88201caf1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="299" parent="297" x="733.28" y="-3003.00" palette="3" colorinfo="3" text="angry">
+<children>
+<image name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="0.00" y="-74.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</children>
+<images>
+<image name="d5e603dbcac39966c125337bca9b2ee9dd8ccf0e" x="0.00" y="-74.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="300" parent="297" x="859.53" y="-3003.00" palette="4" colorinfo="4" text="laughing">
+<children>
+<image name="079c5637046b32005f3dab6504d618bd4ceae27c" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</children>
+<images>
+<image name="079c5637046b32005f3dab6504d618bd4ceae27c" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="301" parent="297" x="990.28" y="-3003.00" palette="5" colorinfo="5" text="sad">
+<children>
+<image name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</children>
+<images>
+<image name="459de0a78a5a683790a1a9981b2ae50a3d4ca277" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="302" parent="297" x="1132.03" y="-3003.00" palette="6" colorinfo="6" text="stern">
+<children>
+<image name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</children>
+<images>
+<image name="d4c621d20ebb5f54170db1f37939d797b270ad22" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="303" parent="297" x="1299.78" y="-3003.00" palette="7" colorinfo="7" text="surprised">
+<children>
+<image name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="f654383468edd4586425c1aa81dd18e88f2b4fb0" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="304" parent="297" x="1450.49" y="-3003.00" palette="8" colorinfo="8" text="suspicious">
+<children>
+<image name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</children>
+<images>
+<image name="f2fed7c134cd47c1c9873b1bc0aabed27100f4b9" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Ravik/portrait_ravik_suspicious.png"/>
+</image>
+</images>
+</topic>
+</topics>
+<relations>
+<relation source="4" target="8"/>
+<relation source="282" target="173"/>
+<relation source="283" target="173"/>
+<relation source="281" target="175"/>
+<relation source="201" target="204"/>
+<relation source="199" target="204"/>
+<relation source="204" target="269"/>
+<relation source="268" target="205"/>
+<relation guid="vdtEqtMWp0m1e7VcvUlnyQ" source="14" target="20"/>
+<relation guid="P1YkvvmZfU6NzSy3_pAmkg" source="138" target="38"/>
+<relation guid="40AGN65TG0eQkgnntVuprw" source="139" target="38"/>
+<relation guid="54RrxxGGRkWZwqftHhYSMw" source="142" target="1"/>
+<relation source="188" target="191"/>
+<relation source="276" target="191"/>
+<relation source="278" target="191"/>
+<relation source="180" target="191"/>
+<relation source="280" target="191"/>
+<relation source="215" target="211"/>
+<relation source="213" target="211"/>
+<relation source="257" target="211"/>
+<relation guid="ad2C5hquf0Gi4wV2J2BVPA" source="239" target="38"/>
+<relation source="217" target="211"/>
+<relation source="219" target="211"/>
+<relation source="221" target="211"/>
+<relation source="65" target="67"/>
+<relation guid="hXgceS82VkacDR215uA37g" source="125" target="70"/>
+<relation source="123" target="72"/>
+<relation source="114" target="95"/>
+<relation source="61" target="49"/>
+<relation source="60" target="52"/>
+<relation source="92" target="95"/>
+<relation source="121" target="75"/>
+<relation source="86" target="88"/>
+<relation source="116" target="91"/>
+<relation source="35" target="23"/>
+<relation guid="e4tetG8Rj06sSv0IpqVW4w" source="194" target="264"/>
+<relation source="265" target="195"/>
+<relation source="271" target="207"/>
+<relation guid="mnmquh1w-Ey8saDccgTt3g" source="274" target="209"/>
+<relation source="43" target="41"/>
+<relation source="44" target="42"/>
+<relation source="43" target="42"/>
+<relation guid="ww2vzZ-pYUy_4sEERpVj_A" source="42" target="38"/>
+<relation source="153" target="151"/>
+<relation source="154" target="152"/>
+<relation source="153" target="152"/>
+<relation guid="XWBmbIF4KkmNB1N-57FuEw" source="152" target="38"/>
+<relation source="130" target="132"/>
+<relation guid="cpLN05SnF0KOcg37i4p7TQ" source="36" target="23"/>
+<relation guid="MA_tzAneqkeYFvBzSvO1MQ" source="284" target="209"/>
+<relation guid="JjbaXiEqpkSxSZ8sNHKlWg" source="140" target="38"/>
+<relation guid="A0g7OV0yX0a-xj7KlWysIw" source="141" target="38"/>
+<relation guid="A5TCYsxdhkOkewpyFpU_0w" source="142" target="38"/>
+<relation source="143" target="9"/>
+<relation source="120" target="77"/>
+<relation source="83" target="84"/>
+<relation source="118" target="84"/>
+<relation guid="waPQqw_jskWnTxcXAraW3Q" source="26" target="24"/>
+<relation guid="6ErZwzVucECoxDKQVG15Mg" source="29" target="24"/>
+<relation guid="GgddBXMFwE6eAew8yfzr8A" source="146" target="152"/>
+<relation guid="LA-LSQrCekaTDtbTl9nONw" source="162" target="152"/>
+<relation guid="uoyDfz1FzU-R0oYXtMXSZg" source="165" target="163"/>
+<relation guid="XS2x5chqRkGVtzEm1CKfQw" source="166" target="161"/>
+<relation guid="AePUwGPlZUaUtajXVEhn2g" source="163" target="161"/>
+<relation source="148" target="152"/>
+<relation source="149" target="152"/>
+<relation source="149" target="148"/>
+<relation source="147" target="146"/>
+<relation source="56" target="126"/>
+<relation source="111" target="101"/>
+<relation source="112" target="98"/>
+<relation source="246" target="224"/>
+<relation guid="o-oEJfL0bkOdkFuHNn2Jow" source="249" target="224"/>
+<relation source="230" target="233"/>
+<relation guid="AuwEUrdgmUO6uNK-7doiWA" source="228" target="224"/>
+<relation guid="coc6HnHj60-Yo0zQ_zgbfQ" source="253" target="233"/>
+<relation guid="YTLPNVr9PEW507B5gw0asQ" source="251" target="233"/>
+<relation source="242" target="233"/>
+<relation source="234" target="224"/>
+<relation source="235" target="224"/>
+<relation source="255" target="233"/>
+<relation guid="yYvLfWqrM0ewVkGEAql_BQ" source="261" target="211"/>
+<relation source="286" target="170"/>
+<relation source="288" target="290"/>
+<relation source="263" target="211"/>
+<relation source="103" target="105"/>
+<relation source="24" target="295"/>
+<relation source="296" target="24"/>
+<relation source="287" target="290"/>
+</relations>
+</mindmap>
+</simplemind-mindmaps>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="DE70A62847FB465CB807BA5C7CD396B8"/>
+<title text="quest_findSmugglers" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="110" x="1571" y="375"/>
+<selection guid="x2V2Az_qh062jEPhS0YWfQ" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="x2V2Az_qh062jEPhS0YWfQ" x="1967.84" y="826.77" palette="1" colorinfo="1" text="The Five Smugglers">
+<note>
+version_03-02-18_004-Added renown points award to questversion_01-25-18_003-Restructured to use the obol counter as a gateway to the final task-Changed descriptors to reflect that the two tasks now complete when opening footlockersversion_010418_002-Huge overhall, new tasks-Simplified to use a counter, instead of five parallel tasksversion_100617_002-First draft
+</note>
+</topic>
+<topic id="1" parent="0" guid="jZuCXBq2KUW3Cg_AjIyRsQ" x="1967.84" y="961.03" palette="6" colorinfo="6" text="Speak with the blacksmith.">
+<note>
+[taskName=talkToRolo]
+</note>
+</topic>
+<topic id="2" parent="1" guid="WUysRrHQKUGgRA_aQJfVKQ" x="1967.84" y="1130.48" palette="2" colorinfo="2" text="Meet the blacksmith on the cliffs.">
+<note>
+[taskName=learnSmugglersMark]
+</note>
+</topic>
+<topic id="3" parent="2" guid="mHgSIkBkM0WMAzDJ9GKKCw" x="1967.84" y="1305.93" palette="2" colorinfo="2" text="Search the sewers for\Nthe Master&apos;s mark.">
+<parent-relation guid="12jTLxj17k6vY9BJptggRQ"/>
+<note>
+[taskName=findSmugglersMark]
+</note>
+</topic>
+<topic id="4" parent="3" guid="Tfrh6ay3J0q6pvlSyg_tdA" x="2367.33" y="1305.93" palette="8" colorinfo="8" text="You learned their maxim, used as a code:\N&quot;The termites&apos; lair spreads far, unseen...&quot;"/>
+<topic id="5" parent="3" guid="V5FwxyxYaky1UA48nGGRcg" x="1375.62" y="1789.07" text="Identify first smuggler.">
+<parent-relation guid="zpg7UXHLmkm8NP_De7LSeA"/>
+<note>
+[taskName=findSmugglerA] [dontWaitForSiblingTasks=true]
+</note>
+</topic>
+<topic id="6" parent="5" guid="WzhyZPUbykGO_9-3nBJizw" x="1062.92" y="1657.58" palette="8" colorinfo="8" text="You opened the first smuggler&apos;s\Nlocker, and learned his name."/>
+<topic id="7" parent="3" guid="Qv_nAsMjR06OyRY3f8JZsQ" x="1681.98" y="1789.07" text="Identify second smuggler.">
+<parent-relation guid="9z8jdkkdy0yoWS4c-3i2JA"/>
+<note>
+[taskName=findSmugglerB] [dontWaitForSiblingTasks=true]
+</note>
+</topic>
+<topic id="8" parent="7" guid="e9hPve_eHUusIQn04NuY6A" x="1472.84" y="1657.58" palette="8" colorinfo="8" text="You opened the second smuggler&apos;s\Nlocker, and learned his name."/>
+<topic id="9" parent="3" guid="c5XSPWSyP0-m9_r73QDnjg" x="2261.17" y="1789.07" text="Identify fourth smuggler.">
+<parent-relation guid="jTFflky2RkqTznoqwijomw"/>
+<note>
+[taskName=findSmugglerE] [dontWaitForSiblingTasks=true]
+</note>
+</topic>
+<topic id="10" parent="9" guid="UbmnD3iACEq_6S01qpYf2A" x="2261.17" y="1897.22" text="Fetch key from kitchen.">
+<note>
+[taskName=findSmugglerEKey]
+</note>
+</topic>
+<topic id="11" parent="10" guid="Ydyo2YQCZkSAQSh0qPJLAw" x="2624.90" y="1897.22" palette="8" colorinfo="8" text="After being kidnapped you\Nreturned for the key."/>
+<topic id="12" parent="9" guid="fzfpjBWP8Uumx1ZzVoZoLw" x="2352.87" y="1657.58" palette="8" colorinfo="8" text="You found the fourth smuggler.\NHis locker key is lost."/>
+<topic id="13" parent="3" guid="D1YGUmVnpU-FibYtn9YRGg" x="2624.90" y="1789.07" text="Identify fifth smuggler.">
+<parent-relation guid="Wv_byEIwEEuRqLMKUN811A"/>
+<note>
+[taskName=findSmugglerF] [dontWaitForSiblingTasks=true]
+</note>
+</topic>
+<topic id="14" parent="13" guid="lZnAXeKRpUiOHqASti8LPw" x="2790.28" y="1657.58" palette="8" colorinfo="8" text="You found the fifth\Nsmuggler, and took his key."/>
+<topic id="15" parent="13" guid="VWPN3wEFr0Kw8oRuCQE4CA" x="1967.84" y="2137.70" text="Find marked obols.">
+<note>
+[taskName=findSmugglerDogtags][itemCounter=dogtag_smugglers/5]
+</note>
+</topic>
+<topic id="16" parent="15" guid="CFBO0qVe4E2EvHQ4f1KTtQ" x="1560.34" y="2137.70" palette="8" colorinfo="8" text="You gathered five obols, as proof\Nof the smugglers&apos; crimes."/>
+<topic id="17" parent="15" guid="aowt4j8mNUOKN6NemPDsTw" x="1967.84" y="2255.26" text="Report to the Commander.">
+<note>
+[taskName=talkToCommander][grantRenown=3]
+</note>
+</topic>
+<topic id="18" parent="17" guid="GMblwnK0bEaNhA88o7p-hQ" x="2337.42" y="2255.26" palette="8" colorinfo="8" text="You reported the five\Nsmugglers to the Commander."/>
+<topic id="19" parent="3" guid="_gBpJ8JiK0Wu8-RJq-pu3g" x="1967.84" y="1789.07" text="Identify third smuggler.">
+<parent-relation guid="Z9OQPiVm_EusBNX8ZwwugQ"/>
+<note>
+[taskName=findSmugglerC] [dontWaitForSiblingTasks=true]
+</note>
+</topic>
+<topic id="20" parent="19" guid="wCGL_YB9C0m2WgnNKdEAUQ" x="1879.84" y="1657.58" palette="8" colorinfo="8" text="You found the third\Nsmuggler, and took his key."/>
+<topic id="21" parent="2" guid="RooG3znDlEazp7g0FVm4Mg" x="2367.33" y="1130.48" palette="8" colorinfo="8" text="The smithy showed you the mark of\Nthe smugglers... and of the Master."/>
+<topic id="22" parent="1" guid="7r-aANsoC0yMx7xzqDe7Qg" x="2352.87" y="961.03" palette="8" colorinfo="8" text="The smithy bid you meet\Nhim on the shore..."/>
+<topic id="23" parent="0" guid="VK3XQRA7-0mv52Q1OatUtg" x="2352.87" y="826.77" palette="8" colorinfo="8" text="Identify the five guards working as\Nsmugglers, by order of the Commander."/>
+</topics>
+<relations>
+<relation guid="gl4LJAXNPU2G0NZUydsBFA" source="5" target="15"/>
+<relation guid="uCsk31nEt0OWQYdlSrTVPw" source="7" target="15"/>
+<relation guid="0KtDNjG08USY0MEYt1CT9A" source="19" target="15"/>
+<relation guid="HkmEE-8TN0CxuMbLSb4M0A" source="10" target="15"/>
+</relations>
+</mindmap>
+</simplemind-mindmaps>

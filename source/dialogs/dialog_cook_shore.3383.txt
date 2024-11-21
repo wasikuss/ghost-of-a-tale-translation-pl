@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.2" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="20281C7087204D31A7F92635ADD316C9"/>
+<title text="dialog_cook_shore"/>
+<images containsImages="True"/>
+<style key="quest_style"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="110" x="3543" y="3221"/>
+<selection guid="muXNmzTUSU-gDXV_OwEdMg" type="node" id="70"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="zoxFNVOjwU-6WrZc1BtKaQ" x="800.00" y="426.41" palette="1" colorinfo="1" text="dialog_cook_shore">
+<note>
+[characters:Cook;Tilo]version_4-15-18-002-Clarified the origin of the crystal.version_09-21-17_001-First release
+</note>
+</topic>
+<topic id="1" parent="0" x="800.00" y="619.96" palette="2" colorinfo="2" text="cook: You&apos;re in a bit\Nof a hole, lovely."/>
+<topic id="2" parent="1" x="588.50" y="881.84" text="tilo: Ouma Rezzia? What\Nare you doing here?"/>
+<topic id="3" parent="2" x="588.50" y="981.45" text="cook: Claiming\Nwhat&apos;s mine."/>
+<topic id="4" parent="3" x="442.50" y="1088.21" text="tilo: How did\Nyou find me?"/>
+<topic id="5" parent="4" guid="m01MjY73AkizZ6z6w8CIvw" x="442.50" y="1209.21" text="cook: It wasn&apos;t hard.\NYou make enough noise\Nto wake the dead."/>
+<topic id="6" parent="3" x="725.11" y="1088.21" text="tilo: I don&apos;t\Nunderstand..."/>
+<topic id="7" parent="1" x="1001.11" y="881.84" text="tilo: Ouma! Y-you\Nstartled me..."/>
+<topic id="8" parent="7" x="1001.11" y="1029.45" text="cook: Why&apos;s that, love?\NA troubled conscience?"/>
+<topic id="9" parent="8" guid="Ez1Gz9sYAUC2oB0w3ScXAg" x="1001.11" y="1209.21" text="cook: Move away from\Nthe chest, now.">
+<children>
+<image guid="HoH5-uXKq0epIY9Eq9acmw" name="742fc517e3dfe987807461d2704492634edb61ea" x="152.50" y="-18.65" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="HoH5-uXKq0epIY9Eq9acmw" name="742fc517e3dfe987807461d2704492634edb61ea" x="152.50" y="-18.65" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="10" parent="9" x="1288.03" y="1499.86" text="tilo: A-alright..."/>
+<topic id="11" parent="9" x="725.11" y="1499.86" text="tilo: Why?"/>
+<topic id="12" parent="11" x="725.11" y="1662.34" text="The cook pulls a kitchen knife\Nfrom her apron, and wipes the\Nblade across her sleeve.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="13" parent="12" guid="NfsHR0m3PEGrsnjBKmtJbw" x="725.11" y="1812.34" text="cook: So I can keep\Nmy knife clean.">
+<children>
+<image guid="6ZDlwn9okEe0LM9cza8hpQ" name="81d7aac0935c7b88f406c832ef852a8ee140c755" x="141.11" y="2.32" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_nasty.png"/>
+</image>
+</children>
+<images>
+<image guid="6ZDlwn9okEe0LM9cza8hpQ" name="81d7aac0935c7b88f406c832ef852a8ee140c755" x="141.11" y="2.32" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_nasty.png"/>
+</image>
+</images>
+</topic>
+<topic id="14" parent="13" guid="hiFvd8OsS0qB2UwGXOMlgw" x="1288.03" y="1812.34" text="You step aside, taking a few paces back.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="15" parent="14" guid="vSQCGsS8YUG-OHE2C19zrQ" x="1416.28" y="2083.59" text="cook: And don&apos;t\Nyou try anything\Nwith that bottle.">
+<children>
+<image guid="UiZXsHTp5E2Hh-Zmf_gh3g" name="81d7aac0935c7b88f406c832ef852a8ee140c755" x="7.78" y="-105.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_nasty.png"/>
+</image>
+</children>
+<images>
+<image guid="UiZXsHTp5E2Hh-Zmf_gh3g" name="81d7aac0935c7b88f406c832ef852a8ee140c755" x="7.78" y="-105.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_nasty.png"/>
+</image>
+</images>
+<note>
+[reveal:hasItemEquipped=bottle]
+</note>
+</topic>
+<topic id="16" parent="14" guid="idRCWFXW-US5Teg84M88sQ" x="962.94" y="2083.59" text="cook: That stick\Nyou&apos;ve got isn&apos;t\Ngoing to help you.">
+<children>
+<image guid="8LHDMKVyTE6YiHnrbGqzfQ" name="742fc517e3dfe987807461d2704492634edb61ea" x="3.61" y="-98.65" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="8LHDMKVyTE6YiHnrbGqzfQ" name="742fc517e3dfe987807461d2704492634edb61ea" x="3.61" y="-98.65" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:hasItemEquipped=stick]
+</note>
+</topic>
+<topic id="17" parent="14" guid="mT0JknetXUmtfPv6z7xtPQ" x="1208.46" y="2083.59" text="cook: And perhaps\Nyou should put that\Npinecone away.">
+<children>
+<image guid="xLGN6rPDukWwmS_warSghA" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="3.33" y="-100.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="xLGN6rPDukWwmS_warSghA" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="3.33" y="-100.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_insistent.png"/>
+</image>
+</images>
+<note>
+[lockableThread:hasPineCone=true]
+</note>
+</topic>
+<topic id="18" parent="14" x="1618.03" y="2083.59" text="cook: Alright now,\Nthat&apos;s far enough."/>
+<topic id="19" parent="18" guid="obJi2S42Mku8O2StcpaKyw" x="1299.85" y="2436.92" text="cook: You&apos;ve done well, lovely.\NWe&apos;ve been looking for Captain\NPowderkeg&apos;s treasure for years.">
+<parent-relation>
+<path>
+<custom-point x="29.61" y="41.04"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="20" parent="19" x="1511.78" y="2722.53" text="tilo: &lt;REMAIN SILENT&gt;"/>
+<topic id="21" parent="20" guid="4IiNDjULRkOKAo7EqwpBjQ" x="1511.78" y="3015.35" text="cook: Oh, Volker, love... to think all\Nthis time you were right! I&apos;m only\Nsorry you&apos;re not here to see it."/>
+<topic id="22" parent="21" guid="QKfVSv-ph0S3j22GM2qEYQ" x="1511.78" y="3151.60" text="cook: I do miss\Nhim. We were a good pair...">
+<children>
+<image guid="LZrLjoGfnEuoeUK-btoyNQ" name="742fc517e3dfe987807461d2704492634edb61ea" x="173.61" y="-13.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="LZrLjoGfnEuoeUK-btoyNQ" name="742fc517e3dfe987807461d2704492634edb61ea" x="173.61" y="-13.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="23" parent="22" guid="leKDwLlMgUOXoZjgXbJw7A" x="1511.78" y="3276.08" text="cook: ... but I think this is fair\Ncompensation for his sacrifice.">
+<parent-relation guid="nHYFdo9snUq4vwqFy5H-Mg"/>
+<children>
+<image guid="0Cav8j79_02NDGhm4xA-2Q" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="190.28" y="1.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="0Cav8j79_02NDGhm4xA-2Q" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="190.28" y="1.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="24" parent="23" x="1511.78" y="3531.92" text="DIALOGUE_HUB"/>
+<topic id="25" parent="24" guid="Lirx6seEXUGfakmzq1WE-w" x="1228.53" y="3819.76" text="tilo: The treasure--take it.">
+<note>
+[lockableThread:offerTheTreasure][lockThread:offerTheTreasure;askForCharts][unlockThread:notKnowCookWasTheMasterB;farewell]
+</note>
+</topic>
+<topic id="26" parent="25" guid="Aq_nrVFoSEWn-aypn-ED0Q" x="1228.53" y="3920.67" text="cook: Such generosity! I\Nwish there was something\NI could give you in return.">
+<children>
+<image guid="NspneOOF-k2N2jdtOXjRkQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="169.17" y="-0.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="NspneOOF-k2N2jdtOXjRkQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="169.17" y="-0.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="27" parent="26" x="1228.53" y="4260.49" text="tilo: You could\Njust let me go..."/>
+<topic id="28" parent="27" x="1227.02" y="4546.92" text="cook: I could, couldn&apos;t\NI? Except..."/>
+<topic id="29" parent="26" guid="eNAciIvyVUquNxQ43ZK9LQ" x="1746.48" y="4227.99" text="tilo: Can I not just make a copy\Nof the chart for Periclave?"/>
+<topic id="30" parent="29" guid="InTRzXkQPEe_f7swRWIFYQ" x="1746.48" y="4341.13" text="cook: Oh, love! Wouldn&apos;t\Nthat make a fine tale?">
+<children>
+<image guid="QU6HzdGxQUCkiBNQW3d3bQ" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-161.43" y="-0.94" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="QU6HzdGxQUCkiBNQW3d3bQ" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="-161.43" y="-0.94" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="31" parent="30" guid="hsUiSs_Dx0eVtp5sBsioCQ" x="1746.48" y="4457.36" text="cook: &quot;The minstrel escapes for\N[Periclave], to find his love!&quot;">
+<children>
+<image guid="hiAjdSxlMEm1X7DtDqyUcQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="192.50" y="-28.65" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="hiAjdSxlMEm1X7DtDqyUcQ" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="192.50" y="-28.65" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_smiling.png"/>
+</image>
+</images>
+<note>
+[footnote:periclave]
+</note>
+</topic>
+<topic id="32" parent="31" guid="rQtW1Ph9Zkm2_TrKHkAgMg" x="1746.48" y="4573.59" text="cook: But every tale has to\Nend somewhere--you know that.">
+<parent-relation guid="QFBNtlvobEyzyMzSLYne7A"/>
+</topic>
+<topic id="33" parent="32" guid="epoH-w5PS0GojSuyOehK_w" x="1746.48" y="4683.59" text="cook: Yours ends\Nhere, in this hole."/>
+<topic id="34" parent="33" guid="FIoFdzUfYECqEuBswifgSA" x="1746.48" y="4823.13" text="cook: I heard the Commander\Nwanted you to find the\NMaster. Well, here I am.">
+<children>
+<image guid="6fWv4LFZYEeKLui8U5ajew" name="81d7aac0935c7b88f406c832ef852a8ee140c755" x="145.28" y="51.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_nasty.png"/>
+</image>
+</children>
+<images>
+<image guid="6fWv4LFZYEeKLui8U5ajew" name="81d7aac0935c7b88f406c832ef852a8ee140c755" x="145.28" y="51.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_nasty.png"/>
+</image>
+</images>
+<note>
+[reveal:quest_findTheMaster=active][completeTask:quest_findTheMaster.cancelQuestA;quest_findTheMaster.cancelQuestB;quest_findTheMaster.cancelQuestC]
+</note>
+</topic>
+<topic id="35" parent="33" guid="omI84HS7DUWhJk2OpPiwTw" x="1227.02" y="4823.13" text="cook: I heard you gave my\Nname to the Commander.\NThat wasn&apos;t very nice.">
+<parent-relation>
+<path>
+<custom-point x="-32.02" y="6.11"/>
+</path>
+</parent-relation>
+<note>
+[reveal:quest_findTheMaster=complete]
+</note>
+</topic>
+<topic id="36" parent="35" guid="3uAVrXCIZEmF5vM0wsQDzw" x="1227.02" y="4971.47" text="cook: You&apos;ve ruined\Neverything I spent\Nyears building here...">
+<children>
+<image guid="JIlZ_dykqUyc0fDrxTX_Cw" name="742fc517e3dfe987807461d2704492634edb61ea" x="140.91" y="-15.65" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="JIlZ_dykqUyc0fDrxTX_Cw" name="742fc517e3dfe987807461d2704492634edb61ea" x="140.91" y="-15.65" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="37" parent="24" x="1746.48" y="3920.67" text="tilo: The treasure is yours...\NI just need the charts.">
+<note>
+[lockableThread:askForCharts][lockThread:offerTheTreasure;askForCharts][unlockThread:notKnowCookWasTheMasterB;farewell]
+</note>
+</topic>
+<topic id="38" parent="37" guid="YLyTL49KyEWQm0j2Z5sdtw" x="1746.48" y="4072.67" text="cook: Oh love, what am I\Ngoing to do with you?"/>
+<topic id="39" parent="24" guid="YKwwgzSel0a1fJBa8wtk2Q" x="3013.85" y="3596.56" text="tilo: Y-you&apos;re the Master\Nof the smuggling ring?">
+<note>
+[lockableThread:notKnowCookWasTheMasterB=true][lockThread:notKnowCookWasTheMasterB][reveal:counter.dialog_commander.reportRezziaMaster=0]
+</note>
+</topic>
+<topic id="40" parent="39" guid="Z-VlWyhxa0KGA5YZvKf9jA" x="3013.85" y="3751.74" text="cook: Aye... just\None of my names.">
+<note>
+[unlockThread:whyCalledTheMaster]
+</note>
+</topic>
+<topic id="41" parent="24" guid="jn3nf3V3VkiCFW9MwkEMIg" x="3013.85" y="3937.99" text="tilo: So... you ARE the\NMaster of the\Nsmuggling ring...">
+<note>
+[lockableThread:knowCookWasTheMasterB=true][lockThread:knowCookWasTheMasterB][reveal:counter.dialog_commander.reportRezziaMaster=1]
+</note>
+</topic>
+<topic id="42" parent="24" guid="SBL7XOzrSE6BSbXA9-QhRg" x="3251.87" y="3227.59" text="tilo: Why do you call\Nyourself &apos;The Master&apos;?">
+<note>
+[lockableThread:whyCalledTheMaster=true][lockThread:whyCalledTheMaster]
+</note>
+</topic>
+<topic id="43" parent="42" x="3251.87" y="3364.82" text="cook: Faustus, the guards, the\Ncommander--none of them ever\Ngave old Rezzia a second glance."/>
+<topic id="44" parent="43" x="3251.87" y="3498.56" text="cook: The kitchen&apos;s been\Nthe perfect place to hide."/>
+<topic id="45" parent="24" guid="pUBtAGMhKUmYabw-03n9mw" x="682.11" y="3919.50" text="tilo: Did you kill the Jailer?">
+<parent-relation guid="TfozTeFyAE260xJAlcCHeg"/>
+<note>
+[lockableThread:didCookKillJailer][lockThread:didCookKillJailer]
+</note>
+</topic>
+<topic id="46" parent="45" guid="yu_e1HUkg0W_4X6LYAgvTA" x="682.11" y="4025.53" text="cook: Me?! Oh, love, of\Ncourse not! We had a good\Nthing going, me and him.">
+<children>
+<image guid="6jl7lfwXo0KNMDpnXc5Jnw" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="180.00" y="-12.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="6jl7lfwXo0KNMDpnXc5Jnw" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="180.00" y="-12.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="47" parent="46" guid="0iaC56DWHUarg8sDekzwdw" x="682.11" y="4123.48" text="cook: But he made a lot of\Nenemies, the way he carried on..."/>
+<topic id="48" parent="47" x="682.11" y="4227.30" text="cook: ... stealing from the\Ncondemned, looting from the\Ncatacombs, gambling..."/>
+<topic id="49" parent="48" guid="q3SUl7Ho80mtyvm5IbUYIw" x="682.11" y="4343.82" text="cook: ... and all the\Nwhile searching for the\NCaptain&apos;s treasure."/>
+<topic id="50" parent="49" guid="2wyqimV6dUiyDgVCcop-tQ" x="682.11" y="4453.98" text="cook: He came close to finding\Nit before he died--though not as\Nclose as you, of course.">
+<children>
+<image guid="ykdyTzVeoEyaPYJQHo8VHw" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="190.00" y="-41.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="ykdyTzVeoEyaPYJQHo8VHw" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="190.00" y="-41.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="51" parent="24" x="67.95" y="3728.74" text="tilo: How did you know\Nof the treasure?">
+<parent-relation guid="xzDfCvAN3EiBSkkPqzNDGw"/>
+<note>
+[lockableThread:howKnowAboutTreasure][lockThread:howKnowAboutTreasure]
+</note>
+</topic>
+<topic id="52" parent="51" guid="WE8IBmjRFEWXuGCJK-8IJQ" x="67.95" y="3855.59" text="cook: The Frog in the jail--Kerold,\Nis it? He would talk in his sleep."/>
+<topic id="53" parent="52" guid="0pI3XEaQTU69pWIIjp41ZA" x="67.95" y="3985.14" text="cook: The guards overheard the\NFrog, and Volker overheard the\Nguards. &quot;The Lake Witch found [Periclave],\Nand returned laden down with treasure!&quot;">
+<children>
+<image guid="gdEwM9GZ50Sh8hEtzFGCyw" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="235.00" y="-15.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_insistent.png"/>
+</image>
+</children>
+<images>
+<image guid="gdEwM9GZ50Sh8hEtzFGCyw" name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="235.00" y="-15.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_insistent.png"/>
+</image>
+</images>
+<note>
+[footnote:periclave]
+</note>
+</topic>
+<topic id="54" parent="53" guid="PrmgrYsdukC2G9qq1EEj_g" x="67.95" y="4142.84" text="cook: They say the\Ntreasure&apos;s why she wrecked."/>
+<topic id="55" parent="54" x="-60.05" y="4295.17" text="tilo: How so?"/>
+<topic id="56" parent="55" guid="RmSz8TLSi0ynnnjuUhsRbg" x="-60.05" y="4379.34" text="cook: She was running too\Nheavy, her keel too deep.\NYou can imagine the rest."/>
+<topic id="57" parent="56" x="-60.05" y="4490.84" text="cook: But no trace of any\Ntreasure was ever found."/>
+<topic id="58" parent="54" x="244.95" y="4331.84" text="tilo: I see..."/>
+<topic id="59" parent="58" guid="uhgdw-jnEUeFr1-SqGjcNg" x="244.95" y="4490.84" text="cook: So I paid\NKerold a visit.">
+<children>
+<image guid="Um3VGtyWb0eBMAqiUvfWbA" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="107.50" y="-22.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="Um3VGtyWb0eBMAqiUvfWbA" name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="107.50" y="-22.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="60" parent="59" x="67.95" y="4736.84" text="tilo: What did he say?"/>
+<topic id="61" parent="60" guid="MAibFcg9YkykHu0Jcw_DOw" x="67.95" y="4896.84" text="cook: He said a lot of\Nthings--a lot of nonsense."/>
+<topic id="62" parent="59" guid="ig4EVeFEGkyQwhMhgmhj5Q" x="409.45" y="4736.84" text="tilo: Aye, he told me--said\Nyou were a &quot;good Mouse&quot;."/>
+<topic id="63" parent="62" guid="9Spsp7zZkUW42gv1kjSasA" x="409.45" y="4896.84" text="cook: Filthy, stinking imbecile!">
+<children>
+<image guid="8VrnVzCMq0-YgvR7H1u_IA" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="182.86" y="-7.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="8VrnVzCMq0-YgvR7H1u_IA" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="182.86" y="-7.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="64" parent="63" guid="dZFzHIbnfEO3VpqjAhFk3w" x="409.45" y="5034.34" text="cook: He claimed his Captain\Nwas alive too, but his body&apos;s\Nstill there, chained up in his cell.">
+<parent-relation guid="qxT-Cjgbyk-XayaZTXUPvA"/>
+<children>
+<image guid="1AAXvwGwEUy0AHmKPTcpJA" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="190.00" y="-7.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="1AAXvwGwEUy0AHmKPTcpJA" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="190.00" y="-7.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="65" parent="54" guid="deRoY1VhJkCOdQ0pvL6Kbg" x="762.95" y="4823.13" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="66" parent="24" x="3707.76" y="2862.28" text="tilo: I-I should go.\NFarewell...">
+<parent-relation guid="xYpQm-u3ikG2_2Z8cPYGiA"/>
+<note>
+[lockableThread:farewell=true][lockThread:farewell]
+</note>
+</topic>
+<topic id="67" parent="66" guid="CIvKY0dLuEGxstVWGdNKig" x="3707.76" y="3060.67" text="cook: Going? Oh, I don&apos;t\Nthink so, [scrunt].">
+<children>
+<image guid="dSDkAdbiz0qqTa-bwkh32g" name="81d7aac0935c7b88f406c832ef852a8ee140c755" x="165.71" y="-20.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_nasty.png"/>
+</image>
+</children>
+<images>
+<image guid="dSDkAdbiz0qqTa-bwkh32g" name="81d7aac0935c7b88f406c832ef852a8ee140c755" x="165.71" y="-20.69" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_nasty.png"/>
+</image>
+</images>
+<note>
+[footnote:scrunt]
+</note>
+</topic>
+<topic id="68" parent="67" guid="MLUMKOh7sU6VNniIr-wK2Q" x="3707.76" y="3214.86" text="The cook takes an emerald\Nfrom the pirate&apos;s treasure chest.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="69" parent="68" guid="2lBCYTQPNkWU9l3_4S1wYA" x="3707.76" y="3364.82" text="cook: If it&apos;s any consolation, your death\Nwill make your old ouma very, very...">
+<note>
+[completeTask:quest_findPirateTreasure.escapeCook][startTimer:DuinlanShore=30;dialog_duinlan]
+</note>
+</topic>
+<topic id="70" parent="69" guid="muXNmzTUSU-gDXV_OwEdMg" x="3707.76" y="3549.61" text="She screams, her eyes sinking into their\Norbits as fur and flesh unravel from\Ncrumbling bone. In an instant Ouma\NRezzia is gone. To an awful dirge, more\Nfelt than heard, the crystal begins to pulse\Nwith a sickly green light. And then...">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="71" parent="19" x="1108.03" y="2722.53" text="tilo: &quot;We&quot;? You mean\Nyou and Faustus?"/>
+<topic id="72" parent="71" guid="1YuamOpJ4UC95m8o-jQR8w" x="1108.03" y="2821.86" text="cook: Faustus! That\Nsnob? He doesn&apos;t even\Nknow my name.">
+<children>
+<image guid="EfQWbuDUjEi-jp25JsVHzg" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="156.67" y="-21.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_laughing.png"/>
+</image>
+</children>
+<images>
+<image guid="EfQWbuDUjEi-jp25JsVHzg" name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="156.67" y="-21.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="73" parent="72" guid="YpOpmr7wBk-cfT3oSe8LBw" x="1108.03" y="2921.10" text="cook: He has no ambition\Nbeyond the next batch of [rotgut].">
+<note>
+[footnote:rotgut]
+</note>
+</topic>
+<topic id="74" parent="73" guid="a8MFHPLImU2ltpGSPdMvNA" x="1108.03" y="3015.35" text="cook: No, I mean Volker, the Jailer! He\Nwas my partner in this little scheme."/>
+<topic id="75" parent="-1" guid="z3_FKf6dLUW9iHHQOSB8zg" x="1358.49" y="268.81" palette="1" colorinfo="1" text="rezzia"/>
+<topic id="76" parent="75" x="980.91" y="572.56" palette="2" colorinfo="2" text="default">
+<children>
+<image name="2f43288748b24b52adb10ab66c9627088e87b01f" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_default.png"/>
+</image>
+</children>
+<images>
+<image name="2f43288748b24b52adb10ab66c9627088e87b01f" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="77" parent="75" x="1111.49" y="572.56" palette="3" colorinfo="3" text="insistent">
+<children>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_insistent.png"/>
+</image>
+</children>
+<images>
+<image name="ccd183d6f1699af6a04c3d904ab3455386aa3571" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_insistent.png"/>
+</image>
+</images>
+</topic>
+<topic id="78" parent="75" x="1237.74" y="572.56" palette="4" colorinfo="4" text="laughing">
+<children>
+<image name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_laughing.png"/>
+</image>
+</children>
+<images>
+<image name="e7f43cb0801106df6588a246a5f2ffe8bbd2b0d6" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="79" parent="75" x="1368.49" y="572.56" palette="5" colorinfo="5" text="nasty">
+<children>
+<image name="81d7aac0935c7b88f406c832ef852a8ee140c755" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_nasty.png"/>
+</image>
+</children>
+<images>
+<image name="81d7aac0935c7b88f406c832ef852a8ee140c755" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_nasty.png"/>
+</image>
+</images>
+</topic>
+<topic id="80" parent="75" x="1510.24" y="572.56" palette="6" colorinfo="6" text="smiling">
+<children>
+<image name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="37e538a11d4138d680bbab31aa76ee4440f5c746" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="81" parent="75" x="1677.99" y="572.56" palette="7" colorinfo="7" text="stern">
+<children>
+<image name="742fc517e3dfe987807461d2704492634edb61ea" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_stern.png"/>
+</image>
+</children>
+<images>
+<image name="742fc517e3dfe987807461d2704492634edb61ea" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="82" parent="75" x="1828.70" y="572.56" palette="8" colorinfo="8" text="surprised">
+<children>
+<image name="c6cb11c394d1b5e4219e8f5302758b91f1f1c337" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="c6cb11c394d1b5e4219e8f5302758b91f1f1c337" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rezzia/portrait_rezzia_surprised.png"/>
+</image>
+</images>
+</topic>
+</topics>
+<relations>
+<relation source="10" target="14"/>
+<relation source="16" target="19"/>
+<relation source="17" target="19"/>
+<relation source="15" target="19"/>
+<relation source="38" target="29"/>
+<relation source="28" target="34"/>
+<relation source="28" target="35"/>
+<relation source="34" target="24"/>
+<relation guid="u2Z29DOonE2MpK6n3-pABw" source="40" target="24"/>
+<relation source="41" target="40"/>
+<relation source="38" target="27"/>
+<relation source="5" target="9"/>
+<relation source="6" target="9"/>
+<relation source="50" target="24">
+<path>
+<custom-point x="-80.28" y="-147.12"/>
+</path>
+</relation>
+<relation guid="FcTtC7gB_Ea5Xnq9Ru4dnQ" source="61" target="63"/>
+<relation source="64" target="24">
+<path>
+<custom-point x="149.72" y="586.79"/>
+</path>
+</relation>
+<relation source="57" target="59"/>
+<relation source="44" target="24"/>
+<relation source="36" target="24"/>
+<relation source="74" target="21"/>
+<relation source="65" target="64"/>
+</relations>
+<stylesheet>
+<general description="quest_style" timestamp="2014-10-28+11:16:41" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<cross-links line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

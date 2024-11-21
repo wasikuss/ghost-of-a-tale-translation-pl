@@ -1,0 +1,10 @@
+Rangers are mercenaries, skilled in tracking and a common sight in garrisons such as Great Birham and Dwindling Heights. The soldiers of the Rat Guard are under strict orders to let rangers go about their business unhindered; it is an uneasy truce.
+
+<b>A ranger is always seen wearing:</b>
+
+<i>Ranger hood
+Ranger mask
+Ranger tunic
+Ranger belt
+Ranger boots</i>
+

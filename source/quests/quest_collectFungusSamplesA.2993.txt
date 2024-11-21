@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="FC01C5D8B5C44092A3CA21577A40E287"/>
+<title text="quest_collectFungusSamplesA" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="70" x="388" y="365"/>
+<selection guid="LG3yZaFD90CS4FgbfXiiGA" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="LG3yZaFD90CS4FgbfXiiGA" x="1577.48" y="705.77" palette="1" colorinfo="1" text="The Amateur Mycologist">
+<note>
+version_03-02-18_004-Added renown points award to questversion_07-28-17_003-Updated number of mushrooms in each taskversion_07-28-17_002-Updated mushrooms in group - some swapped with SamplesBversion_06-20-17_001-First release
+</note>
+</topic>
+<topic id="1" parent="0" guid="7EIlmPGFLkapxFUAYOmcyQ" x="2153.35" y="705.77" palette="2" colorinfo="2" text="Collect specimens of eight different\Nkinds of mushroom for Faustus."/>
+<topic id="2" parent="0" guid="BRhU1Ibo30qZE8-rQXRyXw" x="412.65" y="1149.87" palette="4" colorinfo="4" text="Find the Ear-Cap.">
+<note>
+[taskName=getMushroom_B][itemCounter=mushroom_B/10]
+</note>
+</topic>
+<topic id="3" parent="2" guid="D37OzpTuR0qKc34F4MJrQQ" x="212.77" y="1228.54" palette="8" colorinfo="8" text="You found three\NEar-Cap mushrooms."/>
+<topic id="4" parent="0" guid="f6eSHUU06EaAd7Bz6qhA2g" x="746.58" y="1141.87" palette="5" colorinfo="5" text="Find the Cat&apos;s\NTooth.">
+<note>
+[taskName=getMushroom_C][itemCounter=mushroom_C/8]
+</note>
+</topic>
+<topic id="5" parent="4" guid="z1uubvD2C0SsfuLuzOb8jA" x="524.13" y="1228.54" palette="8" colorinfo="8" text="You found three Cat&apos;s\NTooth mushrooms."/>
+<topic id="6" parent="0" guid="3V7JcSUD5kiDe4CmTdMZEA" x="1068.01" y="1141.87" palette="6" colorinfo="6" text="Find the Spongeball.">
+<note>
+[taskName=getMushroom_D][itemCounter=mushroom_D/8]
+</note>
+</topic>
+<topic id="7" parent="6" guid="VrID2LzyDEa2-gx5PgFhkQ" x="909.55" y="1228.54" palette="8" colorinfo="8" text="You found three\NSpongeball mushrooms."/>
+<topic id="8" parent="0" guid="o_FE7iGkiE-XP3XlIy4www" x="1754.15" y="1133.30" palette="7" colorinfo="7" text="Find the Loggerhead.">
+<note>
+[taskName=getMushroom_F][itemCounter=mushroom_F/6]
+</note>
+</topic>
+<topic id="9" parent="8" guid="3NJQWKaryUWbTG5AjCBmkA" x="1596.91" y="1227.29" palette="8" colorinfo="8" text="You found three\NLoggerhead mushrooms."/>
+<topic id="10" parent="0" guid="KU8PuEhWdkWm-txCRVWYeg" x="1414.61" y="1133.30" palette="8" colorinfo="8" text="Find the Weeping\NWidow.">
+<note>
+[taskName=getMushroom_E][itemCounter=mushroom_E/4]
+</note>
+</topic>
+<topic id="11" parent="10" guid="k_SXVUIkNkmCBCn6r4BOyQ" x="1246.03" y="1228.54" palette="8" colorinfo="8" text="You found three Weeping\NWidow mushrooms."/>
+<topic id="12" parent="0" guid="g6xjm2-9rkWD3qFsunttMw" x="2120.67" y="1133.30" palette="4" colorinfo="4" text="Find the Doggerel.">
+<note>
+[taskName=getMushroom_I][itemCounter=mushroom_I/4]
+</note>
+</topic>
+<topic id="13" parent="12" guid="Otjbzy0Z70OTGTGA23Av5g" x="1918.43" y="1227.29" palette="8" colorinfo="8" text="You found three\NDoggerel mushrooms."/>
+<topic id="14" parent="0" guid="FKZqa0_cUESRwJEtLlZcHA" x="2763.60" y="1133.30" palette="2" colorinfo="2" text="Find the Noggintop.">
+<note>
+[taskName=getMushroom_L][itemCounter=mushroom_L/6]
+</note>
+</topic>
+<topic id="15" parent="14" guid="95y6lsIeQ0ilNdgnGV15cg" x="2703.60" y="1227.29" palette="8" colorinfo="8" text="You found three\NNoggintop mushrooms."/>
+<topic id="16" parent="14" guid="QlC8n86QQEK0Ds8py7v33w" x="1590.36" y="1690.16" text="Return to Faustus">
+<parent-relation guid="S1OLbiCoaUuO8LL8ZiXS_w"/>
+<note>
+[taskName=talkToFaustus][grantRenown=3]
+</note>
+</topic>
+<topic id="17" parent="16" guid="n6uJQlTWJ0-PnOiGm87K_A" x="2177.35" y="1690.16" text="You gave Faustus the\Ncompleted collection of fungus."/>
+<topic id="18" parent="0" guid="4heePLgPlE61feN_LevHjA" x="2412.26" y="1140.05" palette="2" colorinfo="2" text="Find the Milky\NCap.">
+<note>
+[taskName=getMushroom_K][itemCounter=mushroom_K/6]
+</note>
+</topic>
+<topic id="19" parent="18" guid="pNCJjQ0c8UC16mRY8uUMyg" x="2296.00" y="1227.29" palette="8" colorinfo="8" text="You found three Milky\NCap mushrooms."/>
+</topics>
+<relations>
+<relation source="4" target="16"/>
+<relation source="6" target="16"/>
+<relation source="10" target="16"/>
+<relation source="8" target="16"/>
+<relation guid="C_e7PZ_DWkCmNF-FRGbdBw" source="2" target="16"/>
+<relation guid="CsBQAfgtHkSD64RNLd115w" source="12" target="16"/>
+<relation source="18" target="16"/>
+</relations>
+</mindmap>
+</simplemind-mindmaps>

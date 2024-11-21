@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.2" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="8E11D17202D7482B978A3F8C1331C5EF"/>
+<title text="dialog_guard_mainGate"/>
+<images containsImages="True"/>
+<style key="quest_style"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="70" x="1188" y="841"/>
+<selection guid="PhUxpEEbc0iVmSYygSefdA" type="node" id="42"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="VYyoyXBmSUOmavItMBQCNg" x="1587.01" y="646.40" palette="4" colorinfo="4" text="dialog_guard_mainGate">
+<note>
+[characters:guard_mainGate;Tilo]version_04-15-18_008Added nodes and actions to address if Tilo is promoted to sergeant.version_02-24-18_007-Added condition to account for Tilo wearing Duinlan&apos;s armourversion_09-14-16_006-corrected improper names to &apos;dialog_guard_mainGate&apos; version_07-21-16_005-&apos;or&apos; condition doesn&apos;t work for time of day! Removed &apos;day&apos; variation on first excuse.version_06-01-16_004-Updated dialogs to account for new &apos;night&apos; time flagversion_03-02-16_003Removed all non-standard apostrophesversion_022416_002Implemented variety of excuses for Tilo to makeversion_110715_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="rUNhFrH-GkK8dkZHyOfeKw" x="313.71" y="1025.66" palette="2" colorinfo="2" text="guard_mainGate: Halt!">
+<children>
+<image name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][counter:metGuardMainGate=0][updateCounter:metGuardMainGate+1]
+</note>
+</topic>
+<topic id="2" parent="1" guid="eTdG_6AOHkOdiK8EoMyzUQ" x="311.84" y="1157.05" text="guard_mainGate: The main gate is\Nshut, by order of the Commander.">
+<parent-relation guid="SKp_S--YoEiKMUDhdY0jIQ"/>
+</topic>
+<topic id="3" parent="2" guid="5gunbl8TFUy_Zk-bjMSJ-A" x="311.49" y="1268.48" text="guard_mainGate:\NNobody&apos;s allowed in or out."/>
+<topic id="4" parent="0" guid="xEmvxzoKOECmfZXZfRqDFw" x="699.52" y="1100.69" palette="3" colorinfo="3" text="guard_mainGate: Where do you\Nthink you&apos;re going?">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="5" parent="0" guid="zafZ59jAS0a8u6dvg9Ae1w" x="1218.80" y="982.45" palette="4" colorinfo="4" text="guard_mainGate: I&apos;ve told you\Nthis gate is closed.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="6" parent="5" guid="3Q8-0JKLCEC8VljscQHZQw" x="1632.50" y="1805.90" text="DIALOGUE_HUB_A"/>
+<topic id="7" parent="6" guid="PZM9NNkIc02GnBNTEM4bpA" x="1777.63" y="1960.78" text="DIALOGUE_HUB_B">
+<parent-relation guid="S-zQkZB7U0yuDLGyc_YhGQ"/>
+</topic>
+<topic id="8" parent="7" guid="KWUUQBZYhU2Pmh67mfCwbA" x="868.40" y="2326.10" text="tilo: I&apos;m due leave tonight.">
+<note>
+[lockableThread:TilosExcuseA1=true][lockThread:TilosExcuseA1][unlockThread:TilosExcuseB]
+</note>
+</topic>
+<topic id="9" parent="8" guid="Eal8lxU9mE2D8t2JPLEsyw" x="679.49" y="2547.49" text="guard_mainGate: All leave is\Ncancelled until further notice.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="10" parent="9" guid="0Q5dnxYyG0-P4jiAzQ6UdQ" x="2148.99" y="3761.82" text="guard_mainGate: This gate is closed until\Nthe Commander says otherwise."/>
+<topic id="11" parent="8" guid="Ih9LtjgDxEmiU9l9UWQArw" x="1149.55" y="2539.69" text="guard_mainGate: You&apos;ve already\Ntried that excuse.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="12" parent="8" guid="-8sry67iYkCYlqfESWZd3w" x="869.66" y="2663.16" text="guard_mainGate: That excuse didn&apos;t\Nwork last time, and it&apos;s not\Ngoing to work now.">
+<children>
+<image guid="12qxZOcmHU6GhWT8zuwfHA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-187.14" y="36.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="12qxZOcmHU6GhWT8zuwfHA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-187.14" y="36.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="13" parent="7" guid="U4r5dMQDv0iSC49KYTEu7w" x="1765.30" y="2265.78" text="tilo: I-I left my sword at home.">
+<note>
+[lockableThread:TilosExcuseB=true][lockThread:TilosExcuseB][unlockThread:TilosExcuseC]
+</note>
+</topic>
+<topic id="14" parent="13" guid="igx3VV8k2EiG3-Ouc0LKgw" x="1438.47" y="2913.78" text="guard_mainGate: You&apos;ll have to\Nborrow one, then.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="15" parent="13" guid="a4oH-tpXBk2c6bjhiQm2mQ" x="1697.14" y="2813.78" text="guard_mainGate: A poor excuse.">
+<children>
+<image guid="-Tqw-MXxs0CEGIR8u8jw9g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="155.00" y="-65.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="-Tqw-MXxs0CEGIR8u8jw9g" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="155.00" y="-65.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="16" parent="13" guid="PzdtbSzNZEmKUwL_o9hzPw" x="1930.46" y="2915.44" text="guard_mainGate: You&apos;ve used\Nthat one before.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="17" parent="7" guid="mjg1T6mXjk-0zYL90ZtcOQ" x="2185.30" y="2262.45" text="tilo: A prisoner escaped--I\Nhave orders to hunt him down.">
+<note>
+[lockableThread:TilosExcuseC=true][lockThread:TilosExcuseC][unlockThread:TilosExcuseD]
+</note>
+</topic>
+<topic id="18" parent="17" guid="i23Z9yZESkCqxJpNzOAZTg" x="2163.55" y="2498.37" text="guard_mainGate: That Mouse? He&apos;s\Nstill around here somewhere...">
+<children>
+<image guid="Ajkb1T_yekGyhrh2UPyMMQ" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="5.00" y="-77.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="Ajkb1T_yekGyhrh2UPyMMQ" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="5.00" y="-77.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="19" parent="18" guid="kzGtTrjnukal7VcmoEpvyA" x="2164.94" y="2598.15" text="guard_mainGate: ... I can smell him."/>
+<topic id="20" parent="17" guid="GyRhvWZp4kmpEARUxqICBQ" x="1964.13" y="2409.46" text="guard_mainGate: First\NI&apos;ve heard of it.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="21" parent="17" guid="ync-N7nS9UOL0jjGRdr7BQ" x="2368.22" y="2415.30" text="guard_mainGate: He&apos;s\Nnot come by me.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="22" parent="7" guid="fGlCFOC8akGLHLa773HTKw" x="2525.38" y="2217.15" text="tilo: Private Harrum has\Nfallen off of the ramparts.">
+<note>
+[lockableThread:TilosExcuseD=true][lockThread:TilosExcuseD][unlockThread:TilosExcuseE]
+</note>
+</topic>
+<topic id="23" parent="22" guid="lxQz2d--_0G4jCxkpq-rug" x="2408.37" y="2684.71" text="guard_mainGate: If he&apos;s alive he&apos;ll\Ncome crawling back.">
+<children>
+<image guid="axlG3x9IbEe7LCfAHTyn7A" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-163.75" y="45.38" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="axlG3x9IbEe7LCfAHTyn7A" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="-163.75" y="45.38" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="24" parent="22" guid="pQtDgyHHVUWH4kRSkRb_-Q" x="2569.79" y="2796.71" text="guard_mainGate: It&apos;s always the\Nsame old excuses.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="25" parent="22" guid="g1VTb3l_VUqMZpMeFFc9Kg" x="2735.16" y="2675.98" text="guard_mainGate: I never\Nliked him anyway.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="26" parent="7" guid="-DUAYAb3FUW333hKfu2LTg" x="3100.93" y="2081.99" text="tilo: Private Mawkin threw\Nmy halberd over the wall.">
+<note>
+[lockableThread:TilosExcuseF=true][lockThread:TilosExcuseF][unlockThread:TilosExcuseG]
+</note>
+</topic>
+<topic id="27" parent="26" guid="ZT4rQjB2QkaZNJqg9-4yqg" x="3013.36" y="2598.15" text="guard_mainGate: You can go and get it\Nonce the Jailer&apos;s found.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="28" parent="26" guid="pWkcgxuBY02xRiwH6DKdlQ" x="3316.68" y="2521.74" text="guard_mainGate: I hope you&apos;re\Nwell-trained in unarmed combat.">
+<children>
+<image guid="0qHiM4CejUmK49wr7FRplg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="212.50" y="22.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="0qHiM4CejUmK49wr7FRplg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="212.50" y="22.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="29" parent="26" guid="BDwmqp_S0EaeQ5ak8kGs4w" x="3328.18" y="2418.24" text="guard_mainGate: Then\Nthrow him after it.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="30" parent="7" guid="B4lsYc9YAEiLAfEDYZhBeA" x="2842.59" y="2150.33" text="tilo: I&apos;ve been transferred\Nto Yuva Citadel.">
+<note>
+[lockableThread:TilosExcuseE=true][lockThread:TilosExcuseE][unlockThread:TilosExcuseF]
+</note>
+</topic>
+<topic id="31" parent="30" guid="qQz2mXl0HEOBk0aycTf86A" x="2694.17" y="2365.41" text="guard_mainGate: Then you can wait\Nuntil the prison cart comes\Nand ride with them.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="32" parent="30" guid="xjWu7jEgoU-NnJHFImnOPw" x="2877.80" y="2453.54" text="guard_mainGate: I told you, you&apos;ll have to\Nwait for the prison cart.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="33" parent="30" guid="ezvngf-LGUijNGP1NlgBmg" x="3040.51" y="2363.99" text="guard_mainGate:\NWhat&apos;s the rush?">
+<children>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="34" parent="7" guid="lzkmO2BKL0iwBh0Dx4P93A" x="3422.59" y="2007.00" text="tilo: The jail, these gates, the\Nwalls--none of this really exists.">
+<note>
+[lockableThread:TilosExcuseG=true][lockThread:TilosExcuseG][unlockThread:TilosExcuseA1]
+</note>
+</topic>
+<topic id="35" parent="34" guid="Az5hLHHtZEe_1AQzGULj4w" x="3337.40" y="2168.83" text="guard_mainGate: Then if I stick you\Nwith this halberd it won&apos;t hurt.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="36" parent="34" guid="KfRew5mShE6G8b2hsl0jhQ" x="3537.80" y="2245.42" text="guard_mainGate: So why don&apos;t\Nyou leave through the wall?">
+<parent-relation guid="f31KLGUsP0GfienGrwYRKg"/>
+<children>
+<image guid="o18ltxUER0Cl89-rE_j2TQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="193.75" y="36.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="o18ltxUER0Cl89-rE_j2TQ" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="193.75" y="36.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="37" parent="34" guid="xFD1WheNGkeIkiFbC-9fBg" x="3918.01" y="2168.83" text="guard_mainGate: I&apos;m not interested in your\Nmetaphysical conundrums.">
+<children>
+<image guid="tsKV5oxqXUG9856okZMhPQ" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="6.25" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="tsKV5oxqXUG9856okZMhPQ" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="6.25" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="38" parent="37" guid="aYvXE9MglEG9mJvhx4ykdg" x="2518.59" y="3766.50" text="guard_mainGate: Until the Jailer\Nis found, this gate stays closed."/>
+<topic id="39" parent="7" x="1891.86" y="2137.14" text="DIALOGUE_HUB_C"/>
+<topic id="40" parent="39" guid="GdkYUAeVtUyuLXHk04z8HA" x="2580.71" y="1632.57" text="tilo: I should go. Farewell.">
+<parent-relation guid="pjKJIw1NkUqx7nId2TOQEA"/>
+</topic>
+<topic id="41" parent="40" guid="Nc7eV3QFTkGzd6oGWZXNNw" x="2582.27" y="1748.57" text="guard_mainGate: Aye...">
+<note>
+[reveal:counter.dialog_faustus.enableBigEars=1][lockableThread:hasBigEars][lockThread:hasBigEars]
+</note>
+</topic>
+<topic id="42" parent="41" guid="PhUxpEEbc0iVmSYygSefdA" x="2582.27" y="1849.48" text="guard_mainGate: ... Big-eared [scrunt].">
+<note>
+[footnote:scrunt]
+</note>
+</topic>
+<topic id="43" parent="6" guid="AURYNlL9HkStiLO3HDYI3A" x="-431.69" y="1885.47" text="tilo: Why is the gate locked?">
+<parent-relation guid="NVYhrD7hUk6JbExG79V0Yg"/>
+<note>
+[lockableThread:whyIsTheGateLocked][lockThread:whyIsTheGateLocked][unlockThread:TilosExcuseA1]
+</note>
+</topic>
+<topic id="44" parent="43" guid="ADCuPICiEU26aen3kZf2mA" x="-118.41" y="2102.61" text="guard_mainGate: Jailer&apos;s missing. The\Nkeep&apos;s on lockdown &apos;til he&apos;s found.">
+<note>
+[reveal:quest_findJailer=inactive|quest_findJailer=active]
+</note>
+</topic>
+<topic id="45" parent="43" guid="ck8vaZZcEE-n4zUxwSxavQ" x="-679.12" y="2102.61" text="guard_mainGate: The\NJailer&apos;s been found dead.">
+<note>
+[reveal:quest_findJailer=complete]
+</note>
+</topic>
+<topic id="46" parent="45" guid="2-6nUrJBLUGVGIjYLLJFpA" x="-486.62" y="2289.75" text="guard_mainGate: The\NCommander has the place on\Nlockdown until the killer is found.">
+<note>
+[reveal:quest_magpieAndMouseKing=inactive|quest_magpieAndMouseKing=active]
+</note>
+</topic>
+<topic id="47" parent="45" guid="c3VUy5idJkqEfWbBea66Jw" x="-870.87" y="2289.75" text="guard_mainGate: The Commander\Nwants the gate kept closed until\Nafter his killer&apos;s been hanged.">
+<note>
+[reveal:quest_magpieAndMouseKing=complete]
+</note>
+</topic>
+<topic id="48" parent="6" guid="tVLRYtGymU6Y5sHHSElGeQ" x="1495.13" y="3902.76" text="tilo: What can you tell me about\Nthe disappearance of the Jailer?">
+<parent-relation guid="s-0MKyfmB0mrNWo0_kaHWg"/>
+<note>
+[lockableThread:findJailer][lockThread:findJailer][reveal:quest_findJailer.talkToCommander=inactive]
+</note>
+</topic>
+<topic id="49" parent="48" guid="23BI4jeB1k6__rtT_1VjIQ" x="1495.13" y="4214.31" text="guard_mainGate: What is there to\Nsay? If he&apos;s left the keep it wasn&apos;t\Nthrough this gate, I promise you that."/>
+<topic id="50" parent="49" guid="29PEHscFhU-aOZpzxdwrew" x="1495.13" y="4484.88" text="guard_mainGate: The only\Nother way out is by boat."/>
+<topic id="51" parent="6" guid="RNc4O4OfFEOSdyr2iLlEhA" x="473.15" y="3593.81" text="tilo: &quot;The termites&apos; lair\Nspreads far, unseen...&quot;">
+<parent-relation guid="npDLnIfA8kOkHwMDX-ZO9A"/>
+<note>
+[lockableThread:masterAndSmugglers][lockThread:masterAndSmugglers][reveal:quest_findSmugglers.findSmugglerC=active|quest_findSmugglers.findSmugglerE=active|quest_findSmugglers.findSmugglerF=active]
+</note>
+</topic>
+<topic id="52" parent="51" guid="3pZJPOvdf0Kg8hf8yvFYlg" x="475.13" y="3792.98" palette="8" colorinfo="8" text="guard_mainGate: &quot;... And at its centre\Ndwells the queen.&quot;">
+<note>
+[counter:askAboutSmugglers=0]
+</note>
+</topic>
+<topic id="53" parent="52" guid="QaC0fuC8eECJ8NPANh7RrQ" x="471.73" y="4114.09" text="guard_mainGate: ... I didn&apos;t realize you\Nwere one of us, Scow.">
+<children>
+<image guid="Iz7x9c60b0WiCK7bgV3wLg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="58.33" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="Iz7x9c60b0WiCK7bgV3wLg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="58.33" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.dialog_guard_mainGate.askAboutSmugglers=1]
+</note>
+</topic>
+<topic id="54" parent="53" guid="WwANQu8Ni0yCXWVtTUGswA" x="471.73" y="4241.59" text="guard_mainGate: What is it you need?"/>
+<topic id="55" parent="54" x="321.73" y="4364.50" text="tilo: I need the key for\Nyour footlocker."/>
+<topic id="56" parent="55" guid="n9qhi35kBkuwgCxXqgX3JQ" x="321.73" y="4615.68" text="guard_mainGate:\NAlready?! It feels like\Nit&apos;s been only a few\Nweeks since the last\Npick-up.">
+<children>
+<image guid="tuzzk8C_BESL6IhgdqfWxA" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="5.83" y="-119.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="tuzzk8C_BESL6IhgdqfWxA" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="5.83" y="-119.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.dialog_guard_mainGate.askAboutSmugglers=1]
+</note>
+</topic>
+<topic id="57" parent="56" guid="U5WRLbUqkUCKVEyu2sskxA" x="317.57" y="4743.63" text="guard_mainGate: *SIGH* ...\NAlright, here.">
+<children>
+<image guid="HzXI7c9vFEKvoyMhukxIRQ" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="175.83" y="17.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="HzXI7c9vFEKvoyMhukxIRQ" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="175.83" y="17.46" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+</topic>
+<topic id="58" parent="57" guid="XXguGnarTEOxLAdATUaHFA" x="317.57" y="4869.32" text="The Rat slips\Nyou his key.">
+<note>
+[narration][executeAction:receiveItem=key_footlocker_smugglerF]
+</note>
+</topic>
+<topic id="59" parent="58" guid="7US4_agr_UC5pSJzSnNT-g" x="317.57" y="4994.47" text="guard_mainGate: Tell the Master I&apos;ll make\Nup the shortfall next month.">
+<note>
+[updateCounter:dialog_guard_mainGate.askAboutSmugglers=2][completeTask:quest_findSmugglers.findSmugglerF]
+</note>
+</topic>
+<topic id="60" parent="54" x="586.84" y="4364.50" text="tilo: &quot;The Master\Nwants his tythe.&quot;"/>
+<topic id="61" parent="60" guid="P_oJXpaWU0mRi9J3UspvHQ" x="586.84" y="4615.68" text="guard_mainGate:\NExactly...">
+<children>
+<image guid="N-ocPOPyuEaE684PBEccyg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="40.00" y="-77.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="N-ocPOPyuEaE684PBEccyg" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="40.00" y="-77.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.dialog_guard_mainGate.askAboutSmugglers=2]
+</note>
+</topic>
+<topic id="62" parent="52" guid="zu01pK2jvE2rLv1R1UiDMw" x="208.09" y="3922.52" text="guard_mainGate: Scow? I&apos;m surprised...">
+<children>
+<image guid="opQKwhRTbE6EZQlSZ7TXDA" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="-129.17" y="-74.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="opQKwhRTbE6EZQlSZ7TXDA" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="-129.17" y="-74.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.dialog_guard_mainGate.askAboutSmugglers=0]
+</note>
+</topic>
+<topic id="63" parent="62" guid="xdFhUFimpESqfFxowkfnhw" x="38.09" y="4207.04" text="guard_mainGate: I suppose the Master\Nwants his tythe. Here..."/>
+<topic id="64" parent="63" guid="apWxl21s2EK18tpFRzZWTw" x="38.09" y="4340.21" text="The Rat presses something\Ninto your paw--a small key.">
+<note>
+[narration][executeAction:receiveItem=key_footlocker_smugglerC]
+</note>
+</topic>
+<topic id="65" parent="64" guid="sAz2yhJXV06uiVWjsmXyQQ" x="38.09" y="4474.24" text="guard_mainGate: I&apos;ve left it\Nin the same place as\Nusual--my footlocker.">
+<note>
+[updateCounter:dialog_guard_mainGate.askAboutSmugglers=1][completeTask:quest_findSmugglers.findSmugglerC]
+</note>
+</topic>
+<topic id="66" parent="52" guid="UnABWGxmZk2Al96szXWvBQ" x="937.77" y="4114.09" text="guard_mainGate: Private\NScow... so you&apos;re the new recruit.">
+<note>
+[reveal:counter.dialog_guard_mainGate.askAboutSmugglers=2]
+</note>
+</topic>
+<topic id="67" parent="66" guid="XBXc-dswLkWnIT399oexNA" x="937.77" y="4364.50" text="guard_mainGate: Listen, I&apos;ve lost\Nmy footlocker key. Dropped it in the\Ncommissary, I think.">
+<children>
+<image guid="l9ub5MmC7EOVboedvjWCMA" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="69.17" y="-102.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="l9ub5MmC7EOVboedvjWCMA" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="69.17" y="-102.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="68" parent="67" guid="Un2qwde5y0SeCaJxCkaThA" x="937.77" y="4484.08" text="guard_mainGate: I&apos;m hoping the\Ncook has just put it aside somewhere."/>
+<topic id="69" parent="68" guid="OIMgWXQ5DUu9SALbzjoyag" x="937.77" y="4601.79" text="guard_mainGate: If it falls into\Nthe Commander&apos;s hands, or if the\NMaster finds out, well...">
+<children>
+<image guid="rSqakWqgQU67xw-6fvNTsQ" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="213.33" y="-2.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="rSqakWqgQU67xw-6fvNTsQ" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="213.33" y="-2.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+</topic>
+<topic id="70" parent="69" guid="JXkN1TRRBUOTUZcVtwPeng" x="937.77" y="4734.82" text="tilo: Don&apos;t worry, I&apos;ll\Nfind it for you."/>
+<topic id="71" parent="70" guid="yOqu6T5fZU6ehQCtaYyh5g" x="937.77" y="4862.82" text="guard_mainGate: If you can get me\Nthat key, I&apos;ll be grateful.">
+<children>
+<image guid="QD8tlGwFyEKDsp-PRIT2zQ" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="227.50" y="-7.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="QD8tlGwFyEKDsp-PRIT2zQ" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="227.50" y="-7.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_findSmugglers.findSmugglerE]
+</note>
+</topic>
+<topic id="72" parent="6" guid="wFkxITc0rUGaDR11WbYK1w" x="1234.83" y="1775.97" text="tilo: I need help--the Green\NFlame has returned!">
+<note>
+[reveal:quest_stopTheGreenFlame=active][lockableThread:greenFlamePlea][lockThread:greenFlamePlea]
+</note>
+</topic>
+<topic id="73" parent="72" guid="lGNU90LTKkWHbay7v1GqcA" x="1234.83" y="1929.19" text="guard_mainGate: Ha! That&apos;s your\Nweakest excuse yet, Scow!">
+<children>
+<image guid="CCKEHcu-cUOFVEL5MM6gBA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="217.14" y="2.17" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="CCKEHcu-cUOFVEL5MM6gBA" name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="217.14" y="2.17" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="74" parent="0" guid="rvDBzxY6Sk29kYe8LPRtFA" x="1561.89" y="1093.45" palette="6" colorinfo="6" text="guard_mainGate: Gate&apos;s\Nclosed, Scow.">
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="75" parent="0" guid="hZBfvh7zw0KO1yREbaKSdA" x="2368.62" y="1081.37" palette="7" colorinfo="7" text="guard_mainGate: What do\Nyou want?">
+<note>
+[variationIndex=5]
+</note>
+</topic>
+<topic id="76" parent="0" guid="uak1dZZH-UCED56lHFTcqw" x="2745.10" y="1011.24" palette="8" colorinfo="8" text="guard_mainGate: What&apos;s your\Nexcuse for leaving this time?">
+<note>
+[variationIndex=6]
+</note>
+</topic>
+<topic id="77" parent="0" guid="XANIRr7h3kSCIKe7xRq8nQ" x="3129.83" y="969.91" palette="2" colorinfo="2" text="guard_mainGate: Okay, let&apos;s hear it.">
+<children>
+<image guid="pJIuVj5K6UaqS8NJXj9N4w" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="168.21" y="-60.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="pJIuVj5K6UaqS8NJXj9N4w" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="168.21" y="-60.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+<note>
+[variationIndex=7]
+</note>
+</topic>
+<topic id="78" parent="0" guid="6DJqOsFE_UW6h_vmsm4BBQ" x="1998.60" y="1114.56" palette="3" colorinfo="3" text="guard_mainGate: What did I tell\Nyou? The keep&apos;s on lockdown.">
+<note>
+[variationIndex=4]
+</note>
+</topic>
+<topic id="79" parent="0" guid="QTqB5EAq7k6a6jP_ttBNYw" x="528.73" y="140.96" palette="5" colorinfo="5" text="guard_mainGate: Ranger...">
+<note>
+[priorityOverride][reveal:costume_ranger=true]
+</note>
+</topic>
+<topic id="80" parent="79" guid="eZwq2mgcZEaFSa6kwYqmiw" x="-414.57" y="379.35" text="guard_mainGate: ... I\Ndidn&apos;t see you arrive.">
+<children>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][lockableThread:secondIntroRanger][lockThread:secondIntroRanger]
+</note>
+</topic>
+<topic id="81" parent="80" guid="pw8VBBTlhkiH_6VoRSEBZg" x="-609.07" y="549.35" text="tilo: What else would\Nyou expect of a ranger?"/>
+<topic id="82" parent="81" guid="yAD9y3lsKUqtuMTFPlVy4g" x="-609.07" y="690.89" text="guard_mainGate:\N... Aye, fair enough.">
+<children>
+<image guid="vPL9cUopsEiJqwweSpN7gw" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-126.25" y="16.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image guid="vPL9cUopsEiJqwweSpN7gw" name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="-126.25" y="16.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+</topic>
+<topic id="83" parent="80" guid="vVHKhiD56EudpEtoYmHIQw" x="-256.33" y="549.35" text="tilo: I came in through\Nthe harbour."/>
+<topic id="84" parent="83" guid="maX9-tckh0yau_t_51gcMw" x="-256.33" y="690.89" text="guard_mainGate: ... I&apos;ll be sure to\Nconfirm that with the Commander."/>
+<topic id="85" parent="79" guid="yXOokAPeC0mv8fLLsyxgrg" x="528.73" y="386.11" text="guard_mainGate:\N... everything alright here?">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="86" parent="85" x="380.76" y="561.11" text="tilo: Aye...\Neverything&apos;s fine."/>
+<topic id="87" parent="85" x="677.37" y="561.11" text="tilo: Why\Nwouldn&apos;t it be?"/>
+<topic id="88" parent="79" guid="uiYJsk7PeUmoSMMK0uulhQ" x="1163.29" y="386.11" text="guard_mainGate: ... I want no\Ntrouble while you&apos;re here--understand?">
+<note>
+[variationIndex=4]
+</note>
+</topic>
+<topic id="89" parent="79" guid="YW1pCTmnaUqWNeT0jtl4fQ" x="801.14" y="345.11" text="guard_mainGate:\N... I&apos;m watching you.">
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="90" parent="79" guid="OeqxV6pmikWrKT4aj9CH9Q" x="177.58" y="395.58" text="guard_mainGate: ... the main gate is\Nclosed. I can&apos;t let you pass.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="91" parent="0" guid="ZWLJyMwK8EqyR-KxZlLgdw" x="2247.04" y="287.06" palette="2" colorinfo="2" text="guard_mainGate: Leave me be!">
+<children>
+<image guid="i15qknzHvUCyrSTPmmSa1w" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="210.00" y="3.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="i15qknzHvUCyrSTPmmSa1w" name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="210.00" y="3.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][counter:talkLater=0][reveal:recentlyTalkedTo=20;counter.talkLater=0;costume_guard=true|costume_duinlan=true][updateCounter:talkLater=1]
+</note>
+</topic>
+<topic id="92" parent="0" guid="9QDvuCgpaU6mTGqhD-MDDQ" x="2185.95" y="379.73" palette="3" colorinfo="3" text="guard_mainGate: Go away, [scrunt].">
+<note>
+[priorityOverride] [reveal:recentlyTalkedTo=20;counter.talkLater=1;costume_guard=true|costume_duinlan=true][updateCounter:talkLater=2][footnote:scrunt]
+</note>
+</topic>
+<topic id="93" parent="0" guid="SFFNrNjU8EGwH-0uYFGGOQ" x="2062.30" y="474.49" palette="4" colorinfo="4" text="guard_mainGate: We&apos;ll talk again later.">
+<note>
+[priorityOverride] [reveal:recentlyTalkedTo=20;counter.talkLater=2;costume_guard=true|costume_duinlan=true][updateCounter:talkLater=3]
+</note>
+</topic>
+<topic id="94" parent="0" guid="ajYpY8YFI0623vGLefx2JA" x="2295.31" y="187.41" palette="5" colorinfo="5" text="guard_mainGate: Go on now, Scow.">
+<note>
+[priorityOverride] [reveal:recentlyTalkedTo=20;counter.talkLater=3;costume_guard=true|costume_duinlan=true][updateCounter:talkLater=0]
+</note>
+</topic>
+<topic id="95" parent="0" guid="y5LVntOD2EOSW5BmoC93Ow" x="2344.43" y="582.40" palette="2" colorinfo="2" text="guard_mainGate: That armour... you\Nlook like the Gilded Warrior of legend...">
+<children>
+<image guid="9XM3l8De7kCeH0lYq5T_GA" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="241.07" y="-18.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="9XM3l8De7kCeH0lYq5T_GA" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="241.07" y="-18.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:costume_duinlan=true][lockableThread:goldenArmour][lockThread:goldenArmour]
+</note>
+</topic>
+<topic id="96" parent="0" guid="agwrzTVXm0KZOaBvoTSmcA" x="3471.01" y="-129.41" palette="2" colorinfo="2" text="guard_mainGate: Scow...\NI heard you were promoted.">
+<note>
+[priorityOverride][lockableThread:firstIntroPromotion][lockThread:firstIntroPromotion][reveal:counter.dialog_commander.promotionToSergeant=1;costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="97" parent="96" x="3669.69" y="-19.07" text="tilo: Aye, that&apos;s right."/>
+<topic id="98" parent="96" x="3249.01" y="-19.07" text="tilo: You&apos;ll address me as\N&apos;Sergeant Scow&apos;, private."/>
+<topic id="99" parent="98" guid="ommE5niIH0ir_em1NcqIRw" x="3471.01" y="84.26" text="guard_mainGate: &apos;Sergeant Scow&apos;... Pah!"/>
+<topic id="100" parent="99" guid="IayXDFCnz0ipYnfgz4VYEQ" x="3471.01" y="190.27" text="guard_mainGate: I save my\Nrespect for those who deserve it... sir."/>
+<topic id="101" parent="-1" guid="6IOSKGVXbU6xL3vAXJ8Veg" x="551.15" y="5275.04" palette="1" colorinfo="1" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="102" parent="-1" guid="hqbHq-3FbEy7AKMViBfFng" x="1486.30" y="-142.73" palette="1" colorinfo="1" text="guard"/>
+<topic id="103" parent="102" x="1152.81" y="161.02" palette="2" colorinfo="2" text="angry">
+<children>
+<image name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</children>
+<images>
+<image name="69dbd5fd2dcf5ebd513db33fa808c479a73154f1" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="104" parent="102" x="1300.55" y="161.02" palette="3" colorinfo="3" text="smiling">
+<children>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="e4799d4875935e4717f93b80fa8d0fd52efa39d4" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="105" parent="102" x="1431.30" y="161.02" palette="4" colorinfo="4" text="default">
+<children>
+<image name="fb95c613bd7268546244ccb0c5603e9de3bd158f" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_default.png"/>
+</image>
+</children>
+<images>
+<image name="fb95c613bd7268546244ccb0c5603e9de3bd158f" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="106" parent="102" x="1573.05" y="161.02" palette="5" colorinfo="5" text="surprised">
+<children>
+<image guid="KsqjWdPTLE2UvBLO8ATz6g" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="KsqjWdPTLE2UvBLO8ATz6g" name="bd0e3b84d47e4864315a14b7fd7f957736b7e635" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="107" parent="102" x="1740.80" y="161.02" palette="6" colorinfo="6" text="thinking">
+<children>
+<image name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</children>
+<images>
+<image name="f5163aff513e962cb6772e6b75c45949b3db8b0e" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_thinking.png"/>
+</image>
+</images>
+</topic>
+<topic id="108" parent="102" x="1891.51" y="161.02" palette="7" colorinfo="7" text="stunned">
+<children>
+<image name="c885518916022fec2a2efcf4a6f720f1ed630df8" x="2.50" y="-90.87" scale="1.11" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_stunned.png"/>
+</image>
+</children>
+<images>
+<image name="c885518916022fec2a2efcf4a6f720f1ed630df8" x="2.50" y="-90.87" scale="1.11" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rat Guard/portrait_guard_stunned.png"/>
+</image>
+</images>
+</topic>
+</topics>
+<relations>
+<relation source="77" target="5"/>
+<relation guid="HRbGrIFIUEWmXpe-wDKTMg" source="74" target="6"/>
+<relation guid="mPtiEZZm8UaGCWod8F-d8w" source="78" target="6"/>
+<relation guid="9sLWJZgFg0uN7ldozU243g" source="75" target="6"/>
+<relation guid="W5iaA0Ias0WEtRdg5ewmYA" source="76" target="6"/>
+<relation guid="sGhZnifTQUOgjsp2bQAQdA" source="77" target="6"/>
+<relation guid="pmrKyf6Dl0advKIvoePmpw" source="4" target="6"/>
+<relation guid="-dvbwCbEjECxrv9tvijsEw" source="3" target="6"/>
+<relation source="21" target="18"/>
+<relation guid="1ahID8qT_UeHGrKJt9LwQQ" source="16" target="14"/>
+<relation guid="vmJuMlKgQ0iIels-l_q1rw" source="25" target="23"/>
+<relation source="33" target="31"/>
+<relation guid="q6quhO1Sg0G8qO5jVeUvcg" source="27" target="10"/>
+<relation source="28" target="38"/>
+<relation source="32" target="38"/>
+<relation guid="z0EpCTIpc0SY7rRgvNZcHA" source="25" target="38"/>
+<relation source="23" target="38"/>
+<relation source="20" target="38"/>
+<relation source="29" target="27"/>
+<relation guid="AGevB9BaZUi2DORoKPj-Mw" source="37" target="35"/>
+<relation source="12" target="38"/>
+<relation guid="naXzHwCnGkG3u4cENAwJ3Q" source="14" target="38"/>
+<relation source="15" target="10"/>
+<relation source="21" target="10"/>
+<relation source="31" target="10"/>
+<relation source="36" target="10"/>
+<relation source="11" target="9"/>
+<relation source="101" target="6"/>
+<relation guid="q8r-T2F-t068_iNgrv-P_g" source="65" target="101"/>
+<relation guid="vKubh_Lq4EmylYs7JxKWFQ" source="71" target="101"/>
+<relation guid="e2JPYw0L_kWn5SryA_21Gw" source="59" target="101"/>
+<relation source="60" target="56"/>
+<relation source="61" target="71"/>
+<relation source="69" target="60"/>
+<relation source="88" target="85"/>
+<relation source="44" target="7"/>
+<relation source="46" target="7"/>
+<relation source="47" target="7"/>
+<relation source="50" target="101"/>
+<relation guid="LbsXG-sV60msMtB20q5S1A" source="95" target="6"/>
+<relation guid="I-V9img9hUqpy56vwikOew" source="100" target="6"/>
+<relation source="97" target="99"/>
+</relations>
+<stylesheet>
+<general description="quest_style" timestamp="2014-10-28+11:16:41" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<cross-links line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

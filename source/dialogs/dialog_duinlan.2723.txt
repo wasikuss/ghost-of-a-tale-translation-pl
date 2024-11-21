@@ -1,0 +1,2977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="AA648A05774845AEADABF2FB693C09C1"/>
+<title text="dialog_duinlan"/>
+<images containsImages="True"/>
+<style key="quest_style">
+<topics borderstyle="sbsRoundRect"/>
+<relations>
+<hierarchical-relations target-arrow="singleArrow"/>
+</relations>
+</style>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="50" x="-398" y="627"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="D8f8HizDL0ysIoF8IILZmw" x="645.24" y="-1911.36" palette="1" colorinfo="1" text="dialog_duinlan">
+<note>
+[characters:Duinlan;Tilo]version_03-12-18_008-Restructured dialog to fix bug: &apos; If I can find the name you seek,I will bring it to you, I swear.&apos; Showing at the wrong time.version_03-02-18_007-Added portraitsversion_01-27-18_006-Added dying light-Added command to swap Gilded Warrior songversion_01-26-18_005-Added new intro, with songs version_01-24-18_004-Changed location of conversation to the towerversion_01-16-18_003-Added action to activate the chestversion_12-21-17_002-Added logic to unlock names of Duinlan&apos;s love as foundversion_110716_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="o0NcMsJ4PkWLZoRxr1uuUQ" x="-517.09" y="-1142.54" palette="1" colorinfo="1" text="duinlan: A spark, to light a fire...">
+<children>
+<image name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][lockableThread:duinlansGreeting]
+</note>
+</topic>
+<topic id="2" parent="1" guid="2LbF1B5WBUSvWtptZpKp_A" x="-958.76" y="-1142.54" text="DIALOGUE_HUB"/>
+<topic id="3" parent="2" guid="48oq9MTfIkKs5lW1BS1FRQ" x="-1375.65" y="-748.26" text="tilo: A spark? I-I don&apos;t\Nunderstand what you mean...">
+<note>
+[reveal:counter.duinlansRequest=0]
+</note>
+</topic>
+<topic id="4" parent="2" guid="g2ws-Cy-8UC02Ds928XF1Q" x="-1776.67" y="-748.26" text="tilo: Please, I&apos;m here in search\Nof something precious.">
+<note>
+[lockableThread:duinlanSparkQuestionA][lockThread:duinlanSparkQuestionA]
+</note>
+</topic>
+<topic id="5" parent="4" guid="zWUF1VmgmEqEsR16sYQ6aw" x="-958.76" y="-612.01" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="6" parent="2" guid="gyZIgAGtckyKKPUOuoZeNQ" x="-798.34" y="-748.26" text="tilo: A lay? You would\Nhave me sing your name?">
+<note>
+[reveal:counter.duinlansRequest=2]
+</note>
+</topic>
+<topic id="7" parent="2" guid="RrA6lxbGkEaFw1sGOExwXw" x="-1053.43" y="-748.26" text="tilo: A melody? You\Nwould have me sing?">
+<note>
+[reveal:counter.duinlansRequest=1]
+</note>
+</topic>
+<topic id="8" parent="2" guid="Ld-JxfGxskek-0T12GIayA" x="-539.19" y="-748.26" text="tilo: &lt;SING A SONG&gt;"/>
+<topic id="9" parent="8" guid="ltGUoUlPx0KzbWtM-Gjm5Q" x="-539.19" y="-630.98" text="You take up your lute,\Nand prepare to play.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="10" parent="9" guid="sSTCHyawfk-fChJbWgWHrQ" x="-539.19" y="-529.59" text="duinlan: A spark, to light a fire...">
+<children>
+<image guid="OiDEQms880SwzvH_EKP6sg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-176.07" y="-8.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="OiDEQms880SwzvH_EKP6sg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-176.07" y="-8.01" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[executeAction:showSongBook][counter:quizAwakenDuinlan=3][showRenown:quizAwakenDuinlan]
+</note>
+</topic>
+<topic id="11" parent="10" guid="K5ujxc-KlUq0gX0J_QsU1g" x="-539.19" y="-428.19" text="DIALOGUE_HUB">
+<parent-relation guid="Q4vVRXWJXkSvHAumxrw6DQ"/>
+<note>
+[executeAction:showSongBook]
+</note>
+</topic>
+<topic id="12" parent="11" guid="oXWRPafIO0GrrA8rL4vjrg" x="-1217.85" y="-125.90" text="tilo: The Rat\Nwith Two Tails">
+<note>
+[lockableThread:ratWithTwoTails][lockThread:ratWithTwoTails][executeAction:performSong=song_ratTwoTails]
+</note>
+</topic>
+<topic id="13" parent="12" guid="ohhj_vUTf0yc1V9WxAihHg" x="-1217.85" y="29.70" text="duinlan: A tale... of a Rat...">
+<children>
+<image guid="RR6fOkVyW0igh9ldk8UFyQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="152.50" y="-3.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="RR6fOkVyW0igh9ldk8UFyQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="152.50" y="-3.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizAwakenDuinlan][executeAction:showSongBook][updateCounter:quizAwakenDuinlan-1]
+</note>
+</topic>
+<topic id="14" parent="11" x="-885.90" y="-264.23" text="tilo: The Maiden\NWouldn&apos;t Sing">
+<note>
+[lockableThread:balladofMerra][lockThread:balladofMerra][executeAction:performSong=song_maiden]
+</note>
+</topic>
+<topic id="15" parent="14" guid="hVIsCAUIpU2FPO6_pkdgZw" x="-530.32" y="89.83" text="duinlan: ... Another...">
+<parent-relation guid="ilqUnLIx4kqjRL6CX4fNPQ"/>
+<children>
+<image guid="OjX7bEueK0qE0HzS6S3TsQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="121.07" y="-5.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="OjX7bEueK0qE0HzS6S3TsQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="121.07" y="-5.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[executeAction:showSongBook][showRenown:quizAwakenDuinlan][updateCounter:quizAwakenDuinlan-1]
+</note>
+</topic>
+<topic id="16" parent="11" guid="ReMe9hx4AUmfRuHZESPdjg" x="-539.19" y="-264.23" text="tilo: Heaven in a Bottle">
+<note>
+[lockableThread:drinkingShanty][lockThread:drinkingShanty][executeAction:performSong=song_pirateSong]
+</note>
+</topic>
+<topic id="17" parent="11" guid="TChiNFejxEij_HZIjNNIEg" x="-149.22" y="-264.23" text="tilo: A Murder of Crows">
+<note>
+[lockableThread:gatheringSong][lockThread:gatheringSong][executeAction:performSong=song_insultingSong]
+</note>
+</topic>
+<topic id="18" parent="11" x="188.17" y="-258.68" text="tilo: The Ballad of\Nthe Coward King">
+<note>
+[lockableThread:balladOfTheCowardKing][lockThread:balladOfTheCowardKing][executeAction:performSong=song_cowardKing]
+</note>
+</topic>
+<topic id="19" parent="18" guid="KKekm_ZoKECKOH3atqT-dg" x="188.17" y="-108.63" text="duinlan: ... A war...">
+<children>
+<image guid="fzH0AUSENEiSyPZmYiM7qQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="112.50" y="-0.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="fzH0AUSENEiSyPZmYiM7qQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="112.50" y="-0.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[executeAction:showSongBook][showRenown:quizAwakenDuinlan][updateCounter:quizAwakenDuinlan-1]
+</note>
+</topic>
+<topic id="20" parent="11" guid="FAcwXyo8eEmi-R2QwmTbGQ" x="554.28" y="-264.23" text="tilo: The Orphan Prince">
+<note>
+[lockableThread:sonOfACowardKing=true][lockThread:sonOfACowardKing][executeAction:performSong=song_silas]
+</note>
+</topic>
+<topic id="21" parent="11" x="-1560.46" y="-264.23" text="tilo: The\NPoisoned Cup">
+<note>
+[lockableThread:poisonedCup][lockThread:poisonedCup][executeAction:performSong=song_poisonedCup]
+</note>
+</topic>
+<topic id="22" parent="21" guid="bEslKCZmvU6RCCBC5N4VHQ" x="-1560.46" y="-108.63" text="duinlan: Green... and gold...">
+<children>
+<image guid="bjom2JI-Ok2Vv5IkCsR8zg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="156.79" y="-9.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="bjom2JI-Ok2Vv5IkCsR8zg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="156.79" y="-9.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizAwakenDuinlan][executeAction:showSongBook][updateCounter:quizAwakenDuinlan-1]
+</note>
+</topic>
+<topic id="23" parent="11" guid="iHN9elYMREuLn730-O81MQ" x="-1918.09" y="-264.23" text="tilo: The\NGilded Warrior">
+<note>
+[lockableThread:gildedWarrior][lockThread:gildedWarrior][executeAction:performSong=song_gildedWarrior]
+</note>
+</topic>
+<topic id="24" parent="23" guid="ueSWk4rHikuuiPsP9uoE3Q" x="-1918.09" y="-148.47" text="duinlan: ... Aye... aye...">
+<children>
+<image guid="hNnO8E7B60aG6zOMgsaRQQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-136.07" y="-3.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="hNnO8E7B60aG6zOMgsaRQQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-136.07" y="-3.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[lockThread:duinlansGreeting][executeAction:grantRenown=quizAwakenDuinlan]
+</note>
+</topic>
+<topic id="25" parent="24" guid="umdX09EbNUy3tWZLLkP0mQ" x="-1918.09" y="-3.48" text="The turquoise ember\Nexpands, glowing\Nbrighter, swirling faster\Nas it coalesces to form\Na ghostly figure.">
+<parent-relation guid="Zw1AmI_Fv0yA-u2mLxqWPQ"/>
+<note>
+[narration]
+</note>
+</topic>
+<topic id="26" parent="25" guid="4HzJSGkZkUa8CvpoEIiOUA" x="-1918.09" y="148.04" text="duinlan: Good Mouse...?">
+<parent-relation guid="qZckjhl2ikiH-DEqf3w3wg"/>
+<children>
+<image guid="Gkp43kBbTEamx0LjtyggPA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="165.56" y="4.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="Gkp43kBbTEamx0LjtyggPA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="165.56" y="4.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="27" parent="26" guid="NrTtwTm2qEmj_ZRRs7YGCQ" x="-1918.09" y="312.02" text="duinlan: ... What place is this?">
+<parent-relation guid="PhuLTtY1BEqBYWSKqnNwLA"/>
+<note>
+[counter:metDuinlan=0][updateCounter:metDuinlan+1][completeTask:quest_mysteryOfDuinlansTomb.findChest]
+</note>
+</topic>
+<topic id="28" parent="27" guid="U_6VPpcTjEK9T9m2cbZAiA" x="-1918.09" y="520.84" text="tilo: W-who are you?"/>
+<topic id="29" parent="27" guid="6x2UQpyE3US7bBl2ClfhFA" x="-1670.71" y="520.84" text="tilo: The tomb of\Nthe hero Duinlan."/>
+<topic id="30" parent="29" guid="LlwiOysfI0CAPkveIh3nYA" x="-1670.71" y="654.97" text="duinlan: Duinlan...\Naye..."/>
+<topic id="31" parent="30" guid="B64xJLdMOku36dJHsTG5nQ" x="-1918.09" y="654.97" text="duinlan: I am--I\Nwas--Duinlan, of [Dhall].">
+<note>
+[executeAction:revealTrueName=character_duinlan][footnote:dhall]
+</note>
+</topic>
+<topic id="32" parent="31" guid="DNvO_Vnyr0WadeIQkD0wtw" x="-1918.09" y="807.01" text="tilo: Duinlan... are you sister\Nto the great hero, perhaps?">
+<note>
+[lockableThread:duinlanSister][lockThread:duinlanSister]
+</note>
+</topic>
+<topic id="33" parent="32" guid="rPtYnS9P9UOdFBhDMfwf7g" x="-1918.09" y="962.65" text="duinlan: Sister? Nay...">
+<children>
+<image guid="q2Ai4n1p8U2NvCBz_Qjdag" name="dfc13e0466227975e50237d04e893b10963a160a" x="143.27" y="3.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="q2Ai4n1p8U2NvCBz_Qjdag" name="dfc13e0466227975e50237d04e893b10963a160a" x="143.27" y="3.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="34" parent="33" guid="2dEbjMb9XEWseK_CQWBrgA" x="-1918.09" y="1124.80" text="tilo: Wait, you&apos;re Duinlan?!\NOf the Battle of Periclave?"/>
+<topic id="35" parent="33" guid="131Oynlj1Uq20S6EOwa8KQ" x="-2259.63" y="1124.80" text="tilo: Then a\Ndaughter...?"/>
+<topic id="36" parent="35" guid="LjTTYVuZvkCxBZvP_RrXeA" x="-2259.63" y="1271.53" text="duinlan: I had no heir... I was\Nthe last to bear that name."/>
+<topic id="37" parent="36" guid="IEyQD_koGEyP0QThQ0LMcg" x="-1597.68" y="1271.53" text="duinlan: I am the shade\Nof a warrior, nothing more.">
+<note>
+[executeAction:acquireSong=gildedWarriorChanged]
+</note>
+</topic>
+<topic id="38" parent="37" guid="abdUBJrrDEWXWyypGBI_oA" x="-1608.93" y="1369.63" text="duinlan: How strange, to\Nspeak and be heard for the first\Ntime in a thousand years.">
+<children>
+<image guid="wzh1_xthIEOml2x6eF6AxQ" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="206.92" y="8.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="wzh1_xthIEOml2x6eF6AxQ" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="206.92" y="8.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="39" parent="38" guid="OOwmbawLtEiOcLZ39Gp8hw" x="-1608.93" y="1485.48" text="duinlan: But why\Nhave you come here,\Ngood Mouse?"/>
+<topic id="40" parent="39" guid="6SigR_U980GGUe1EG1Rw0Q" x="-1276.84" y="1485.48" text="duinlan: I sense\Nyou have questions...">
+<parent-relation guid="APSQuz7IzkCx44u5ZE3I5w"/>
+</topic>
+<topic id="41" parent="40" guid="OEEFozA0nEav_9ppVUKFQA" x="-238.63" y="1302.61" text="DIALOGUE_HUB_A">
+<parent-relation guid="ZszHL1lIG0STizjkZMfxIA"/>
+</topic>
+<topic id="42" parent="41" guid="hz0BPfvsOk27psnTFOhVfQ" x="-42.70" y="1427.60" palette="2" colorinfo="2" text="DIALOGUE_HUB_B">
+<parent-relation guid="9DK27GiJkUGH4KLYSlCuDg"/>
+</topic>
+<topic id="43" parent="42" guid="fE24n_nzVE61p-VmNAHs-Q" x="-1045.78" y="2328.87" palette="1" colorinfo="1" text="tilo: The graves in the lower hall,\Nmany are smashed. What happened?">
+<note>
+[reveal:quest_magpieAndMouseKing=complete][lockableThread:graveIsSmashed][lockThread:graveIsSmashed]
+</note>
+</topic>
+<topic id="44" parent="43" guid="DzuHGS9StEaZE0TE4IrFQg" x="-1045.78" y="2505.14" text="duinlan: Soldiers came long ago,\Narmed with hammers and quarry\Naxes, and split them open."/>
+<topic id="45" parent="44" guid="aN-LxW2MMEasFK5liFGCgg" x="-778.35" y="2745.99" text="tilo: Rat soldiers..."/>
+<topic id="46" parent="45" guid="bClkO4I4M0yMxblkrL01uA" x="-778.35" y="2903.12" text="duinlan: Aye."/>
+<topic id="47" parent="46" guid="x23r7uFtfU-OigfJ9WpMaw" x="-778.35" y="3039.37" text="duinlan: Later, more soldiers\Ncame. In search of\Nsomething... some stone.">
+<children>
+<image guid="X_pDhNTjo0yG7XVd2eYRsQ" name="dfc13e0466227975e50237d04e893b10963a160a" x="176.79" y="7.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="X_pDhNTjo0yG7XVd2eYRsQ" name="dfc13e0466227975e50237d04e893b10963a160a" x="176.79" y="7.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="48" parent="47" guid="pffGtAbboEuz43JILSIZuw" x="-778.35" y="3240.51" text="duinlan: They did not\Nfind what they sought."/>
+<topic id="49" parent="44" guid="3GjZH3H_IEOpAf8e2pgh6A" x="-1320.88" y="2744.74" text="tilo: And the bones\Nwere taken?"/>
+<topic id="50" parent="49" guid="JqDdk2DX2E2qN-mat-brJg" x="-1320.88" y="2851.41" text="duinlan: Aye... such indignity.">
+<children>
+<image guid="NjoBUCtBXky50POi1YEoZA" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="-176.25" y="-57.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="NjoBUCtBXky50POi1YEoZA" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="-176.25" y="-57.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="51" parent="50" guid="m4rXhOWqeEyxwj0BEWU3gw" x="-1444.48" y="2947.35" text="tilo: Who was\Nlaid to rest there?"/>
+<topic id="52" parent="51" guid="NuzSb2PsT06Kqbpt87A-XQ" x="-1444.48" y="3039.37" text="duinlan: They were\Nmy comrades, and\Ndied at my side.">
+<children>
+<image guid="IJtH645XLkqIxky2tprRag" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-145.56" y="-25.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="IJtH645XLkqIxky2tprRag" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-145.56" y="-25.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="53" parent="52" guid="fjV3tmQv2Uye4zplP7b6Og" x="-1444.48" y="3140.09" text="duinlan: They were much\Nafraid... but never faltered."/>
+<topic id="54" parent="53" guid="9R2hLTelzUW1U_8DsElMLQ" x="-1444.48" y="3240.51" text="duinlan: I... I remember\Nnot their names. Only\Ntheir courage.">
+<parent-relation guid="p3zIMZki80ijGi6qwiyzww"/>
+<children>
+<image guid="y3yJ4E1Pc0aUyQVZjCT1Kg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="128.89" y="38.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="y3yJ4E1Pc0aUyQVZjCT1Kg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="128.89" y="38.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="55" parent="50" guid="7J3OjFdCz0iQimlXKHMp1g" x="-1189.29" y="2947.35" text="tilo: The inscriptions\Nhave been defaced..."/>
+<topic id="56" parent="55" guid="83OWXrlA_UyC6TJYLTUamQ" x="-1189.29" y="3039.37" text="duinlan: By\Nthose same Rats."/>
+<topic id="57" parent="44" guid="vpRbRFApr0msaeueLkOZbQ" x="-1045.78" y="2633.64" text="tilo: What were\Nthey looking for?"/>
+<topic id="58" parent="57" guid="Ch-PwT25WkqRbZxQFb0KvA" x="-1045.78" y="2744.74" text="duinlan: Nothing... they\Ncame only to destroy.">
+<children>
+<image guid="3HP5nsMQY0KC92cvrKoV1g" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="109.00" y="68.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="3HP5nsMQY0KC92cvrKoV1g" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="109.00" y="68.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="59" parent="42" guid="dL61p6AmC0CDdsp1VfodcQ" x="2678.20" y="3279.22" text="tilo: I&apos;m still searching for\Nyour true love&apos;s name.">
+<note>
+[lockableThread:clarionQuestActive=true][lockThread:clarionQuestActive][reveal:quest_findSecondChest.findTrueLovesName=active]
+</note>
+</topic>
+<topic id="60" parent="59" guid="yR3dgMNT5USlolJdATqcyw" x="2430.04" y="3522.46" text="duinlan: I have\Nonly time...">
+<note>
+[variationIndex=0][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="61" parent="60" guid="wPZkoJ2itEW0Pcih626yJA" x="5868.81" y="4821.10" palette="6" colorinfo="6" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="62" parent="59" guid="rdqUh6QqbkeiKyGAgpw7zQ" x="2953.50" y="3522.46" text="duinlan: I have faith\Nin you, good Mouse.">
+<note>
+[variationIndex=2][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="63" parent="59" guid="YhFsFIRkwE61U0DxL3gSgA" x="2678.20" y="3455.36" text="duinlan: [The clarion] has stood\Nfor a thousand years. I can wait\Na few moments longer.">
+<note>
+[variationIndex=1][footnote:great_clarion][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="64" parent="42" guid="5EhONfeBREaW3EDymzbq4Q" x="8740.45" y="2324.80" text="tilo: Forgive me, My Lady, I have not yet\Nfound all of your remains, nor Hythe&apos;s.">
+<parent-relation guid="t4YhdeLjBUW-CTK56--ClA"/>
+<note>
+[reveal:quest_duinlansRemains.returnToTomb=inactive]
+</note>
+</topic>
+<topic id="65" parent="64" guid="IKh78-5LWkOHMVP9NgmSJg" x="8451.70" y="2623.55" text="duinlan: I have nothing\Nbut time, good Mouse.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="66" parent="65" guid="hgE_jDmEb0S1kisw2vHo-g" x="8740.45" y="2936.05" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="67" parent="64" guid="BstthhO7-E2EAvkT48Bv4w" x="8740.45" y="2704.66" text="duinlan: My fate is in your\Npaws, young Mouse.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="68" parent="64" guid="LhDi9rNf5kCmuDNGcxz0_A" x="9036.70" y="2623.55" text="duinlan: I am at your\Nmercy, good Mouse.">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="69" parent="42" guid="RqY6G08WS0mbRNodJ2jtsg" x="7544.20" y="2422.37" text="tilo: Please, if there&apos;s anything\Nmore I can do, you need only ask.">
+<parent-relation guid="qubb-1Mu70-yh1v7GUxqsA"/>
+<note>
+[lockableThread:helpDuinlanTaskA=true]
+</note>
+</topic>
+<topic id="70" parent="69" guid="wtv0EMiMaUq7jX2u9UTLXA" x="7544.20" y="2568.87" text="duinlan: I... I have no right to ask\Nthis of you, good Mouse...">
+<children>
+<image guid="v2w6e4w2pkeB35Z8npCGnA" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="187.50" y="1.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="v2w6e4w2pkeB35Z8npCGnA" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="187.50" y="1.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+<note>
+[lockThread:helpDuinlanTaskA]
+</note>
+</topic>
+<topic id="71" parent="70" guid="qDwPWsNYikClet9nS0B5YQ" x="7544.20" y="2713.37" text="duinlan: ... but will you tend\Nthe graves of my comrades?">
+<note>
+[startQuest:quest_rememberTheDead]
+</note>
+</topic>
+<topic id="72" parent="71" guid="iaDNWUiMiEKFiyUOQP73EA" x="7544.20" y="2893.59" text="duinlan: So many of them lie buried in\Nthese woods. Please, light a candle in\Ntheir name--so they are remembered.">
+<children>
+<image guid="9-UmwmUOfUyatif5fY9Usg" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="195.00" y="-76.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="9-UmwmUOfUyatif5fY9Usg" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="195.00" y="-76.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="73" parent="72" guid="xD5brgYwa0G0_CZp3EthGA" x="7544.20" y="3030.88" text="duinlan: Pray, take this..."/>
+<topic id="74" parent="73" guid="2lfaYVD8AE-TBjxtXhWMDw" x="7544.20" y="3135.23" text="You feel the cold weight of\Nan iron key in your paw.">
+<note>
+[narration][executeAction:receiveItem=key_obeliskChest]
+</note>
+</topic>
+<topic id="75" parent="74" guid="zdiFHhVvKEydLqiW3nbI4g" x="7544.20" y="3251.61" text="duinlan: At the foot of Jothe&apos;s obelisk\Nsits a chest. Inside are instructions that\Nwill guide you in this task.">
+<note>
+[unlockThread:helpDuinlanTaskB]
+</note>
+</topic>
+<topic id="76" parent="75" guid="RKHf_kw7qU2PEidO03BZxQ" x="7532.53" y="3382.02" text="tilo: It would be an\Nhonour, My Lady.">
+<parent-relation guid="KfR0TAA_TkK8OiFG-ReR7w"/>
+</topic>
+<topic id="77" parent="42" guid="Z42YtqEFDEGusk0eT996Fg" x="8071.81" y="2358.80" text="tilo: Is there nothing\Nmore you need?">
+<parent-relation guid="yIPXePNZeUatgkihBNU7Tw"/>
+<note>
+[lockableThread:helpDuinlanTaskB=true][lockThread:helpDuinlanTaskB]
+</note>
+</topic>
+<topic id="78" parent="77" guid="V06Gf6-u7kufIsZs7W1MGg" x="8071.81" y="2550.30" text="duinlan: You have done so\Nmuch for me... and yet I have\None more request...">
+<parent-relation guid="7L8e2C63QkuiQx7JUOMrzQ"/>
+</topic>
+<topic id="79" parent="78" guid="6q45AvaG90Kd0RddQU5rKg" x="8071.81" y="2720.51" text="duinlan: My mortal remains--and\NHythe&apos;s--lie strewn about this place.">
+<parent-relation guid="qFCyn7CZKU6W8CCj19-Deg"/>
+<children>
+<image guid="bSMBQTt0-UWJC66GjknWyA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="186.67" y="-71.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="bSMBQTt0-UWJC66GjknWyA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="186.67" y="-71.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="80" parent="79" guid="1g4YNJ7wF0KGcMWMxstaQA" x="8071.81" y="2893.59" text="duinlan: Will you gather and return them to my\Ntomb? I wish to rest now... beside my true love.">
+<parent-relation guid="4cX5TBwV8UGqfHO4r9o7ig"/>
+<note>
+[startQuest:quest_duinlansRemains]
+</note>
+</topic>
+<topic id="81" parent="80" guid="a3qcOO7xS0Cxla_3wG20Aw" x="8272.52" y="3125.36" text="tilo: How will I recognize\Nthe remains as yours?">
+<parent-relation guid="ZF7opSbOmU2ugxTKfL18sA"/>
+</topic>
+<topic id="82" parent="81" guid="KzkOk4uzbU2i3241Mck2Jg" x="8272.52" y="3253.52" text="duinlan: They bear my\Nname, as Hythe&apos;s bear his.">
+<children>
+<image guid="wOZPtsbwSkSOFJn4X-2KOg" name="dfc13e0466227975e50237d04e893b10963a160a" x="165.83" y="-53.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="wOZPtsbwSkSOFJn4X-2KOg" name="dfc13e0466227975e50237d04e893b10963a160a" x="165.83" y="-53.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="83" parent="82" guid="ilzaVyxCGU-XSIOaFx9lSw" x="8272.52" y="3382.02" text="duinlan: If you will grant\Nme this kindness...">
+<parent-relation guid="nSQKXQpg10ORAyJO-Qu8nw"/>
+</topic>
+<topic id="84" parent="83" guid="FjSChNOx70GRjh4OBwHxVg" x="8272.52" y="3503.82" text="duinlan: ... I will give you\Nsomething precious in return."/>
+<topic id="85" parent="84" guid="a3hjWSAflUGtLfDe04EWAQ" x="8272.52" y="3622.27" text="duinlan: Until then, I\Nmust remain... a shade...">
+<parent-relation guid="VCrTGdXqiEGXkAW98QvHSA"/>
+<children>
+<image guid="SvkeYXuu_keq8-y_mvA80w" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="142.50" y="-6.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="SvkeYXuu_keq8-y_mvA80w" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="142.50" y="-6.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+</topic>
+<topic id="86" parent="80" guid="zyqBVZyGSU2oblXR6S6l0A" x="7862.98" y="3253.52" text="tilo: I&apos;ll do as you\Nask, I promise.">
+<parent-relation guid="p8PAACFL2U-UInnlOB58PA"/>
+</topic>
+<topic id="87" parent="86" guid="rVxad8Baw0ShKMvemPSb9w" x="7862.98" y="3503.82" text="duinlan: You have my\Nthanks, good Mouse..."/>
+<topic id="88" parent="42" guid="ZdkFEuN4OkyCK7UdmRHZGg" x="297.45" y="5306.28" palette="1" colorinfo="1" text="tilo: Why do you\Nremain here still?">
+<parent-relation guid="tnV3ZbhvZEiJL7_bjrMZrA"/>
+<note>
+[lockableThread:whyStillHere=true][lockThread:whyStillHere]
+</note>
+</topic>
+<topic id="89" parent="88" guid="EIq0VJMVUkeD6rwS_CXnIA" x="297.45" y="5444.53" text="duinlan: I must stay here\Nuntil... until I can remember..."/>
+<topic id="90" parent="89" guid="G_4j-2HHQECQSDPkVwWy_Q" x="437.12" y="5563.87" text="tilo: Remember what?"/>
+<topic id="91" parent="90" guid="PO0uLK9t3UKhCMjTDoo8Ig" x="437.12" y="5663.69" text="duinlan: Something,\Nor someone...">
+<children>
+<image guid="EPlUhTcg2kSOCEaiYP-7Jg" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="118.00" y="44.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="EPlUhTcg2kSOCEaiYP-7Jg" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="118.00" y="44.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="92" parent="89" guid="fQTY9EIDz0aYJ7-P0O7Tjg" x="167.78" y="5612.53" text="tilo: Remember...\Nremember whom?"/>
+<topic id="93" parent="92" guid="2OEs72t93UWhG22FODX1dw" x="297.45" y="5922.26" text="duinlan: Someone I\Nloved. I... \NI cannot recall...">
+<children>
+<image guid="TJrp1qhMq0yT9AazgbRgKg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="134.00" y="-18.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="TJrp1qhMq0yT9AazgbRgKg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="134.00" y="-18.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="94" parent="93" guid="tcgkgRjyGk-stTVU_fFYdA" x="177.45" y="6073.10" text="duinlan: Even\Nthis I have lost.">
+<note>
+[lockableThread:duinlansLostMemories=true]
+</note>
+</topic>
+<topic id="95" parent="42" guid="tbBdXK7CwkWC3XwmRZc6Ow" x="177.84" y="1582.73" text="DIALOGUE_HUB_C"/>
+<topic id="96" parent="95" guid="m2N8pBxUvEqx1DJmW895zQ" x="278.44" y="2339.18" palette="1" colorinfo="1" text="tilo: You&apos;ve been\Nalone for all this time?">
+<parent-relation guid="Lb0OpabbQU6UAm3_dDu_iw"/>
+<note>
+[lockableThread:howLongAlone][lockThread:howLongAlone]
+</note>
+</topic>
+<topic id="97" parent="96" guid="u5S2ifZmWEa-4lehDqHrSA" x="278.44" y="2442.18" text="duinlan: There was a time\Npilgrims would come in\Nsearch of my blessing."/>
+<topic id="98" parent="97" guid="_-gIkuI7_U-eN44MIYwtZQ" x="279.48" y="2546.15" text="duinlan: But none have\Nbeen here in... in...">
+<children>
+<image guid="SP2DwxaA4Ue3ppO764INUQ" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-168.89" y="-5.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="SP2DwxaA4Ue3ppO764INUQ" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-168.89" y="-5.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="99" parent="98" guid="j129H3gglE6nlQ8MH0iY9Q" x="279.48" y="2650.59" text="duinlan: ...">
+<children>
+<image guid="tzZhWfDHbEClZXbtgJ9-Tg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="-98.89" y="-23.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="tzZhWfDHbEClZXbtgJ9-Tg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="-98.89" y="-23.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="100" parent="99" guid="E8XfntUh2E-KU0pTuXLAyQ" x="279.47" y="2768.38" text="duinlan: The last\Nwas a Rat--a good Rat.">
+<parent-relation guid="ZUNMXYEJrUSUmmAUJXdzNQ"/>
+<children>
+<image guid="oG65_pSpskun3XvpRLj6zw" name="dfc13e0466227975e50237d04e893b10963a160a" x="-136.39" y="-20.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="oG65_pSpskun3XvpRLj6zw" name="dfc13e0466227975e50237d04e893b10963a160a" x="-136.39" y="-20.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="101" parent="100" guid="wjQbjMqV5kSb-rEbOEd0Kg" x="279.61" y="2865.88" text="duinlan: He spoke to\Nme, though he did not\Nknow I was there."/>
+<topic id="102" parent="101" guid="u55BhvRgY0afOraMzcTFEw" x="279.61" y="3014.05" text="duinlan: His name… I don’t\Nremember, but it was a heavy\Nburden for him to bear.">
+<note>
+[unlockThread:visitorsIdentitySilas]
+</note>
+</topic>
+<topic id="103" parent="102" guid="pddQuMjRCUC4nU7t4LT9_g" x="-1.02" y="3172.51" text="tilo: I&apos;m glad you could\Ngive him some comfort."/>
+<topic id="104" parent="103" guid="DxGAY6ARPEukzFkFGNQf9w" x="-1.02" y="3289.01" text="duinlan: I fear it\Nwas not enough...">
+<children>
+<image guid="zudmjzaypUu755AExA4PIQ" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-118.75" y="-30.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="zudmjzaypUu755AExA4PIQ" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-118.75" y="-30.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="105" parent="95" guid="V4rQoYsf7UePEUKv7RNVGg" x="-482.57" y="2328.87" palette="1" colorinfo="1" text="tilo: Are there others like you?">
+<parent-relation guid="o_8p8_c92EqHz4e3WcLs2w"/>
+<note>
+[lockableThread:whoseGraves][lockThread:whoseGraves]
+</note>
+</topic>
+<topic id="106" parent="105" guid="cOlVuEBP_ky12xxKxCnn9Q" x="-482.57" y="2505.14" text="duinlan: My comrades\Nfaded long ago. Only their\Nbones remain, and dust.">
+<children>
+<image guid="lLu6CSR_IkyEqJDzLh58HQ" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="158.33" y="-60.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="lLu6CSR_IkyEqJDzLh58HQ" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="158.33" y="-60.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="107" parent="95" guid="uXgcgpmo2Eq1Vg4VYq0irg" x="-1358.35" y="3538.29" text="tilo: Why is it that I\Nalone can see you?">
+<parent-relation guid="TRwUIDdfP0mM2Oz3F4FhuA"/>
+<note>
+[lockableThread:whyTiloSeeTheDead=true][lockThread:whyTiloSeeTheDead]
+</note>
+</topic>
+<topic id="108" parent="107" guid="_RlS_LIffkuB7bRb3KvgyQ" x="-1358.35" y="3748.62" text="duinlan: &apos;Tis\Nstrange indeed...">
+<children>
+<image guid="EGY4AkRU5Eavbsz7hVIieg" name="dfc13e0466227975e50237d04e893b10963a160a" x="118.75" y="16.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="EGY4AkRU5Eavbsz7hVIieg" name="dfc13e0466227975e50237d04e893b10963a160a" x="118.75" y="16.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="109" parent="108" guid="x-K6jRJW3UeN3A-Ufpd2Jw" x="-1358.35" y="3998.48" text="DIALOGUE_HUB">
+<parent-relation guid="AvgiiMYKskC8gvvkCtWrfw"/>
+</topic>
+<topic id="110" parent="109" guid="N3IgEgHQf0emMvKY7ZLQAQ" x="-1435.49" y="4426.28" text="tilo: Well, my grandmother was\Nknown to talk to dead relatives...">
+<parent-relation guid="N6NynU4XiUKRq12Bwq-OMQ"/>
+<note>
+[lockableThread:howTalkToDeadTheoryA][lockThread:howTalkToDeadTheoryA]
+</note>
+</topic>
+<topic id="111" parent="110" guid="Oy1UXRF1lEuIXj0NIbaYOQ" x="-1435.49" y="4860.63" text="duinlan: Nay... you are but a\Nsimple Mouse. &apos;Tis not you,\Nbut something you carry...">
+<parent-relation guid="A82jMWuSjkCleMdriRqA3g"/>
+</topic>
+<topic id="112" parent="109" guid="kZOsBae2wkCfQoXgmw3ILw" x="-908.99" y="4426.28" text="tilo: Here... perhaps my son&apos;s\Nlutka is the cause...">
+<note>
+[lockableThread:howTalkToDeadTheoryB][lockThread:howTalkToDeadTheoryB]
+</note>
+</topic>
+<topic id="113" parent="112" guid="kG9Joh1mBUmnMfdDzxLq6g" x="-1053.99" y="4617.71" text="You reach into your pouch\Nfor Brin&apos;s [lutka]... but\Nthe figurine is gone.">
+<note>
+[narration][reveal:hasItem=figurine_tilosChild*0][footnote:lutkas]
+</note>
+</topic>
+<topic id="114" parent="113" guid="Ckg7JpWjCUCuumhxHQWWAA" x="-1053.99" y="4860.63" text="duinlan: I am sorry,\Ngood Mouse... but there\Nis no magic there.">
+<children>
+<image guid="F9rLphAVG0eTwzlDdFv_DA" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="-142.50" y="-67.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="F9rLphAVG0eTwzlDdFv_DA" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="-142.50" y="-67.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="115" parent="112" guid="gqoH_7EhWkul7sTPGYfazA" x="-771.74" y="4617.71" text="You pull the figurine\Nfrom your pouch and\Noffer it to the shade.">
+<note>
+[narration][reveal:hasItem=figurine_tilosChild*1]
+</note>
+</topic>
+<topic id="116" parent="115" guid="e3HgItZV1EarJRk5_K3AZg" x="-771.74" y="4743.96" text="duinlan: Would that I\Ncould only hold it, good\NMouse. &apos;Tis beautiful...">
+<children>
+<image guid="duvPJn2Hd06LApyga-RGEw" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="158.75" y="16.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="duvPJn2Hd06LApyga-RGEw" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="158.75" y="16.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="117" parent="116" guid="wCSd2UN_FUmhOPbjnPgJvg" x="-771.74" y="4860.63" text="duinlan: ... but there\Nis no magic here.">
+<children>
+<image guid="VLoP-KNa20CL2vxEJXGhnw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="130.00" y="31.02" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="VLoP-KNa20CL2vxEJXGhnw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="130.00" y="31.02" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="118" parent="109" guid="ODC_QXKus06eUKVBrCfDSA" x="-1795.53" y="4426.28" text="tilo: I&apos;ve always felt there was\Nsomething curious about my lute...">
+<parent-relation guid="sfljTmwyUU6oH52e0MJQqw"/>
+</topic>
+<topic id="119" parent="118" guid="FeMgxwm9akqbQ0Awsy63sw" x="-1795.53" y="4860.63" text="duinlan: Your lute... aye,\Nthere is something there...">
+<children>
+<image guid="bXvJ5EedQk67bflyk9JU8w" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="130.00" y="-72.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="bXvJ5EedQk67bflyk9JU8w" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="130.00" y="-72.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="120" parent="95" guid="5OkvOKfIbESbehU_Ytz0UA" x="262.08" y="3349.76" palette="1" colorinfo="1" text="tilo: The Rat that sought your\Ncounsel... what was his name?">
+<parent-relation guid="kvq3exImjk65YT5TWcb_fQ"/>
+<note>
+[lockableThread:visitorsIdentitySilas=true][lockThread:visitorsIdentitySilas]
+</note>
+</topic>
+<topic id="121" parent="120" guid="Jl87IMVVDk2jVuVQjIpRfg" x="262.08" y="3489.83" text="duinlan: His name... his\Nname was sharp at its\Nend, like the point of a\Nknife.">
+<children>
+<image guid="2kjhY_hyVk-pvMovBR1WdQ" name="dfc13e0466227975e50237d04e893b10963a160a" x="142.50" y="37.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="2kjhY_hyVk-pvMovBR1WdQ" name="dfc13e0466227975e50237d04e893b10963a160a" x="142.50" y="37.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="122" parent="121" guid="ddrz66VMM0GnswlaUTvjQw" x="257.75" y="3662.23" text="duinlan: He took something,\Nand left something in its\Nplace--there, on the altar."/>
+<topic id="123" parent="122" guid="H52yhD-MlU6-_f2xWPw0CQ" x="257.75" y="3873.13" text="duinlan: He swore to one\Nday return what he had taken,\Nbut alas...">
+<children>
+<image guid="mR96VgLNwUufzTGG-HX52w" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="172.50" y="61.02" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="mR96VgLNwUufzTGG-HX52w" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="172.50" y="61.02" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="124" parent="123" guid="jRj_oImf1UiddeZtW4yexQ" x="257.75" y="4034.56" text="duinlan: ... that day\Nhas not yet come."/>
+<topic id="125" parent="95" guid="-_u1cH27-U-F_YIkHJDVbg" x="3581.77" y="4240.36" text="tilo: Please, My Lady, tell me\Nmore about your life...">
+<parent-relation guid="Dw1XhMTsjEWTBht_vG9phg"/>
+<note>
+[reveal:counter.hytheQuestions&gt;0;counter.hytheQuestions&lt;7]
+</note>
+</topic>
+<topic id="126" parent="125" guid="pRl8dPhXGkS8h4EeoHi5Ag" x="3346.31" y="4453.09" text="duinlan: Ask, and I will\Nanswer as I can.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="127" parent="125" guid="C7OdEAW0lkSHO7EmIBchvQ" x="3788.13" y="4453.09" text="duinlan: What is it you wish\Nto know, good Mouse?">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="128" parent="95" guid="mqp_mAC_WEWFqVJeNlSmwg" x="537.37" y="4821.01" palette="1" colorinfo="1" text="tilo: Tell me, can all of the\Ndead be called upon?">
+<parent-relation guid="kIOVEIsZO0KF7WrggPtLyA"/>
+<note>
+[lockableThread:talkToBrin=true][lockThread:talkToBrin]
+</note>
+</topic>
+<topic id="129" parent="128" guid="pyCtloHIDEqh54HlEqy_qw" x="537.37" y="4980.80" text="duinlan: All? Nay. Only those who die\Nin confusion or profound regret will linger.">
+<children>
+<image guid="C0E_djLCgU-qzcaH9bOXpw" name="dfc13e0466227975e50237d04e893b10963a160a" x="232.50" y="-56.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="C0E_djLCgU-qzcaH9bOXpw" name="dfc13e0466227975e50237d04e893b10963a160a" x="232.50" y="-56.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+<note>
+[unlockThread:whyStillHere]
+</note>
+</topic>
+<topic id="130" parent="129" guid="BqApdHXo3026kxW0H6OFEg" x="779.04" y="5444.53" text="tilo: I see...">
+<parent-relation guid="8i8kL3HENU--tKiDO6t_Jw"/>
+</topic>
+<topic id="131" parent="130" guid="2oQ2EizvLUKw_KdOs94Ixg" x="779.04" y="5922.26" text="duinlan: You have someone\Nyou hoped to reach?">
+<parent-relation guid="vz2RYMuCX0mbHrdsXMU1ng"/>
+<children>
+<image guid="QH-l6rMFH02TeSYD17rEvg" name="dfc13e0466227975e50237d04e893b10963a160a" x="165.23" y="5.49" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="QH-l6rMFH02TeSYD17rEvg" name="dfc13e0466227975e50237d04e893b10963a160a" x="165.23" y="5.49" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+<note>
+[lockableThread:someoneTiloHopesToReach][lockThread:someoneTiloHopesToReach][unlockThread:duinlansLostMemories]
+</note>
+</topic>
+<topic id="132" parent="131" guid="UCMijMtSi0qpPROEQhfdMw" x="565.79" y="6086.43" text="tilo: I-it doesn&apos;t matter..."/>
+<topic id="133" parent="132" guid="w_O2iVhrvUyT_LfPFPRFYg" x="565.79" y="6272.68" text="duinlan: As you wish..."/>
+<topic id="134" parent="131" guid="x9Kzlwg9Pk6FZ5O0f-xjYA" x="1007.04" y="6086.43" text="tilo: Aye... my son?"/>
+<topic id="135" parent="134" guid="e0RVbOzhUEmHnjTHpcHnhQ" x="1007.04" y="6272.68" text="duinlan: ... Be glad that he is\Nat peace, good Mouse. You\Nwould not wish this for him.">
+<children>
+<image guid="5xvqgFRaSEOYyM4iZQr2tA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="185.00" y="12.27" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="5xvqgFRaSEOYyM4iZQr2tA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="185.00" y="12.27" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="136" parent="135" guid="m-AiUCiOxEKVM1B6ku6vKg" x="1683.73" y="6604.99" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="137" parent="95" guid="DLrCXTepGEC2Q7Rd81XKxA" x="-964.61" y="5278.36" palette="1" colorinfo="1" text="tilo: Tell me, what is the Green Flame?">
+<parent-relation guid="AkYHF60N40iSOTvzj0AaJg"/>
+<note>
+[counter:greenFlameMentions=0][reveal:counter.greenFlameMentions=1][lockableThread:whatIsTheGreenFlame][lockThread:whatIsTheGreenFlame]
+</note>
+</topic>
+<topic id="138" parent="137" guid="b1-ytaM7t0GTRNi9HEpk8w" x="-964.61" y="5430.65" text="duinlan: &apos;Tis the absence\Nof thought... of reason...">
+<parent-relation guid="RUeP9Q15lUKzXIGucgR6zQ"/>
+<children>
+<image guid="WOI9iaZ9tUKZdzIMhv1_Zg" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="170.00" y="-11.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="WOI9iaZ9tUKZdzIMhv1_Zg" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="170.00" y="-11.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="139" parent="138" guid="iOITqzPXP02Ln7gXGToDWg" x="-964.61" y="5557.43" text="duinlan: ... an\Nall-devouring force.">
+<children>
+<image guid="MH9XGHuyE0eP35LJpdsUxg" name="76eae976422adea532405332a28cc3e3b5a3025b" x="-119.17" y="-27.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="MH9XGHuyE0eP35LJpdsUxg" name="76eae976422adea532405332a28cc3e3b5a3025b" x="-119.17" y="-27.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="140" parent="139" guid="wmaU2uLzFUGA8cu1EoiCRg" x="-964.61" y="5684.22" text="duinlan: Those who succumb to it\Nare doomed to join its ranks.">
+<parent-relation guid="A7hRkgCVzkKD65KnRaKCgQ"/>
+<children>
+<image guid="S7TnVf-QB0yXs4E9_6NLVQ" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="195.00" y="12.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="S7TnVf-QB0yXs4E9_6NLVQ" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="195.00" y="12.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="141" parent="140" guid="Od-RnPJuzk6KnAzmcPGtzw" x="-964.61" y="5888.22" text="tilo: The Green Flame...\Nwhere did it come from?"/>
+<topic id="142" parent="141" guid="jGjUHvosV0eeDSm7K-L3vA" x="-964.61" y="6043.22" text="duinlan: Some believe it a\Ndivine power, sent to test us..."/>
+<topic id="143" parent="142" guid="BHDxllvuqkOKUfyeoUvdxw" x="-964.61" y="6182.22" text="duinlan: ... but who can\Nsay? Perhaps it was always\Namongst us...">
+<parent-relation guid="f-p1ORTXnka66lfe_bQUIg"/>
+</topic>
+<topic id="144" parent="140" guid="f-NsM14Bp0mTkV1EyVOhvw" x="-637.23" y="5888.22" text="tilo: Few creatures believe the\NGreen Flame was ever real."/>
+<topic id="145" parent="144" guid="gVCiO2oWc0i9J5NtG3KFvA" x="-637.23" y="6043.22" text="duinlan: Time breeds\Ncomplacency."/>
+<topic id="146" parent="95" guid="wq-K0AiejEejaiOtJxwlFQ" x="3191.42" y="6072.77" text="tilo: What do you remember\Nof the battle of Periclave?">
+<parent-relation guid="FlXinR8djUKhQU5R5UL23g"/>
+<note>
+[lockableThread:memoriesOfPericlave=true][lockThread:memoriesOfPericlave]
+</note>
+</topic>
+<topic id="147" parent="146" guid="OfdAzIL0-ESgqvE8doG9aQ" x="3191.42" y="6181.57" text="duinlan: Impressions... the\Ncries, and the pain and the\Nwind on the plain...">
+<children>
+<image guid="N9oDDJl3OkO0KiAqu9jZrQ" name="76eae976422adea532405332a28cc3e3b5a3025b" x="181.25" y="-42.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="N9oDDJl3OkO0KiAqu9jZrQ" name="76eae976422adea532405332a28cc3e3b5a3025b" x="181.25" y="-42.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="148" parent="147" guid="3l8w9J6Cbk2scIN4Xwoa7Q" x="3191.42" y="6309.35" text="duinlan: ... the sheer\Ncliff walls, and [Jahrlan and\NNikto] above... and that sound,\Nthe dirge, unending...">
+<children>
+<image guid="UG4RKCkemE-WKb3NPotn5Q" name="76eae976422adea532405332a28cc3e3b5a3025b" x="195.00" y="-37.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="UG4RKCkemE-WKb3NPotn5Q" name="76eae976422adea532405332a28cc3e3b5a3025b" x="195.00" y="-37.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</images>
+<note>
+[footnote:jahrlan]
+</note>
+</topic>
+<topic id="149" parent="148" guid="YfchtLyWD0m4cCuFENnG-g" x="3191.42" y="6433.80" text="duinlan: But what news\Nhave you of the war?">
+<parent-relation guid="UUQKS86QhU6eBGoZYMZK9w"/>
+</topic>
+<topic id="150" parent="149" x="3056.13" y="6555.50" text="tilo: You\Ndon&apos;t know?"/>
+<topic id="151" parent="150" guid="7y3U-xVxZkmtM-kdJ-SH0A" x="3056.13" y="6658.74" text="duinlan: The day I died\Nthe world stood at the\Nedge of the bright abyss."/>
+<topic id="152" parent="151" guid="mMp_Y6bbaU-2I9WJmYVhVw" x="3057.18" y="6782.61" text="tilo: They say your\Nbravery turned the\Ntide of the war."/>
+<topic id="153" parent="152" guid="k281Un0rN0y-hxtwLY8WNA" x="3057.18" y="6892.73" text="duinlan: It was [Jahrlan]\Nled the charge...">
+<children>
+<image guid="I-PKS5TcpUK4csV8hsM1_Q" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-158.75" y="-26.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="I-PKS5TcpUK4csV8hsM1_Q" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-158.75" y="-26.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+<note>
+[footnote:jahrlan]
+</note>
+</topic>
+<topic id="154" parent="153" guid="OwyOPcs7w0ij8I8hP2R_XQ" x="3057.18" y="6991.10" text="duinlan: ... I merely\Nplayed my part.">
+<children>
+<image guid="VMPWoxi7qkeEjhbHKgZniA" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="110.00" y="24.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="VMPWoxi7qkeEjhbHKgZniA" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="110.00" y="24.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="155" parent="149" guid="ZQzHrMxlsEesOfYjOp_-Dw" x="3372.42" y="6658.74" text="tilo: The battle\Nwas won. The Green\NFlame was defeated."/>
+<topic id="156" parent="155" guid="Wv11SDXrfUKlXHfvbASXSA" x="3372.42" y="6892.73" text="duinlan: Defeated?\NYet I sense it still...">
+<children>
+<image guid="aJ1l7zcBTEC-wJh7gTxo0Q" name="76eae976422adea532405332a28cc3e3b5a3025b" x="131.25" y="-65.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="aJ1l7zcBTEC-wJh7gTxo0Q" name="76eae976422adea532405332a28cc3e3b5a3025b" x="131.25" y="-65.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="157" parent="95" guid="qfv9BpcAPkeEhrik9TUzKw" x="2825.63" y="6005.47" text="tilo: Tell me, what was the\Npurpose of &apos;the Great Clarion&apos;?">
+<parent-relation guid="vBNZ2W9di0ilrjriPjSo_w"/>
+<note>
+[lockableThread:whatIsTheClarion=true][lockThread:whatIsTheClarion]
+</note>
+</topic>
+<topic id="158" parent="157" guid="vyCz28NRJ0eH-lKKfQpnvg" x="2819.34" y="6164.14" text="duinlan: It was a weapon, in\Nthe [War of the Green Flame].">
+<children>
+<image guid="EXbCEQ3VCkKl97toKXQgSA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="108.75" y="73.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="EXbCEQ3VCkKl97toKXQgSA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="108.75" y="73.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+<note>
+[unlockThread:memoriesOfPericlave][updateCounter:greenFlameMentions=1][footnote:green_flame]
+</note>
+</topic>
+<topic id="159" parent="95" guid="xScxLnxKrUynrZsn3MiGQA" x="1399.82" y="1887.99" palette="1" colorinfo="1" text="tilo: Forgive me, Lady\NDuinlan, I must go.">
+<parent-relation guid="Sw8H1BcEqUOTLpg_1cG_jg"/>
+<note>
+[lockableThread:farewell=true][unlockThread:farewell]
+</note>
+</topic>
+<topic id="160" parent="159" guid="FIVHWsBBPEOLuNyfie8JWg" x="1166.35" y="2131.59" text="duinlan: Farewell,\Ngood Mouse.">
+<parent-relation guid="lQkDcr3Pnky8KJpPnK75Vg"/>
+<children>
+<image guid="kWLXq5v-NkaZY4GqMeLwbw" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-94.64" y="31.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="kWLXq5v-NkaZY4GqMeLwbw" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-94.64" y="31.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="161" parent="159" guid="Vfyencmbok-4rReYWmQ0Sw" x="1399.82" y="2095.78" text="duinlan: As you wish.">
+<children>
+<image guid="bDbWzfUZCEqAJDH8A6qUeQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-21.79" y="-65.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="bDbWzfUZCEqAJDH8A6qUeQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-21.79" y="-65.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="162" parent="159" guid="wXgl9kIGqUeHbjmteDmlJw" x="1605.39" y="2131.59" text="duinlan: Then go\Nyou must...">
+<children>
+<image guid="eL1r4pKEOEu2m9s_bfIhkQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="103.93" y="34.84" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="eL1r4pKEOEu2m9s_bfIhkQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="103.93" y="34.84" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="163" parent="159" guid="tNYh_eDrV0O9-vAwheKYJA" x="1982.03" y="1651.55" palette="1" colorinfo="1" text="duinlan: Good Mouse...">
+<note>
+[priorityOverride][lockableThread:leaveWithChest=true][lockThread:leaveWithChest]
+</note>
+</topic>
+<topic id="164" parent="163" guid="_6ErYVb7zUmmA_4WwvvuKA" x="1982.03" y="1757.55" text="duinlan: ... This vessel\Ncontains something of me.">
+<parent-relation guid="xvJKXC6xiUiHK_uS8WvD9w"/>
+</topic>
+<topic id="165" parent="164" guid="Ah5CtYSpoEGqrrBhDXdFFw" x="1982.03" y="1887.99" text="At your feet you find a simple\Nstoneware urn. Strange, you\Ndidn&apos;t notice it until now.">
+<parent-relation guid="naLb0wBD4kuMjJ6JE9_vyw"/>
+<note>
+[narration][executeAction:receiveItem=urn_duinlan]
+</note>
+</topic>
+<topic id="166" parent="165" guid="SLOUBH7k4EaJRDg353vHJw" x="1982.03" y="2024.77" text="duinlan: Pray, take it. When I\Nam needed, I will come to you.">
+<parent-relation guid="M_cCwh2Ork6bb3L9kth22Q"/>
+<note>
+[completeTask:quest_mysteryOfDuinlansTomb.talkToDuinlan][executeAction:activateChest]
+</note>
+</topic>
+<topic id="167" parent="166" guid="_1D8VBtSx0WKT-2B74sPbQ" x="1982.03" y="2161.16" text="DIALOGUE_HUB"/>
+<topic id="168" parent="167" guid="HBQEOKVdaUO4HdhDNW2zYQ" x="1771.98" y="2294.77" text="tilo: My Lady, I don&apos;t\Nknow how to thank you.">
+<parent-relation guid="l6HYuYZ-NUC9UpJDMYjGFg"/>
+</topic>
+<topic id="169" parent="168" guid="9U1F59Qv50W_N4RKpdd9TQ" x="1771.98" y="2439.68" text="duinlan: Until we meet again,\Ngood Mouse. I hope you find\Nwhat it is you seek.">
+<children>
+<image guid="pZ5wtZ5inEmkKCqNkPxLGw" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-127.50" y="52.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="pZ5wtZ5inEmkKCqNkPxLGw" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-127.50" y="52.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+</topic>
+<topic id="170" parent="167" guid="GtMnNjNDx0mWr1sZodlnLg" x="2146.20" y="2294.77" text="tilo: You can\Nleave this tomb?">
+<parent-relation guid="Txc8VCkcREmL_qcUvSO9gw"/>
+</topic>
+<topic id="171" parent="170" guid="UcXX1G7lfkG29N6DWwN1Uw" x="2146.20" y="2439.68" text="duinlan: My mortal remains\Nlie scattered about the\Nkeep. I am a part of this place\Nthat bears my name.">
+<children>
+<image guid="ovOt-Vj190qVvZU21J1_2A" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="133.33" y="86.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="ovOt-Vj190qVvZU21J1_2A" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="133.33" y="86.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="172" parent="167" guid="JB9x4R_RrUeBJ1SGSPDr4g" x="2398.52" y="2322.18" text="tilo: Something\Nprecious?">
+<parent-relation guid="tUlD9zCmK0yxpW_VxgqnLA"/>
+<note>
+[lockableThread:whatIsSomethingPrecious][lockThread:whatIsSomethingPrecious]
+</note>
+</topic>
+<topic id="173" parent="172" guid="Nf53mrCr9U6Jr4tsTwBvtg" x="2398.52" y="2439.68" text="duinlan: &apos;Tis\Nmy heart."/>
+<topic id="174" parent="167" guid="cJsY847kV0SRypqfgWwHzw" x="2632.03" y="2408.00" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="175" parent="159" guid="KuVtfFGoLE6TNvshtptaUQ" x="10705.71" y="666.14" text="duinlan: Good Mouse, tell me...\Nmy true love... how did he die?">
+<note>
+[priorityOverride][lockableThread:finalFarewell][lockThread:finalFarewell][reveal:quest_duinlansRemains=complete]
+</note>
+</topic>
+<topic id="176" parent="175" guid="pI1ueK-CYE6w1hcOBn1SJA" x="10705.71" y="1344.74" text="tilo: My Lady, forgive me...\Nit was you who took his life."/>
+<topic id="177" parent="176" guid="hnkbhDLCnU6nXkZ10EStnQ" x="10705.71" y="1519.40" text="duinlan: He... he\Ndied by my blade?">
+<children>
+<image guid="FbkFNTsLFE6le_aCwXTo5w" name="dfc13e0466227975e50237d04e893b10963a160a" x="131.81" y="-58.51" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="FbkFNTsLFE6le_aCwXTo5w" name="dfc13e0466227975e50237d04e893b10963a160a" x="131.81" y="-58.51" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="178" parent="177" x="10604.60" y="1705.90" text="tilo: He had fallen to\Nthe Green Flame."/>
+<topic id="179" parent="178" guid="bHZBSO1ttEKi5TyVac7b1w" x="10604.60" y="1831.22" text="duinlan: Then... it\Nwas a kindness.">
+<children>
+<image guid="BppnxVakM06xnZbJhxA0xw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="117.14" y="43.34" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="BppnxVakM06xnZbJhxA0xw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="117.14" y="43.34" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="180" parent="179" guid="N9pwXXmpyUGwnRIQSvqGaw" x="10604.60" y="1981.68" text="duinlan:  He would not have\Nwanted to exist like that."/>
+<topic id="181" parent="177" x="10896.18" y="1705.90" text="tilo: Aye... I&apos;m so sorry."/>
+<topic id="182" parent="181" guid="Cg3tzSSArk6j46_IBruLxg" x="10896.18" y="1831.22" text="duinlan: Hythe... my\Nlove... Why...?">
+<children>
+<image guid="8hMG-vs7OUWbWNNlhVDXPg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="118.75" y="20.38" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="8hMG-vs7OUWbWNNlhVDXPg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="118.75" y="20.38" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="183" parent="175" x="10338.04" y="1128.07" text="tilo: ... I&apos;m afraid there&apos;s\Nno way of knowing..."/>
+<topic id="184" parent="183" guid="AjGkvFWCNU29meP7gsRmfA" x="10338.04" y="1519.40" text="duinlan: I see...">
+<children>
+<image guid="dmxZGMGKTEOhYUG3F3eb1Q" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="80.00" y="-65.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="dmxZGMGKTEOhYUG3F3eb1Q" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="80.00" y="-65.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="185" parent="184" guid="eo-IYoBSBU6fCvd7YthU_w" x="10338.04" y="1981.68" text="duinlan: Thank\Nyou, good Mouse."/>
+<topic id="186" parent="185" x="10705.71" y="2337.93" text="duinlan: Please, I would have\Nyou keep a part of me with you."/>
+<topic id="187" parent="186" x="10705.71" y="2469.18" text="You find once more a modest urn at\Nyour feet, and place it in your pouch.">
+<note>
+[narration][executeAction:receiveItem=urn_duinlan]
+</note>
+</topic>
+<topic id="188" parent="187" guid="vjk4li6-mkKcdDTbdRV0nA" x="10705.71" y="2600.43" text="duinlan: If you are ever in\Nneed... I shall be there.">
+<children>
+<image guid="S0VOJorv2E6acUD6BdbEUg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="138.21" y="44.84" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="S0VOJorv2E6acUD6BdbEUg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="138.21" y="44.84" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+</topic>
+<topic id="189" parent="175" guid="91HdcVXk_02IIrk4m98vYw" x="10971.90" y="950.11" text="tilo: The answer... It&apos;s\Nwritten on his obelisk."/>
+<topic id="190" parent="189" guid="E6qw5_KJ40GdLs_B4QXXNw" x="10971.90" y="1128.07" text="duinlan: My sight is fading,\Ngood Mouse. Please... tell me."/>
+<topic id="191" parent="190" guid="bporEGXIUUOUvNRG6bWBHA" x="11144.79" y="1344.74" text="tilo: It&apos;s not my\Nplace to say."/>
+<topic id="192" parent="191" guid="0NvPGJ_nOEac1Z3_FeBUTA" x="11144.79" y="1516.54" text="duinlan: I... I\Nunderstand.">
+<children>
+<image guid="pdKjmE_xwk2ZIx8EnB7zmQ" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="75.56" y="-75.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="pdKjmE_xwk2ZIx8EnB7zmQ" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="75.56" y="-75.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="193" parent="192" guid="dhG1mO1010WlniQEMpjItA" x="11144.79" y="1981.68" text="duinlan: I&apos;m grateful\Nfor your honesty,\Ngood Mouse."/>
+<topic id="194" parent="159" guid="71vY6BQAEkKUPqJU6O6JGw" x="1313.10" y="2257.81" text="duinlan: I shall wait for\Nyou there, on the\Nsteps of the far tower.">
+<children>
+<image guid="9oW1IcP0YkGJIxkgM4UnTw" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="131.07" y="24.84" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="9oW1IcP0YkGJIxkgM4UnTw" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="131.07" y="24.84" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][lockableThread:meetAtFarTower=true][lockThread:meetAtFarTower][unlockThread:trueLoveAnnounce][executeAction:activateDuinlanFarTower]
+</note>
+</topic>
+<topic id="195" parent="41" guid="ABb37UF_u0O4EfTBCMRp0w" x="706.77" y="2346.67" palette="1" colorinfo="1" text="tilo: In legend\Nit’s said you’re male.">
+<parent-relation guid="paVtxQ6z6UG-qQDLOKkI-w"/>
+<note>
+[lockableThread:whyNotMale][lockThread:whyNotMale][unlockThread:talkToBrin]
+</note>
+</topic>
+<topic id="196" parent="195" guid="WVkWLQnf5kSORO7TWrfFCg" x="707.71" y="2482.59" text="duinlan: History\Nis built upon the ruins\Nof the truth.">
+<children>
+<image guid="3gcIr6GoZUSb4hJ_Lts4MA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="161.67" y="-56.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="3gcIr6GoZUSb4hJ_Lts4MA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="161.67" y="-56.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="197" parent="196" guid="RaZM2BP2h06_5V40smbCCA" x="554.42" y="2632.47" text="tilo: Aye, I&apos;m beginning\Nto understand that."/>
+<topic id="198" parent="197" guid="J7QD2mEAXk6K0JdeeVvMyA" x="554.42" y="2825.32" text="duinlan: ... Good Mouse...\Nwhat place is this?">
+<parent-relation guid="ls818gGpDkSNNAgU-0LF-A"/>
+<children>
+<image guid="bb8jXnuzY0-uklTVPsjKLA" name="dfc13e0466227975e50237d04e893b10963a160a" x="-12.50" y="-85.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="bb8jXnuzY0-uklTVPsjKLA" name="dfc13e0466227975e50237d04e893b10963a160a" x="-12.50" y="-85.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="199" parent="198" guid="opwhRnuMckivricN0GlQdQ" x="-22.31" y="4104.80" palette="6" colorinfo="6" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="200" parent="196" guid="_dG277LpHkOv_62A8rrlnw" x="830.92" y="2632.47" text="tilo: If the song is untrue…\Nwhat else of the old world\Nhas been forgotten?"/>
+<topic id="201" parent="200" guid="-PrfeWw44Ee00eoogLYjrA" x="830.92" y="2796.99" text="duinlan: That is a\Nquestion you must\Nanswer for yourself."/>
+<topic id="202" parent="41" guid="tS-4ey78_ES1kTXBRwbBMw" x="1341.08" y="2547.18" palette="1" colorinfo="1" text="tilo: I&apos;m looking for something\Nprecious. Something lost.">
+<parent-relation guid="gHavT2QoVUevZ4zkNG6bSQ"/>
+<note>
+[lockableThread:somethingPrecious][lockThread:somethingPrecious][unlockThread:farewell]
+</note>
+</topic>
+<topic id="203" parent="202" guid="w9NWEx-EKEC5txt_Cykk-A" x="1341.08" y="2716.37" text="duinlan: I see... though I sense that what\Nyou truly seek will not be found here."/>
+<topic id="204" parent="203" guid="1htd5KU9xU28FC1mc_GllQ" x="1341.08" y="2898.75" text="tilo: Aye... I&apos;m doing\Nthis for Merra, my wife."/>
+<topic id="205" parent="204" guid="OBWuaP4C-UG_snmWO4-XiA" x="1167.25" y="3099.33" text="duinlan: There are many\Ntreasures here. I’m wealthier now\Nthan I ever was in life. Strange...">
+<parent-relation guid="b2SJLqJiJ0-Rd5bMULCs2Q"/>
+<children>
+<image guid="QFbm04u6qU6bZ4Wk8bvZwA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="168.57" y="-68.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="QFbm04u6qU6bZ4Wk8bvZwA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="168.57" y="-68.09" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="206" parent="205" guid="s1-uKO-vvEOdRjqWsQ1UwQ" x="1167.25" y="3207.38" text="duinlan: ... I would trade\Nit all for a single word--a memory...">
+<children>
+<image guid="z2ZcXeOKMkGHM6xGBrNhwg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="-210.00" y="-13.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="z2ZcXeOKMkGHM6xGBrNhwg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="-210.00" y="-13.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="207" parent="206" guid="TVH9LJrjEUCUtiPtIMlJxQ" x="1168.31" y="3324.46" text="duinlan: ... to be seen. You have\Nalready given me far more.\NPray, take what you wish.">
+<note>
+[unlockThread:leaveWithChest]
+</note>
+</topic>
+<topic id="208" parent="203" guid="gTyQPVQCLk27vac2C_LuXQ" x="1029.93" y="2898.75" text="tilo: I was sent here to find a\Nchest, filled with treasure."/>
+<topic id="209" parent="203" guid="bTU_GK-MwE-H6g6DcPD6Kw" x="1642.92" y="2898.75" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="210" parent="41" guid="ri5qJaN9zkKPpQbM7--HgA" x="2045.24" y="3312.44" text="tilo: My Lady... you said there\Nwas a second chest from the altar?">
+<parent-relation guid="-HH4jydVNUK5t234NV26RA"/>
+<note>
+[reveal:quest_findSecondChest.talkToDuinlanA=active]
+</note>
+</topic>
+<topic id="211" parent="210" guid="0HZA608ChEm_3z7Z4Z3ImA" x="2045.24" y="3505.37" text="duinlan: A chest? Aye... a Mouse came,\Nand claimed it as his own.">
+<children>
+<image guid="CMWMTHj4MEuCZyD44FhUpA" name="dfc13e0466227975e50237d04e893b10963a160a" x="221.25" y="6.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="CMWMTHj4MEuCZyD44FhUpA" name="dfc13e0466227975e50237d04e893b10963a160a" x="221.25" y="6.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="212" parent="211" guid="--DhJ64XI0iIGHDhnDmC4g" x="1860.46" y="3719.47" text="tilo: ... Are you sure you&apos;re\Nnot thinking of me?"/>
+<topic id="213" parent="212" guid="0TGQL5tTbUK4K-d4t35pFA" x="1860.46" y="3818.22" text="duinlan: Am I...? Perhaps... nay...\Nhe was older--a strong Mouse.">
+<children>
+<image guid="z4aaBJRAJUi4qMJcp7S4pw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="190.00" y="-52.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="z4aaBJRAJUi4qMJcp7S4pw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="190.00" y="-52.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="214" parent="213" guid="AJs0lpSmckiOjFnwBDrA1w" x="1860.46" y="3933.69" text="tilo: And this Mouse...\Nhe took the chest?">
+<parent-relation guid="w74wjauya0GhB7SBiaCEAQ"/>
+</topic>
+<topic id="215" parent="214" guid="Q82atVCmZ0eZ7uHeIEeTTQ" x="1860.46" y="4050.36" text="duinlan: He took many\Nthings--but he did not get far."/>
+<topic id="216" parent="213" guid="r3a7AS5is0areoE3cbsrjQ" x="1462.71" y="3818.22" text="tilo: And how many centuries have\Npassed since then, I wonder?"/>
+<topic id="217" parent="216" guid="52XufAS0GUy3yx86LwV_QQ" x="1462.71" y="3933.69" text="duinlan: Centuries? Nay,\Nthis was mere weeks ago.">
+<children>
+<image guid="TG6ccUT6DUeBa8dGCEx6Sw" name="dfc13e0466227975e50237d04e893b10963a160a" x="163.75" y="11.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="TG6ccUT6DUeBa8dGCEx6Sw" name="dfc13e0466227975e50237d04e893b10963a160a" x="163.75" y="11.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="218" parent="211" guid="uUTlwQhI0EGPc9KFFVdGFg" x="2203.50" y="3818.22" text="tilo: Then what I was\Nsent to find... it&apos;s gone."/>
+<topic id="219" parent="218" guid="8dE4Nv9-PUm9pJfJxtBTtg" x="2203.50" y="3933.69" text="duinlan: Nay... this\NMouse--he did not get far."/>
+<topic id="220" parent="219" guid="QRrKiNPJqk6Gy3g6tIKKkQ" x="2203.50" y="4050.36" text="duinlan: I saw where he fell.">
+<parent-relation guid="e-1TTQywOUeGiVOwtWhM5A"/>
+</topic>
+<topic id="221" parent="220" guid="XWC9S3oJj0ar_gmJ5oFQOA" x="2400.00" y="4266.07" text="tilo: Please... show me."/>
+<topic id="222" parent="221" guid="yxONCR_Eu0SV8QGNycLKdw" x="2400.00" y="4400.36" text="duinlan: I-I do not recall... My\Nmemories... are islands in fog.">
+<children>
+<image guid="5tl7FL0PI0SsNZYJxYOYqQ" name="dfc13e0466227975e50237d04e893b10963a160a" x="171.25" y="-77.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="5tl7FL0PI0SsNZYJxYOYqQ" name="dfc13e0466227975e50237d04e893b10963a160a" x="171.25" y="-77.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="223" parent="222" guid="NGEwABmVyk2CS-Gm_Y-SpA" x="2400.00" y="4533.14" text="duinlan: My strongest memory... is a memory\Nof a feeling, of love... Aye, love, for my true love.">
+<children>
+<image guid="YGvdHrTyL0KrP7yIl9R2lA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="248.75" y="-58.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="YGvdHrTyL0KrP7yIl9R2lA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="248.75" y="-58.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="224" parent="223" guid="r9Z1oaJLEESQDjostmoHcA" x="2400.00" y="4654.80" text="duinlan: He is the last thing I truly\Nremember... all save for his name.">
+<children>
+<image guid="97XIPWoqeESbO7AO7fYAyQ" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="200.00" y="24.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="97XIPWoqeESbO7AO7fYAyQ" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="200.00" y="24.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="225" parent="224" guid="DS6XjOV4aEWPllFTFM0DrA" x="2400.00" y="4840.36" text="duinlan: His name... I would give\Nanything to remember. Good\NMouse, will you find it for me?">
+<note>
+[completeTask:quest_findSecondChest.talkToDuinlanA]
+</note>
+</topic>
+<topic id="226" parent="225" guid="b-9u93US9k6vmuGxc9hElQ" x="2400.00" y="4962.86" text="duinlan: With my love&apos;s name to\Nguide me through this fog...\Nperhaps I can guide you in return."/>
+<topic id="227" parent="226" guid="rTClcVser0aVGy7aUFdFQA" x="2645.25" y="5129.11" text="tilo: I... don&apos;t know\Nwhere to begin..."/>
+<topic id="228" parent="227" guid="to06Y-cAfEuU-P4DeinSoQ" x="2645.25" y="5254.11" text="duinlan: Come, Mouse. Look\Nthere, toward Vaelia, and the\N[Great Clarion].">
+<parent-relation guid="A0tKDy61JUy_lJLY0vNU5w"/>
+<note>
+[footnote:great_clarion]
+</note>
+</topic>
+<topic id="229" parent="228" guid="6RnoOdVB0UCpcvzqxqjVow" x="2645.25" y="5416.06" text="duinlan: Somewhere among\Nthe trees stands an\Nobelisk in memory of my love."/>
+<topic id="230" parent="229" guid="p_q9uBPlzkWk8wVo7XeqPw" x="2645.25" y="5572.19" text="duinlan: I have spent\Ncenturies walking that glade,\Nsearching for him, but alas...">
+<parent-relation guid="7QPENjlioEK_I6Lzh9UH4A"/>
+<children>
+<image guid="NSvlZrRbBEK12QXNlecemw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="167.50" y="-47.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="NSvlZrRbBEK12QXNlecemw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="167.50" y="-47.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="231" parent="230" guid="K8asZVEP70Ktct7AD0tMxQ" x="2645.25" y="5727.69" text="duinlan: The [clarion]! Find the obelisk\Nthat bears its image, and you will find\Nmy true love&apos;s name. I am sure of it.">
+<parent-relation guid="iu3apg5a7EGtYntVc17XnQ"/>
+<children>
+<image guid="3cHtMBJ0Ok24IKQB0X76oQ" name="dfc13e0466227975e50237d04e893b10963a160a" x="228.75" y="1.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="3cHtMBJ0Ok24IKQB0X76oQ" name="dfc13e0466227975e50237d04e893b10963a160a" x="228.75" y="1.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+<note>
+[unlockThread:whatIsTheClarion;meetAtFarTower][footnote:great_clarion][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="232" parent="231" guid="ry7uDyb0tU2hqHPEUitkKA" x="2369.75" y="6163.57" text="tilo: If I can find the name you seek,\NI will bring it to you, I swear.">
+<note>
+[lockableThread:tilosPromise][lockThread:tilosPromise]
+</note>
+</topic>
+<topic id="233" parent="226" guid="dJkQQF4wjk2yJAEYeVcmGQ" x="2184.00" y="5102.11" text="tilo: What do you\Nremember of him?"/>
+<topic id="234" parent="233" guid="5CFCU-uTekyZ54u9SdIORQ" x="2184.00" y="5254.11" text="duinlan: He was... a\Nwarrior of sorts. Yes... a\Nwarrior, but not by choice.">
+<children>
+<image guid="fdo72B53R0y5lyRMH7lATw" name="dfc13e0466227975e50237d04e893b10963a160a" x="136.25" y="-84.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="fdo72B53R0y5lyRMH7lATw" name="dfc13e0466227975e50237d04e893b10963a160a" x="136.25" y="-84.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="235" parent="220" guid="OdYeddPZnUSyg2STOiHy5g" x="2038.57" y="4266.07" text="tilo: Fell? You mean,\Nthis Mouse... he died?"/>
+<topic id="236" parent="235" guid="GtkIwRtbNEOdv06635hFfA" x="2038.57" y="4400.36" text="duinlan: Aye... aye.\NBut where...?"/>
+<topic id="237" parent="211" guid="HfqxIhakd0KGL5K79fXSYg" x="2942.38" y="4387.43" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="238" parent="41" guid="iMYB6q7dy0OraTmZBlltlQ" x="4107.06" y="1783.26" text="tilo: My Lady, I think I have\Nthe name you bid me find.">
+<parent-relation guid="M-MbxJ_tTEyWVxNXPrYhVw"/>
+<note>
+[reveal:quest_findSecondChest.findTrueLovesName=active][counter:quizFindTrueLove=4][lockableThread:trueLoveAnnounce=true]
+</note>
+</topic>
+<topic id="239" parent="238" guid="i5ah2-xdu0ChGuKOcZ6j_g" x="3675.81" y="2231.44" text="duinlan: A name...?">
+<parent-relation guid="j9oXXi_qykODKvo_7Hf5Qg"/>
+<children>
+<image guid="tSsvH-t_Jk-pjwP8oMV9bg" name="dfc13e0466227975e50237d04e893b10963a160a" x="-101.79" y="-46.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="tSsvH-t_Jk-pjwP8oMV9bg" name="dfc13e0466227975e50237d04e893b10963a160a" x="-101.79" y="-46.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="240" parent="239" x="3505.31" y="2368.02" text="tilo: Aye, hidden\Nin the forest?"/>
+<topic id="241" parent="240" guid="xpb7aLPDFkmypmDFwL2maA" x="3505.31" y="2502.45" text="duinlan: A name... Aye,\Nthe name of my love...">
+<children>
+<image guid="1kQQD7Zeq021nH4GMUzz_A" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="118.57" y="73.34" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="1kQQD7Zeq021nH4GMUzz_A" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="118.57" y="73.34" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="242" parent="239" x="3877.92" y="2368.02" text="tilo: The name of\Nthe one you loved."/>
+<topic id="243" parent="242" guid="IlvH-oeajkqoDXCe7ZxCjQ" x="3877.92" y="2502.45" text="duinlan: Then, pray, speak it.">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="244" parent="243" guid="ajv8ZfmS2k-rx2FBKWU8jw" x="3877.15" y="2679.56" text="DIALOGUE_HUB">
+<parent-relation guid="oxPi5FrDpE6UbHA-FiAFMg"/>
+</topic>
+<topic id="245" parent="244" guid="napb7LrdPkuRLYL4nBrf6A" x="3722.33" y="3119.07" text="tilo: I found the name of\NOulle, carved in stone...">
+<note>
+[lockableThread:incorrectNameC=true]
+</note>
+</topic>
+<topic id="246" parent="245" guid="iJP_3AnkpkKncVZiQlvG9A" x="3722.33" y="3225.35" text="duinlan: Oulle?\NYou&apos;re sure?">
+<children>
+<image guid="zbQRTBaY90GSHrwJaGLn2Q" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-122.50" y="-22.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="zbQRTBaY90GSHrwJaGLn2Q" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-122.50" y="-22.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="247" parent="246" guid="Y4JHlB1bi0aUm_cuOIn06g" x="3806.83" y="3359.75" text="tilo: Wait... let\Nme think...">
+<parent-relation guid="hhhzp5ZDt0GZ0C37MrSQuA"/>
+</topic>
+<topic id="248" parent="247" guid="n11YHD6rWUClpmylXvIjgQ" x="3806.83" y="3477.61" text="duinlan: Take all the\Ntime you need, good Mouse.">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="249" parent="246" guid="m2uavX8u7kC5QMTLbpdibw" x="3608.04" y="3359.75" text="tilo: I&apos;m\Ncertain of it.">
+<note>
+[lockThread:incorrectNameC]
+</note>
+</topic>
+<topic id="250" parent="249" guid="m-13EO9EQkGF_ZTEFwPDtQ" x="3722.33" y="3681.52" text="duinlan: Oulle... The name\Nmeans nothing to me.\NCould you be mistaken?">
+<parent-relation guid="9KTUymNKCkOKZs2gcJAWfw"/>
+<children>
+<image guid="m42oC2avAUqiXQ8qZisA9g" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="147.50" y="-83.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="m42oC2avAUqiXQ8qZisA9g" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="147.50" y="-83.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+<note>
+[updateCounter:quizFindTrueLove-1][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="251" parent="244" guid="YlQpkIX000eIZ3sfJk8eSA" x="5628.54" y="2575.99" text="tilo: Rodrik--does this name\Nmean anything to you?">
+<note>
+[lockableThread:incorrectNameY]
+</note>
+</topic>
+<topic id="252" parent="251" guid="oL16UYAzekGoOFDM_ahS4Q" x="5628.54" y="2698.45" text="duinlan: Rodrik. You found\Nthis name in the forest?">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="253" parent="252" guid="tG2R1boB30elz2r2Yp88zw" x="5491.54" y="2859.31" text="tilo: Aye, I think so...">
+<note>
+[lockThread:incorrectNameY]
+</note>
+</topic>
+<topic id="254" parent="253" guid="0h-s_QWxM0irH1K8DmUfyg" x="5628.54" y="3170.88" text="duinlan: Rodrik... &apos;tis a name I\Nhave heard--and not so long ago...">
+<children>
+<image guid="0skLZggeOk25oeA_ZEHzlA" name="dfc13e0466227975e50237d04e893b10963a160a" x="186.94" y="-67.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="0skLZggeOk25oeA_ZEHzlA" name="dfc13e0466227975e50237d04e893b10963a160a" x="186.94" y="-67.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="255" parent="254" guid="7PPC4eqUBU24lxfyBNw6Gg" x="5628.54" y="3343.74" text="duinlan: ... but my love? Nay.">
+<children>
+<image guid="nKMeYKMDk0mFznynfbDOpw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="190.00" y="-21.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="nKMeYKMDk0mFznynfbDOpw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="190.00" y="-21.90" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+<note>
+[updateCounter:quizFindTrueLove-1][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="256" parent="252" guid="7otJ9VU7kkyiE_HhlmIATQ" x="5749.54" y="2859.31" text="tilo: Perhaps it&apos;s just an\Nold name, that&apos;s all..."/>
+<topic id="257" parent="256" guid="843c_Fyz3EON6srY6ZBHuA" x="5749.54" y="2976.11" text="duinlan: Then you wish\Nto change your mind?">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="258" parent="244" guid="cR3gHs4n_EClDJIiYtmCbw" x="4793.94" y="3135.45" text="tilo: Canlunn, his\Nname was Canlunn.">
+<parent-relation guid="_x2e3zONTE6LzanblkJPrQ"/>
+<note>
+[lockableThread:incorrectNameB=true]
+</note>
+</topic>
+<topic id="259" parent="258" guid="DlPNwh4B-k27ncgLrSex9w" x="4793.94" y="3254.59" text="duinlan: Canlunn... Is that so?">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="260" parent="259" guid="W8Blskk50UC5tKSObjfeMA" x="4640.61" y="3372.45" text="tilo: Aye... Canlunn,\Nthere&apos;s no doubt.">
+<note>
+[lockThread:incorrectNameB]
+</note>
+</topic>
+<topic id="261" parent="260" guid="S9ezxVQAfUiQ1XixP9q5hQ" x="4785.05" y="3658.94" text="duinlan: Canlunn... Canlunn?\NImpossible! I&apos;ve no love for that oaf!">
+<parent-relation guid="E5ga8S2eS0OmQNoVhM79YQ"/>
+<children>
+<image guid="Eotpp5XnnkC67j589zM_dg" name="76eae976422adea532405332a28cc3e3b5a3025b" x="-180.83" y="-45.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Eotpp5XnnkC67j589zM_dg" name="76eae976422adea532405332a28cc3e3b5a3025b" x="-180.83" y="-45.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="262" parent="261" guid="mCzr0LDu_ku2c9v2AzzE-A" x="4785.05" y="3790.98" text="duinlan: Nay, this\Nmust be wrong...">
+<parent-relation guid="ME_KpRENREuLHr4V4oaJJQ"/>
+<note>
+[updateCounter:quizFindTrueLove-1][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="263" parent="259" guid="dWbybRaNzEiqpWaPOxPZfg" x="4942.11" y="3372.45" text="tilo: ... Let me take a\Nmoment to make sure..."/>
+<topic id="264" parent="263" guid="MOZKaLCIT0aU-t2VKJKF_Q" x="4942.11" y="3508.82" text="duinlan: I have waited almost a\Nthousand years. A few moments\Nmore will make no difference...">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="265" parent="244" guid="ZkubCl1gMEqU1v2r9j9CNw" x="3251.76" y="3268.27" text="tilo: The name on the\Nstone was Hythe.">
+<parent-relation guid="4fOsHa-YJkiJTJ5uDcZa0g"/>
+<note>
+[lockableThread:correctName=true]
+</note>
+</topic>
+<topic id="266" parent="265" guid="V-IAqDL8MU2oQQvqvvOVKQ" x="3251.76" y="3391.95" text="duinlan: Hythe...\Nyou&apos;re certain?">
+<children>
+<image guid="H8VF9XToo020MpOFNlAq3Q" name="dfc13e0466227975e50237d04e893b10963a160a" x="-99.72" y="-39.76" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="H8VF9XToo020MpOFNlAq3Q" name="dfc13e0466227975e50237d04e893b10963a160a" x="-99.72" y="-39.76" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="267" parent="266" guid="gkJOJPNKvUOdqQT4iQK6Jg" x="3361.76" y="3525.70" text="tilo: Wait... let\Nme think..."/>
+<topic id="268" parent="267" guid="A4lm-EWWIEiNuoCjJKxVog" x="3361.76" y="3622.13" text="duinlan: By all\Nmeans...">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="269" parent="266" guid="xV8uZk84rEafgocxw6LSJg" x="3153.48" y="3525.70" text="tilo: Aye, I&apos;m\Nsure of it."/>
+<topic id="270" parent="269" guid="Z3haJD5pzkOTERZfQ0TvdA" x="3153.48" y="3890.88" text="duinlan: Hythe... aye! Hythe... this\Nplace was named for both of us...">
+<parent-relation guid="OPzZPZbb8UeCgbxZ4l1hiQ"/>
+<children>
+<image guid="vIiNraSqKUGu5pEk4j6hTw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-180.00" y="-39.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="vIiNraSqKUGu5pEk4j6hTw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-180.00" y="-39.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+<note>
+[counter:hytheQuestions=0][showRenown:quizFindTrueLove][executeAction:grantRenown=quizFindTrueLove]
+</note>
+</topic>
+<topic id="271" parent="270" guid="WbECP4JcgkakWdI-4cyg_g" x="4220.73" y="4564.63" text="DIALOGUE_HUB"/>
+<topic id="272" parent="271" guid="Js2uNkEnCUuOVXxe0AmYuw" x="3044.89" y="4901.96" text="tilo: Hythe... who\Nwas he?">
+<parent-relation guid="O3bASeSP4UmBN3OzrQOWpw"/>
+<note>
+[lockableThread:whoWasHythe=true][lockThread:whoWasHythe][unlockThread:hytheWasAnArchitect;clarionsBuiltByCreatures]
+</note>
+</topic>
+<topic id="273" parent="272" guid="rsfK0Vx51ECkZN7XfFy5VQ" x="3044.89" y="5044.43" text="duinlan: He was architect of the [Ring\Nof Great Clarions]. I was assigned to be his\Npersonal guard. In time we grew close.">
+<children>
+<image guid="yXmMxmzgQU6HiFTpYlNBjw" name="dfc13e0466227975e50237d04e893b10963a160a" x="212.50" y="-84.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="yXmMxmzgQU6HiFTpYlNBjw" name="dfc13e0466227975e50237d04e893b10963a160a" x="212.50" y="-84.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+<note>
+[footnote:great_clarion][updateCounter:hytheQuestions+1]
+</note>
+</topic>
+<topic id="274" parent="271" guid="zce3HQzqLUys2-EbTCxiGg" x="3552.58" y="4922.53" text="tilo: How did you\Nmeet your true love?">
+<parent-relation guid="W_a7iOXQ_kW3BhGfKF3fHQ"/>
+<note>
+[lockableThread:aTrueLoveMet][lockThread:aTrueLoveMet][unlockThread:whoWasHythe]
+</note>
+</topic>
+<topic id="275" parent="274" guid="UGCOgPzJsECXHHkmvzaNVw" x="3552.58" y="5063.34" text="duinlan: We were both of us born within the walls\Nof Castle Dhall, within a year of each other.\NHis father was Chamberlain, mine the Steward."/>
+<topic id="276" parent="275" guid="PqkO5D0UcESkmi9NTV6RTw" x="3552.58" y="5224.34" text="duinlan: And oh, we fought! We were\Ngreat rivals, the two of us. After Father\Npassed away my family left the castle.">
+<children>
+<image guid="5G-2bswzwkGE7fW9oXvTPw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="236.00" y="-45.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="5G-2bswzwkGE7fW9oXvTPw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="236.00" y="-45.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+<note>
+[updateCounter:hytheQuestions+1]
+</note>
+</topic>
+<topic id="277" parent="276" guid="lWgSE0A1uUCIrvfNqU-EJw" x="3552.58" y="5371.34" text="duinlan: We did not meet again until\Nmany years had passed, during the\NWar of the Green Flame.">
+<note>
+[updateCounter:greenFlameMentions=1]
+</note>
+</topic>
+<topic id="278" parent="271" guid="uEMtjKKMxkqwqooVnGWZgw" x="4327.50" y="5087.88" text="tilo: The clarions--they\Nwere built by creatures?">
+<parent-relation guid="ZKjrZrf0EUy1u_mVcFwbeA"/>
+<note>
+[lockableThread:clarionsBuiltByCreatures=true][lockThread:clarionsBuiltByCreatures]
+</note>
+</topic>
+<topic id="279" parent="278" guid="KcJe4D0E70G5l9ZH-YRnPw" x="4327.50" y="5265.02" text="duinlan: Aye, by the\N[shipbuilders of Baladhon].">
+<note>
+[updateCounter:hytheQuestions+1][footnote:badgers_baladhon]
+</note>
+</topic>
+<topic id="280" parent="279" x="4074.43" y="5580.89" text="tilo: Shipbuilders? I always imagined\Nthey were left there by giants."/>
+<topic id="281" parent="280" guid="y2W-u29L2UWKycX3SX3Tvw" x="4074.43" y="5846.60" text="duinlan: Not giants--Badgers...\Nthough by their deeds the best\Nof them seemed like giants.">
+<children>
+<image guid="WKeZuvaJm0aTnx9vvDZWxA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="158.00" y="-79.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="WKeZuvaJm0aTnx9vvDZWxA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="158.00" y="-79.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="282" parent="279" x="4567.29" y="5580.89" text="tilo: It&apos;s hard to believe."/>
+<topic id="283" parent="282" guid="kY3flrdRmkaiPOmSZLM9VA" x="4567.29" y="5846.60" text="duinlan: The smallest among\Nus are capable of greatness,\Nwhen the need is great."/>
+<topic id="284" parent="271" guid="Ew_l0uMQ7U-VFGTZg-fd6g" x="4747.11" y="5022.73" text="tilo:  So, Hythe was an architect?">
+<parent-relation guid="i5uCKRWfFUOIj_4psDDFfA"/>
+<note>
+[lockableThread:hytheWasAnArchitect=true][lockThread:hytheWasAnArchitect]
+</note>
+</topic>
+<topic id="285" parent="284" guid="Jp8W-3gvT06soXD128OzIw" x="4747.11" y="5165.43" text="duinlan: An architect, a sculptor, an\Ninventor, a musician, and a warrior.\NHe was a great mind... and my love.">
+<note>
+[updateCounter:hytheQuestions+1]
+</note>
+</topic>
+<topic id="286" parent="285" guid="50BcgHJo1U-k0vVhRK1mVA" x="4747.11" y="5339.04" text="duinlan: We were to be wed in\NKeem once the war was ended.\NBut for us... it never came...">
+<children>
+<image guid="TcDCBqzNW0SlZ84m5RlXTg" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="186.00" y="-63.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="TcDCBqzNW0SlZ84m5RlXTg" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="186.00" y="-63.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="287" parent="271" guid="FR7-2242SUCneck8uA99-A" x="5283.29" y="5105.21" text="tilo: My Lady, forgive me... but the thief--do\Nyou remember now where he is?">
+<parent-relation guid="-9HBaiXpb0G_PTZEcvAV1w"/>
+<note>
+[reveal:counter.hytheQuestions&gt;1][unlockThread:exitHytheHub][lockableThread:deadMouseLocation][lockThread:deadMouseLocation]
+</note>
+</topic>
+<topic id="288" parent="287" guid="GYM133N0Ikq9NTOxAMjlTg" x="5283.29" y="5255.70" text="duinlan: Aye... at the gateway\Nto the Northern Slopes.">
+<note>
+[completeTask:quest_findSecondChest.findTrueLovesName][updateCounter:hytheQuestions+1]
+</note>
+</topic>
+<topic id="289" parent="288" x="5444.20" y="5462.07" text="tilo: Thank\Nyou, My Lady."/>
+<topic id="290" parent="288" x="5126.93" y="5462.07" text="tilo: The gateway to the\NNorthern Slopes... where is that?"/>
+<topic id="291" parent="290" guid="EGQ6X3IkE0OTO1KxvxTg4Q" x="5126.93" y="5590.25" text="duinlan: East of here, through the glade,\Nstands a stone bridge. At the bridge&apos;s\Nend there is a door. Beyond that\Ndoor, to the north, stands a gateway.">
+<children>
+<image guid="O5Jkf9Bv-UmhbS9dk2uuYA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-228.33" y="39.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="O5Jkf9Bv-UmhbS9dk2uuYA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-228.33" y="39.77" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="292" parent="291" guid="yYGlHGym8061YmnlymNIxQ" x="5444.20" y="5590.25" text="duinlan: Meet me\Nthere anon.">
+<note>
+[executeAction:activateDuinlanRubble][counter:aShadeInTheDark=0]
+</note>
+</topic>
+<topic id="293" parent="271" guid="rV9hkU2yeEW9WSabKW8vsg" x="4876.75" y="4756.46" text="tilo: Thank you, My Lady.">
+<parent-relation guid="-MW5VOxpzEylHk_2J51fKQ"/>
+<note>
+[lockableThread:exitHytheHub=true]
+</note>
+</topic>
+<topic id="294" parent="293" guid="eJkZ2n0icU6RamG6Te1ngA" x="4876.75" y="4886.46" text="duinlan: Curiosity is\Na virtue, Good Mouse."/>
+<topic id="295" parent="271" guid="TxE50P0B-kCV3t8kLaYlFw" x="3991.48" y="5044.63" text="tilo: Your true love--what do\Nyou remember of him?">
+<note>
+[lockableThread:rememberingHythe][lockThread:rememberingHythe][unlockThread:whoWasHythe]
+</note>
+</topic>
+<topic id="296" parent="295" guid="Bw4UeK7bPkWI8mLyYUvvWg" x="3991.48" y="5252.67" text="duinlan: I remember the\Njoy of our love... and the\Npain of his death.">
+<children>
+<image guid="ahkmJnpPUkaMazeoETNwxg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="138.00" y="-80.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="ahkmJnpPUkaMazeoETNwxg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="138.00" y="-80.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+<note>
+[updateCounter:hytheQuestions+1]
+</note>
+</topic>
+<topic id="297" parent="244" guid="1hvd_hFDdUy84fq92AYd7A" x="4288.28" y="2977.02" text="tilo: I believe his\Nname was Jothe.">
+<parent-relation guid="y52qRPVR-EuWEI-Ugn-okg"/>
+<note>
+[lockableThread:incorrectNameA=true]
+</note>
+</topic>
+<topic id="298" parent="297" guid="ERzxPnsaM0eiWJf3Ow_NLQ" x="4288.17" y="3119.07" text="duinlan: Jothe?\NThere&apos;s no doubt?">
+<children>
+<image guid="y4AqVDlqNU6fT4oJUTI_1A" name="dfc13e0466227975e50237d04e893b10963a160a" x="137.50" y="-39.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="y4AqVDlqNU6fT4oJUTI_1A" name="dfc13e0466227975e50237d04e893b10963a160a" x="137.50" y="-39.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="299" parent="298" guid="WxA_TTxjXkSfa3JFqQ-EIw" x="4372.67" y="3239.72" text="tilo: Wait--I should\Nmake sure..."/>
+<topic id="300" parent="299" guid="16bOsnnFv0-veKhkF9ge2Q" x="4372.67" y="3357.58" text="duinlan: Pray, do\Nwhat you must...">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="301" parent="298" guid="MUh0-CG2H0-3VebKrU_F6g" x="4173.88" y="3239.72" text="tilo: None at all...">
+<note>
+[lockThread:incorrectNameA]
+</note>
+</topic>
+<topic id="302" parent="301" guid="pBMy_lUQlEm7NDvHWSiHww" x="4266.85" y="3542.73" text="duinlan: Jothe... I remember\NJothe... She was dear to\Nme indeed. But my true love...?">
+<parent-relation guid="CcC5IyUxzU-KLq-X9RkJaw"/>
+<children>
+<image guid="0pqx-oT7fkaWezfxiWX-7w" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="185.00" y="-38.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="0pqx-oT7fkaWezfxiWX-7w" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="185.00" y="-38.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="303" parent="302" guid="D0m0yLk6cE-SZIMVSu8e-A" x="4266.85" y="3722.88" text="duinlan: Nay, I think\Nyou are mistaken.">
+<note>
+[updateCounter:quizFindTrueLove-1][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="304" parent="244" guid="tVjsDN4A30GWO8dzsGl7nQ" x="5168.36" y="2678.45" text="tilo: Your true love--his\Nname was Jahrlan.">
+<parent-relation guid="OrMBnaHklkWy7bwzJ0RUww"/>
+<note>
+[lockableThread:incorrectNameX]
+</note>
+</topic>
+<topic id="305" parent="304" guid="gKM59D7aX0akspBehDbakg" x="5168.36" y="2782.16" text="duinlan: Jahrlan... This was\Nmy true love&apos;s name?">
+<children>
+<image guid="Wm-hng_WxkmrZYRV99GooQ" name="dfc13e0466227975e50237d04e893b10963a160a" x="165.36" y="-0.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="Wm-hng_WxkmrZYRV99GooQ" name="dfc13e0466227975e50237d04e893b10963a160a" x="165.36" y="-0.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="306" parent="305" guid="I7wUNXBSiUOWJyNG4nMhvw" x="5031.36" y="2943.02" text="tilo: Aye, I\Nthink so.">
+<note>
+[lockThread:incorrectNameX]
+</note>
+</topic>
+<topic id="307" parent="306" guid="uABc_s1LPEywyiG9sYjkFg" x="5168.36" y="3254.59" text="duinlan: Jahrlan...\NJahrlan? Nay...">
+<parent-relation guid="TdGkiEHTL0uG1kY9lN27Ag"/>
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="308" parent="307" guid="E_T-R60ngkW02YhUlsbXog" x="5168.36" y="3658.94" text="duinlan: He was a fellow\Nwarrior--perhaps the best of\Nus--and a good friend...">
+<children>
+<image guid="Pb6pYUCCmE-WqGMAYDGd2Q" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="148.57" y="-72.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="Pb6pYUCCmE-WqGMAYDGd2Q" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="148.57" y="-72.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="309" parent="308" guid="Fpvt92YP5E-15GqUhTVYZQ" x="5168.36" y="3790.98" text="duinlan: ...but my\Ntrue love? Never.">
+<note>
+[updateCounter:quizFindTrueLove-1][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="310" parent="305" guid="J-J-50kFO0-bpHNzHzahKA" x="5289.36" y="2943.02" text="tilo: Wait--you&apos;ve got\Nme doubting myself..."/>
+<topic id="311" parent="310" guid="HqSSN4Q5wEmbaIP062CZEg" x="5289.36" y="3059.82" text="duinlan: I did not mean to, good\NMouse. Please, take your time...">
+<note>
+[showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="312" parent="244" guid="efjrx9HwvEGYwKHhdPNvmg" x="5624.51" y="3734.60" text="tilo: Let me think\Nfor a moment..."/>
+<topic id="313" parent="312" guid="EJ6DcshLKE-1ihfqtXj0nw" x="5376.35" y="3977.84" text="duinlan: I have\Nonly time...">
+<children>
+<image guid="NqnKan1Wxk65NGGV4NReTg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="-106.67" y="-62.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="NqnKan1Wxk65NGGV4NReTg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="-106.67" y="-62.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="314" parent="312" guid="n44rM1oJ3k-9yb_J-RhP3g" x="5899.81" y="3977.84" text="duinlan: I have faith\Nin you, good Mouse.">
+<note>
+[variationIndex=2][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="315" parent="312" guid="khcOmfZdu0O-apWcXq7wEg" x="5624.51" y="3910.74" text="duinlan: I have endured\Nfor a thousand years. I can wait\Na few moments longer.">
+<note>
+[variationIndex=1][showRenown:quizFindTrueLove]
+</note>
+</topic>
+<topic id="316" parent="244" guid="cIE9s0jjhkm07FuVHCyBNA" x="5930.91" y="3719.81" text="tilo: Forgive me, I should\Ngo and look again...">
+<parent-relation guid="B75StRhv60OwV6sHgb8-zA"/>
+</topic>
+<topic id="317" parent="238" guid="Bn7DpN4A-06h9t_zbb4iYw" x="3987.06" y="2231.44" text="duinlan: Perhaps this time...">
+<parent-relation guid="bURXMqyp4kiTa6-DT9mm7w"/>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="318" parent="238" guid="TbUFSb1nmUy0vmonXO1HMA" x="4289.05" y="2191.44" text="duinlan: His true name?">
+<parent-relation guid="vc9sGXwAdEyG0HKBLosGqA"/>
+<children>
+<image guid="JDjhz2LfQUWc1REck4P8LQ" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="40.00" y="-75.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="JDjhz2LfQUWc1REck4P8LQ" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="40.00" y="-75.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="319" parent="238" guid="oWLmwCn7Qk2g_GtnMn3TMw" x="4591.58" y="2231.44" text="duinlan: Tell me, good\NMouse--please...">
+<parent-relation guid="ssuVyZ1nKEKqjErKsFgqEg"/>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="320" parent="41" guid="MMzx3H6sEEuw6_DBWsZCyw" x="6771.60" y="2064.28" text="tilo: Where is the thief?\NI don&apos;t see him...">
+<parent-relation guid="psIk2Xrk40G_vi_kmFGD3w"/>
+<note>
+[reveal:quest_findSecondChest.talkToDuinlanB=active]
+</note>
+</topic>
+<topic id="321" parent="320" guid="gLZbfuZJvkWTe50WCoCmgw" x="6771.60" y="2210.39" text="duinlan: The thief? The Mouse\Nis here--beneath these rocks.">
+<children>
+<image guid="riQqGQWVgEeANazRl7zPYg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="171.25" y="-70.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="riQqGQWVgEeANazRl7zPYg" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="171.25" y="-70.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="322" parent="321" guid="gyAHH2ly6UWM20JTDYdG3w" x="6772.38" y="2323.30" text="DIALOGUE_HUB"/>
+<topic id="323" parent="322" guid="m6rA9Piz4UKoJQcblntLDg" x="6040.96" y="2500.45" text="tilo: How did this happen?">
+<note>
+[lockableThread:deadMouseHow][lockThread:deadMouseHow]
+</note>
+</topic>
+<topic id="324" parent="323" guid="IlJtQ7vcQUGNm3kh4qlH3w" x="6040.96" y="2634.74" text="duinlan: Misfortune...\Nand gravity."/>
+<topic id="325" parent="322" guid="uMJe881-FEC8JKanmMbWfQ" x="7128.21" y="2460.13" text="tilo: Did he suffer?">
+<note>
+[lockableThread:deadMouseSuffer][lockThread:deadMouseSuffer]
+</note>
+</topic>
+<topic id="326" parent="325" guid="VowskShsXU2kGTnzIzgoxA" x="7128.21" y="2547.20" text="duinlan: Well, he is\Nsquashed, good Mouse...">
+<children>
+<image guid="ZPDOgaEP1kKmhjPI3vjDzA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-151.25" y="-18.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="ZPDOgaEP1kKmhjPI3vjDzA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-151.25" y="-18.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="327" parent="326" guid="e86Ym7gTC0KM5sV0ZjGYmA" x="7128.21" y="2639.74" text="duinlan: ... under a pile of rocks.">
+<children>
+<image guid="qVef9dlnJkiUmeW-MruRHw" name="dfc13e0466227975e50237d04e893b10963a160a" x="186.25" y="7.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="qVef9dlnJkiUmeW-MruRHw" name="dfc13e0466227975e50237d04e893b10963a160a" x="186.25" y="7.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="328" parent="327" guid="RIW4DKs6c0mhZvJSPpaWuA" x="7128.21" y="2730.57" text="duinlan: I would think no."/>
+<topic id="329" parent="322" guid="dD-CT2Sjv0qP09EqANdoNQ" x="6989.73" y="2861.04" text="tilo: Then he took the\Ntreasure to his grave..."/>
+<topic id="330" parent="329" guid="sATZ1wyI6Ee3fLHVq5M0Mg" x="6989.73" y="3143.42" text="duinlan: Oh, nothing is ever truly lost.\NTime will make this stone a pebble. Time...">
+<parent-relation guid="d-0XPXOvo0qBE0iLglq1Ug"/>
+<children>
+<image guid="n1WCTl1Ov0ml7dCvQ-y4pA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="206.25" y="-72.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="n1WCTl1Ov0ml7dCvQ-y4pA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="206.25" y="-72.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_findSecondChest.talkToDuinlanB]
+</note>
+</topic>
+<topic id="331" parent="322" guid="XpWo4EoDKU6pCYsvdPXCvQ" x="6543.73" y="2861.04" text="tilo: It will take a small army\Nto move this rubble...">
+<parent-relation guid="qnSPXukMgken47jzIwLLRQ"/>
+<note>
+[completeTask:quest_findSecondChest.talkToDuinlanB]
+</note>
+</topic>
+<topic id="332" parent="331" guid="UF_pOiwrQkm-tF2wStUohw" x="6543.73" y="3143.42" text="duinlan: Or a\Ncask of [brisance].">
+<note>
+[footnote:brisance][startQuest:quest_clearArmoryRockFall][unlockThread:helpDuinlanTaskA]
+</note>
+</topic>
+<topic id="333" parent="332" guid="iigbnET4G0C6Rw7AR2qPWw" x="6298.08" y="3331.32" text="tilo: Brisance?! Isn&apos;t\Nthat dangerous?"/>
+<topic id="334" parent="333" guid="f2Kr7Odqik-4MvIYSp83Fg" x="6298.08" y="3438.56" text="duinlan: If\None is not careful."/>
+<topic id="335" parent="334" guid="psAGFfuTtkGAtltmJdsCJQ" x="6298.08" y="3563.39" text="tilo: I&apos;ll just have to\Nbe careful...">
+<note>
+[executeAction:activateDuinlanGreatHall]
+</note>
+</topic>
+<topic id="336" parent="332" guid="WttbyfNU_kinrPysUQK4BQ" x="6784.12" y="3438.56" text="tilo: Brisance? How am I going \Nto get my paws on brisance?"/>
+<topic id="337" parent="336" guid="t4HGYGdmyEi_ppjZBq3XzQ" x="6784.12" y="3563.39" text="duinlan: At the foot of this stairwell is the old\Narmoury... you may find what you seek there."/>
+<topic id="338" parent="337" guid="LgT35QmKH0C1f9zPMzL7JA" x="6543.73" y="3758.39" text="tilo: I&apos;m grateful for your help, My Lady.\NIs there anything I can do for you in return?">
+<note>
+[executeAction:activateDuinlanGreatHall]
+</note>
+</topic>
+<topic id="339" parent="337" guid="5A6Y0ZJ710qBJbXPEzmGIQ" x="6981.67" y="3758.39" text="tilo: You have my\Nthanks, Lady Duinlan."/>
+<topic id="340" parent="339" guid="rGNbt3H_TUi1ykhaXnVBOg" x="6981.67" y="3895.36" text="duinlan: Be well, good Mouse.">
+<children>
+<image guid="FVK82OhTS0-RlJidNYigww" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="168.75" y="-34.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="FVK82OhTS0-RlJidNYigww" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="168.75" y="-34.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[executeAction:activateDuinlanGreatHall]
+</note>
+</topic>
+<topic id="341" parent="322" guid="_rdXq0r-C06j_SOpnF0XfA" x="6364.38" y="2559.74" text="tilo: Can you not speak with him,\Nask him if he has the chest?">
+<note>
+[lockableThread:deadMouseSpeak][lockThread:deadMouseSpeak]
+</note>
+</topic>
+<topic id="342" parent="341" guid="jKBZT7g0pkybiieARIDH2Q" x="6364.38" y="2703.07" text="duinlan: Speak with him?\NThe Mouse is dead."/>
+<topic id="343" parent="41" guid="DxALJOukD0u6KRe0RrFGlg" x="9654.45" y="947.80" text="tilo: Lady Duinlan, I have gathered\Nall of your remains--and Hythe&apos;s.">
+<parent-relation guid="p4RDipEkSECMEXDwBBjC1g"/>
+<note>
+[reveal:quest_duinlansRemains.returnToTomb=active][executeAction:giveItem=urn_duinlan*99]
+</note>
+</topic>
+<topic id="344" parent="343" guid="e5hVyh8w3USuGnFxin3O-w" x="9654.45" y="1103.07" text="duinlan: You have my thanks,\Ngood Mouse. I am grateful\Nbeyond words. Here, now...">
+<note>
+[completeTask:quest_duinlansRemains.returnToTomb][executeAction:giveItem=urn_hythe*99]
+</note>
+</topic>
+<topic id="345" parent="344" guid="QwfgvARx7kmBIgjXESKyKg" x="9654.45" y="1273.49" text="Before the altar a sarcophagus\Nslowly opens, revealing a\Nmagnificent suit of golden armour.">
+<parent-relation guid="Etu2djYOtkuHQgxtkJeIKQ"/>
+<note>
+[narration][executeAction:openSarcophagus;playSound=stoneScrape]
+</note>
+</topic>
+<topic id="346" parent="345" guid="6bsgt5yAiky3j-fjHuGH_w" x="9654.45" y="1429.64" text="duinlan: ... my final secret.">
+<children>
+<image guid="ZygF0bEgqEuLfLqpYPs8hg" name="76eae976422adea532405332a28cc3e3b5a3025b" x="172.50" y="-5.31" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="ZygF0bEgqEuLfLqpYPs8hg" name="76eae976422adea532405332a28cc3e3b5a3025b" x="172.50" y="-5.31" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="347" parent="346" x="9885.20" y="1765.57" text="tilo: It&apos;s beautiful..."/>
+<topic id="348" parent="347" guid="LtdkC22C90GQbfkrklHwoQ" x="9885.20" y="1990.57" text="duinlan: And now it is\Nyours. Pray, take it."/>
+<topic id="349" parent="348" x="9654.45" y="2241.82" text="tilo: My Lady? I-I\Ncan&apos;t accept this..."/>
+<topic id="350" parent="349" guid="ZW0VxdQX4EWZ87mwM2-M3Q" x="9654.45" y="2453.07" text="duinlan: I have\Nno use of it."/>
+<topic id="351" parent="348" guid="_P5CiFoTnUCGwRNlQlkauw" x="10101.95" y="2241.82" text="tilo: Lady Duinlan...\NI-I will treasure it."/>
+<topic id="352" parent="351" guid="9AL3h2PIp0Ww655HlaN6AQ" x="10101.95" y="2453.07" text="The armour weighs little,\Nbut is stronger than iron.\NWear it in my name."/>
+<topic id="353" parent="346" guid="zpprdOW5lkO3gPlUlUNnog" x="9417.45" y="1765.57" text="tilo: My Lady...\NWhat is this?"/>
+<topic id="354" parent="353" guid="IQ4u2SM0ekuMGaTRoa2bgw" x="9417.45" y="1990.57" text="duinlan: This was my armour, worn in in\Nthe battle for [Periclave]. It was there that\Nwe faced down the Emerald Flame.">
+<children>
+<image guid="JXpKWW_P6EiiRMA53MMjfw" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="210.00" y="-87.68" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="JXpKWW_P6EiiRMA53MMjfw" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="210.00" y="-87.68" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+<note>
+[footnote:battle_periclave]
+</note>
+</topic>
+<topic id="355" parent="31" guid="LCEeauTSn06Zhn8eVbz9RQ" x="-1597.68" y="807.01" text="tilo: Duinlan... It&apos;s an honour\Nto meet such a legend."/>
+<topic id="356" parent="355" guid="j8QHgiTv6Ea_zzTsPas2nA" x="-1597.68" y="1031.44" text="duinlan: A legend?"/>
+<topic id="357" parent="31" guid="YyxVacgmx0ugGtfB-Dc-lg" x="-2259.63" y="812.01" text="tilo: You were laid to rest\Nbeside your husband?">
+<note>
+[lockableThread:duinlanHusband][lockThread:duinlanHusband]
+</note>
+</topic>
+<topic id="358" parent="357" guid="rGDcUyVuCkOQb-pVHvcXjg" x="-2259.63" y="967.65" text="duinlan: Husband?\NI had no husband..."/>
+<topic id="359" parent="27" guid="jzMnbuHaikWMs67V9E1Mwg" x="-2160.32" y="520.84" text="tilo: Are you... a ghost?"/>
+<topic id="360" parent="359" guid="2BTYvlUEDEyXf4dA-mgyGw" x="-2160.32" y="654.97" text="duinlan: A ghost...?">
+<children>
+<image guid="5HBD_iz97US5re5W8v-Bog" name="dfc13e0466227975e50237d04e893b10963a160a" x="-108.61" y="-30.04" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="5HBD_iz97US5re5W8v-Bog" name="dfc13e0466227975e50237d04e893b10963a160a" x="-108.61" y="-30.04" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="361" parent="27" guid="RZ1DkCPP0EOrhl5xDGqiEg" x="-1276.84" y="967.65" text="tilo: SKIP AHEAD">
+<note>
+[debug]
+</note>
+</topic>
+<topic id="362" parent="11" guid="ccuN4uopiEGCrG2qozBhrw" x="906.81" y="-267.02" text="tilo: Rascals&apos; Whirligig">
+<note>
+[lockableThread:balladOfThieves][lockThread:balladOfThieves][executeAction:performSong=song_gustoAndFatale][reveal:counter.dialog_gustoAndFatale.composed_song_gustoAndFatale=1]
+</note>
+</topic>
+<topic id="363" parent="11" guid="jWdJsckD7U6wdJ8zKFOjbg" x="265.24" y="-748.26" text="tilo: Please, I don&apos;t\Nunderstand..."/>
+<topic id="364" parent="2" guid="zZb9LJbxz0mcUZ1rwL1Wpw" x="-259.98" y="-748.26" text="tilo: My name is Tilo. Please,\Nwill you tell me yours?">
+<note>
+[lockableThread:duinlanSparkQuestionB][lockThread:duinlanSparkQuestionB]
+</note>
+</topic>
+<topic id="365" parent="2" guid="mecrd2nOyE6k-CeQFGvBsQ" x="-2094.76" y="-748.26" text="tilo: A-are you...\Nare you a spirit?">
+<note>
+[lockableThread:duinlanSparkQuestionC]
+</note>
+</topic>
+<topic id="366" parent="365" guid="OpwhJzQMJUavyCOA1K7Mfg" x="-2094.76" y="-633.26" text="duinlan: ... A name...">
+<children>
+<image guid="VKd3U5KMsUO0AryfPA-NDA" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-126.07" y="-9.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="VKd3U5KMsUO0AryfPA-NDA" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-126.07" y="-9.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+</topic>
+<topic id="367" parent="366" guid="xhWrX5d2U0WP28Gc8ZLJMA" x="-2280.76" y="-472.26" text="tilo: Nykto?"/>
+<topic id="368" parent="367" guid="3HROyFHtHky8WdS6z0msLw" x="-2280.76" y="-392.26" text="duinlan: ...">
+<children>
+<image guid="L7Bxgg5DtkaVcyTWwV73hA" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-80.36" y="3.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="L7Bxgg5DtkaVcyTWwV73hA" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-80.36" y="3.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+</topic>
+<topic id="369" parent="366" guid="hroRH-h6sU-czMuKvnVUiA" x="-2094.76" y="-472.26" text="tilo: Jahrlan?"/>
+<topic id="370" parent="369" guid="ECUbJ6Dh_063Fecieb0qhw" x="-2094.76" y="-392.26" text="duinlan: ...">
+<children>
+<image guid="4IFJ1xXkLke7XPrdXJ7Opg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-84.64" y="-2.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="4IFJ1xXkLke7XPrdXJ7Opg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-84.64" y="-2.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+</topic>
+<topic id="371" parent="366" guid="BmOf7plLqE2D_JWjINohYg" x="-1918.09" y="-472.26" text="tilo: Duinlan?">
+<note>
+[lockThread:duinlanSparkQuestionC]
+</note>
+</topic>
+<topic id="372" parent="371" guid="k_eQ81F3ik2ba08y8hHrhg" x="-1918.09" y="-392.26" text="duinlan: ...\NDuinlan...? Aye...">
+<children>
+<image guid="fgNTylmtjEO65G_4lTuGjg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="103.93" y="-9.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="fgNTylmtjEO65G_4lTuGjg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="103.93" y="-9.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[updateCounter:duinlansRequest=1]
+</note>
+</topic>
+<topic id="373" parent="2" guid="JHqvLDzL90SFyBhLxr4aOg" x="20.35" y="-748.26" text="tilo: Forgive\Nme, I must go.">
+<parent-relation guid="un8-NRyTWU2pROZnDBti_g"/>
+</topic>
+<topic id="374" parent="0" guid="_RYkENZvEEim5HwWiGG6xQ" x="719.31" y="-1096.26" palette="3" colorinfo="3" text="duinlan: Who is it\Nthat calls to me?">
+<children>
+<image guid="kttaxl-WWUyeGJbakJs1gw" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-105.50" y="-68.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="kttaxl-WWUyeGJbakJs1gw" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-105.50" y="-68.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="375" parent="374" guid="DEFVO48ZoEGtM6-4YlGQRA" x="498.58" y="427.31" text="duinlan: If you have a\Nquestion, pray ask it.">
+<parent-relation guid="mnrlU--1o0yMtAMyUKpRug"/>
+</topic>
+<topic id="376" parent="0" guid="LBl_tOghA0-wc8g73kDXvg" x="1408.49" y="-1273.00" palette="4" colorinfo="4" text="duinlan: Welcome,\Ngood Mouse.">
+<children>
+<image guid="o24SU79Dx0SFHWb8at9nwA" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-93.21" y="-82.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="o24SU79Dx0SFHWb8at9nwA" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-93.21" y="-82.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="377" parent="376" guid="k-jBFViAtkOXfUnUPZ-GkA" x="1408.49" y="-1156.44" text="duinlan: ... Were we not\Nonce acquainted, long ago?">
+<children>
+<image guid="lxbb3tLICkyYoa8hjXoH1A" name="dfc13e0466227975e50237d04e893b10963a160a" x="182.50" y="-24.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="lxbb3tLICkyYoa8hjXoH1A" name="dfc13e0466227975e50237d04e893b10963a160a" x="182.50" y="-24.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="378" parent="377" guid="j0m2Vy5O00Krka0guqSrNg" x="1271.51" y="-1014.88" text="tilo: Not so long ago.">
+<parent-relation guid="TjdmkbSHBE-anh83ivUypw"/>
+</topic>
+<topic id="379" parent="378" guid="C208d4bMO0KhciC1YdUutA" x="1482.13" y="-255.19" text="duinlan: But I sense you\Ncome in search of answers..."/>
+<topic id="380" parent="377" guid="_hm5yPS3KEeXxgeOx-XzEg" x="1546.33" y="-1014.88" text="tilo: Aye, in a sense.">
+<parent-relation guid="OWUifjuh3U-P7EKOVaaDXw"/>
+</topic>
+<topic id="381" parent="0" guid="3kqlphyyv0WzwtJOJv4AJw" x="2381.11" y="-1454.13" palette="5" colorinfo="5" text="What say you, good Mouse?">
+<children>
+<image guid="7ptTWIBpIUm3TqRqiq-NOg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-133.21" y="-66.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="7ptTWIBpIUm3TqRqiq-NOg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-133.21" y="-66.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[variationIndex=4]
+</note>
+</topic>
+<topic id="382" parent="0" guid="-rRp9oEuo02xaM-_7V3LdQ" x="2719.29" y="-1542.64" palette="6" colorinfo="6" text="duinlan: You have\Nreturned, as you promised.">
+<parent-relation guid="keFC7bC-4kivYAK_wL5LAg"/>
+<children>
+<image guid="i0z7w_vVW0udtLntQOjeFw" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-143.21" y="-75.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="i0z7w_vVW0udtLntQOjeFw" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-143.21" y="-75.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[variationIndex=5]
+</note>
+</topic>
+<topic id="383" parent="0" guid="9Ue3mxerO0OFPnnhCimoiA" x="2991.28" y="-1629.20" palette="7" colorinfo="7" text="duinlan: Welcome,\Ngood Mouse.">
+<parent-relation guid="7y2viWNg_Uyw9obHYN79jw"/>
+<children>
+<image guid="e4LkkVuiXkCfGKLtx2NQ9w" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-76.07" y="-79.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="e4LkkVuiXkCfGKLtx2NQ9w" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-76.07" y="-79.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[variationIndex=6]
+</note>
+</topic>
+<topic id="384" parent="0" guid="iK9pkinRgU2UF2BiZQ5TIQ" x="1713.79" y="-1336.35" palette="8" colorinfo="8" text="duinlan: You are\Nwelcome, good Mouse.">
+<parent-relation guid="1t8Kypen7EWbzlQ4RRnFlA"/>
+<children>
+<image guid="-C_XU5dBEUyzGaQA0jd2kg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-90.36" y="-75.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="-C_XU5dBEUyzGaQA0jd2kg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-90.36" y="-75.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="385" parent="0" guid="XiHy2W61gEiL2wyxhvJHbA" x="2040.56" y="-1389.69" palette="2" colorinfo="2" text="duinlan: Who goes\Nthere...? [Jahrlan]?">
+<children>
+<image guid="az5DW77Dx0OaqOaIIokXHg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-120.36" y="-72.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="az5DW77Dx0OaqOaIIokXHg" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="-120.36" y="-72.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[footnote:jahrlan][variationIndex=3]
+</note>
+</topic>
+<topic id="386" parent="385" guid="ydPn8-2Q6EyzjuMavlDCpw" x="1880.53" y="-1204.30" text="tilo: Jahrlan? Do\NI look like a Rat to you?"/>
+<topic id="387" parent="386" guid="8Q6e5sh6DkadHrXVJ-6x3w" x="1880.53" y="-1035.55" text="duinlan: You?\NA Rat? Nay...">
+<children>
+<image guid="aNxhCQeMPEuuTVDBBBaE_g" name="dfc13e0466227975e50237d04e893b10963a160a" x="109.17" y="-55.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="aNxhCQeMPEuuTVDBBBaE_g" name="dfc13e0466227975e50237d04e893b10963a160a" x="109.17" y="-55.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="388" parent="385" guid="Sd_M8BQO20e4ZwjU9rrDzA" x="2204.25" y="-1204.30" text="tilo: It&apos;s Tilo--Tilo\Nthe Minstrel."/>
+<topic id="389" parent="388" guid="0lh1NMsIhUany7hXBbJUzQ" x="2204.25" y="-1035.55" text="duinlan: Welcome,\Ngood Mouse...">
+<children>
+<image guid="6UGi8r8btkSuc0ZHPuL5ug" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="123.64" y="-63.94" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="6UGi8r8btkSuc0ZHPuL5ug" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="123.64" y="-63.94" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="390" parent="0" guid="OMd8NpoEhUiVn-Q84GwpaA" x="2095.41" y="-2026.63" palette="2" colorinfo="2" text="duinlan: Good Mouse! The\Ncontents of the chest...">
+<children>
+<image guid="tO-TJGnxdEall2cIBYCo-A" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="164.17" y="-34.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="tO-TJGnxdEall2cIBYCo-A" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="164.17" y="-34.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:quest_mysteryOfDuinlansTomb.getChestContents=active;hasItem=bundle_chest*0][lockableThread:tiloForgotChestContents][lockThread:tiloForgotChestContents]
+</note>
+</topic>
+<topic id="391" parent="390" guid="7DGPv1Xd9k6cYm1AvW5knA" x="1738.78" y="-1826.50" text="duinlan: ... did you not mean\Nto take them with you?">
+<children>
+<image guid="na3QBFlRN0aDrMHxk1y6VQ" name="dfc13e0466227975e50237d04e893b10963a160a" x="-35.83" y="-84.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="na3QBFlRN0aDrMHxk1y6VQ" name="dfc13e0466227975e50237d04e893b10963a160a" x="-35.83" y="-84.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="392" parent="390" guid="GJn15j1gGk2xgrkpO0KEPg" x="2095.41" y="-1872.86" text="duinlan: ... are they not\Nwhat you came here for?">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="393" parent="390" guid="xA-hcfvcoU-xVKjWlmLfag" x="2429.29" y="-1826.50" text="duinlan: ... why do you\Nleave them discarded?">
+<children>
+<image guid="n_4jmizjU0asKk-gpVdjEA" name="dfc13e0466227975e50237d04e893b10963a160a" x="10.83" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="n_4jmizjU0asKk-gpVdjEA" name="dfc13e0466227975e50237d04e893b10963a160a" x="10.83" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="394" parent="0" guid="O69QWUvYT0OeYOdTZLRKtw" x="3823.46" y="-2871.13" palette="2" colorinfo="2" text="duinlan: Good Mouse!">
+<children>
+<image guid="8cYfnhr6IUybNtPSLj1BYQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="132.50" y="-35.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="8cYfnhr6IUybNtPSLj1BYQ" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="132.50" y="-35.16" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:quest_findPirateTreasure=complete][lockableThread:greenFlameRises][lockThread:greenFlameRises][executeAction:activateSilasGallows]
+</note>
+</topic>
+<topic id="395" parent="394" guid="Vb1rrzBpAk-PKkxcES5yOA" x="3632.69" y="-2723.86" text="tilo: My Lady! The\Ndead have risen!"/>
+<topic id="396" parent="395" guid="w_S7mjr15UOry6gi9Kwqng" x="3632.69" y="-2509.32" text="duinlan: Aye, I\Ncan feel it.">
+<children>
+<image guid="Orl3EyLKJE2nFXmgsOFBLw" name="dfc13e0466227975e50237d04e893b10963a160a" x="89.64" y="-83.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="Orl3EyLKJE2nFXmgsOFBLw" name="dfc13e0466227975e50237d04e893b10963a160a" x="89.64" y="-83.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="397" parent="396" guid="xo0NHCfdj0ig-k3_fjJ7CA" x="3823.46" y="-2339.32" text="duinlan: The [Green\NFlame] has awakened!">
+<children>
+<image guid="cKzP-KmmSEG-bWx12tirxg" name="76eae976422adea532405332a28cc3e3b5a3025b" x="141.07" y="-59.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="cKzP-KmmSEG-bWx12tirxg" name="76eae976422adea532405332a28cc3e3b5a3025b" x="141.07" y="-59.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</images>
+<note>
+[footnote:green_flame]
+</note>
+</topic>
+<topic id="398" parent="397" guid="apLx-Al3hkeUczswQ9r6EA" x="3601.78" y="-2149.32" text="tilo: What must I do? "/>
+<topic id="399" parent="398" guid="g6uoijwyEEKhpMxhifWWXw" x="3601.78" y="-1955.57" text="duinlan: Once the [Emerald Fire] has been\Nlit, it cannot easily be extinguished.">
+<note>
+[footnote:green_flame]
+</note>
+</topic>
+<topic id="400" parent="397" guid="lqoGy99rok-tDR7ipHVL2g" x="4013.46" y="-2149.32" text="tilo: I must\Nfind help..."/>
+<topic id="401" parent="400" guid="5U79_UEa4Uaf_EH-QvdnFQ" x="4013.46" y="-1955.57" text="duinlan: Alone you\Ncan do nothing.">
+<children>
+<image guid="D4C2nYY8w0-DaDIi489bDg" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="138.57" y="27.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="D4C2nYY8w0-DaDIi489bDg" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="138.57" y="27.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="402" parent="401" guid="l5tyiAQZxUqILw2DEniKCA" x="4013.46" y="-1803.57" text="duinlan: Muster your comrades,\Nand trust it is not too late.">
+<parent-relation guid="czrUtOqCI02zd0O8dLROpQ"/>
+<children>
+<image guid="ICe15sbXxEO890EYiO_syA" name="76eae976422adea532405332a28cc3e3b5a3025b" x="185.36" y="14.84" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="ICe15sbXxEO890EYiO_syA" name="76eae976422adea532405332a28cc3e3b5a3025b" x="185.36" y="14.84" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</images>
+<note>
+[startQuest:quest_stopTheGreenFlame]
+</note>
+</topic>
+<topic id="403" parent="402" guid="95otsBMfDUKwYGWCoIMkZw" x="4013.46" y="-1671.22" text="duinlan: Only the living\Ncan help you now...">
+<children>
+<image guid="YpGi8NIiiUCskCL5KpCWjA" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="122.50" y="46.27" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="YpGi8NIiiUCskCL5KpCWjA" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="122.50" y="46.27" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+</topic>
+<topic id="404" parent="394" guid="zw_6kf32SUu1-US-INymhw" x="3987.23" y="-2723.86" text="tilo: Please, I need you!"/>
+<topic id="405" parent="404" guid="MeKOHQLt1UG54VkDwkqjoA" x="3987.23" y="-2616.59" text="duinlan: Forgive me,\Ngood Mouse...">
+<children>
+<image guid="X68fEDsUVkCUufBAVPwlDA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="144.29" y="-3.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="X68fEDsUVkCUufBAVPwlDA" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="144.29" y="-3.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="406" parent="405" guid="A1BghaT8aEqToIcdE-JXWA" x="3987.23" y="-2509.32" text="duinlan: ... there is\Nlittle I can do.">
+<parent-relation guid="Q5-_Z06YDEKwYDuVHQyLuw"/>
+<children>
+<image guid="qL6cwKqZ_kiFNMjhmYPnzw" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="114.29" y="23.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="qL6cwKqZ_kiFNMjhmYPnzw" name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="114.29" y="23.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="407" parent="0" guid="kRpXUp5vDEKXtyl6CAtWDQ" x="1321.49" y="-2904.14" palette="2" colorinfo="2" text="duinlan: Nothing remembered\Never truly dies...">
+<parent-relation guid="OR0esgTpWU-ItkxY4Yebxg"/>
+<children>
+<image guid="BJlr2SievkGRfFWFZt5rOA" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="161.83" y="-52.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image guid="BJlr2SievkGRfFWFZt5rOA" name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="161.83" y="-52.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:quest_rememberTheDead=complete][lockableThread:completeObeliskQuest][lockThread:completeObeliskQuest]
+</note>
+</topic>
+<topic id="408" parent="407" guid="cjTK04netU6W9evYczLe3A" x="1321.49" y="-2767.89" text="duinlan: My comrades\Nwill live on in memory.">
+<children>
+<image guid="CsqBPu4bckKZHaYHBvfmSw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-133.33" y="-38.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image guid="CsqBPu4bckKZHaYHBvfmSw" name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="-133.33" y="-38.56" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="409" parent="408" guid="ieozeUc2yUCfVGsyRPG-2w" x="1321.49" y="-2631.64" text="duinlan: I&apos;m grateful to you for\Nthis kindness. Pray, take this... may it\Nprovide you illumination without end.">
+<parent-relation guid="bt45dDZ9jkqnXXrIJQRN5A"/>
+</topic>
+<topic id="410" parent="409" guid="tW1KvMbY_0eHRqGXDp2TvQ" x="1321.49" y="-2481.92" text="You find yourself holding a curious\Nlantern, burning with a bluish flame.\NWhen you look again the ghost is gone.">
+<note>
+[narration][executeAction:receiveItem=dyingLight]
+</note>
+</topic>
+<topic id="411" parent="-1" guid="foZN37fzfk2-4XOc5w4Dsg" x="-991.80" y="-1798.00" palette="1" colorinfo="1" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="412" parent="411" guid="YCuH1dS8BUS8BTStUNwDQA" x="-1322.99" y="-1508.24" palette="3" colorinfo="3" text="duinlan: A chord, to\Ninvite a melody...">
+<children>
+<image name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[counter:duinlansRequest=0][reveal:counter.duinlansRequest=0][updateCounter:duinlansRequest=1]
+</note>
+</topic>
+<topic id="413" parent="411" guid="2jLDLTu1YEiNxEbtekncWw" x="-991.80" y="-1508.24" palette="4" colorinfo="4" text="duinlan: A lay, a name...">
+<children>
+<image name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.duinlansRequest=1][updateCounter:duinlansRequest=2]
+</note>
+</topic>
+<topic id="414" parent="411" guid="NsTxJjbZOke9z7vVd25GRg" x="-683.03" y="-1508.24" palette="5" colorinfo="5" text="duinlan: A spark,\Nto light a fire...">
+<children>
+<image name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.duinlansRequest=2][updateCounter:duinlansRequest=0]
+</note>
+</topic>
+<topic id="415" parent="-1" guid="AcILqxBr3k-3ISstQcoCXw" x="159.34" y="-2344.06" palette="1" colorinfo="1" text="duinlan"/>
+<topic id="416" parent="415" x="-202.96" y="-2037.81" palette="2" colorinfo="2" text="default">
+<children>
+<image name="9bec952819a6b5aafdb041997b6947bd1a660499" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_default.png"/>
+</image>
+</children>
+<images>
+<image name="9bec952819a6b5aafdb041997b6947bd1a660499" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="417" parent="415" x="-54.39" y="-2037.81" palette="3" colorinfo="3" text="hopeful">
+<children>
+<image name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</children>
+<images>
+<image name="29e0c59c5044fc1e5e5ca43c7c48ddaba910530d" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_hopeful.png"/>
+</image>
+</images>
+</topic>
+<topic id="418" parent="415" x="70.87" y="-2037.81" palette="4" colorinfo="4" text="sad">
+<children>
+<image name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</children>
+<images>
+<image name="833b939e7417e7f0e5e2b17fe9900fc3af79de3f" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="419" parent="415" x="212.62" y="-2037.81" palette="5" colorinfo="5" text="stern">
+<children>
+<image name="76eae976422adea532405332a28cc3e3b5a3025b" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</children>
+<images>
+<image name="76eae976422adea532405332a28cc3e3b5a3025b" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="420" parent="415" x="380.37" y="-2037.81" palette="6" colorinfo="6" text="surprised">
+<children>
+<image name="dfc13e0466227975e50237d04e893b10963a160a" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="dfc13e0466227975e50237d04e893b10963a160a" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="421" parent="415" x="531.08" y="-2037.81" palette="7" colorinfo="7" text="unfocused">
+<children>
+<image name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</children>
+<images>
+<image name="fe171d884bb9cae143b3e44669be46e7eb9a0a33" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Duinlan/portrait_duinlan_unfocused.png"/>
+</image>
+</images>
+</topic>
+</topics>
+<relations>
+<relation source="34" target="37"/>
+<relation source="91" target="93"/>
+<relation guid="GPlTutWyjkW94msTmc_YFA" source="356" target="37"/>
+<relation source="151" target="155"/>
+<relation source="28" target="31"/>
+<relation source="56" target="47"/>
+<relation guid="3OXyZRgYsEuHjWFNEw4gTQ" source="384" target="40"/>
+<relation source="382" target="379"/>
+<relation guid="SbyExabUBEuglbZeycOftg" source="380" target="375"/>
+<relation guid="yUhkXU5gxkW5VgGfJlAOcg" source="383" target="374"/>
+<relation source="102" target="120"/>
+<relation source="62" target="60"/>
+<relation source="63" target="61"/>
+<relation source="62" target="61"/>
+<relation guid="tu_mpadWcUaCIvrzOPxWug" source="61" target="41"/>
+<relation source="201" target="199"/>
+<relation guid="1BsZmRTB_0aNyUYCvIuW-A" source="124" target="199"/>
+<relation guid="IHKnbzDOYU-L36adQtCHkQ" source="104" target="199"/>
+<relation guid="IyRKm_KlUk-N-9WgVpnz_Q" source="231" target="157"/>
+<relation source="48" target="199"/>
+<relation source="106" target="199"/>
+<relation guid="yXSh6hTPGEO6qgZ_ePCZrQ" source="199" target="41"/>
+<relation guid="LBXxOMYn4E2OuBfdCBvW7Q" source="54" target="47"/>
+<relation source="162" target="160"/>
+<relation source="379" target="41"/>
+<relation source="207" target="199"/>
+<relation guid="e6yvdXsLzUG71qV97DTpOQ" source="383" target="375"/>
+<relation source="381" target="375"/>
+<relation guid="-HOcmVVbhEmNeZk4WONl6g" source="232" target="194"/>
+<relation source="156" target="61"/>
+<relation guid="Phu2fiTsb0CaYsKuAI3YGQ" source="154" target="61"/>
+<relation source="213" target="218"/>
+<relation source="236" target="222"/>
+<relation guid="XcCRZYTCkUeUdpB_mnn0vA" source="234" target="228"/>
+<relation guid="asqkY-nAwE-y2EZsY93t3w" source="93" target="131"/>
+<relation source="215" target="220"/>
+<relation guid="CIOEPEYYFEeorRA9SfCeBA" source="328" target="322"/>
+<relation source="324" target="322"/>
+<relation source="208" target="205"/>
+<relation source="68" target="65"/>
+<relation source="67" target="66"/>
+<relation source="68" target="66"/>
+<relation source="250" target="244"/>
+<relation source="303" target="244"/>
+<relation guid="eobRxM-9cEufkewNUlfAMQ" source="309" target="244"/>
+<relation guid="CVL4OuF4pkeSBK6NTINZXA" source="387" target="379"/>
+<relation source="389" target="375"/>
+<relation source="262" target="244"/>
+<relation guid="-l5T4fqaBkiwCE2mAlt-qw" source="133" target="136"/>
+<relation source="136" target="41"/>
+<relation source="268" target="244"/>
+<relation source="248" target="244"/>
+<relation source="300" target="244"/>
+<relation source="264" target="244"/>
+<relation source="311" target="244"/>
+<relation source="143" target="136"/>
+<relation guid="z1Sd9n_fE0yZc2cHUcnljQ" source="58" target="49"/>
+<relation source="58" target="45"/>
+<relation source="217" target="214"/>
+<relation source="217" target="218"/>
+<relation source="111" target="109"/>
+<relation source="117" target="109"/>
+<relation source="114" target="109"/>
+<relation source="360" target="31"/>
+<relation source="33" target="355"/>
+<relation source="358" target="34"/>
+<relation source="358" target="35"/>
+<relation source="33" target="357"/>
+<relation source="358" target="32"/>
+<relation source="171" target="169"/>
+<relation source="173" target="167"/>
+<relation guid="NX9xJXr2w0mz1mzt76TKcA" source="66" target="41"/>
+<relation source="145" target="136"/>
+<relation source="129" target="88"/>
+<relation source="209" target="207"/>
+<relation source="281" target="283"/>
+<relation source="289" target="292"/>
+<relation guid="EFl5EPAI5kSumDkPPEQA1g" source="126" target="271"/>
+<relation guid="Hg6YACmU4kul6uGcz8Lltg" source="127" target="271"/>
+<relation source="127" target="126"/>
+<relation source="241" target="243"/>
+<relation source="319" target="317"/>
+<relation source="318" target="243"/>
+<relation guid="Qp0z9UtjMEuRMGlAz9tYUA" source="294" target="61"/>
+<relation guid="Ysms5_9nMEW23-6He2nhvg" source="273" target="271"/>
+<relation guid="v95Hv3KrqUa5P_4bffJ2EQ" source="277" target="271"/>
+<relation guid="54ZPGeDKrUaZCVu4zVZwaw" source="283" target="271"/>
+<relation guid="v5QomJGA4EGKe9y_eGRwgw" source="286" target="271"/>
+<relation source="296" target="271"/>
+<relation source="317" target="244"/>
+<relation source="319" target="244"/>
+<relation source="361" target="40"/>
+<relation source="237" target="224"/>
+<relation source="334" target="336"/>
+<relation guid="79Nv51RfFE27mFOjrLGirw" source="330" target="332"/>
+<relation source="342" target="322"/>
+<relation source="255" target="244"/>
+<relation guid="QUGjvQzOlUuKGMN0meBBNQ" source="257" target="244"/>
+<relation source="393" target="391"/>
+<relation source="314" target="313"/>
+<relation source="313" target="244"/>
+<relation source="315" target="244"/>
+<relation source="314" target="244"/>
+<relation source="406" target="397"/>
+<relation guid="0azRIQRssUaiepmooeu_Eg" source="399" target="401"/>
+<relation guid="rWAffITerkmsLkpQNj0VNQ" source="87" target="84"/>
+<relation source="334" target="338"/>
+<relation source="338" target="70"/>
+<relation source="75" target="77"/>
+<relation source="354" target="348"/>
+<relation source="350" target="352"/>
+<relation guid="irhOpR7EPEuTedgZ3rG4Fw" source="352" target="41"/>
+<relation source="190" target="176"/>
+<relation source="180" target="185"/>
+<relation source="182" target="178"/>
+<relation source="182" target="183"/>
+<relation source="193" target="186"/>
+<relation source="94" target="41"/>
+<relation source="158" target="232"/>
+<relation source="3" target="5"/>
+<relation source="7" target="5"/>
+<relation source="6" target="5"/>
+<relation source="364" target="5"/>
+<relation guid="yeWMIj1sV0qNHEc7qWJzLg" source="5" target="411"/>
+<relation source="412" target="2"/>
+<relation source="413" target="2"/>
+<relation source="414" target="2"/>
+<relation source="22" target="11"/>
+<relation source="13" target="11"/>
+<relation source="15" target="11"/>
+<relation source="19" target="11"/>
+<relation guid="jR6M8wRKjEmsxjRecCuf9w" source="11" target="373"/>
+<relation guid="wywK1jdtX0GKcOiIN9EoUg" source="365" target="5"/>
+<relation guid="KNDCf9S6yUKTYFQPv5OrZA" source="363" target="411"/>
+<relation guid="nmmu9uP9eEiC2TRWJ0h1Jg" source="372" target="5"/>
+<relation source="370" target="5"/>
+<relation source="368" target="5"/>
+<relation source="16" target="15"/>
+<relation source="17" target="15"/>
+<relation source="20" target="15"/>
+<relation source="362" target="15"/>
+<relation source="119" target="199"/>
+<relation source="375" target="41"/>
+<relation guid="fy50U32QHEqeExEGrc434Q" source="158" target="41"/>
+</relations>
+<stylesheet>
+<general description="quest_style" timestamp="2014-10-28+11:16:41" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<cross-links line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

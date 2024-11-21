@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="6643D5DC2F154234891E8E6B8B8E5B84"/>
+<title text="quest_crownOfKings" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="100" x="-54" y="631"/>
+<selection guid="VnCFZfsUVEOh2Jd8BEhq0w" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="VnCFZfsUVEOh2Jd8BEhq0w" x="800.00" y="800.00" palette="1" colorinfo="1" text="The Crown of Kings">
+<note>
+version_03-02-18_004-Added renown points award to questversion_01-14-18-Reduced number of gold needed to sevenVersion_01-10-18-Added node to wait for timer to finishVersion_12-19-17-Added nodes to cancel quest
+</note>
+</topic>
+<topic id="1" parent="0" guid="-KhUWFyGFUeImyL1GecxPg" x="801.02" y="985.74" palette="2" colorinfo="2" text="Collect nuggets\Nof gold.">
+<note>
+[taskName=getNugget_gold][itemCounter=nugget_gold/7]
+</note>
+</topic>
+<topic id="2" parent="1" guid="ZMVJQcGgekSof-PSwvHNyg" x="801.02" y="1126.99" text="Take gold to the smithy.">
+<note>
+[taskName=talkToRolo]
+</note>
+</topic>
+<topic id="3" parent="2" guid="1XJjG9EawU-DCTSwthIHLQ" x="458.11" y="1126.99" palette="8" colorinfo="8" text="The smithy took the gold, asking\Nthat you return in six hours."/>
+<topic id="4" parent="2" guid="0Q-voju6TUazYTH4sHRWSA" x="801.02" y="1262.32" text="Wait while the smithy\Nforges the crown.">
+<note>
+[taskName=waitForTimer]
+</note>
+</topic>
+<topic id="5" parent="4" guid="GROf1rnMh0i0vdommJDdQA" x="458.11" y="1262.32" palette="8" colorinfo="8" text="Six hours have passed.\NReturn to the blacksmith."/>
+<topic id="6" parent="4" guid="FIGLHLXvZU2z2zv5gLOUGQ" x="801.02" y="1409.72" text="Return to the blacksmith.">
+<parent-relation guid="pFDVxV_yTEWNevEkExH3Tw"/>
+<note>
+[taskName=talkToRoloB][grantRenown=2]
+</note>
+</topic>
+<topic id="7" parent="6" guid="nYCibz-GTUe5wQ7_veaPvg" x="458.11" y="1409.72" palette="8" colorinfo="8" text="Rolo forged for you a beautiful\Ngolden crown, fit for a king."/>
+<topic id="8" parent="1" guid="n9a4Tu9LKk-7qDADVi6DUA" x="458.11" y="985.74" palette="8" colorinfo="8" text="You collected seven\Nnuggets of gold."/>
+<topic id="9" parent="0" guid="QtiASpEGlUOCzk-vuxihoQ" x="458.11" y="800.00" palette="8" colorinfo="8" text="Collect seven nuggets of gold.\NThe blacksmith will forge you a crown."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

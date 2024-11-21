@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="F2AC777D2C4D41A0B759DE67C1CFB9C2"/>
+<title text="quest_magpieAndMouseKing" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="80" x="596" y="641"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="zxKYENawlEmW3vzaQ04msw" x="864.49" y="882.78" palette="2" colorinfo="2" text="The Magpie and the King">
+<note>
+[mainQuest]version_01-16-18_002-Added renown on final node at tier 3 (temp)version_110716_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="xf1Qx3dxikOThGLY_HJk6g" x="1342.27" y="882.78" palette="8" colorinfo="8" text="Only a Magpie would know where Merra is\Nnow. But Magpies will only speak with kings..."/>
+<topic id="2" parent="0" guid="U_Jh9tyMB0yj5hTXVBZnCQ" x="864.49" y="1031.66" palette="5" colorinfo="5" text="Assemble a costume\Nfit for a king.">
+<note>
+[taskName=assembleKingCostume]
+</note>
+</topic>
+<topic id="3" parent="2" guid="rlULm9klDEi8WYoBuZMwzw" x="1342.27" y="1031.66" palette="8" colorinfo="8" text="You assembled a\Ncostume fit for a king."/>
+<topic id="4" parent="2" guid="UYk31xZvMESD7onl4NI_hw" x="864.49" y="1167.99" palette="6" colorinfo="6" text="Address the Magpie,\Nas if you were a king.">
+<parent-relation guid="O5sfhl-V1kS1af6Ibf608g"/>
+<note>
+[taskName=talkToMagpieA]
+</note>
+</topic>
+<topic id="5" parent="4" guid="D7GZF4Q2S0GUavyLn1HjNg" x="1342.27" y="1167.99" palette="8" colorinfo="8" text="You approached the Magpie as a king. But in\Nthe darkness she cannot see your majesty..."/>
+<topic id="6" parent="4" guid="Xmvgq-ar8EmEd2NM-LnLzQ" x="864.49" y="1326.84" palette="4" colorinfo="4" text="Uncover the dying light.">
+<parent-relation guid="cyMpYfJHIkOyvJXsYm2F_w"/>
+<note>
+[taskName=illuminateHall]
+</note>
+</topic>
+<topic id="7" parent="6" guid="TFLcM1y5OUaabmuqvVKIgw" x="864.49" y="1478.89" palette="6" colorinfo="6" text="Confer with the Magpie.">
+<note>
+[taskName=talkToMagpieB]
+</note>
+</topic>
+<topic id="8" parent="7" guid="5O10j7ZdtEKxKXaRAJCZEQ" x="1342.27" y="1478.89" palette="8" colorinfo="8" text="The Magpie saw through your\Ndisguise. Do her bidding or be eaten!"/>
+<topic id="9" parent="7" guid="Vl1PLAkvB0KQ7JHFfnvhTQ" x="864.49" y="1639.98" palette="4" colorinfo="4" text="Retrieve a banner adorned\Nwith the image of a Magpie.">
+<parent-relation guid="SwmmCnsee06iV6zA4jHyUg"/>
+<note>
+[taskName=getTapestry]
+</note>
+</topic>
+<topic id="10" parent="9" guid="iBkKx66700eQMHZRkFckRA" x="864.49" y="1764.56" palette="6" colorinfo="6" text="Confer with Ravik, the Magpie.">
+<note>
+[taskName=talkToMagpieC]
+</note>
+</topic>
+<topic id="11" parent="10" guid="pivw-giIrUClzhjmuDy7KQ" x="864.49" y="1894.70" palette="4" colorinfo="4" text="Discover where\NMerra is being taken.">
+<parent-relation guid="AQyV6TYMJUqDlOeSpOjB9Q"/>
+<note>
+[taskName=askAboutMerra][grantRenown=3]
+</note>
+</topic>
+<topic id="12" parent="11" guid="9QppjKUHckm8A-od0HgJRQ" x="1356.24" y="1894.70" palette="8" colorinfo="8" text="You will find what you seek\Non the Island of Periclave.">
+<parent-relation guid="Bv7fJnrFSUKj6UB4HBazjQ"/>
+</topic>
+<topic id="13" parent="10" guid="PaW7VHSkI0OSulip1xIuGg" x="1356.24" y="1753.45" palette="8" colorinfo="8" text="You found the banner the Magpie sought.\NShe will answer but one question..."/>
+<topic id="14" parent="9" guid="G2fniVJWFki9sFc6bx59PA" x="1342.27" y="1639.98" palette="8" colorinfo="8" text="You retrieved a banner from\Nthe depths of the great hall."/>
+<topic id="15" parent="6" guid="NkLuQx-GdEOMB2doOh0ktg" x="1342.27" y="1326.84" palette="8" colorinfo="8" text="You lit up the great hall, so the Magpie\Ncould revel in your kingly splendour.">
+<parent-relation guid="1H_kSd8n_Eirrhy_gNlVng">
+<path>
+<custom-point x="-25.37" y="1.81"/>
+</path>
+</parent-relation>
+</topic>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

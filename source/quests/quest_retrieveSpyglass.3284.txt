@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="C02CA4E217F5494EAEA88D5889630270"/>
+<title text="quest_retrieveSpyglass" customized="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="60" x="-206" y="96"/>
+<selection guid="UtFzq1cJPEKomCTB1YTmnQ" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="UtFzq1cJPEKomCTB1YTmnQ" x="995.32" y="624.56" palette="2" colorinfo="2" text="Return of the Long Eye">
+<note>
+version_03-02-18_004-Added renown points award to questversion_06-30-16_003-Removed &apos;ALT&apos; tags from descriptionsversion_112615_002
+</note>
+</topic>
+<topic id="1" parent="0" guid="BObfHi9xPE2dB5R07RnMxw" x="1478.73" y="624.56" palette="8" colorinfo="8" text="Silas knows that you stole his spyglass.\NTry and retrieve it from Gusto and Fatale."/>
+<topic id="2" parent="0" guid="8M_D5HB91kaAURR2-7WWwg" x="996.15" y="907.29" palette="6" colorinfo="6" text="Talk to Gusto and Fatale.">
+<parent-relation guid="OaAyCtGUNUKd6VVRh5WGJQ"/>
+<note>
+[alternate][default][taskName=talkToGustoFatale]
+</note>
+</topic>
+<topic id="3" parent="2" guid="FjvSH9DfjUmIkRP7yHqssA" x="1478.73" y="907.29" palette="8" colorinfo="8" text="The thieves refused to give back the spyglass. But\Nthey&apos;d give anything to meet their hero, the thief Tulong..."/>
+<topic id="4" parent="2" guid="4856rVC-fkaCymqECzjxGA" x="997.81" y="1082.93" palette="4" colorinfo="4" text="Trick Gusto and Fatale.">
+<note>
+[alternate][default][taskName=talkToGustoFataleAsThief]
+</note>
+</topic>
+<topic id="5" parent="4" guid="fkgYK2GWrE-tkD26PdxRaA" x="1478.73" y="1082.93" palette="8" colorinfo="8" text="Disguised as Tulong the Thief\Nyou retrieved the spyglass."/>
+<topic id="6" parent="4" guid="XDKQwgJGI0SsBom9-QMJKw" x="998.64" y="1277.08" palette="6" colorinfo="6" text="Return spyglass to Silas.">
+<parent-relation guid="hM5q0h_i70Slm2TuxYLu8w"/>
+<note>
+[taskName=talkToSilas][grantRenown=2]
+</note>
+</topic>
+<topic id="7" parent="6" guid="Uq-A3OfMdE-aXw0cIqewxQ" x="1478.73" y="1277.08" palette="8" colorinfo="8" text="You returned the\Nspyglass to Silas."/>
+<topic id="8" parent="2" guid="-fcfmQ8vmUWsEvE9rGJ6eg" x="711.58" y="1086.19" palette="4" colorinfo="4" text="Visit Fatale at night.">
+<note>
+[alternate][taskName=talkToFataleAtNight]
+</note>
+</topic>
+<topic id="9" parent="8" guid="KJVJRV2i9E-eyDFoT9dddg" x="714.05" y="1276.16" palette="6" colorinfo="6" text="Return spyglass to Silas.">
+<note>
+[taskName=talkToSilasAltB][grantRenown=2]
+</note>
+</topic>
+<topic id="10" parent="9" guid="DC8Qf9X73Ea3avel528e6A" x="422.92" y="1276.16" palette="8" colorinfo="8" text="You returned the\Nspyglass to Silas."/>
+<topic id="11" parent="8" guid="xiLvUm14tU2FgIid5sQSJA" x="478.70" y="1086.19" palette="8" colorinfo="8" text="Fatale gave back\Nthe spyglass."/>
+<topic id="12" parent="0" guid="TxUTKgf2Fk2IwQ6ZXf1gEg" x="226.69" y="903.61" palette="6" colorinfo="6" text="Trick Gusto and Fatale.">
+<parent-relation guid="tqbRb97XFEmRPvuD8awhxA"/>
+<note>
+[alternate][taskName=talkToGustoFataleAsThiefAltA]
+</note>
+</topic>
+<topic id="13" parent="12" guid="Em9IVOZrdUeKPgr9Li9TlA" x="-132.45" y="903.41" palette="8" colorinfo="8" text="Disguised as Tulong the Thief\Nyou retrieved the spyglass."/>
+<topic id="14" parent="12" guid="87b0WuB64UW4wxI9AzmhKw" x="228.77" y="1091.15" palette="4" colorinfo="4" text="Return spyglass to Silas.">
+<note>
+[taskName=talkToSilasAltA][grantRenown=2]
+</note>
+</topic>
+<topic id="15" parent="14" guid="wAJDQol2kUeQ7UCpbxusWg" x="-132.45" y="1091.15" palette="8" colorinfo="8" text="You returned the\Nspyglass to Silas."/>
+</topics>
+<relations/>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

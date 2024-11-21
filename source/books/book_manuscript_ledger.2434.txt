@@ -1,0 +1,48 @@
+<size=110%>Outgoings</size>
+
+<u><b>Date  Item                              Sum</b></u>
+
+03-05 Cooper, dzn oak barrels       20f
+
+07-05 Copper pipe, two lengths       32f
+
+08-05 Gaffer, two dzn bottles       12f
+
+15-05 Payment, to V.                    10f
+
+19-05 Transport, for batch 22/d   13f
+
+21-05 Labour, for extraction         11f
+<page>
+<u><b>Date  Item                              Sum</b></u>
+
+24-05 Baker, for yeast                 8f
+
+25-05 Cork stoppers, two dzn         5f
+
+28-05 Sundries                           19f
+
+29-05 Payment, to V.                   40f
+
+01-06 Misc. bribes                     56f
+	
+01-06 Misc. "accidents"             37f
+
+                  Sum total:            <u>263f</u>
+
+<size=110%>Income</size>
+
+<u><b>Date  Item                              Sum</b></u>
+
+16-02 Roogag 48 bottles               336f
+
+19-03 Roogag 24 bottles               168f
+
+22-04 Roogag 60 bottles              420f
+
+27-05 Roogag 96 bottles              672f
+
+<align=right>Verified and approved:</align>
+<size=130%><align=right>Volker</align></size>
+<align=right>Verified and approved:</align>
+<size=130%><align=right>Rezzia</align></size>

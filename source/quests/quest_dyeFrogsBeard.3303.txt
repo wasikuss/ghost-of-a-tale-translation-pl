@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="56B4409223E0440896C349428B082422"/>
+<title text="quest_dyeFrogsBeard" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="110" x="320" y="521"/>
+<selection guid="kW6o0OMwKEytNO54MDYHqw" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="896.02" y="620.54" palette="2" colorinfo="2" text="Dye, Mousey, Dye!">
+<note>
+version_03-02-18_002-Added renown points award to questversion_110716_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="leSFUphX30e2MKzK6CGNeA" x="1281.01" y="834.58" palette="6" colorinfo="6" text="Find a hairbrush.">
+<note>
+[taskName=findBrush]
+</note>
+</topic>
+<topic id="2" parent="1" guid="ya4S48AAck6r0s8fPxgW_g" x="1530.87" y="834.58" palette="8" colorinfo="8" text="You found a hairbrush\Nfor Kerold&apos;s whiskers."/>
+<topic id="3" parent="1" guid="TYNgMvi23kOwsYHTRb8r2Q" x="896.02" y="1189.02" text="Return to Kerold.">
+<parent-relation guid="Dz2Vjwq1p0-KbTKi7AXa8A"/>
+<note>
+[taskName=talkToKerold][grantRenown=2]
+</note>
+</topic>
+<topic id="4" parent="3" guid="REPue3F4G0qN65cO2ylF1g" x="1281.01" y="1189.02" palette="8" colorinfo="8" text="You gave the Frog a\Nmuch-needed makeover."/>
+<topic id="5" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1281.01" y="620.54" palette="8" colorinfo="8" text="Kerold wants to impress Rezzia, the\Ncook. Help spruce up his appearance!"/>
+<topic id="6" parent="0" guid="HXtonIbogEqs1Pbj86GYZg" x="515.15" y="832.76" palette="2" colorinfo="2" text="Gather holly bush\Nberries.">
+<note>
+[taskName=findHollyBerries][itemCounter=holly/3]
+</note>
+</topic>
+<topic id="7" parent="6" guid="hzVgFSIywkaOz2y425rTqg" x="246.26" y="832.76" palette="8" colorinfo="8" text="You gathered the berries\Nfrom three holly bushes."/>
+</topics>
+<relations>
+<relation guid="eQieJL6j_02XSGp45e19xw" source="6" target="3"/>
+</relations>
+</mindmap>
+</simplemind-mindmaps>

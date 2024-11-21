@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="D76A1164E49341399D9998E6B69C4E92"/>
+<title text="quest_retrieveStolenBand" customized="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="100" x="283" y="479"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="UtFzq1cJPEKomCTB1YTmnQ" x="995.32" y="624.56" palette="2" colorinfo="2" text="The Stolen Ring">
+<note>
+[mainQuest]version_01-16-18_002-Added renown on final node at tier 3 (temp)version_07-12-17_001-First draft
+</note>
+</topic>
+<topic id="1" parent="0" guid="BObfHi9xPE2dB5R07RnMxw" x="1385.40" y="624.56" palette="8" colorinfo="8" text="Silas hired Gusto and Fatale to steal\Nanother ring. Try and retrieve it from them."/>
+<topic id="2" parent="0" guid="8M_D5HB91kaAURR2-7WWwg" x="996.15" y="907.29" palette="6" colorinfo="6" text="Talk to Gusto and Fatale.">
+<parent-relation guid="OaAyCtGUNUKd6VVRh5WGJQ"/>
+<note>
+[alternate][default][taskName=talkToGustoFatale]
+</note>
+</topic>
+<topic id="3" parent="2" guid="FjvSH9DfjUmIkRP7yHqssA" x="1385.40" y="907.29" palette="8" colorinfo="8" text="Gusto and Fatale revealed that the\Nring was taken from them by a guard."/>
+<topic id="4" parent="2" guid="4856rVC-fkaCymqECzjxGA" x="996.15" y="1047.37" palette="4" colorinfo="4" text="Talk with the guard.">
+<note>
+[taskName=talkToGambler]
+</note>
+</topic>
+<topic id="5" parent="4" guid="fkgYK2GWrE-tkD26PdxRaA" x="1385.40" y="1047.37" palette="8" colorinfo="8" text="The guard challenged\Nyou to a game of chance."/>
+<topic id="6" parent="4" guid="AkX8B8iTYkSL8c3B0aD53A" x="997.39" y="1162.23" palette="6" colorinfo="6" text="Play to win the\Nsilver ring.">
+<note>
+[taskName=playToWinRing]
+</note>
+</topic>
+<topic id="7" parent="6" guid="XDKQwgJGI0SsBom9-QMJKw" x="998.64" y="1277.08" palette="4" colorinfo="4" text="Return to Silas with\Nthe silver ring.">
+<parent-relation guid="hM5q0h_i70Slm2TuxYLu8w"/>
+<note>
+[taskName=talkToSilas][grantRenown=3]
+</note>
+</topic>
+<topic id="8" parent="7" guid="Uq-A3OfMdE-aXw0cIqewxQ" x="1385.40" y="1277.08" palette="8" colorinfo="8" text="You gave the ring to Silas."/>
+<topic id="9" parent="6" guid="jkajkrbyZ02f_tPB2aY4NQ" x="1385.40" y="1162.23" palette="8" colorinfo="8" text="You wagered your lute\Nand won the silver ring!"/>
+<topic id="10" parent="0" guid="-fcfmQ8vmUWsEvE9rGJ6eg" x="661.57" y="907.29" palette="6" colorinfo="6" text="Visit Fatale at night.">
+<parent-relation guid="qQXLoNfUdk-r5GS410fwKQ"/>
+<note>
+[alternate][taskName=talkToFataleAtNight]
+</note>
+</topic>
+<topic id="11" parent="10" guid="xiLvUm14tU2FgIid5sQSJA" x="361.51" y="912.54" palette="8" colorinfo="8" text="Fatale revealed\Nthat the ring was taken\Nfrom them by a guard."/>
+<topic id="12" parent="10" guid="ZA5HKzZgVUCQPqibkBXcxw" x="662.81" y="1052.37" palette="4" colorinfo="4" text="Talk with the guard.">
+<note>
+[taskName=talkToGamblerAltA]
+</note>
+</topic>
+<topic id="13" parent="12" guid="TNe2TpLgk0qm6TnknOMbaQ" x="361.51" y="1052.37" palette="8" colorinfo="8" text="The guard challenged\Nyou to a game of chance."/>
+<topic id="14" parent="12" guid="flGgShtLAUungFKApqvuYw" x="661.57" y="1167.23" palette="6" colorinfo="6" text="Play to win the\Nsilver ring.">
+<note>
+[taskName=playToWinRingAltA]
+</note>
+</topic>
+<topic id="15" parent="14" guid="7A0t4WCe_E-wqIAfhmVwbQ" x="661.57" y="1282.08" palette="4" colorinfo="4" text="Return to Silas with\Nthe silver ring.">
+<note>
+[taskName=talkToSilasAltA][grantRenown=3]
+</note>
+</topic>
+<topic id="16" parent="15" guid="HD5N2LreSU2-9MIICMUW_w" x="361.51" y="1282.08" palette="8" colorinfo="8" text="You gave the ring to Silas."/>
+<topic id="17" parent="14" guid="z8ZV5h-ht0GPAZ_62MLObw" x="361.51" y="1167.23" palette="8" colorinfo="8" text="You wagered your lute\Nand won the silver ring!"/>
+</topics>
+<relations/>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="074923D6EBDA4D32917F9E824F5F4416"/>
+<title text="quest_costumeArmour" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="100" x="285" y="325"/>
+<selection guid="zxKYENawlEmW3vzaQ04msw" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="zxKYENawlEmW3vzaQ04msw" x="878.24" y="624.98" palette="2" colorinfo="2" text="A Mouse in Rat&apos;s Clothing">
+<note>
+version_03-02-18_004-Added renown points award to questversion_070216_003-Now updates quest_prepareForCatacombs-Changed description of the quest to remove reference to Silas.version_020316_002Added command to update &apos;A mouse in rat&apos;s clothing&apos; quest, when this quest is complete.version_110716_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="30Ts-EjWlk2YFOtnzaSiQQ" x="1113.80" y="881.23" palette="5" colorinfo="5" text="Find a pair of greaves.">
+<note>
+[taskName=getGreaves][onCompleteQuestCompleteTask=quest_prepareForCatacombs.getArmour]
+</note>
+</topic>
+<topic id="2" parent="1" guid="7FltOqi7N0CYcdra9ykCnA" x="1198.69" y="972.34" palette="8" colorinfo="8" text="You found a pair of\Ngreaves."/>
+<topic id="3" parent="0" guid="VK3XQRA7-0mv52Q1OatUtg" x="1355.25" y="624.98" palette="8" colorinfo="8" text="Assemble a suit of armour and\Ndisguise yourself as a guard."/>
+<topic id="4" parent="0" guid="lxXxeTTdFUOgCkoRIgjqbw" x="676.80" y="893.87" palette="5" colorinfo="5" text="Find a chest plate\Nand pauldrons.">
+<note>
+[taskName=getChestPlate][onCompleteQuestCompleteTask=quest_prepareForCatacombs.getArmour]
+</note>
+</topic>
+<topic id="5" parent="4" guid="ORdUul_-T06kHqxABevY7g" x="786.08" y="971.65" palette="8" colorinfo="8" text="You found a chest\Nplate and pauldrons."/>
+<topic id="6" parent="0" guid="U_Jh9tyMB0yj5hTXVBZnCQ" x="885.69" y="889.42" palette="5" colorinfo="5" text="Find faulds.">
+<note>
+[taskName=getFaulds][onCompleteQuestCompleteTask=quest_prepareForCatacombs.getArmour][grantRenown=1]
+</note>
+</topic>
+<topic id="7" parent="6" guid="rlULm9klDEi8WYoBuZMwzw" x="986.47" y="972.75" palette="8" colorinfo="8" text="You found a\Nset of faulds."/>
+<topic id="8" parent="0" guid="H3M82LKmHkCtKgXoM-h5CA" x="372.79" y="901.87" palette="5" colorinfo="5" text="Find a sallet helmet.">
+<note>
+[taskName=getHelmet][onCompleteQuestCompleteTask=quest_prepareForCatacombs.getArmour][grantRenown=1]
+</note>
+</topic>
+<topic id="9" parent="8" guid="IZPPM-7UeUae2Z4-oljXiw" x="531.39" y="969.65" palette="8" colorinfo="8" text="You found a sallet."/>
+<topic id="10" parent="0" guid="avgy5HTlz0S6IHMYbwp0bA" x="1355.25" y="881.23" palette="5" colorinfo="5" text="Find chainmail\Nface guard.">
+<note>
+[taskName=getGuardChainmail][onCompleteQuestCompleteTask=quest_prepareForCatacombs.getArmour][grantRenown=1]
+</note>
+</topic>
+<topic id="11" parent="10" guid="8nBSJc--GEe5Dx-7KbM2QQ" x="1491.25" y="972.34" palette="8" colorinfo="8" text="You found a\Nchainmail face guard."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="8ED4A00A57F6491895DB60B62FAAD65F"/>
+<title text="quest_duinlansRemains" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="120" x="459" y="485"/>
+<selection guid="kW6o0OMwKEytNO54MDYHqw" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="896.02" y="620.54" palette="2" colorinfo="2" text="Vessels of the Gilded Warrior">
+<note>
+version_03-02-18_004-Added renown points award to questversion_01-11-18_003-changed title and descriptions to remove remainsversion_11-06-17_002-updated to include tasks for collecting duinlan and hythe&apos;s remainsversion_04-22-17_001-First version
+</note>
+</topic>
+<topic id="1" parent="0" guid="leSFUphX30e2MKzK6CGNeA" x="1127.12" y="790.13" palette="6" colorinfo="6" text="Collect Duinlan&apos;s urns.">
+<note>
+[taskName=getUrn_duinlan][itemCounter=urn_duinlan/5]
+</note>
+</topic>
+<topic id="2" parent="1" guid="ya4S48AAck6r0s8fPxgW_g" x="1409.39" y="790.13" palette="8" colorinfo="8" text="You collected all five\Nof Duinlan&apos;s urns."/>
+<topic id="3" parent="1" guid="E6xOOFs2V0etB35scrMpiw" x="896.02" y="977.46" text="Return to Duinlan&apos;s tomb.">
+<note>
+[taskName=returnToTomb][grantRenown=2]
+</note>
+</topic>
+<topic id="4" parent="3" guid="dg5ycGa5OUqeBNqxzvr11A" x="1409.39" y="977.46" palette="8" colorinfo="8" text="You returned the urns\Nto Duinlan&apos;s tomb."/>
+<topic id="5" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1373.84" y="620.54" palette="8" colorinfo="8" text="Find ten urns containing the\Nremains of Duinlan and her true love."/>
+<topic id="6" parent="0" guid="ksUQpdBAek2YXGY6V-AhQg" x="656.39" y="791.44" palette="2" colorinfo="2" text="Collect Hythe&apos;s urns.">
+<note>
+[taskName=getUrn_hythe][itemCounter=urn_hythe/5]
+</note>
+</topic>
+<topic id="7" parent="6" guid="uGIbA7Ytak2RPouex-fkaw" x="391.99" y="791.44" palette="8" colorinfo="8" text="You collected all five\Nof Hythe&apos;s urns."/>
+</topics>
+<relations>
+<relation source="6" target="3"/>
+</relations>
+</mindmap>
+</simplemind-mindmaps>

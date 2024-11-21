@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="986CDE9EF72B48A9AE4EF0F88019FCB9"/>
+<title text="quest_hangoverTonic" customized="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="130" x="515" y="1321"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="zxKYENawlEmW3vzaQ04msw" x="878.24" y="467.20" palette="2" colorinfo="2" text="Short Order">
+<note>
+[mainQuest]version_01-16-18_003-Added renown on final node at tier 3 (temp)version_010818_002-Updated the orders and foodsversion_062617_001-First release
+</note>
+</topic>
+<topic id="1" parent="0" guid="Ul2luTRysUmT3ABwWKefIQ" x="878.24" y="598.31" palette="5" colorinfo="5" text="Talk to the cook.">
+<note>
+[taskName=talkToCook]
+</note>
+</topic>
+<topic id="2" parent="1" guid="H3M82LKmHkCtKgXoM-h5CA" x="347.90" y="889.42" text="Take Silas&apos; order.">
+<parent-relation guid="xPAqYuc6fU-_snLelE4eXw"/>
+<note>
+[taskName=getFirstOrder]
+</note>
+</topic>
+<topic id="3" parent="2" guid="IZPPM-7UeUae2Z4-oljXiw" x="248.85" y="801.65" palette="8" colorinfo="8" text="Silas ordered a\Nwheel of cheese."/>
+<topic id="4" parent="1" guid="lxXxeTTdFUOgCkoRIgjqbw" x="661.24" y="889.42" text="Take guard&apos;s order.">
+<parent-relation guid="SDTCKX-C-kqJWjpQgnbA2Q"/>
+<note>
+[taskName=getSecondOrder]
+</note>
+</topic>
+<topic id="5" parent="4" guid="ORdUul_-T06kHqxABevY7g" x="602.35" y="801.65" palette="8" colorinfo="8" text="The guard ordered a\Nleg of roast lizard."/>
+<topic id="6" parent="1" guid="U_Jh9tyMB0yj5hTXVBZnCQ" x="1045.69" y="889.42" text="Take gambler&apos;s order.">
+<parent-relation guid="bCa2yoHny0uWTzuEpx861A"/>
+<note>
+[taskName=getThirdOrder]
+</note>
+</topic>
+<topic id="7" parent="6" guid="rlULm9klDEi8WYoBuZMwzw" x="1141.27" y="801.65" palette="8" colorinfo="8" text="The gambler ordered\NVaelian trout."/>
+<topic id="8" parent="1" guid="30Ts-EjWlk2YFOtnzaSiQQ" x="1327.58" y="889.42" text="Take guard&apos;s order.">
+<parent-relation guid="As_E249hs0KXnet80T1IRg"/>
+<note>
+[taskName=getFourthOrder]
+</note>
+</topic>
+<topic id="9" parent="8" guid="7FltOqi7N0CYcdra9ykCnA" x="1524.96" y="801.65" palette="8" colorinfo="8" text="The guard ordered the\Nchef&apos;s special pie."/>
+<topic id="10" parent="8" guid="w6vzU9z-30ebpDgK-JZC1w" x="878.24" y="1129.42" text="Take orders\Nto the cook.">
+<parent-relation guid="0EYSI0LfhUShcNpniQWFjQ">
+<path>
+<custom-point x="48.76" y="48.91"/>
+</path>
+</parent-relation>
+<note>
+[taskName=giveOrdersToCook]
+</note>
+</topic>
+<topic id="11" parent="10" guid="ripQ7aDGtkCgyyjZIL117Q" x="347.90" y="1323.86" text="Deliver wheel\Nof cheese.">
+<note>
+[taskName=deliverFirstOrder]
+</note>
+</topic>
+<topic id="12" parent="11" guid="F1gKtW6Nh0GpY6ZP7Lrjag" x="248.85" y="1233.82" palette="8" colorinfo="8" text="You delivered Silas&apos; cheese."/>
+<topic id="13" parent="10" guid="u-Raowzwok6b68HNqnIjUg" x="661.24" y="1323.86" text="Deliver roast leg of lizard.">
+<note>
+[taskName=deliverSecondOrder]
+</note>
+</topic>
+<topic id="14" parent="13" guid="YiFED4zO2kmSWumhBCKJjQ" x="602.35" y="1233.82" palette="8" colorinfo="8" text="You delivered the leg of lizard."/>
+<topic id="15" parent="10" guid="G6ODLf_G2ESknPP1wllNfQ" x="1045.69" y="1323.86" text="Deliver Vaelian trout.">
+<note>
+[taskName=deliverThirdOrder]
+</note>
+</topic>
+<topic id="16" parent="15" guid="bYkokVhDAUuNrKgUG4RkKQ" x="1150.16" y="1233.82" palette="8" colorinfo="8" text="You delivered the trout."/>
+<topic id="17" parent="10" guid="m35JqyNMrkOn5-zlWogiWg" x="1327.58" y="1323.86" text="Deliver the chef&apos;s special pie.">
+<note>
+[taskName=deliverFourthOrder]
+</note>
+</topic>
+<topic id="18" parent="17" guid="dxu9f-ysiEW0kqEtozX_1A" x="1524.96" y="1233.82" palette="8" colorinfo="8" text="You delivered the pie."/>
+<topic id="19" parent="17" guid="ugsojE8KDkelFjYXtnsivg" x="878.24" y="1663.86" text="Return to the cook.">
+<parent-relation guid="vZYRVBmBdk--H-iPLdWWvQ">
+<path>
+<custom-point x="62.93" y="68.14"/>
+</path>
+</parent-relation>
+<note>
+[taskName=returnToCook]
+</note>
+</topic>
+<topic id="20" parent="19" guid="zOnbirnAh0uTAecM5vDJ-A" x="878.24" y="1815.41" text="Give tonic to Silas.">
+<note>
+[taskName=talkToSilas][grantRenown=3]
+</note>
+</topic>
+<topic id="21" parent="20" guid="0Lm8Af_V60yCbt3n26WLeQ" x="1283.17" y="1815.41" palette="8" colorinfo="8" text="You found Silas and\Ngave him the tonic."/>
+<topic id="22" parent="19" guid="r6w5E7a2ekWqCLXnVbP-2g" x="1283.17" y="1663.86" palette="8" colorinfo="8" text="The cook kept her word and\Nmade you the tonic for Silas."/>
+<topic id="23" parent="10" guid="5lOOQkGrhUymNXvT9Ea4_w" x="1524.96" y="1129.42" palette="8" colorinfo="8" text="You returned to the cook\Nwith the orders."/>
+<topic id="24" parent="1" guid="F8ihCsGZMUCQokm_y6ddCg" x="1413.14" y="598.31" palette="8" colorinfo="8" text="Collect food orders from the commissary,\Nwhile the cook makes the potion."/>
+<topic id="25" parent="0" guid="h0UODIkQDUGogGGFlUeg-w" x="1413.14" y="467.20" palette="8" colorinfo="8" text="Silas is soused. Perhaps the cook\Ncan prepare a tonic to sober him up."/>
+</topics>
+<relations>
+<relation source="4" target="10"/>
+<relation source="6" target="10"/>
+<relation source="13" target="19"/>
+<relation source="15" target="19"/>
+<relation source="2" target="10"/>
+<relation guid="yT2A_su9h0a5SrElRAr20A" source="11" target="19">
+<path>
+<custom-point x="-68.07" y="64.47"/>
+</path>
+</relation>
+</relations>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

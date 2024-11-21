@@ -1,0 +1,1826 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Seith</Author>
+  <LastAuthor>Zoostorm</LastAuthor>
+  <Created>2014-02-06T22:34:15Z</Created>
+  <LastSaved>2018-03-08T00:00:36Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11415</WindowHeight>
+  <WindowWidth>24795</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <TabRatio>237</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Default">
+  </Style>
+  <Style ss:ID="s64" ss:Parent="s62">
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s65" ss:Parent="s62">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF6600"
+    ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s66" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s69" ss:Parent="s62">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s70" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#0066CC" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s71" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#0066CC" ss:Bold="1"/>
+   <Interior ss:Color="#9BC2E6" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s73" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s74" ss:Parent="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s75" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#7030A0" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s76" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s77" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#305496" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s78" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#833C0C" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s79" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#595959" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s80" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#375623" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s81" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#548235" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s83" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s84" ss:Parent="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s85" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#7B7B7B" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s86" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#525252" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s87" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#806000" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s88" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#3A3838" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s89" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#C65911" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s90" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#203764" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s91" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#8EA9DB" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s92" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#2F75B5" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s93" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#404040" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s94" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#757171" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s95" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s96" ss:Parent="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFCC99" ss:Bold="1"/>
+   <Interior ss:Color="#7C5484" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Interface">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="366" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s64" ss:DefaultColumnWidth="60"
+   ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="289.5"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="289.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s69">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">XML_id</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">displayName</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">interface_loadingSceneCampaign</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">This game is made possible&#10;by our &lt;b&gt;1,190&lt;/b&gt; backers&#10;on</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">interface_loadingSceneHint_1</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">&lt;i&gt;&quot;Save early, save often...&quot;&lt;/i&gt;&#10;&lt;size=50%&gt;- Old Mouse Proverb&lt;/size&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="28.5" ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">interface_loadingSceneHint_2</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">&lt;i&gt;&quot;Stamina and health are one. Eat well to live and thrive, and run.&quot;&lt;/i&gt;&#10;&lt;size=50%&gt;- Old Mouse Proverb&lt;/size&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">interface_loadingSceneHint_3</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">&lt;i&gt;&quot;Save whenever you can, for no one will save for you.&quot;&lt;/i&gt;&#10;&lt;size=50%&gt;- Old Mouse Proverb&lt;/size&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="42.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">interface_loadingSceneHint_4</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">&lt;i&gt;&quot;Everything has a story. Inspect an item to learn its tale.&quot;&lt;/i&gt;&#10;&lt;size=50%&gt;- Master Lewlin&lt;/size&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="42.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">interface_loadingSceneHint_5</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">&lt;i&gt;&quot;The answers to today's problems are found in the lore of the past.&quot;&lt;/i&gt;&#10;&lt;size=50%&gt;- Master Lewlin&lt;/size&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="42.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">interface_loadingSceneHint_6</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">&lt;i&gt;&quot;Lost? Ask a blacksmith. They always know what's what.&quot;&lt;/i&gt;&#10;&lt;size=50%&gt;- Master Lewlin&lt;/size&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="42.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">interface_loadingSceneHint_7</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">&lt;i&gt;&quot;A Mouse on a quest should always look to his log for guidance.&quot;&lt;/i&gt;&#10;&lt;size=50%&gt;- Master Lewlin&lt;/size&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">interface_loadingSceneHint_8</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">&lt;i&gt;&quot;The wise Mouse saves where they hide...&quot;&lt;/i&gt;&#10;&lt;size=50%&gt;- Old Mouse Proverb&lt;/size&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="42.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">interface_loadingSceneHint_9</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">&lt;i&gt;&quot;All good Micefolk know to never / put their saves in one slot&#45;-ever.&quot;&lt;/i&gt;&#10;&lt;size=50%&gt;- Old Mouse Proverb&lt;/size&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_autosave</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Autosave</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_quicksaveFromSaveMenu</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Quicksave</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_back</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_B] Back</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_pressToBegin</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Press [button_A] To Begin</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">interface_bookClose</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[interact] Close</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">interface_bookCostumeInstructions</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">(From your inventory a costume can be equipped or unequipped at the press of a button)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">interface_bookDistilleryHint</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">The Frog has the key!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">interface_bookDistilleryHintPasswords</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Leek&#10;Marrow&#10;Turnip</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">interface_camera</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Camera</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">interface_cameraGamepadParented</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Gamepad Parented Camera</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">interface_cameraMouseParented</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Mouse Parented Camera</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">interface_cameraInvertHorizontal</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Camera Invert Horizontal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">interface_gamepadCameraHorizontal</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Gamepad Camera Horizontal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">interface_mouseCameraHorizontal</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Mouse Camera Horizontal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">interface_cameraInvertVertical</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Camera Invert Vertical</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">interface_cameraObstacleCorrection</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Camera Automatic Correction</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">interface_gamepadCameraVertical</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Gamepad Camera Vertical</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s79"><Data ss:Type="String">interface_mouseCameraVertical</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Mouse Camera Vertical</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_characterChest</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Klatka piersiowa</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_characterEars</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Uszy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_characterFace</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Twarz</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_characterHead</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Głowa</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_characterLegs</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Nogi</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_characterWaist</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Pas</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_confirmationChangeProfile</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Any progress since your last save may be lost. Are you sure?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_confirmationNo</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_confirmationOverwriteSave</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Do you want to overwrite this save?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_confirmationQuit</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Are you sure you want to quit?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_confirmationRestartNewGame</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Do you want to restart your adventure from scratch?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_confirmationYes</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_containerClose</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[jump] Close</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_containerTakeAllItems</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[throw] Take All</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s84">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_containerTakeItem</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">[interact] Take Item</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controls</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Controls</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsDrop</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Drop</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsEquipTool</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Equip Tool</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsGamepadPreset</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Gamepad Preset</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsInteract</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Interact</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsIgnoreGamepadInput</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ignore Gamepad Input</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsJump</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Jump</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsThrow</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Throw</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsGamepad</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Gamepad</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsInventory</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ekwipunek</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsKeyboardMouse</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Keyboard/Mouse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsMainMenu</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Main Menu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsMap</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Map</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsMove</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Move</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsUp</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Up</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsDown</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Down</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsLeft</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Left</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsRight</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Right</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsPerception</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Perception</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsPressToAssign</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Press to assign</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsRotateCamera</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Rotate Camera</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsSneak</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Sneak</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsSprint</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Sprint</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsSwapTool</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Swap Tool</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_controlsUnassigned</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[unassigned]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_costumeDisguisedAs</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Disguised as:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_costumePutOnAvailableItems</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[interact] Put On The Available Items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_costumePutOnCostume</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[interact] Put On The Costume</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_costumeResistances</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Full Costume Resistances</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_costumeStatistics</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Full Costume Statistics</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_costumeTakeOffAvailableItems</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[drop] Take Off The Available Items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_costumeTakeOffCostume</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[drop] Take Off The Costume</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_credits</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[interact] Credits</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_deathBackToMainMenu</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Back To Main Menu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_deathReloadLatestSave</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reload Latest Save</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_dialogClose</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[interact] Close</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_dialogContinue</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[interact] Continue</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_dialogFootnote</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[throw] Read Footnote</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_dialogOpenSongBook</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[throw] Open Song Book</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_endOfTrial</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">You've reached the boundaries of the trial version!&#10;&#10;If you like what you see feel free to purchase&#10;the game and continue Tilo's adventure!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_endOfTrialContinue</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ok</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_endingLine1</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">As your friends slowly fade from view, your thoughts again turn to Merra...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_endingLine2</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">... and Periclave, waiting for you beyond the horizon, shrouded in fog and mystery...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_endingLine3</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">... both made in equal parts of truth and hope, of memory and dreams...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_endingLine4</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">... little more than the ghost of a tale.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_endingLine5</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Thank you for playing Ghost of a Tale!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_firstBannerBurnt</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">The banner of the Red Paw&#45;-the symbol of an oppressive regime.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_inspectClose</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[throw] Close</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s88"><Data ss:Type="String">interface_interact</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[interact]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_introLine1</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">In the beginning was the Green Flame</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_introLine2</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">A force without conscience consuming all in its path</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_introLine3</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">The creatures of the world fought back, but one by one they fell</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_introLine4</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Only to rise again as puppets of the emerald fire</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_introLine5</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">It was the Rats alone who stood and fought</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_introLine6</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Until at last, at Periclave, the Green Flame was extinguished</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_introLine7</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">&quot;Merra...&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_introLine8</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">&quot;Merra, where are you...?&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventory</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ekwipunek</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryBooks</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Książki</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryClose</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_B] Zamknij</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryCategories</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[sprint] Categories</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryClothes</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ubrania</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryDrop</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_X] Drop</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryEat</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_A] Eat/Drink</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryEquip</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_A] Equip/Unequip Item</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryFood</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Jedzenie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryInspect</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_Y] Zbadaj</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryKeys</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Klucze</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryMisc</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Różne</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryNewItem</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">* Nowy Przedmiot</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryPutOnCostume</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_X] Put On Costume</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryRead</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_A] Read</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryReadMap</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_A] Read Map</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryResistances</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Odporność</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventorySections</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[map] Sections</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s84">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventorySortBy</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sort by:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s84">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventorySortByCostumes</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Costumes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s84">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventorySortByBodyParts</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Body Parts</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s84">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventorySorting</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">[button_rightStick] Sorting</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryStatistics</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Statystyki</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryTakeOffCostume</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_X] Take Off Costume</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryTools</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Narzędzia</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s86"><Data ss:Type="String">interface_inventoryUse</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_A] Użyj</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s90"><Data ss:Type="String">interface_languageChinese</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Simplified Chinese</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s90"><Data ss:Type="String">interface_languageChoice</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Language</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s90"><Data ss:Type="String">interface_languageEnglish</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">English</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s90"><Data ss:Type="String">interface_languageFrench</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">French</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s90"><Data ss:Type="String">interface_languageGerman</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">German</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s90"><Data ss:Type="String">interface_languageItalian</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Italian</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s90"><Data ss:Type="String">interface_languageRussian</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Russian</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s90"><Data ss:Type="String">interface_languageSpanish</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Spanish</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_levelUp</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Level Up!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_levelUpText</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">You gained &lt;b&gt;health&lt;/b&gt; and &lt;b&gt;stamina&lt;/b&gt;!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_loadGame</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[interact] Load Game</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_loadingScreenLoading</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Loading…</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_location_armory</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Armoury</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_location_armorySlope</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Northern Slopes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_location_barracks</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Barracks</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_location_catacombs</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Catacombs</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_location_courtyard</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Courtyard</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_location_dwindlingHeightsKeep</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Dwindling Heights Keep</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_location_farTower</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Far Tower</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_location_greatHall</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Great Hall</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_location_harbour</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Harbour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_location_jail</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Jail</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_location_sewers</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Sewers</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_location_shore</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Shore</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_lore</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Fabuła</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_loreCharacters</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Characters</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_loreClues</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Clues</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_loreEvents</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Events</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_loreInstitutions</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Institutions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_loreItems</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_loreLocations</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Locations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_loreMisc</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_loreNoEntries</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">(No entries in this category yet)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuBack</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Back</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuChangeProfile</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Change Profile</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuContinueGame</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Kontynuuj</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuCredits</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Autorzy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuSupport</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Support &amp; Feedback</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuLeaveGame</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Leave Game</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuLoadGame</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Wczytaj Grę</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuOptions</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Opcje</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuQuitGame</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Wyjście</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuSaveGame</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Zapisz Grę</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuHideBeforeSave</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">You need to enter a hiding spot before saving!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuShakeBeforeSave</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Wait for your pursuers to lose you before saving!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuStartNewGame</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Rozpocznij Nową Grę</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s80"><Data ss:Type="String">interface_mainMenuStats</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Statystyki</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">interface_optionsControls</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Controls</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">interface_optionsControlsInvertGamepadCameraHorizontal</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Gamepad Camera Invert Horizontal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">interface_optionsControlsInvertGamepadCameraVertical</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Gamepad Camera Invert Vertical</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">interface_optionsControlsInvertMouseCameraHorizontal</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Mouse Camera Invert Horizontal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">interface_optionsControlsInvertMouseCameraVertical</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Mouse Camera Invert Vertical</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">interface_optionsControlsResetBinding</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Reset To Default Mapping</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_optionsDebug</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Debug</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_optionsDebugActivateFPSCounter</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Display FPS Counter</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_optionsDebugActivateLog</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Activate Debug Log</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_optionsDebugActivatePhotoMode</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Activate Photo Mode</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_optionsDebugFreezeTimeInPhotoMode</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Freeze Time In Photo Mode</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_optionsDebugPhotoModeInstructionsGamepad</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Press [button_leftStick] + [button_rightStick]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_optionsDebugPhotoModeInstructionsMouse</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Press P</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_optionsDebugSectionTogglingNumberOfFrames</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Section Toggling Frames</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_optionsDebugShowAIGizmos</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Show AI Gizmos</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_optionsDebugShowBuildNumber</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Show Build Number</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_optionsDebugShowHUD</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Show HUD</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_optionsDebugWarning</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">&lt;u&gt;Warning:&lt;/u&gt;&#10;&#10;Please do not turn on this option unless expressly directed to do so by the developers.&#10;&#10;It will degrade your framerate and should be set to OFF for an optimal gaming experience.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">interface_optionsGameplay</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Gameplay</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">interface_optionsGameplayLanguage</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Language</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">interface_optionsGameplayLanguageRestart</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Note: Changing the language requires a restart of the game to take effect.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">interface_optionsGameplayMagnetAim</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Magnet Targeting</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">interface_optionsGameplayShowTutorials</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Show Tutorial Prompts</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s91"><Data ss:Type="String">interface_optionsGameplaySneakingEffects</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Sneaking Effects</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphics</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Video</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphics30FPS</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Lock At 30 FPS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsAmbientOcclusion</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ambient Occlusion</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsAntialiasing</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Antialiasing</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsBloom</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Bloom</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsBrightness</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Brightness</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsChromaticAberration</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Chromatic Aberration</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsDepthOfField</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Depth Of Field</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsDesaturateWhenSneaking</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Sneak Mode Desaturate</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsFOVOffset</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">FOV Offset</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsFOVTransitions</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Animated FOV Transitions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsResolution</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Resolution</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsResolutionFullScreen</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Full Screen</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsResolutionWindowed</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Windowed</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsDynamicsDistance</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Dynamics Distance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsLightsDistance</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Lights Distance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsLockFPS</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Lock FPS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsLockFPSNone</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">None</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsLODDistance</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">LODs Quality</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsMotionBlur</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Motion Blur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsShadowsDistance</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Shadows Distance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsTessellationAmount</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Tessellation Amount</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsTessellationDistance</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Tessellation Distance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsTextureResolution</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Textures Resolution</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsTextureResolutionNormal</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Normal</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsTextureResolutionHalf</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Half</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsTextureResolutionQuarter</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Quarter</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsVSync</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">V-sync</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsVSyncOn</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">On</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsVSyncOff</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Off</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_optionsGraphicsVSyncHalfRefresh</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Half-Refresh</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_optionsSound</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Audio</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_optionsSoundAmbientVolume</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ambient Sounds Volume</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_optionsSoundEffectsVolume</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Sound Effects Volume</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_optionsSoundMasterVolume</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Master Volume</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_optionsSoundMusicVolume</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Music Volume</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_outOfBounds</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">It would seem you fell through the world!&#10;&#10;Tilo is now going to be put back on solid ground.&#10;&#10;If this issue happens again in the same spot please save, then close the game and re-open it.&#10;&#10;We apologize for the inconvenience!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_pageNext</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Next [sneak]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">interface_pagePrevious</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[sprint] Previous</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeDown</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[Right Trigger] Down</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeDownMouse</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[mouseWheelDown] Down</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeFocusMinus</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_dPadLeft] Focus-</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeFocusPlus</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_dPadRight] Focus+</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeFocusMinusMouse</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[&lt;] Focus-</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeFocusPlusMouse</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[&gt;] Focus+</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeFOVDown</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_dPadDown] FOV-</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeFOVDownMouse</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[-] FOV-</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeFOVUp</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_dPadUp] FOV+</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeFOVUpMouse</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[+] FOV+</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeLeave</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_leftStick] Leave Photo Mode</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeLeaveMouse</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[esc] Leave Photo Mode</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeLook</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_rightStick] Look</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeLookMouse</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[mouse] Look</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeMove</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_leftStick] Move</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeMoveMouse</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[wasd] Move</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeScreenshotSuccessfullySaved</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Screenshot Successfully Saved!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeTakeScreenshot</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_rightStick] Take Screenshot</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeTakeScreenshotMouse</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[space] Take Screenshot</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeTiltLeft</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_dPadLeft] Tilt Left</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeTiltRight</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_dPadRight] Tilt Right</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeUp</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[Left Trigger] Up</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_photoModeUpMouse</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[mouseWheelUp] Up</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_pleaseWait</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Please wait…</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">interface_questComplete</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Quest Complete</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">interface_questNew</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">New Quest</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">interface_questSummary</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Summary</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">interface_questTaskComplete</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Task Complete</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">interface_questTasks</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Tasks</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">interface_questUpdated</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Quest Updated</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_questMarker_test</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s94"><Data ss:Type="String">interface_quests</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Zadania</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s94"><Data ss:Type="String">interface_questsActive</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Active</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s94"><Data ss:Type="String">interface_questsChoose</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[move] Choose</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s94"><Data ss:Type="String">interface_questsMainQuest</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[paw] Main Quest</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s94"><Data ss:Type="String">interface_questsComplete</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Completed</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s94"><Data ss:Type="String">interface_questsNoActiveQuests</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">No Active Quests</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s94"><Data ss:Type="String">interface_questsNoCompletedQuests</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">No Completed Quests</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_quicksave</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[quicksave] Quicksave</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_saveIncompatible</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">We're sorry but this save is incompatible with the current build</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_saveMenu</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[saveMenu] Save Menu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s94"><Data ss:Type="String">interface_renown</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Renown</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_resistanceFalling</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Upadek</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_resistanceFire</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ogień</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_resistancePoison</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Trucizna</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_resistanceWeapons</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Broń</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_saveGame</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[interact] Save Game</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_sleep</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[interact] Sleep</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_sleepClose</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[jump] Close</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_sleepFor</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Sleep for:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_sleepHour</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">hour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_sleepHours</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">hours</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_sleep_wakeup</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">When would you like to wake up?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skip</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[button_A] Skip</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skipInteract</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[interact] Skip</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skills</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Umiejętności</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsCanDisarmTraps</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Can Disarm Traps</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsCanRearmTraps</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Trap Master</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsCanSeeTraps</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Trap Seer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s84">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsCarryMoreBottles</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Carry More Bottles</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsCarryMorePinecones</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Cary More Pinecones</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsCarryMoreSticks</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Cary More Sticks</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsCarryMoreStuff</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">The Stack</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsFall</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">The Long Drop</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsFasterWithArmor1</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Refitted Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsFasterWithArmor2</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Reforged Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsItemDetection</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">The Red Mist</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsLevel</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Level:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsMoreDamage</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Strong Arm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsPerception</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Keen Ears</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsRenown</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Renown:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">interface_skillsStamina</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">The Surge</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_support</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Support</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_supportText</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">If something looks broken then please send us a bug report at: &lt;u&gt;support@ghostofatale.com&lt;/u&gt;&#10;&#10;Don't hesitate to post your suggestions on our forums on the official game's website: &lt;u&gt;www.GhostOfATale.com&lt;/u&gt;&#10;&#10;Thank you for your help!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_statisticsCostumesCompleted</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Costumes Completed</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_statisticsEndurance</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Endurance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_statisticsRecovery</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Odzyskiwanie Wytrzymałości</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_statisticsSprintSpeed</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Szybkość Sprintu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_statisticsAuditiveDiscretion</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Dyskrecja Słuchowa</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_statisticsNPCsDiscovered</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">NPCs Discovered</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_statisticsNumberOfDeaths</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Number of Deaths</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_statisticsQuestsCompleted</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Zadania Ukończone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_statisticsTimesDetectedByGuards</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Times Detected By Guards</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_statisticsTotalPlaytime</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Total Playtime</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">interface_statisticsVisualDiscretion</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Dyskrecja Wizualna</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_tutorial_cycleTool_gamepad</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Press [button_dPadLeft] and [button_dPadRight] to cycle through tools.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_tutorial_cycleTool_mouse</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Press [mouseWheelUp] and [mouseWheelDown] to cycle through tools.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_tutorial_equipTool_gamepad</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Press [button_dPadUp] to equip.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_tutorial_equipTool_mouse</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Press [mouse2] to equip or unequip.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_tutorial_unequipTool_gamepad</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Press [button_dPadDown] to unequip.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_tutorial_throw</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Press [throw] to throw.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">interface_tutorial_use</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Press [throw] to use.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_bottle</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Bottle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_bottleDescription</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">An empty wine bottle, hefty enough to knock out any guard without a helmet, if thrown with precision.&#10;Can be used to create a distraction, or dislodge an item from its perch.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_candlestick</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Candlestick</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_candlestickDescription</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">A source of illumination in the darkness.&#10;Can be used to set light to flammable items in the world.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_dyingLight</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Dying Light</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_dyingLightDescription</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">An eternal flame, providing unlimited illumination. Burns cold. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_firesteel</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Firesteel and Flint</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_firesteelDescription</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">When struck together the flint and firesteel create a brilliant spark.&#10;Use it to help you find your bearings in the darkness, when all else has failed.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_vial_grease</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Slime Jar</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_vial_greaseDescription</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">When thrown the jar will shatter, leaving a pool of slime in which unshod guards might slip and fall.&#10;Can be used to create a distraction.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_lantern</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Lantern</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_lanternDescription</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Burns longer and more brightly than your candlestick.&#10;Can be refilled with fuel from oil jars.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_pinecone</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Pinecone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_pineconeDescription</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">If thrown the volatile pine cone will explode on impact.&#10;Can be used to create a distraction, and set fire to braziers and other items at a distance.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_stick</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Stick</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">interface_tutorial_stickDescription</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">A sturdy branch, well-balanced for throwing. Breaks with a sharp 'crack'.&#10;Can be used to create a distraction, or dislodge an item from its perch.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_clues</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Once unlocked, hints and clues are recorded in the 'clues' log, accessible through the 'lore' section of your inventory.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_costumes</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">You can quickly put on and take off entire costumes with the press of a button from within your inventory!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_detection</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Tread lightly, and try not to wake the guard…</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_detectionHeard</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">You're only heard: move slowly to make less noise!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_detectionSeen</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">You're beeing seen: quickly break the line of sight!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_hide</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">You have attracted a guard's attention!&#10;Quick, go to the chest and hold [sneak] + [interact] to hide!&#10;Don't forget you can hide in many different places!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_jumpAndInteract</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Use [move] to move and [camera] to look around.&#10;Press [interact] to interact and [jump] to jump.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_inspect</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Some items can reveal secrets when inspected...&#10;Press [throw] to inspect an item in your inventory!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_itemPerception</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Concentrate to detect items around you...&#10;Press [perception] to use this skill!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_inventory</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Your health is low!&#10;Press [inventory] to access your inventory and eat.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_map</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Once you have a map of your current location, hold [map] to quickly examine it. &#10;Maps are also accessible through your inventory.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_quests</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Tutaj możesz znaleźć informacje o zadaniach i fabule.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_sneak</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Try sneaking to move more quietly...&#10;Hold [sneak] to sneak!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_sprint</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">You can run really fast on all fours...&#10;Hold [sprint] to sprint!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_throwAndDropTools</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Press [throw] to throw a tool&#10;Press [drop] to drop a tool</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s89"><Data ss:Type="String">interface_tutorial_tools</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">You picked up a useful tool!&#10;There are many such items in the world.&#10;&#10;&#10;&#10;&#10;Press [throw] to use/throw a tool.&#10;Press &lt;sprite=19&gt; to cycle through tools.&#10;Press &lt;sprite=17&gt; to equip a tool.&#10;Press &lt;sprite=15&gt; to unequip a tool.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_hourAgo</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[X] hour ago</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_hoursAgo</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[X] hours ago</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_minuteAgo</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[X] minute ago</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_minutesAgo</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[X] minutes ago</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s74">
+    <Cell ss:StyleID="s87"><Data ss:Type="String">interface_secondsAgo</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">[X] seconds ago</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.4921259845"/>
+    <Footer x:Margin="0.4921259845"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>226</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>2</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>242</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

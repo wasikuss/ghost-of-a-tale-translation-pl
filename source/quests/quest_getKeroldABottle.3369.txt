@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="D89E60B356644B0DB775D908A0126D29"/>
+<title text="quest_getKeroldABottle" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="110" x="556" y="316"/>
+<selection guid="kW6o0OMwKEytNO54MDYHqw" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="896.02" y="620.54" palette="2" colorinfo="2" text="Rotgut for a Pirate Frog">
+<note>
+version_03-02-18_003-Added renown points award to questversion_013116_002-named Kerold in the quest.version_110716_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="leSFUphX30e2MKzK6CGNeA" x="896.01" y="722.35" palette="6" colorinfo="6" text="Steal a bottle of Rotgut from the sleeping guard.">
+<note>
+[taskName=getBottle]
+</note>
+</topic>
+<topic id="2" parent="1" guid="ya4S48AAck6r0s8fPxgW_g" x="1373.84" y="730.62" palette="8" colorinfo="8" text="You stole a bottle from the guard."/>
+<topic id="3" parent="1" guid="fi1FYOF9K06nRjdFu6aLLQ" x="896.00" y="815.14" text="Return to Kerold.">
+<note>
+[taskName=talkToKerold][grantRenown=2]
+</note>
+</topic>
+<topic id="4" parent="3" guid="zyWKInVq7Uq9fGpF12s0mw" x="1373.84" y="815.14" palette="8" colorinfo="8" text="You gave the bottle to Kerold. He\Nsmashed it against the wall."/>
+<topic id="5" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1373.84" y="620.54" palette="8" colorinfo="8" text="Kerold wants a bottle of\NRotgut from the sleeping guard."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

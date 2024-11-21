@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="9B00B5B5AA9C4CA4A148441D120A9097"/>
+<title text="quest_sleepingTonic" customized="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="90" x="15" y="562"/>
+<selection guid="LLxD-eNgiUOJXqkUgn9KTA" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="LLxD-eNgiUOJXqkUgn9KTA" x="767.46" y="878.20" palette="2" colorinfo="2" text="The Sleep of Thieves">
+<note>
+version_03-02-18_005-Added renown points award to questversion_05-01-16_004Fixed name egg_beetle to eggs_beetleversion_120215_003
+</note>
+</topic>
+<topic id="1" parent="0" guid="Frj8zdB8bEqS97AJlge6Tg" x="1170.85" y="878.20" palette="2" colorinfo="2" text="Gather the ingredients for\NFatale&apos;s sleeping tonic."/>
+<topic id="2" parent="0" guid="60oo1eFurUKpR6HCn5KVKQ" x="287.18" y="1114.76" palette="5" colorinfo="5" text="Find three sprouts\Nof crimson mushrooms.">
+<note>
+[taskName=getRedMushrooms][itemCounter=mushroom_crimson/3]
+</note>
+</topic>
+<topic id="3" parent="2" guid="TIJRWeY5xkWBOx-b8YhkRw" x="100.18" y="1223.14" palette="8" colorinfo="8" text="You found three sprouts\Nof crimson mushrooms."/>
+<topic id="4" parent="0" guid="S5z6FOA0oUawkn0e1krxuQ" x="768.45" y="1110.45" palette="5" colorinfo="5" text="Find a triple acorn.">
+<note>
+[taskName=getAcorn]
+</note>
+</topic>
+<topic id="5" parent="4" guid="b87IDlXMykOMZB2zmgb6tA" x="636.14" y="1223.14" palette="8" colorinfo="8" text="You found a\Ntriple acorn."/>
+<topic id="6" parent="0" guid="XW-d3I4LmkGpsM27KApoOg" x="1170.85" y="1108.14" palette="5" colorinfo="5" text="Find two clusters of\Nbeetle eggs.">
+<note>
+[taskName=getBeetleEggs][itemCounter=eggs_beetle/2]
+</note>
+</topic>
+<topic id="7" parent="6" guid="niEwmQJYzEGxACQ6J5G2mA" x="1368.24" y="1223.14" palette="8" colorinfo="8" text="You found two clusters of\Nbeetle eggs for the potion."/>
+<topic id="8" parent="6" guid="MUQA0bOOLU2P403ZeB9JUA" x="768.08" y="1424.47" palette="6" colorinfo="6" text="Return to Fatale">
+<parent-relation guid="xeVGlVthA0eg0MWvNaJpMw"/>
+<note>
+[taskName=talkToFatale][grantRenown=2]
+</note>
+</topic>
+<topic id="9" parent="8" guid="3oF92oF5fEOpy9BsvcGHyw" x="1095.08" y="1424.47" palette="8" colorinfo="8" text="You gave Fatale the ingredients\Nfor the sleeping tonic."/>
+</topics>
+<relations>
+<relation source="4" target="8"/>
+<relation source="2" target="8"/>
+</relations>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

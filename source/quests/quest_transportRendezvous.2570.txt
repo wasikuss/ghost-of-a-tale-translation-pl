@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="D36EE57D1DBE4E3587E32D81724588EA"/>
+<title text="quest_transportRendezvous" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="60" x="-144" y="330"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="898.91" y="773.98" palette="2" colorinfo="2" text="A Reunion">
+<note>
+[mainQuest]version_01-16-18_002-Added renown on final node at tier 3 (temp)version_04-18-17_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="Bud-HMlZoUeYr4vXlcD9fg" x="1427.48" y="773.98" palette="8" colorinfo="8" text="A prison transport is due at\Nthe harbour. Merra is aboard!"/>
+<topic id="2" parent="0" guid="kK0MqWqhFUWVf2MqvZ2L1Q" x="1070.63" y="1013.56" palette="6" colorinfo="6" text="Meet the prison\Ntransport and find Merra.">
+<parent-relation guid="k0uVSvcv60WopNkF-JccMw"/>
+<note>
+[alternate][default][taskName=meetTransport]
+</note>
+</topic>
+<topic id="3" parent="2" guid="KFrXlo7YT0CVoHnvqhoYPQ" x="1427.48" y="1013.56" palette="8" colorinfo="8" text="You met the prison transport,\Nbut couldn&apos;t find Merra..."/>
+<topic id="4" parent="0" guid="uyw9pnPXCEGN5R-ZMKw5lg" x="741.99" y="1013.56" palette="6" colorinfo="6" text="Talk to prisoners.">
+<parent-relation guid="Qc4DSlY-TkW7XojXZ6skkA"/>
+<note>
+[alternate][taskName=talkToPrisoners]
+</note>
+</topic>
+<topic id="5" parent="4" guid="JxCCSSiyLUeXDlnB5QWdrQ" x="242.66" y="1013.56" palette="8" colorinfo="8" text="Merra is not aboard the transport. But\Nperhaps the prisoners can help you..."/>
+<topic id="6" parent="4" guid="qvBdF-RYG0KIvdmbnA-cRg" x="741.99" y="1133.00" text="Fetch water\Nfor the two Mice.">
+<parent-relation guid="l7P3vlMnAkO6B5oqjE9Kdw"/>
+<note>
+[taskName=getWater]
+</note>
+</topic>
+<topic id="7" parent="6" guid="p-_bSx0b3kOeevQbbI6ueQ" x="1246.78" y="1133.00" palette="8" colorinfo="8" text="You fetched water for the two Mice."/>
+<topic id="8" parent="6" guid="i6MS3cdIjUyXZheOK3SHmw" x="741.99" y="1253.04" text="Talk to the prisoners.">
+<note>
+[taskName=talkToPrisonersB]
+</note>
+</topic>
+<topic id="9" parent="8" guid="9p2p_kzYKUinfpDaj7mRrw" x="914.87" y="1396.41" text="Find out why Merra\Nisn&apos;t onboard.">
+<parent-relation guid="Yb4rvFnc1E6qcOKAwOvbfg"/>
+<note>
+[taskName=askWhereIsMerra]
+</note>
+</topic>
+<topic id="10" parent="9" guid="sEAeu2SBIU2aNaTnGs6j6Q" x="1246.78" y="1396.41" palette="8" colorinfo="8" text="Merra gave up her place, in order that\Nmother and son could stay together."/>
+<topic id="11" parent="9" guid="CGbcNrLS2Ea3nTLmZVHmuw" x="741.99" y="1549.59" text="Help Tam until\NFarrow wakes.">
+<note>
+[taskName=helpRebelMice]
+</note>
+</topic>
+<topic id="12" parent="11" guid="rQc244bDL0WhkVVZ4Mf87w" x="741.99" y="1714.01" text="Steal the guard&apos;s key.">
+<parent-relation>
+<path>
+<custom-point x="-1.25" y="12.04"/>
+</path>
+</parent-relation>
+<note>
+[taskName=getKey]
+</note>
+</topic>
+<topic id="13" parent="12" guid="JUxH1Z45fEeyOoGqTGiPYQ" x="1246.78" y="1714.01" palette="8" colorinfo="8" text="You stole the key to the prisoners&apos;\Nmanacles from the guard."/>
+<topic id="14" parent="12" guid="RG_rBJ2nIkeYoIBFrUAJGA" x="741.99" y="1906.42" text="Return to the ship.">
+<note>
+[taskName=returnToTransport][grantRenown=3]
+</note>
+</topic>
+<topic id="15" parent="14" guid="zryqr3avK0CPfIfC4ylJNA" x="1246.78" y="1906.42" palette="8" colorinfo="8" text="You returned to the ship, giving the\Nkey to the Mouse prisoners held here."/>
+<topic id="16" parent="11" guid="IdJjMmNDEUKqEFrDjp8l0g" x="1246.78" y="1549.59" palette="8" colorinfo="8" text="Steal the key to the Mice&apos;s manacles from\Nthe guard in the Harbourmaster&apos;s office."/>
+<topic id="17" parent="8" guid="Jy_s2mHRN0uR36ZgOWV8gg" x="545.77" y="1396.41" text="Discover if\NMerra is safe.">
+<parent-relation guid="0VlxiHSnDkG7PiNV73DVKQ"/>
+<note>
+[taskName=learnIsMerraSafe]
+</note>
+</topic>
+<topic id="18" parent="17" guid="nxcOvawTLEqGECX-4NlMzQ" x="242.66" y="1396.41" palette="8" colorinfo="8" text="Merra is still alive,\Nbut far from safe."/>
+<topic id="19" parent="8" guid="6Tb2x3Bxr0aXxK4W5I-r4Q" x="1246.78" y="1253.04" palette="8" colorinfo="8" text="You talked with the prisoners."/>
+</topics>
+<relations>
+<relation guid="DRQs700ZYk-I83JwYjmMbw" source="17" target="11"/>
+</relations>
+</mindmap>
+</simplemind-mindmaps>

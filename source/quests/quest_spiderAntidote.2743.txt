@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="8197978451FA436C9614DF0E3DADBAEB"/>
+<title text="quest_spiderAntidote" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="90" x="439" y="385"/>
+<selection guid="uCrXcE-uJUGvkWSrEG81fA" type="node" id="7"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="R8jMCuVdMUeVUYHxS49UxQ" x="878.24" y="624.98" palette="2" colorinfo="2" text="The Antidote">
+<note>
+[mainQuest]version_01-16-18_003-Added renown on final node at tier 3 (temp)Version_1-10-18_002-Added node to wait for timer before collecting the antidoteversion_113016_001-First draft
+</note>
+</topic>
+<topic id="1" parent="0" guid="JPjf--QjN06UX-RKe6RRQQ" x="879.49" y="821.23" palette="6" colorinfo="6" text="Find a sample of spider venom.">
+<note>
+[taskName=getSpiderVenom]
+</note>
+</topic>
+<topic id="2" parent="1" guid="R_jfKIvdf02v9yk_Hkx4Iw" x="1383.99" y="821.23" palette="8" colorinfo="8" text="You collected a sample of venom\Nfrom the corpse of a spider."/>
+<topic id="3" parent="1" guid="StkQSTDEdEqeZADp6Rq0nw" x="879.49" y="977.48" palette="4" colorinfo="4" text="Return to Faustus.">
+<note>
+[taskName=talkToFaustus]
+</note>
+</topic>
+<topic id="4" parent="3" guid="vKVAAj58XUCXqOcj3hFTFg" x="1383.99" y="977.48" palette="8" colorinfo="8" text="You gave the\Nvenom to Faustus."/>
+<topic id="5" parent="3" guid="iS4vm41aJUmsyD4QbpaEjg" x="879.49" y="1123.11" palette="6" colorinfo="6" text="Wait while the\Nantidote is prepared.">
+<note>
+[taskName=waitForTimer]
+</note>
+</topic>
+<topic id="6" parent="5" guid="xp5Y8KfqS0eWdm4tAUCSbQ" x="880.49" y="1293.73" palette="6" colorinfo="6" text="Collect antidote from Faustus.">
+<parent-relation guid="OhHTop2jfkKpD71jqWMhAA"/>
+<note>
+[taskName=getSpiderAntidote][onCompleteQuestCompleteTask=quest_prepareForCatacombs.getSpiderAntidote][grantRenown=3]
+</note>
+</topic>
+<topic id="7" parent="6" guid="uCrXcE-uJUGvkWSrEG81fA" x="1385.24" y="1293.73" palette="8" colorinfo="8" text="Faustus gave you a phial, containing\Nan antidote to spider venom."/>
+<topic id="8" parent="5" guid="VVYA84dSEkaUweO9SqPzrQ" x="1383.99" y="1123.11" palette="8" colorinfo="8" text="The antidote must be ready\Nby now. Return to Faustus."/>
+<topic id="9" parent="0" guid="ZSHNQkLkFUiCuctXhVpqeQ" x="1383.99" y="624.98" palette="8" colorinfo="8" text="Gather a sample of a spider&apos;s venom\Nfrom the sewers for Faustus."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

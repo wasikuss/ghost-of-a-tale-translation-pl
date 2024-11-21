@@ -1,0 +1,12 @@
+
+
+<align=center>Brisance is an extremely volatile substance!</align>
+
+-Do not strike or shake.
+-Do not carry alone.
+-Light fuse with candle or firesteel.
+<align=center>-
+<b>USE WITH CAUTION.</b>
+
+All enquiries regarding brisance should be addressed to the smithy at the forge.
+</align>

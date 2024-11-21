@@ -1,0 +1,2408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="E80AD71CE8604E8CB9BA61C8E17A9D4D"/>
+<title text="dialog_rebelMice"/>
+<images containsImages="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="60" x="6439" y="1986"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="dI8_ufvqSEe5uNCwmv5oyA" x="2952.02" y="-2378.25" palette="3" colorinfo="3" text="dialog_rebelMice">
+<note>
+[characters:commander;Tilo]version_03-06-18_006-Added portraits-Added quiz countersversion_02-24-18_005-Added condition to account for Tilo wearing Duinlan&apos;s armourversion_01-27-18_004-Restructured to use multiple dialog hubsversion_01-14-18_003-Link between &apos;goodbye&apos; and end thread of dialogue was the wrong way around.version_01-09-18_002-Added node to tell Tilo to report the banner burning to the Commander-Added node to acknowledge all banners are burnedversion_08-30-16_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="7daZrEtnCkKTDjKwVWvkGA" x="734.88" y="-3515.08" palette="3" colorinfo="3" text="rebelMouseSon: Mouse... MOUSE!\NPlease, my mother needs water!">
+<children>
+<image guid="z_vEW7gC_0SxoZTv1GovRg" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="195.50" y="-8.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</children>
+<images>
+<image guid="z_vEW7gC_0SxoZTv1GovRg" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="195.50" y="-8.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][lockableThread:rebelsIntro][lockThread:rebelsIntro][completeTask:quest_transportRendezvous.talkToPrisoners][counter:metRebelMice=0][updateCounter:metRebelMice=1][executeAction:activateBucket]
+</note>
+</topic>
+<topic id="2" parent="1" guid="ojoVdmLxwkmvAIh3AZ1Rvg" x="734.88" y="-3402.58" palette="3" colorinfo="3" text="rebelMouseSon: Please,\Nwill you fetch her some?"/>
+<topic id="3" parent="2" guid="3QMQOo4rTE23akE7dXOL0Q" x="870.13" y="-3246.66" palette="3" colorinfo="3" text="tilo: Can you help me? I&apos;m\Nlooking for a doe named Merra.">
+<parent-relation guid="R3T75dAhvUyo6TfNFj2_rA"/>
+</topic>
+<topic id="4" parent="3" guid="R9_ZwNsIoU-m4089GF1TpA" x="870.13" y="-3033.33" palette="3" colorinfo="3" text="rebelMouseSon: And I&apos;ll tell you all I\Nknow! But first, I beg you, fetch us water!">
+<parent-relation guid="bDBVpZjR0E2FGq_kerrOJA"/>
+<note>
+[completeTask:quest_transportRendezvous.talkToPrisoners]
+</note>
+</topic>
+<topic id="5" parent="2" guid="qoJ41xhBEk6Zzg9B1FsGVw" x="560.13" y="-3246.66" palette="3" colorinfo="3" text="tilo: Of course! I\Nwon&apos;t be long.">
+<parent-relation guid="tB-l6x_CWUOD8_lJExfSow"/>
+<note>
+[completeTask:quest_transportRendezvous.talkToPrisoners][unlockThread:firstQuestionNotMerra][lockThread:firstQuestionMerra]
+</note>
+</topic>
+<topic id="6" parent="0" guid="lW-7frPtL0W-1aRSgLRRNg" x="3733.36" y="-1782.44" palette="3" colorinfo="3" text="rebelMouseSon: You&apos;re back...">
+<note>
+[variationIndex=2][unlockThread:commanderQuestActive;waterQuestActive;itineraryQuestActive;keyQuestActive]
+</note>
+</topic>
+<topic id="7" parent="0" guid="JnmSFAlEIESnM8mZv1UgcQ" x="3620.55" y="-1867.44" palette="3" colorinfo="3" text="rebelMouseSon: Any luck?">
+<note>
+[variationIndex=1][reveal:quest_transportRendezvous.getWater=active|quest_transportRendezvous.returnToTransport=active|quest_changeTransportPlan.returnToRebels=active|quest_changeTransportPlan.returnToTransport=active][unlockThread:commanderQuestActive;waterQuestActive;itineraryQuestActive;keyQuestActive]
+</note>
+</topic>
+<topic id="8" parent="7" guid="8fSnmNao9UWtB_1CVw-hgA" x="5033.97" y="-779.21" palette="3" colorinfo="3" text="DIALOGUE_HUB_A"/>
+<topic id="9" parent="8" guid="oxoAPAU5X0qJ11sjgQpR_Q" x="5153.70" y="-650.65" palette="3" colorinfo="3" text="DIALOGUE HUB_B">
+<parent-relation guid="6dToJ-_QJkKmSllNt_G2jQ"/>
+</topic>
+<topic id="10" parent="9" guid="L5ts2-LkT0qUFs65jWSziQ" x="5464.10" y="4062.74" palette="3" colorinfo="3" text="tilo: Perhaps you should wait, and escape\Nwhen the boat reaches some safe harbour...">
+<parent-relation guid="lYctrydNWku65ByX7bC_aw"/>
+<note>
+[lockableThread:waitForSafeHarbor=true][lockThread:waitForSafeHarbor]
+</note>
+</topic>
+<topic id="11" parent="10" guid="EM4lNcLhG0q2T0AcKbNlGQ" x="5464.10" y="4352.74" palette="3" colorinfo="3" text="rebelMouseSon: It&apos;s not the worst idea...\Nbut I think this is our last port\Nof call before [Castelbrook].">
+<note>
+[unlockThread:addNewPort][footnote:scarn_port]
+</note>
+</topic>
+<topic id="12" parent="11" guid="zdZasMpKX0a29Kr1f4qW2Q" x="5228.10" y="4514.05" palette="3" colorinfo="3" text="tilo: What makes\Nyou think that?"/>
+<topic id="13" parent="12" guid="kwx99v9uekKmrEr1mdcJmA" x="5228.10" y="4664.09" palette="3" colorinfo="3" text="rebelMouseSon: I\Noverheard the crew talking."/>
+<topic id="14" parent="9" guid="5NwbtMj3B0WNwnL_cdn6Ow" x="5703.89" y="4664.09" palette="3" colorinfo="3" text="tilo: I was thinking... we could add\Na stop to the ship&apos;s itinerary.">
+<parent-relation guid="w_uoBr_PfEy5Ldc5Jz3P6Q"/>
+<note>
+[lockableThread:addNewPort=true][lockThread:addNewPort]
+</note>
+</topic>
+<topic id="15" parent="14" guid="ZCoILFNH8UGpktlQDI37kQ" x="5703.89" y="4793.38" palette="3" colorinfo="3" text="rebelMouseSon: Aye...\Naye, that might work.">
+<note>
+[startQuest:quest_changeTransportPlan]
+</note>
+</topic>
+<topic id="16" parent="15" guid="AfGM9KScw0Ksd6K7EF-JuA" x="5703.89" y="4940.52" palette="3" colorinfo="3" text="rebelMouseMother: Wouldn&apos;t the\Nchange need some sort of official approval?"/>
+<topic id="17" parent="16" guid="aSEdN2BhhEynKUGz8jJfYw" x="5703.89" y="5123.02" palette="3" colorinfo="3" text="rebelMouseSon: From some high-ranking officer, aye.">
+<children>
+<image guid="u_fKRWef3U2hKaLP2GmZdA" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="307.50" y="-12.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="u_fKRWef3U2hKaLP2GmZdA" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="307.50" y="-12.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="18" parent="17" guid="nEz_nVSonk2d7CDWsMv6eQ" x="5434.50" y="5320.34" palette="3" colorinfo="3" text="tilo: The Commander!\NLeave that to me!"/>
+<topic id="19" parent="18" guid="by3tlhLilEaLZsE0ydCQ5Q" x="5434.50" y="5487.48" palette="3" colorinfo="3" text="rebelMouseMother: Did you hear that, Tamlyn?\NSuch confidence from so small a Mouse!">
+<children>
+<image guid="_9V-XHRYNUybltOPNyhMXg" name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="249.77" y="64.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</children>
+<images>
+<image guid="_9V-XHRYNUybltOPNyhMXg" name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="249.77" y="64.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</images>
+</topic>
+<topic id="20" parent="19" guid="Ly41FR1WnEO3pymJ5zRE5w" x="5437.31" y="5633.98" palette="3" colorinfo="3" text="rebelMouseMother: I understand\Nnow what Merra sees in him!">
+<children>
+<image guid="Qymc5EKyeU2TuojxMH0gpA" name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="191.59" y="63.68" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</children>
+<images>
+<image guid="Qymc5EKyeU2TuojxMH0gpA" name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="191.59" y="63.68" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</images>
+</topic>
+<topic id="21" parent="20" guid="7Xi3jfd5P06NKIH7N_4Rew" x="5440.13" y="5780.48" palette="3" colorinfo="3" text="rebelMouseSon: Mother, please...">
+<parent-relation guid="1QzuyvtgtES4l-fSqXWNuQ"/>
+<children>
+<image guid="EvWKZdmdZEep5l_zQHBHaw" name="2aa41da66f9a19455e83de10b50410f04572403a" x="-174.50" y="-42.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="EvWKZdmdZEep5l_zQHBHaw" name="2aa41da66f9a19455e83de10b50410f04572403a" x="-174.50" y="-42.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="22" parent="21" guid="DJ89ifLl7U-74Zmx6ZWSMA" x="5440.13" y="5914.48" palette="3" colorinfo="3" text="rebelMouseSon: Sorry about her,\Nbrother. It&apos;s just her way.">
+<parent-relation guid="vD_k4UoU_EewjA9vfTYN8Q"/>
+<note>
+[lockableThread:apologyForInsult][lockThread:apologyForInsult]
+</note>
+</topic>
+<topic id="23" parent="22" guid="YBmfEkQVyEKGasyuurgV9A" x="5278.50" y="6184.48" palette="3" colorinfo="3" text="tilo: I know a Frog your mother should\Nmeet. They have a lot in common.">
+<note>
+[reveal:counter.dialog_kerold.metKerold=1]
+</note>
+</topic>
+<topic id="24" parent="22" guid="QE9JYN0qDUu02Xg-928X6g" x="5649.75" y="6184.48" palette="3" colorinfo="3" text="tilo: No need to apologise."/>
+<topic id="25" parent="22" guid="_ZJl9fvgeUeP3s1S0oknkA" x="5017.25" y="6070.48" palette="3" colorinfo="3" text="tilo: I&apos;ve played for\Nworse crowds."/>
+<topic id="26" parent="9" guid="SAQ7tdnZ6U28GAuxBrHsyQ" x="6000.39" y="5320.34" palette="3" colorinfo="3" text="tilo: Where is the\Nship&apos;s itinerary now?">
+<parent-relation guid="kBRGm-9S4kKs2Dp88K3kbQ"/>
+<note>
+[lockableThread:shipsPlanWhere][lockThread:shipsPlanWhere][reveal:quest_changeTransportPlan.getTransportPlan=active]
+</note>
+</topic>
+<topic id="27" parent="26" guid="WcMi5zO_Bkq-cJqm0cJ_Qw" x="6000.39" y="5487.48" palette="3" colorinfo="3" text="rebelMouseSon: It will have been\Nchecked in at the Harbourmaster&apos;s cabin\Nwhen we landed. You might look there."/>
+<topic id="28" parent="27" guid="IK47j0ZjnUymeNxSwiMGog" x="6000.39" y="5645.48" palette="3" colorinfo="3" text="tilo: The Harbourmaster&apos;s\Ncabin. You&apos;re sure?"/>
+<topic id="29" parent="28" guid="xWscSUgKPUK_F-nGoxpLNw" x="6000.39" y="5780.48" palette="3" colorinfo="3" text="rebelMouseSon: I worked the port for\Na few years, wrangling [sundercrabs]. I\Nknow how these things work.">
+<note>
+[footnote:sunder_crab]
+</note>
+</topic>
+<topic id="30" parent="29" guid="pBl9hceWG0evta_WdT6yBA" x="6000.39" y="5914.48" palette="3" colorinfo="3" text="rebelMouseMother: Enough\Ntalking, now. Get moving!"/>
+<topic id="31" parent="9" guid="KLj8MGeH9kKc_XiM8NPdPA" x="2464.89" y="1428.10" palette="3" colorinfo="3" text="tilo: I&apos;m sorry, I&apos;ve\Nnot been able to\Nfetch any water.">
+<parent-relation guid="aW2wM5X-rUuAwtCyZuzrHg"/>
+<note>
+[reveal:quest_transportRendezvous.getWater=active][lockableThread:waterQuestActive][lockThread:waterQuestActive]
+</note>
+</topic>
+<topic id="32" parent="31" guid="TXMJo344zE-KO2ut-P8kAQ" x="2591.97" y="1774.35" palette="3" colorinfo="3" text="rebelMouseSon: Please, we&apos;ve had barely\Nanything to drink in days...">
+<children>
+<image guid="Yp0XWta2r0mnXv1t3isuxA" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="222.50" y="45.49" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</children>
+<images>
+<image guid="Yp0XWta2r0mnXv1t3isuxA" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="222.50" y="45.49" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="33" parent="31" guid="BE1avQbWGkyneNRog2RNaw" x="3005.39" y="1683.27" palette="3" colorinfo="3" text="rebelMouseSon: Hurry,\NMouse--her breathing is\Nso laboured...">
+<children>
+<image guid="EEj2DrJiGEu1sbxf7iV_ZA" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="131.83" y="69.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</children>
+<images>
+<image guid="EEj2DrJiGEu1sbxf7iV_ZA" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="131.83" y="69.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="34" parent="31" guid="kdioAmaZI0aoRm5BTw2H-Q" x="2167.69" y="1683.27" palette="3" colorinfo="3" text="rebelMouseSon: I don&apos;t know... there\Nmust be a bucket of fresh water\Nsomewhere nearby, surely?">
+<children>
+<image guid="s7zYJsw5t0yf-f599BGNnQ" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="167.95" y="74.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</children>
+<images>
+<image guid="s7zYJsw5t0yf-f599BGNnQ" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="167.95" y="74.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="35" parent="9" guid="Y_SIB70iNUOPXKTVGLb_Aw" x="4154.14" y="1806.85" palette="3" colorinfo="3" text="tilo: I haven&apos;t yet found the key...">
+<parent-relation guid="GZfw-mAqyUCdaigo7wWO0Q"/>
+<note>
+[reveal:quest_transportRendezvous.getKey=active][lockableThread:keyQuestActive][lockThread:keyQuestActive]
+</note>
+</topic>
+<topic id="36" parent="35" guid="RqOX3zPNKEiSrtBTOBctow" x="4154.14" y="2115.60" palette="3" colorinfo="3" text="rebelMouseSon: Keep at it, Tilo.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="37" parent="35" guid="AjfPCj-8bUKcenDwA9HyRw" x="4396.78" y="2191.85" palette="3" colorinfo="3" text="rebelMouseSon: Hurry, or\Nyou&apos;ll miss your chance.">
+<parent-relation guid="0pOd6pUaik-Zl48rSaRHlg"/>
+<children>
+<image guid="NbpyorI-kU6J9Anl9rKsHw" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="114.32" y="-79.05" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="NbpyorI-kU6J9Anl9rKsHw" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="114.32" y="-79.05" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="38" parent="35" guid="eRqQxeZLLkqHsL4h67jo1g" x="3866.89" y="2191.85" palette="3" colorinfo="3" text="rebelMouseSon: Did you look for the\Nguard in the Harbourmaster&apos;s office?\NThe key&apos;s likely on his belt.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="39" parent="38" guid="_6wQ7VVmjEqaZzgXVHWDRw" x="4154.14" y="2341.19" palette="3" colorinfo="3" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="40" parent="9" guid="OPsv_Rqqq0Kb4nZtThWWQA" x="6354.52" y="1583.40" palette="3" colorinfo="3" text="tilo: I don&apos;t yet have the\Nship&apos;s itinerary.">
+<parent-relation guid="WNbvUAvBt0CTlHuvzYOGMg"/>
+<note>
+[reveal:quest_changeTransportPlan.getTransportPlan=active][lockableThread:itineraryQuestActive][lockThread:itineraryQuestActive]
+</note>
+</topic>
+<topic id="41" parent="40" guid="TZx-D76oaU-CeVx6JnztlA" x="6059.45" y="1832.57" palette="3" colorinfo="3" text="rebelMouseSon: Did you check the\NHarbourmaster&apos;s cabin? Start there.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="42" parent="41" guid="gfnZKsJEfUyQ2jR0HrISyA" x="6354.52" y="2089.71" palette="3" colorinfo="3" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="43" parent="40" guid="UNwJoOXsQESVEKH2dzt2Yw" x="6354.52" y="1749.59" palette="3" colorinfo="3" text="rebelMouseSon: Aye, you\Nalready told us.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="44" parent="40" guid="GOyIVIEMNU21IUy2BtO42Q" x="6607.52" y="1832.57" palette="3" colorinfo="3" text="rebelMouseMother: Will you\Nget on with it?!">
+<children>
+<image guid="2xFR5_JZcUmbvZNROGy3gg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="184.50" y="-47.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="2xFR5_JZcUmbvZNROGy3gg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="184.50" y="-47.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="45" parent="9" guid="ZRZqucDMyUSihdwlWd_4rA" x="8793.21" y="714.71" palette="3" colorinfo="3" text="tilo: I&apos;ve not been able to talk\Nwith the commander yet...">
+<parent-relation guid="1tNNacVTBEGXytZCkthanw"/>
+<note>
+[reveal:quest_changeTransportPlan.talkToCommander=active][lockableThread:commanderQuestActive][lockThread:commanderQuestActive]
+</note>
+</topic>
+<topic id="46" parent="45" guid="AyZDTJigb0C2GlymINNHhA" x="8526.77" y="1026.93" palette="3" colorinfo="3" text="rebelMouseSon: Do what you\Ncan, brother.">
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="47" parent="46" guid="3tLaa-3o_UubLRH1lDCjXA" x="9143.64" y="1249.16" palette="3" colorinfo="3" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="48" parent="45" guid="brV-uKoLi0G3wdcphKss0w" x="8793.21" y="912.49" palette="3" colorinfo="3" text="rebelMouseMother: Don&apos;t leave\Nit too long, Tilo.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="49" parent="45" guid="LhnsrAb_tkWS3WJbILKrxA" x="9021.04" y="1026.93" palette="3" colorinfo="3" text="rebelMouseSon:\NHurry up, Mouse!">
+<children>
+<image guid="3OukUBvnlE-nv_85q9udQQ" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="55.50" y="-85.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="3OukUBvnlE-nv_85q9udQQ" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="55.50" y="-85.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="50" parent="9" guid="AWn46XnE6UucaW_MLdpQSA" x="1639.00" y="-931.39" palette="3" colorinfo="3" text="tilo: The port--that was the\Nlast time you saw Merra?">
+<parent-relation guid="ugc5S007AUK005Ie5OCINw"/>
+<note>
+[lockableThread:lastSeeMerra=true][lockThread:lastSeeMerra]
+</note>
+</topic>
+<topic id="51" parent="50" guid="ONJHA9efx0Wi5PT0NyjeOA" x="1639.00" y="-739.05" palette="3" colorinfo="3" text="rebelMouseSon: Aye... she was put\Non another boat."/>
+<topic id="52" parent="51" guid="P-j0VVaOW0GoDfEh7HrCEQ" x="1336.50" y="-601.37" palette="3" colorinfo="3" text="tilo: A boat? Bound for where?"/>
+<topic id="53" parent="52" guid="gbzSl9Rtn06ZzjKUyu0-Qg" x="1336.50" y="-484.14" palette="3" colorinfo="3" text="rebelMouseSon: I&apos;m sorry--it\Nwas all so chaotic..."/>
+<topic id="54" parent="53" guid="PwWxC9-B10SAnoiPnuKJRA" x="1639.00" y="-323.73" palette="3" colorinfo="3" text="rebelMouseSon: Mother might\Nknow more. Mother...?">
+<children>
+<image guid="ABjzmGzWYkK7tWKKzdSwIA" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="183.75" y="-5.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="ABjzmGzWYkK7tWKKzdSwIA" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="183.75" y="-5.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="55" parent="54" guid="vY6mcQZiFkuIt9dw9COtxg" x="1436.89" y="-125.96" palette="3" colorinfo="3" text="tilo: Is she alright?">
+<parent-relation guid="zNZFvzSDT0G0rFqNXpKjHg"/>
+</topic>
+<topic id="56" parent="55" guid="EZ0rliQIUE6WE-Wnc9r6dA" x="1436.89" y="1.94" palette="3" colorinfo="3" text="rebelMouseSon: Aye, she&apos;s sleeping now.\NHer breathing seems easier, doesn&apos;t it?">
+<children>
+<image guid="3BQLH5m1QUaY5fxKTWChzA" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="230.89" y="41.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="3BQLH5m1QUaY5fxKTWChzA" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="230.89" y="41.99" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="57" parent="54" guid="k4iAeckopU6x6fbSOokCbg" x="1850.56" y="-62.51" palette="3" colorinfo="3" text="Tilo: Don&apos;t disturb her, please.">
+<parent-relation guid="KQrhmEVUQkWuNrhV4jhYZg"/>
+</topic>
+<topic id="58" parent="57" guid="Qa1DktyXLEOi8R9OQTdGjw" x="1622.17" y="173.81" palette="3" colorinfo="3" text="rebelMouseSon: Look at\Nher, she&apos;s exhausted.">
+<parent-relation guid="7pWCgtc0SEa_BEOB13O5Yg"/>
+<children>
+<image guid="Q52AAd3EjUSRnS8JVpCTRA" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="163.04" y="-17.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="Q52AAd3EjUSRnS8JVpCTRA" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="163.04" y="-17.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="59" parent="51" guid="XxVihfFfPEeTcnpuGUkzHg" x="1880.75" y="-601.37" palette="3" colorinfo="3" text="tilo: Go on..."/>
+<topic id="60" parent="9" guid="Il0qMpWFLEqbTGsCccbu0Q" x="3189.51" y="130.61" palette="3" colorinfo="3" text="tilo: When you saw her last,\Nhow was Merra?">
+<parent-relation guid="RDe7nBsOFUeiJaUdyI0U0w"/>
+<note>
+[lockableThread:howWasMerra=true][lockThread:howWasMerra]
+</note>
+</topic>
+<topic id="61" parent="60" guid="Kkb8PrD7HkmdnkGDH4WShw" x="3189.51" y="300.61" palette="3" colorinfo="3" text="rebelMouseSon:\NBruised, but alive.">
+<note>
+[completeTask:quest_transportRendezvous.learnIsMerraSafe]
+</note>
+</topic>
+<topic id="62" parent="9" guid="aoOhoh-jUk28YAsJCRIltA" x="10414.92" y="1199.61" palette="3" colorinfo="3" text="tilo: Farrow... do you know why Merra\Nand I were called before the Baron?">
+<parent-relation guid="YM0b9bMPO069GbNCDU4BRg"/>
+<note>
+[lockableThread:howKnowMerra=true][lockThread:howKnowMerra][unlockThread:whySupportRebels;howSonEscaped]
+</note>
+</topic>
+<topic id="63" parent="62" guid="IC6OAkQsbkCyAtIXhx_Evg" x="10414.92" y="1351.42" palette="3" colorinfo="3" text="rebelMouseMother: Since [Great Birham],\Nthe Red Paw has been rounding up\Nany Mouse considered a threat.">
+<parent-relation guid="kq0UFzbXE0ebHqL82tZeSg"/>
+<note>
+[unlockThread:newsOfUprising][footnote:great_birham]
+</note>
+</topic>
+<topic id="64" parent="63" guid="BHGLMCzJG0-EdTO4dsaB3w" x="10249.44" y="1570.38" palette="3" colorinfo="3" text="tilo: Merra and I are\Nno threat to anyone.">
+<parent-relation guid="1DsAp330ikaW1lctBLDKcQ"/>
+<note>
+[unlockThread:garrisonBurned]
+</note>
+</topic>
+<topic id="65" parent="64" guid="x6Rdr7ISsUqnrom8CZumfA" x="10249.44" y="1936.08" palette="3" colorinfo="3" text="rebelMouseMother: ... Your wife\Ncame to visit me at the freehold,\Nno more than a year ago.">
+<parent-relation guid="q_ChtWfbC02R-t31cD34Ag"/>
+<note>
+[lockableThread:merraVisitsFreehold][lockThread:merraVisitsFreehold]
+</note>
+</topic>
+<topic id="66" parent="65" guid="fGvoAUUlYE2FvLutaCBxvw" x="10497.22" y="2089.12" palette="3" colorinfo="3" text="tilo: You&apos;d met Merra before?">
+<parent-relation guid="qJQjDhNZZkyD6dA8WWVMyg"/>
+</topic>
+<topic id="67" parent="66" guid="7tSszn7ii0ms6YeNmfkpAw" x="10497.22" y="2197.43" palette="3" colorinfo="3" text="rebelMouseMother: Only\Nonce, and very briefly. She\Nnever told me her name."/>
+<topic id="68" parent="67" guid="VBWmjmchbkuwCoR3VuWAkQ" x="10249.44" y="2350.66" palette="3" colorinfo="3" text="It was not long after Tamlyn\Nhad been arrested in Worall."/>
+<topic id="69" parent="68" guid="56UVY_-Ky0qSp0zZUuEHEw" x="9986.31" y="2525.25" palette="3" colorinfo="3" text="tilo: Worall? Then...\Ny-you&apos;re with the rebels?">
+<parent-relation guid="8OoMIBMdqEOFIryDvgnWcQ"/>
+</topic>
+<topic id="70" parent="69" guid="dOMvaAMzJ0WOyPJcF7nh1w" x="9986.31" y="2660.73" palette="3" colorinfo="3" text="rebelMouseSon: Rebels?\NYou sound like a Rat."/>
+<topic id="71" parent="68" guid="mfhekkgPdkemfcVU4Km1kQ" x="10534.65" y="2516.92" palette="3" colorinfo="3" text="tilo: The riots, at the port there...">
+<parent-relation guid="LOtawaia6k-ibJxzs-m5eQ"/>
+</topic>
+<topic id="72" parent="71" guid="oUReqYgYK0SVcQDS95aY8w" x="10534.65" y="2660.73" palette="3" colorinfo="3" text="rebelMouseSon: Riots? The protest\Nwas peaceful, until the [Red Paw] went\Nin, with their clubs and their shields.">
+<children>
+<image guid="h_Z_ZNUFL0KYsHW9AMGmrQ" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="216.50" y="35.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="h_Z_ZNUFL0KYsHW9AMGmrQ" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="216.50" y="35.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+<note>
+[footnote:red_paw]
+</note>
+</topic>
+<topic id="73" parent="72" guid="-M7VntnINEmE5UqgQWPCVQ" x="10263.41" y="2832.06" palette="3" colorinfo="3" text="rebelMouseMother: Tamlyn!\NThat&apos;s enough, now.">
+<children>
+<image guid="pgdtaWmoF0CCB3F8Z-kP6w" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="200.28" y="0.24" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="pgdtaWmoF0CCB3F8Z-kP6w" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="200.28" y="0.24" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="74" parent="73" guid="olIgABrWVk6PIKunX2j92Q" x="10263.41" y="2976.36" palette="3" colorinfo="3" text="rebelMouseMother: Merra brought me a\Nmessage, from Tamlyn&apos;s friends."/>
+<topic id="75" parent="74" guid="seoionTcA0aoa4z19Y7oJw" x="10059.79" y="3128.50" palette="3" colorinfo="3" text="tilo: A message?"/>
+<topic id="76" parent="75" guid="JgCiwfBixUKrMl5ZFmdBNg" x="10059.79" y="3296.83" palette="3" colorinfo="3" text="rebelMouseMother: Aye,\Ninforming me of his arrest.">
+<children>
+<image guid="7Qh3-crO5UCgOEhH9aY4dA" name="cbfdff49336c839eddae126f858a309e97f33b11" x="127.05" y="-80.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="7Qh3-crO5UCgOEhH9aY4dA" name="cbfdff49336c839eddae126f858a309e97f33b11" x="127.05" y="-80.48" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="77" parent="74" x="10447.49" y="3128.50" palette="3" colorinfo="3" text="tilo: I see..."/>
+<topic id="78" parent="77" guid="ecc65PivV0Ovc1ukJWCnqQ" x="10447.49" y="3296.83" palette="3" colorinfo="3" text="rebelMouseMother: Thanks to your\Nwife, I was able to arrange his release."/>
+<topic id="79" parent="78" guid="Pp4srNxeM0-Rht9K4pz3Zw" x="10446.78" y="3445.72" palette="3" colorinfo="3" text="rebelMouseSon: We owe Merra a debt of\Ngratitude--and we&apos;re not the only ones.">
+<children>
+<image guid="DRVMKlEuIU27At3DyD4eFQ" name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="245.00" y="-29.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="DRVMKlEuIU27At3DyD4eFQ" name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="245.00" y="-29.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="80" parent="79" guid="uokWH6pU3UGTk2LiiQ9uCg" x="10446.06" y="3594.61" palette="3" colorinfo="3" text="rebelMouseMother: You... never\Nknew about any of this, did you, Tilo?"/>
+<topic id="81" parent="80" guid="-po-qG1yfUC7JTCPQIkpSg" x="10444.40" y="3795.97" palette="3" colorinfo="3" text="tilo: O-of course I did..."/>
+<topic id="82" parent="81" guid="JdcS3u21WEKI45PHlMNWng" x="10444.40" y="3984.25" palette="3" colorinfo="3" text="rebelMouseMother: Really? You\Ndon&apos;t sound so sure.">
+<children>
+<image guid="QqWeID8twkiV6po-iGoxQw" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-15.50" y="-77.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="QqWeID8twkiV6po-iGoxQw" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-15.50" y="-77.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="83" parent="80" guid="UD7yqBb0306RdeueLubERA" x="10798.14" y="3795.97" palette="3" colorinfo="3" text="tilo: We... we played at a festival near\NWorall... no more than a year ago?"/>
+<topic id="84" parent="83" guid="DFST3oAdDE63CWxztPD_rA" x="10798.14" y="3984.25" palette="3" colorinfo="3" text="rebelMouseMother: Aye, that fits.\NThat must have been when Merra\Nwas given the message."/>
+<topic id="85" parent="84" guid="hsmroGl330KAurGEAskVdA" x="10444.40" y="4096.13" palette="3" colorinfo="3" text="tilo: E-excuse me...\NI need to go..."/>
+<topic id="86" parent="85" guid="Ak-WF-X1sEW9OTCSPyVusQ" x="10444.40" y="4205.88" palette="3" colorinfo="3" text="rebelMouseMother: Tilo, wait--I\Ncan see you&apos;re upset...">
+<parent-relation guid="OpRPWBxuBE2etP9NdHbD_Q"/>
+</topic>
+<topic id="87" parent="86" guid="rreWrWruSUyglS6etglSFw" x="10446.06" y="4330.20" palette="3" colorinfo="3" text="rebelMouseMother: You must\Nwonder why she would risk so\Nmuch to help others..."/>
+<topic id="88" parent="80" guid="7V_w-s06EE2KBexku0npzA" x="10018.91" y="3781.96" palette="3" colorinfo="3" text="tilo: I... I had no idea. Why would\Nshe risk everything for strangers?">
+<parent-relation guid="1-PooFZ_UkWhaIUuRY524Q"/>
+</topic>
+<topic id="89" parent="88" guid="X1noPrEoikCbNAkv2Ow9uA" x="10018.91" y="3984.25" palette="3" colorinfo="3" text="rebelMouseMother: I won&apos;t\Npretend to know the answer to\Nthat. You&apos;re her husband, Tilo...">
+<children>
+<image guid="CbS7iaU4dE6qjImVbcPu9Q" name="cbfdff49336c839eddae126f858a309e97f33b11" x="170.39" y="-72.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="CbS7iaU4dE6qjImVbcPu9Q" name="cbfdff49336c839eddae126f858a309e97f33b11" x="170.39" y="-72.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="90" parent="89" guid="JwU3DFVnYEqm3R25CEAuMA" x="10018.91" y="4205.88" palette="3" colorinfo="3" text="rebelMouseMother: ... you should know her\Nbetter than anyone. But I&apos;ll tell you this..."/>
+<topic id="91" parent="90" guid="yoK1XlAXvUSAiavKpK6vCQ" x="10018.91" y="4330.20" palette="3" colorinfo="3" text="rebelMouseMother: ... whatever the reason,\Nwe&apos;ll be forever grateful that she did.">
+<parent-relation guid="9YeA3gxMc0K_qb3TMh2P4Q"/>
+<children>
+<image guid="YTlq5zTb_U-CB2mUa6tRvg" name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="-256.67" y="14.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="YTlq5zTb_U-CB2mUa6tRvg" name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="-256.67" y="14.55" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_changeTransportPlan.askMerraQuestionA]
+</note>
+</topic>
+<topic id="92" parent="91" guid="spvbcpOjcEyvA0MLGS_gmA" x="10018.91" y="4472.56" palette="3" colorinfo="3" text="rebelMouseSon: Aye, you&apos;re\Na lucky Mouse, brother.">
+<children>
+<image guid="bmDLIbSaUEmR3SRd0Ju2_g" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="-171.11" y="0.10" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="bmDLIbSaUEmR3SRd0Ju2_g" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="-171.11" y="0.10" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="93" parent="92" guid="xwSuEfKwbUqtfifvgIAVEA" x="10018.91" y="4599.15" palette="3" colorinfo="3" text="rebelMouseMother: Lucky? I\Nwouldn&apos;t call any of us lucky...">
+<children>
+<image guid="a6jt2eXxzE-2fyk0Ud0GOg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="208.06" y="51.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="a6jt2eXxzE-2fyk0Ud0GOg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="208.06" y="51.35" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:quest_changeTransportPlan.findSilas=inactive]
+</note>
+</topic>
+<topic id="94" parent="92" guid="5qpMpI0m4kCOIvgwW0NGnQ" x="10333.91" y="4472.56" palette="3" colorinfo="3" text="rebelMouseMother: Lucky? I\Nwouldn&apos;t call any of us lucky...">
+<children>
+<image guid="wT-t_4ttbkCDyFLCRcDzKg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="208.06" y="35.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="wT-t_4ttbkCDyFLCRcDzKg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="208.06" y="35.80" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:quest_changeTransportPlan.findSilas=active][unlockThread:finalFarewell][executeAction:playSound=shipBell]
+</note>
+</topic>
+<topic id="95" parent="65" guid="JNF2llO0ck-kK5shU7nagw" x="10059.79" y="2143.84" palette="3" colorinfo="3" text="tilo: I-I see..."/>
+<topic id="96" parent="9" guid="S1llvGNWkkeQfCwQ5EUPeA" x="15178.92" y="2308.02" palette="3" colorinfo="3" text="tilo: Please, where was Merra\Ntaken? Where is she now?">
+<parent-relation guid="jxJzvS2NqES3JgM7BnqE1A"/>
+<note>
+[lockableThread:whereMerraTaken=true][lockThread:whereMerraTaken]
+</note>
+</topic>
+<topic id="97" parent="96" guid="fyyFwlwlNU2CBz1ijlCMlQ" x="15178.92" y="2443.35" palette="3" colorinfo="3" text="rebelMouseMother:\NI&apos;m afraid I don&apos;t know.">
+<children>
+<image guid="XKgc1L7PnUWeEZgoR_-6HA" name="cbfdff49336c839eddae126f858a309e97f33b11" x="148.17" y="-2.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="XKgc1L7PnUWeEZgoR_-6HA" name="cbfdff49336c839eddae126f858a309e97f33b11" x="148.17" y="-2.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="98" parent="97" guid="YiRc-pSbWEGxnlt6tmBmDA" x="15432.00" y="2740.51" palette="3" colorinfo="3" text="tilo: She gave up her place for you,\Nand you never thought to find out?"/>
+<topic id="99" parent="97" guid="d23r9BussEKCm3P13E6naw" x="14980.13" y="2749.51" palette="3" colorinfo="3" text="tilo: Then she&apos;s truly lost..."/>
+<topic id="100" parent="99" guid="3Bk-dO8K3029AbedshMdwQ" x="14980.13" y="2871.51" palette="3" colorinfo="3" text="rebelMouseSon: You mustn&apos;t\Ngive up, brother."/>
+<topic id="101" parent="100" guid="GSNXynKYFUuDCWpYQbF1BA" x="14980.13" y="2997.94" palette="3" colorinfo="3" text="rebelMouseMother: Would Merra\Ngive up on you?">
+<children>
+<image guid="nL6dfH4QDUWRnyXA_QM1iQ" name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="-208.89" y="-3.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="nL6dfH4QDUWRnyXA_QM1iQ" name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="-208.89" y="-3.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="102" parent="101" guid="Z2QCoFDjuke_TERsL2Urrw" x="15153.91" y="3215.19" palette="3" colorinfo="3" text="tilo: No... no\Nshe wouldn&apos;t."/>
+<topic id="103" parent="102" guid="b0bpb-WPCEWIc9uGVSCXQg" x="15153.91" y="3413.76" palette="3" colorinfo="3" text="rebelMouseSon: Aye, she\Nwouldn&apos;t. She&apos;s better than that."/>
+<topic id="104" parent="103" guid="h1pEVdFRZ06TjSD1Tc_SwQ" x="14945.91" y="3762.51" palette="3" colorinfo="3" text="rebelMouseSon: She was\Nput aboard the &apos;Rathskellan&apos;,\Nfor what it&apos;s worth.">
+<children>
+<image guid="rwOil_B3gkWzpJy3zGH4lw" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="159.17" y="-60.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="rwOil_B3gkWzpJy3zGH4lw" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="159.17" y="-60.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_changeTransportPlan.askMerraQuestionB]
+</note>
+</topic>
+<topic id="105" parent="104" guid="cAT-DE7umEq_ANR_QqxL_Q" x="14945.91" y="3898.76" palette="3" colorinfo="3" text="DIALOGUE_HUB"/>
+<topic id="106" parent="105" guid="JuPQL7DRbk-81E19HGDxRw" x="15211.16" y="4023.76" palette="3" colorinfo="3" text="tilo: The &apos;Rathskellan?&apos;">
+<note>
+[lockableThread:shipDescription][lockThread:shipDescription]
+</note>
+</topic>
+<topic id="107" parent="106" guid="6oKOGZeY90qR-Z7-r7JEwA" x="15211.16" y="4155.72" palette="3" colorinfo="3" text="rebelMouseSon: Aye, she&apos;s a\Ncargo ship working out of\N[Scarn]. She goes all over.">
+<note>
+[footnote:scarn_port]
+</note>
+</topic>
+<topic id="108" parent="105" guid="GB58R7c680-Y3wndpekXDw" x="14658.16" y="4001.76" palette="3" colorinfo="3" text="tilo: You&apos;re certain?"/>
+<topic id="109" parent="108" guid="6ZgxtfYhyECjUKy129BKjA" x="14658.16" y="4102.01" palette="3" colorinfo="3" text="rebelMouseSon: I remember her\Nfrom my time on the docks."/>
+<topic id="110" parent="109" guid="w0kOKFRIgE-VuwNTB5cREA" x="14658.16" y="4267.34" palette="3" colorinfo="3" text="rebelMouseSon: She was a\Nhandsome vessel once, one\Nof the first [Baladhonian] hoys.">
+<children>
+<image guid="avrD7fArD0WFZXiLCnSpEA" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="173.00" y="-54.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="avrD7fArD0WFZXiLCnSpEA" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="173.00" y="-54.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+<note>
+[footnote:badgers_baladhon]
+</note>
+</topic>
+<topic id="111" parent="110" guid="dZfS2RIyBkqAx9UP08gefg" x="14945.91" y="4388.86" palette="3" colorinfo="3" text="rebelMouseSon: It&apos;s not\Nmuch to go on, I know.">
+<children>
+<image guid="lB-g7iKj2Eu9WFe4FVelFQ" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="144.50" y="56.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="lB-g7iKj2Eu9WFe4FVelFQ" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="144.50" y="56.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:quest_changeTransportPlan.findSilas=inactive]
+</note>
+</topic>
+<topic id="112" parent="110" guid="UebGMwnvwECHVVOD6UtjUQ" x="14658.16" y="4393.59" palette="3" colorinfo="3" text="rebelMouseSon: It&apos;s not\Nmuch to go on, I know.">
+<children>
+<image guid="ZEcP9N51a0Cr7gEnzNKoZQ" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="-131.50" y="51.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="ZEcP9N51a0Cr7gEnzNKoZQ" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="-131.50" y="51.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+<note>
+[reveal:quest_changeTransportPlan.findSilas=active][unlockThread:finalFarewell][executeAction:playSound=shipBell]
+</note>
+</topic>
+<topic id="113" parent="105" guid="eDQHWIeopUyfBmS1TkmVIg" x="14945.91" y="4307.45" palette="3" colorinfo="3" text="tilo: Thank you, Tam."/>
+<topic id="114" parent="101" guid="u9N5kdf6HUOGa-M6uGHupQ" x="14791.30" y="3215.19" palette="3" colorinfo="3" text="tilo: It seems she\Nalready has, doesn&apos;t it?"/>
+<topic id="115" parent="114" guid="UKzKKBp8xkeG5D6gI066_A" x="14791.30" y="3413.76" palette="3" colorinfo="3" text="rebelMouseMother: Such\Nbitterness! It doesn&apos;t suit you, Tilo.">
+<children>
+<image guid="_esi84AJEUKcVS9VP0p0YQ" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-159.50" y="-58.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="_esi84AJEUKcVS9VP0p0YQ" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-159.50" y="-58.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="116" parent="115" guid="t9aUg5ypiEiThtthSBr-Ww" x="14791.30" y="3554.87" palette="3" colorinfo="3" text="rebelMouseMother: Merra\Ncares about you a great deal,\Nthat much was obvious."/>
+<topic id="117" parent="97" guid="XzFzCGYTNkSudZriCFWTJQ" x="15178.92" y="2583.36" palette="3" colorinfo="3" text="rebelMouseSon: [Dhall], perhaps?\NThat or some labour camp, I reckon.">
+<note>
+[footnote:dhall]
+</note>
+</topic>
+<topic id="118" parent="9" guid="v8IGpUjOp0uSWmMMDrf98Q" x="12966.58" y="2326.49" palette="3" colorinfo="3" text="tilo: Why do you\Nsupport the rebels?">
+<parent-relation guid="55pApdOHy0OXmw0wulAC3w"/>
+<note>
+[lockableThread:whySupportRebels=true][lockThread:whySupportRebels]
+</note>
+</topic>
+<topic id="119" parent="118" guid="nKAwzF2ickuhpLwDQyBRrA" x="12964.31" y="2467.09" palette="3" colorinfo="3" text="rebelMouseSon: [The\NSons of Asper], brother.\NCall them by their name.">
+<note>
+[footnote:council_asper]
+</note>
+</topic>
+<topic id="120" parent="119" guid="7O0FWK8nz0qXLKiRX2_QIw" x="12962.03" y="2607.70" palette="3" colorinfo="3" text="rebelMouseMother: You must know\Nthe lay &apos;The Poisoned Cup&apos;, yes?">
+<parent-relation guid="rOfj0QGCqEiK8t32HqTG0w"/>
+</topic>
+<topic id="121" parent="120" x="12776.52" y="2919.25" palette="3" colorinfo="3" text="tilo: The Poisoned\NCup? Why?"/>
+<topic id="122" parent="121" guid="ord8zNzJuk2yJg-gFcCrSQ" x="12776.52" y="3088.84" palette="3" colorinfo="3" text="rebelMouseSon: Oh,\Naye, he knows it."/>
+<topic id="123" parent="120" x="13174.85" y="3007.17" palette="3" colorinfo="3" text="tilo: Aye, of course..."/>
+<topic id="124" parent="123" guid="z0jm9gXXh0OZMRYSmU4Qsw" x="12979.35" y="3297.17" palette="3" colorinfo="3" text="rebelMouseMother: Then play it. Please.">
+<note>
+[executeAction:showSongBook][counter:quizPlayForRebels=2][showRenown:quizPlayForRebels]
+</note>
+</topic>
+<topic id="125" parent="124" guid="9J5GVL_Ju0KnRM8CQq15nQ" x="12985.85" y="3496.12" palette="3" colorinfo="3" text="DIALOGUE_HUB"/>
+<topic id="126" parent="125" guid="fcNVhLXQdEOBZRIt_-8eyw" x="12106.18" y="3994.05" palette="3" colorinfo="3" text="tilo: The Rat with Two Tails">
+<note>
+[executeAction:performSong=song_ratTwoTails][lockableThread:ratWithTwoTails][lockThread:ratWithTwoTails]
+</note>
+</topic>
+<topic id="127" parent="126" guid="G-LkWiD0ekSR2MXEF4-1oQ" x="12106.18" y="4128.66" palette="3" colorinfo="3" text="rebelMouseSon: Why would you\Nsing that in front of my mother?!">
+<children>
+<image guid="H9zuaPYXQEicrCNmhbLXiA" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="180.68" y="-69.96" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="H9zuaPYXQEicrCNmhbLXiA" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="180.68" y="-69.96" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizPlayForRebels][updateCounter:quizPlayForRebels-1]
+</note>
+</topic>
+<topic id="128" parent="127" guid="T8drnryslU-eHpJcUTiTsA" x="12106.18" y="4238.72" palette="3" colorinfo="3" text="rebelMouseMother: Oh, don&apos;t be naive, Tamlyn--I&apos;ve\Nheard worse. But it&apos;s not the song I asked for...">
+<children>
+<image guid="qKtxRhpoB0aE2jD2T8EmIQ" name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="293.41" y="-21.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</children>
+<images>
+<image guid="qKtxRhpoB0aE2jD2T8EmIQ" name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="293.41" y="-21.78" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</images>
+<note>
+[executeAction:showSongBook][showRenown:quizPlayForRebels]
+</note>
+</topic>
+<topic id="129" parent="125" guid="C2ksVz0vi0WWq3la_YPXUw" x="11671.92" y="3994.05" palette="3" colorinfo="3" text="tilo: The Poisoned Cup">
+<note>
+[executeAction:performSong=song_poisonedCup]
+</note>
+</topic>
+<topic id="130" parent="129" guid="Rq-FAoe3oEOY0BxALPDJaQ" x="11671.92" y="4323.27" palette="3" colorinfo="3" text="rebelMouseMother: After a thousand years,\Nthis is how our kind are still thought of.">
+<note>
+[executeAction:grantRenown=quizPlayForRebels]
+</note>
+</topic>
+<topic id="131" parent="130" guid="y34t5mBgbESBLdHZCVQvrg" x="11831.21" y="4487.07" palette="3" colorinfo="3" text="tilo: Do you really think\Nany of that matters to me?">
+<parent-relation guid="GHNqx0bRvUOAyDx3K4xo_g"/>
+</topic>
+<topic id="132" parent="131" guid="BQhBrTWLukCr3ScoiAZANw" x="11831.21" y="4662.47" palette="3" colorinfo="3" text="rebelMouseMother: Perhaps\Nnot--but it mattered to Merra.">
+<children>
+<image guid="Wj5QAK-5BEOOjUztPDOKPg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="197.95" y="5.49" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Wj5QAK-5BEOOjUztPDOKPg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="197.95" y="5.49" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="133" parent="130" guid="qoRdakj-JE6JFNixpMLNrA" x="11497.57" y="4487.07" palette="3" colorinfo="3" text="tilo: It&apos;s not my place\Nto rewrite history.">
+<parent-relation guid="Vj5v2OPd_0e0xu2wamNwxQ"/>
+</topic>
+<topic id="134" parent="133" guid="E4INIrsuV0uaKbowoop7Rg" x="11497.57" y="4662.47" palette="3" colorinfo="3" text="rebelMouseMother: Oh, I&apos;m not\Nsuggesting it should be forgotten."/>
+<topic id="135" parent="134" guid="E7uDKyoqAUy86f8rzRTBhA" x="11497.57" y="4760.52" palette="3" colorinfo="3" text="rebelMouseMother: But still,\Nwe&apos;re punished for it every day.">
+<children>
+<image guid="LNS2DWz70UekzOSGwD5t2w" name="cbfdff49336c839eddae126f858a309e97f33b11" x="-200.39" y="-6.26" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="LNS2DWz70UekzOSGwD5t2w" name="cbfdff49336c839eddae126f858a309e97f33b11" x="-200.39" y="-6.26" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="136" parent="135" guid="beEo4ll9BEe_qsVYeW23hA" x="11671.92" y="4918.58" palette="3" colorinfo="3" text="rebelMouseSon: Why should we\Nsuffer for our ancestors&apos; sins?">
+<parent-relation guid="wOLFxE6NIEKmveJ7OvCEwA"/>
+<children>
+<image guid="s85qP7pBGkeK6LvRVS8MlA" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="195.50" y="-17.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="s85qP7pBGkeK6LvRVS8MlA" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="195.50" y="-17.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="137" parent="125" guid="Znol7E5h-0ixuYDZixiHvg" x="12694.45" y="3971.77" palette="3" colorinfo="3" text="tilo: The Maiden Wouldn&apos;t Sing">
+<parent-relation guid="qy1_IYylc0GHH6ilu0qCcA"/>
+<note>
+[executeAction:performSong=song_maiden][lockableThread:balladofMerra][lockThread:balladofMerra]
+</note>
+</topic>
+<topic id="138" parent="137" guid="dEkmG5_qMUeKxH7A4bDK7g" x="12694.45" y="4175.94" palette="3" colorinfo="3" text="rebelMouseMother: I can picture\Nher, standing there before the\N[Baron]. Merra&apos;s a brave one, indeed.">
+<children>
+<image guid="wm3FBFlRrUq-NmRghqc47w" name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="14.00" y="98.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="wm3FBFlRrUq-NmRghqc47w" name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="14.00" y="98.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</images>
+<note>
+[executeAction:showSongBook][showRenown:quizPlayForRebels][updateCounter:quizPlayForRebels-1][footnote:baron_osdrik]
+</note>
+</topic>
+<topic id="139" parent="125" guid="OF6lM35gJ0SLAVGZlqDLvw" x="13130.47" y="3980.10" palette="3" colorinfo="3" text="tilo: Heaven in a Bottle">
+<note>
+[executeAction:performSong=song_pirateSong][lockableThread:drinkingShanty][lockThread:drinkingShanty]
+</note>
+</topic>
+<topic id="140" parent="139" guid="wfKoka835EOF0gD4zTSRcQ" x="13130.47" y="4175.94" palette="3" colorinfo="3" text="rebelMouseMother: A shot of [rotgut]\Nwould do me wonders about now, honestly.">
+<children>
+<image guid="6TSqc34Iwkae55JvMSGBww" name="0e56ba13e4056dac54d164206a036c72bd6028ea" x="166.59" y="-79.51" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_tired.png"/>
+</image>
+</children>
+<images>
+<image guid="6TSqc34Iwkae55JvMSGBww" name="0e56ba13e4056dac54d164206a036c72bd6028ea" x="166.59" y="-79.51" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_tired.png"/>
+</image>
+</images>
+<note>
+[footnote:rotgut][showRenown:quizPlayForRebels][updateCounter:quizPlayForRebels-1]
+</note>
+</topic>
+<topic id="141" parent="140" guid="1ye5uBjvk0Gj5bcxsTxPxw" x="12736.47" y="4474.27" palette="3" colorinfo="3" text="tilo: Rotgut? Here--help yourself.">
+<note>
+[reveal:hasItem=bottle_rotgut*1]
+</note>
+</topic>
+<topic id="142" parent="141" guid="HY1hk8sni0KEBYdTk5zqGQ" x="12736.47" y="4632.60" palette="3" colorinfo="3" text="You pull a bottle of rotgut from your\Npouch, and offer it to Farrow. She takes\Na swig, and passes it back to you.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="143" parent="142" guid="r1EPxXFVTkyyMM_Tg7ASOw" x="12736.47" y="4860.94" palette="3" colorinfo="3" text="rebelMouseMother:\NThat&apos;s the stuff!">
+<children>
+<image guid="mMwcJLp_00Sgimrzl7zb1Q" name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="88.33" y="-75.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</children>
+<images>
+<image guid="mMwcJLp_00Sgimrzl7zb1Q" name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="88.33" y="-75.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizPlayForRebels]
+</note>
+</topic>
+<topic id="144" parent="140" guid="N1eBvUUAXkiqNjZ5cilF2g" x="13130.47" y="4474.27" palette="3" colorinfo="3" text="tilo: You probably should\Nkeep a clear head..."/>
+<topic id="145" parent="144" guid="p1P29FeDTUGVk5XKjNxi2g" x="13130.47" y="4632.60" palette="3" colorinfo="3" text="rebelMouseMother: Nonsense! I do\Nsome of my best thinking soused.">
+<children>
+<image guid="_NxrtGmDXEGrbcuxFTYe7w" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="191.67" y="-74.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="_NxrtGmDXEGrbcuxFTYe7w" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="191.67" y="-74.20" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizPlayForRebels]
+</note>
+</topic>
+<topic id="146" parent="140" guid="YR48NN6PR0OhZMltPiWftQ" x="13483.14" y="4474.27" palette="3" colorinfo="3" text="tilo: Ha! Sorry I\Ncan&apos;t help!">
+<note>
+[reveal:hasItem=bottle_rotgut*0]
+</note>
+</topic>
+<topic id="147" parent="146" guid="ADye_Za2JUW1D7zctfMZ2g" x="13130.47" y="4860.94" palette="3" colorinfo="3" text="rebelMouseSon: Mother,\Nplease. Brother, the song?">
+<children>
+<image guid="Fn_0isE7gU6iBxszvOS84A" name="2aa41da66f9a19455e83de10b50410f04572403a" x="161.82" y="-65.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="Fn_0isE7gU6iBxszvOS84A" name="2aa41da66f9a19455e83de10b50410f04572403a" x="161.82" y="-65.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_angry.png"/>
+</image>
+</images>
+<note>
+[executeAction:showSongBook][showRenown:quizPlayForRebels]
+</note>
+</topic>
+<topic id="148" parent="125" guid="jm8Dzd-kqUe4mhRUitf7vQ" x="13534.13" y="3980.10" palette="3" colorinfo="3" text="tilo: A Murder of Crows">
+<note>
+[executeAction:performSong=song_insultingSong][lockableThread:gatheringSong][lockThread:gatheringSong]
+</note>
+</topic>
+<topic id="149" parent="148" guid="VpTB4W5oOkSmMibp8ONQvA" x="13534.13" y="4175.94" palette="3" colorinfo="3" text="rebelMouseSon: True\Nenough, though not the song\NMother asked for...">
+<children>
+<image guid="771H1rNsZk2Mh45ITFfNHw" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="98.33" y="-98.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="771H1rNsZk2Mh45ITFfNHw" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="98.33" y="-98.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+<note>
+[executeAction:showSongBook][showRenown:quizPlayForRebels][updateCounter:quizPlayForRebels-1]
+</note>
+</topic>
+<topic id="150" parent="125" guid="lDt_I8_YOUWly56t9tWrSQ" x="13950.78" y="3989.49" palette="3" colorinfo="3" text="tilo: The Ballad of\Nthe Coward King">
+<note>
+[executeAction:performSong=song_cowardKing][lockableThread:balladOfTheCowardKing][lockThread:balladOfTheCowardKing]
+</note>
+</topic>
+<topic id="151" parent="150" guid="PdrmxoHTxkuubaLLPJI3cQ" x="13950.78" y="4111.92" palette="3" colorinfo="3" text="rebelMouseSon: [Rodrik]... that scrunt&apos;s as\Nmuch to blame for all of this as any Mouse.">
+<children>
+<image guid="aKQJE6pfBkGlqLwsknCnYg" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="152.50" y="-82.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="aKQJE6pfBkGlqLwsknCnYg" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="152.50" y="-82.54" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizPlayForRebels][updateCounter:quizPlayForRebels-1][footnote:king_rodrik]
+</note>
+</topic>
+<topic id="152" parent="151" guid="6AdAJgcQw0mxi71EL2cYsQ" x="13950.78" y="4236.21" palette="3" colorinfo="3" text="rebelMouseMother: Watch your tongue,\Nbuck! You&apos;re not working the docks now.">
+<children>
+<image guid="2-5IJJgwKEOYJDTd-Cpwbw" name="4c172c0be7a5ef5a23fa53f92301ded8ff2032fc" x="-165.00" y="75.60" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="2-5IJJgwKEOYJDTd-Cpwbw" name="4c172c0be7a5ef5a23fa53f92301ded8ff2032fc" x="-165.00" y="75.60" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_angry.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizPlayForRebels]
+</note>
+</topic>
+<topic id="153" parent="152" guid="tFx-rv4zFkG6daroVLmOLg" x="13950.78" y="4383.35" palette="3" colorinfo="3" text="rebelMouseSon: Sorry, Mother.">
+<note>
+[executeAction:showSongBook][showRenown:quizPlayForRebels]
+</note>
+</topic>
+<topic id="154" parent="125" guid="mtgDurEqVU2qCpCj4h3oqw" x="14322.92" y="3981.28" palette="3" colorinfo="3" text="tilo: Rascals&apos; Whirligig">
+<note>
+[lockableThread:balladOfThieves][lockThread:balladOfThieves][executeAction:performSong=song_gustoAndFatale][reveal:counter.dialog_gustoAndFatale.composed_song_gustoAndFatale=1]
+</note>
+</topic>
+<topic id="155" parent="154" guid="sE38fnbC2kOCmUmAg0qCyw" x="14322.92" y="4090.96" palette="3" colorinfo="3" text="rebelMouseSon: Aye,\Nthat one&apos;s alright!">
+<note>
+[showRenown:quizPlayForRebels][updateCounter:quizPlayForRebels-1]
+</note>
+</topic>
+<topic id="156" parent="155" guid="p3E_PiBIEkysgAFiABKKmQ" x="14322.92" y="4208.46" text="rebelMouseSon: Not the\Nright song by a long\Nshot, but I like it!">
+<children>
+<image guid="kp_ZKHI2rE2qE2cS7goLmg" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="120.00" y="76.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="kp_ZKHI2rE2qE2cS7goLmg" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="120.00" y="76.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+<note>
+[executeAction:showSongBook][showRenown:quizPlayForRebels]
+</note>
+</topic>
+<topic id="157" parent="125" guid="RVYalOoEekq-y9Rt2s3bZg" x="11277.34" y="3990.35" palette="3" colorinfo="3" text="tilo: The\NGilded Warrior">
+<note>
+[lockableThread:gildedWarrior][lockThread:gildedWarrior][executeAction:performSong=song_gildedWarrior]
+</note>
+</topic>
+<topic id="158" parent="157" guid="Xw_cKJfCw06XxaVJ_hOXxA" x="11277.34" y="4096.61" palette="3" colorinfo="3" text="rebelMouseSon: You know,\Nthere are some believe that\N[Duinlan] was actually a Mouse!">
+<note>
+[executeAction:showSongBook][showRenown:quizPlayForRebels][updateCounter:quizPlayForRebels-1][footnote:wardens_flame]
+</note>
+</topic>
+<topic id="159" parent="9" guid="1lz6sujVeUGqF5mxa0hMNQ" x="2149.16" y="-342.01" palette="3" colorinfo="3" text="tilo: Tell me, when\Ndid this all happen?">
+<parent-relation guid="_MKQx11zJU6-x4cTbU3_0A"/>
+<note>
+[lockableThread:whenHappen=true][lockThread:whenHappen][unlockThread:talkAboutBaron]
+</note>
+</topic>
+<topic id="160" parent="159" guid="4-jPBFCBz069vXHX-i9m_w" x="2149.16" y="-155.45" palette="3" colorinfo="3" text="rebelMouseSon: We left the port, oh,\Nthree or four days past, must have been.">
+<parent-relation guid="LKJHv6Rn3U-xLmfqwntCjQ"/>
+</topic>
+<topic id="161" parent="9" guid="JfGXESsaHEymgjySrl3TDA" x="797.61" y="-421.04" palette="3" colorinfo="3" text="tilo: What are the\Ncharges against you?">
+<parent-relation guid="LI_joze5u0m3yJYHpYiA8Q"/>
+<note>
+[lockableThread:rebelMiceCharges=true][lockThread:rebelMiceCharges]
+</note>
+</topic>
+<topic id="162" parent="161" guid="AyP7GLaiJ0-AacquUGjPxg" x="797.61" y="-308.74" palette="3" colorinfo="3" text="rebelMouseSon: &apos;Acts of\NSedition&apos;, like you, and Merra."/>
+<topic id="163" parent="162" guid="mReks5bl9USlZvRkClhG7Q" x="797.61" y="-183.18" palette="3" colorinfo="3" text="rebelMouseSon: We&apos;re\Nall in the same boat."/>
+<topic id="164" parent="163" guid="BAIeAIl2a0C7WMLq2aiQrg" x="979.68" y="22.04" palette="3" colorinfo="3" text="tilo: Aye--it seems\Nto be catching.">
+<parent-relation guid="IPpLZfG3mkiT8chCZdBxIg"/>
+</topic>
+<topic id="165" parent="164" guid="OrY5mQ0i3UeGh1enLGVK_w" x="979.68" y="206.14" palette="3" colorinfo="3" text="rebelMouseSon: Ha! More\Nthan you know, brother.">
+<children>
+<image guid="emZ81BxTd0e5GfttsEfc6A" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="139.09" y="-79.39" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="emZ81BxTd0e5GfttsEfc6A" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="139.09" y="-79.39" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="166" parent="163" guid="Zo7twtzebEGLfImovI0nSA" x="608.76" y="22.04" palette="3" colorinfo="3" text="tilo: Merra and I did\Nnothing wrong.">
+<parent-relation guid="mFJmRCe-gkSDbShp1xhU2w"/>
+</topic>
+<topic id="167" parent="166" guid="bWZKxz9HMEqKXzikLNd67w" x="608.76" y="206.14" palette="3" colorinfo="3" text="rebelMouseSon: Ha! Neither did we,\Nbrother. Illegal, maybe, but not wrong.">
+<children>
+<image guid="KPNsCW2Mo0ucMxCkQpv3Gg" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="141.82" y="-83.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="KPNsCW2Mo0ucMxCkQpv3Gg" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="141.82" y="-83.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="168" parent="163" guid="A8FrwKXa80SInoLN1OGU7w" x="78.36" y="-183.18" palette="3" colorinfo="3" text="tilo: Literally."/>
+<topic id="169" parent="168" guid="JHBMeI3XT0S_fkeomK5cqQ" x="78.36" y="-45.68" palette="3" colorinfo="3" text="rebelMouseSon:\NWhat?"/>
+<topic id="170" parent="169" guid="8CLx6u4DW0CTIyr1X3DhaA" x="255.61" y="206.14" palette="3" colorinfo="3" text="tilo: Never mind... Merra\Nand I did nothing wrong."/>
+<topic id="171" parent="169" guid="AC8PVYaMKkGRvoHgPAVUiQ" x="-74.39" y="73.07" palette="3" colorinfo="3" text="tilo: We&apos;re literally\Nin the same boat."/>
+<topic id="172" parent="171" guid="mpgpJyRZTUeJufTOjeztrA" x="-74.39" y="206.14" palette="3" colorinfo="3" text="rebelMouseSon: Aye,\Nthat&apos;s what I said."/>
+<topic id="173" parent="172" guid="ixNs11IeW0e1US5Qh8FgbA" x="-74.39" y="334.32" palette="3" colorinfo="3" text="tilo: I-I was making a joke?"/>
+<topic id="174" parent="173" guid="rcUIRJje9USVQZtkSqrVHQ" x="-74.39" y="453.76" palette="3" colorinfo="3" text="rebelMouseSon: There&apos;s\Nnothing funny about this, Mouse."/>
+<topic id="175" parent="9" guid="SH8gJ2lR-0mCSZ-FHgpPyw" x="2640.93" y="-197.35" palette="3" colorinfo="3" text="tilo: Did Merra talk about the\NBaron, and what happened?">
+<parent-relation guid="r7CTbA31tUG7Qd6Gcx_uqA"/>
+<note>
+[reveal:quest_transportRendezvous=inactive|quest_transportRendezvous=active][lockableThread:talkAboutBaron=true][lockThread:talkAboutBaron]
+</note>
+</topic>
+<topic id="176" parent="175" guid="KrflnfwKEEaz1Y_auNQzcw" x="2640.93" y="-53.93" palette="3" colorinfo="3" text="rebelMouseSon: Not with me. I&apos;ve heard only\Nbits and pieces since, from Mother."/>
+<topic id="177" parent="176" guid="2yKfyE9NCUuj3LaHx08iOg" x="2486.07" y="108.93" palette="3" colorinfo="3" text="tilo: I see..."/>
+<topic id="178" parent="177" guid="vFdTZzOI8k-t1L-ULZGTbA" x="2486.07" y="262.71" palette="3" colorinfo="3" text="rebelMouseSon: Once she wakes\NI&apos;m sure she&apos;ll be able\Nto tell you more."/>
+<topic id="179" parent="178" guid="f3dkViRDZ0-bH9591VxUQA" x="2322.96" y="1047.95" palette="3" colorinfo="3" text="NULL NODE">
+<parent-relation guid="YcC2iuxPXEy4kqPqtKYmxw"/>
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="180" parent="176" guid="5cjvqF8jHEKdh3fe1OQ6jQ" x="2814.65" y="114.64" palette="3" colorinfo="3" text="tilo: Oh?"/>
+<topic id="181" parent="180" guid="5LvH5Xdu9kWJYm9yQ9BGEA" x="2814.65" y="262.71" palette="3" colorinfo="3" text="rebelMouseSon: Mother and\NMerra were held together in\Nthe same cell.">
+<parent-relation guid="GFmq1vQp3Eyi3Hy3hxUrEA"/>
+</topic>
+<topic id="182" parent="9" guid="5RT6mmP0cEKyietg3bkY2Q" x="14318.63" y="2195.37" palette="3" colorinfo="3" text="tilo: How was it you were able to\Narrange Tam&apos;s release after the riots?">
+<note>
+[lockableThread:howSonEscaped=true][lockThread:howSonEscaped]
+</note>
+</topic>
+<topic id="183" parent="182" guid="ac0sLPDXOU6jq8XzBFycYQ" x="14318.63" y="2337.47" palette="3" colorinfo="3" text="rebelMouseMother: Well, some years\Nback the [Baron]&apos;s convoy was\Nambushed on the Pesa road.">
+<note>
+[footnote:baron_osdrik]
+</note>
+</topic>
+<topic id="184" parent="183" guid="8AumBPxOF0iiBlc87LX-xA" x="14116.96" y="2532.48" palette="3" colorinfo="3" text="tilo: Go on..."/>
+<topic id="185" parent="184" guid="NBCojDZzU0OLqPF1PR7-gg" x="14319.19" y="2761.66" palette="3" colorinfo="3" text="rebelMouseMother: He was\Nbrought to the freehold, badly hurt.">
+<parent-relation guid="VE1YMufEGEaXPLSfYrxaiQ"/>
+</topic>
+<topic id="186" parent="185" guid="vBjHK8Q1mk25H_M_tyXWEw" x="14319.19" y="2868.42" palette="3" colorinfo="3" text="rebelMouseMother: [Osdrik]\Nstayed with us nearly six weeks\Nwhile I nursed him back to health.">
+<note>
+[footnote:baron_osdrik]
+</note>
+</topic>
+<topic id="187" parent="186" guid="nT0bNVsCikuPVpRBcX8vIA" x="14319.19" y="2997.44" palette="3" colorinfo="3" text="rebelMouseSon: If it was down\Nto me I would have let him rot.">
+<children>
+<image guid="gbwNBMSdwEuM3fx9Hd0H1A" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="186.25" y="-7.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="gbwNBMSdwEuM3fx9Hd0H1A" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="186.25" y="-7.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="188" parent="187" guid="qQfxiF3Gokai7AmV0OeXow" x="14319.19" y="3117.99" palette="3" colorinfo="3" text="rebelMouseMother: Then you would\Nhave been hanged in Worall with the others."/>
+<topic id="189" parent="183" guid="h7l44p8MGEGmVQbAXpzyPw" x="14535.91" y="2445.68" palette="3" colorinfo="3" text="tilo: Ambushed\Nby whom?"/>
+<topic id="190" parent="189" guid="EooMJ3ND4EeGUmz_rCZg4A" x="14535.91" y="2544.70" palette="3" colorinfo="3" text="rebelMouseMother: There are those\Nin the Red Paw would like to see\N[Osdrik&apos;s] seat on the council empty.">
+<children>
+<image guid="mx-6k5MwY0qQMwcNPjpDEg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="207.50" y="-70.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="mx-6k5MwY0qQMwcNPjpDEg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="207.50" y="-70.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+<note>
+[footnote:baron_osdrik]
+</note>
+</topic>
+<topic id="191" parent="190" guid="hXeQ5R0MIE-3w_Wsd650tA" x="14535.91" y="2649.55" palette="3" colorinfo="3" text="rebelMouseMother: The [Baron]\Nwas raised in Muridea, and is\Nnot unsympathetic to our plight.">
+<parent-relation guid="hA5vwaNfP0O5VcvI3m6oPQ"/>
+<note>
+[footnote:baron_osdrik]
+</note>
+</topic>
+<topic id="192" parent="9" guid="_lk5aQwtIEqVl9ekN9Fp3w" x="10661.07" y="1570.38" palette="3" colorinfo="3" text="tilo: Great Birham... What&apos;s\Nhappened at Birham?">
+<parent-relation guid="Fw6sxwbDXUG05YMfBLi0CQ"/>
+<note>
+[lockableThread:newsOfUprising=true][lockThread:newsOfUprising]
+</note>
+</topic>
+<topic id="193" parent="192" guid="OyatcP7x5EG513O_g4-dzA" x="10661.07" y="1706.63" palette="3" colorinfo="3" text="rebelMouseSon: You haven’t heard? ">
+<children>
+<image guid="7fSSzQq_b0e5G8uiqoyNVA" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="209.17" y="-19.76" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="7fSSzQq_b0e5G8uiqoyNVA" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="209.17" y="-19.76" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="194" parent="193" guid="MxdAS7g8ok2CMvyMPZtJQA" x="10661.07" y="1812.31" palette="3" colorinfo="3" text="rebelMouseMother: The [Red Paw]&apos;s garrison\Nthere was burned to the ground.">
+<note>
+[footnote:red_paw]
+</note>
+</topic>
+<topic id="195" parent="194" guid="WfQyrhpkAEWiacridSnp0A" x="10661.07" y="1936.08" palette="3" colorinfo="3" text="rebelMouseMother: They&apos;re\Nblaming it on Mice.">
+<children>
+<image guid="LalsVnNwbEOKFdVDnm01aQ" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="173.75" y="-14.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="LalsVnNwbEOKFdVDnm01aQ" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="173.75" y="-14.62" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="196" parent="195" guid="SDyH7Rk64E6pJfoA2ixAoA" x="10829.99" y="2089.12" palette="3" colorinfo="3" text="rebelMouseSon: [Scrunts].">
+<children>
+<image guid="uh9dmjqnWUq0pG1CZRAxAg" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="159.77" y="-23.60" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="uh9dmjqnWUq0pG1CZRAxAg" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="159.77" y="-23.60" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+<note>
+[footnote:scrunt][lockableThread:garrisonBurned=true][lockThread:garrisonBurned]
+</note>
+</topic>
+<topic id="197" parent="9" x="5308.70" y="-473.98" palette="3" colorinfo="3" text="DIALOGUE_HUB_C"/>
+<topic id="198" parent="197" guid="y44ZuZQ5rEyA7Dg_KVawOg" x="6284.19" y="-1653.10" palette="3" colorinfo="3" text="tilo: Forgive me, I have to go...">
+<parent-relation guid="NnmNuQ3JxU6CJqlPnhqWHg"/>
+</topic>
+<topic id="199" parent="198" guid="edLk7gxpWUWnQ_qoi6LakA" x="6284.19" y="-1533.87" palette="3" colorinfo="3" text="rebelMouseMother: I\Nthink it&apos;s time...">
+<children>
+<image guid="G0-4qiNISkKiZYPiqEKfnA" name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="142.31" y="64.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="G0-4qiNISkKiZYPiqEKfnA" name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="142.31" y="64.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</images>
+<note>
+[lockableThread:finalFarewell=true][lockThread:finalFarewell]
+</note>
+</topic>
+<topic id="200" parent="8" guid="y5tlksFyVUGhUsKRY7h9FQ" x="5173.39" y="1582.96" palette="3" colorinfo="3" text="tilo: I have the key!">
+<parent-relation guid="-AIq8jCukkSVnTlfg33nWw"/>
+<note>
+[reveal:quest_transportRendezvous.returnToTransport=active][lockThread:talkAboutBaron;lastSeeMerra]
+</note>
+</topic>
+<topic id="201" parent="200" guid="qRy0WIgwvUqqFANPXo9vLg" x="5173.39" y="1824.35" palette="3" colorinfo="3" text="rebelMouseSon: Good! Hurry, unlock\Nthe shackles before the guards return!">
+<note>
+[completeTask:quest_transportRendezvous.returnToTransport]
+</note>
+</topic>
+<topic id="202" parent="201" guid="zfC105HUmEumDDOnJshvnA" x="4924.64" y="2060.60" palette="3" colorinfo="3" text="tilo: Alright, let\Nme take a look..."/>
+<topic id="203" parent="202" guid="VksElRQtZ0qBRlsdvu51IA" x="4924.64" y="2263.10" palette="3" colorinfo="3" text="rebelMouseMother:\NIdiots!">
+<children>
+<image guid="CMh7hii8rE-2xZYviACVRw" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-133.50" y="-34.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="CMh7hii8rE-2xZYviACVRw" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-133.50" y="-34.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="204" parent="203" guid="MSW4xzNZPUeFQTydfvc3ng" x="5173.39" y="2481.85" palette="3" colorinfo="3" text="rebelMouseSon: Mother-!">
+<children>
+<image guid="43tVCzCW60qXxzyQvU5rCg" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="-163.21" y="-23.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="43tVCzCW60qXxzyQvU5rCg" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="-163.21" y="-23.73" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="205" parent="204" guid="GqiyYo6yU0qA8cTq9NbUOA" x="5173.39" y="2595.96" palette="3" colorinfo="3" text="rebelMouseMother: What good is\Nescaping here? Where will we go?">
+<children>
+<image guid="hXsC_AL98UqtinuWtutyMQ" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-208.50" y="43.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="hXsC_AL98UqtinuWtutyMQ" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-208.50" y="43.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="206" parent="205" guid="W0IgUCR6cEKVm4n_zfZqWg" x="5173.39" y="2850.85" palette="3" colorinfo="3" text="rebelMouseSon:\NMother, this is-">
+<parent-relation guid="cV69P3-aakmE8ZBnjsuMgA"/>
+<children>
+<image guid="OhtLijT74U6P2LayXU1u4A" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="108.50" y="-23.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="OhtLijT74U6P2LayXU1u4A" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="108.50" y="-23.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="207" parent="206" guid="QJFYAMWpx0-iKIBdqRoSSw" x="5173.39" y="2973.10" palette="3" colorinfo="3" text="rebelMouseMother: Merra&apos;s\Nhusband, the minstrel. I might be\Nold, but I have at least one good ear.">
+<children>
+<image guid="2kILSGf14EWpYjKuDD5C4Q" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="240.65" y="-3.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="2kILSGf14EWpYjKuDD5C4Q" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="240.65" y="-3.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="208" parent="207" guid="CsVdV46O1E6Zqh-skBZzGQ" x="5173.39" y="3194.35" palette="3" colorinfo="3" text="tilo: I understand\Nyou spoke with her?"/>
+<topic id="209" parent="208" guid="GJT2p64ecUO8eLyzX-r7lg" x="5173.39" y="3365.60" palette="3" colorinfo="3" text="rebelMouseMother: I did, a\Ngood deal. But we&apos;ll get to that."/>
+<topic id="210" parent="209" guid="k8THFC4Mdk26H69wgvUXKA" x="5173.39" y="3572.29" palette="3" colorinfo="3" text="rebelMouseMother: Tamlyn,\Ntake the key. We&apos;ll need it later.">
+<children>
+<image guid="WE_MaOx_g0iIShDCXAOrOg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="201.50" y="44.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="WE_MaOx_g0iIShDCXAOrOg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="201.50" y="44.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+<note>
+[executeAction:giveItem=key_rebels]
+</note>
+</topic>
+<topic id="211" parent="210" guid="hcztTgfIVEWSECsHWgzz6w" x="5173.39" y="3779.17" palette="3" colorinfo="3" text="rebelMouseMother: I&apos;d say we don&apos;t have\Nmuch time before the guards return. Let&apos;s\Nsee if we can&apos;t find a way out of this.">
+<parent-relation guid="bgqntYnt6kGYCubYLjs3xQ"/>
+<note>
+[unlockThread:waitForSafeHarbor]
+</note>
+</topic>
+<topic id="212" parent="211" guid="P2G9hvUAPUOqlJIGxJMCPQ" x="4868.10" y="4064.17" palette="3" colorinfo="3" text="tilo: You could take the boat--leave now?"/>
+<topic id="213" parent="212" guid="lMj8_4a6REumlHqKBobk8A" x="4868.10" y="4354.17" palette="3" colorinfo="3" text="rebelMouseMother: Ha! A\Nfarmer, a minstrel and an old\Nmaid--it&apos;s quite the crew!">
+<children>
+<image guid="DA3iTYnDiUOMRIi434go6w" name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="175.23" y="-40.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</children>
+<images>
+<image guid="DA3iTYnDiUOMRIi434go6w" name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="175.23" y="-40.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</images>
+</topic>
+<topic id="214" parent="213" guid="XnPzsFlS70S6mpISCPTS9A" x="4868.10" y="4664.09" palette="3" colorinfo="3" text="tilo: Listen, I have to go... but\NI&apos;ll be back soon, I promise.">
+<parent-relation guid="sfCcladyrU2gGnigQJpRaQ"/>
+</topic>
+<topic id="215" parent="207" guid="1viUs8eJCkiyABfPcNhqGw" x="5528.64" y="3194.35" palette="3" colorinfo="3" text="tilo: Aye, I&apos;m Tilo, and I&apos;m\Non a quest to find her."/>
+<topic id="216" parent="215" guid="71kI1OiCR0Ovosrs7fLyVw" x="5528.64" y="3365.60" palette="3" colorinfo="3" text="rebelMouseMother: &quot;Quest&quot;?\NSuch a hero! &quot;Quest&quot;. Ha!">
+<children>
+<image guid="2vkn9GeTL0K1bDMBmQwwwQ" name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="169.50" y="58.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</children>
+<images>
+<image guid="2vkn9GeTL0K1bDMBmQwwwQ" name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="169.50" y="58.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</images>
+</topic>
+<topic id="217" parent="207" guid="GxTLCtLGLU6x6ksc2-lIUQ" x="4782.89" y="3194.35" palette="3" colorinfo="3" text="tilo: How are you feeling?"/>
+<topic id="218" parent="217" guid="TOoXj27LLkCeuefumTDHfg" x="4782.89" y="3365.60" palette="3" colorinfo="3" text="rebelMouseMother:\NWell enough."/>
+<topic id="219" parent="201" guid="lVhtWICMp0G1Pb0augAnUQ" x="5450.39" y="2060.60" palette="3" colorinfo="3" text="tilo: Wait--I don&apos;t think\Nthat&apos;s a good idea..."/>
+<topic id="220" parent="219" guid="v-73jhj1H0qMXaFjvibQkA" x="5450.39" y="2263.10" palette="3" colorinfo="3" text="rebelMouseMother: At least\None of you has some sense!">
+<children>
+<image guid="wmJJyoIWsEWitjuHzwI4Fg" name="0e56ba13e4056dac54d164206a036c72bd6028ea" x="127.50" y="-73.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_tired.png"/>
+</image>
+</children>
+<images>
+<image guid="wmJJyoIWsEWitjuHzwI4Fg" name="0e56ba13e4056dac54d164206a036c72bd6028ea" x="127.50" y="-73.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_tired.png"/>
+</image>
+</images>
+</topic>
+<topic id="221" parent="8" guid="4E3OvvPeBUaYQoXjTx61rg" x="8035.48" y="1162.68" palette="3" colorinfo="3" text="tilo: Here, I have the ship&apos;s itinerary!">
+<parent-relation guid="lvkjcxKDU0y1kdXZKSLKyA"/>
+<note>
+[reveal:quest_changeTransportPlan.returnToTransport=active]
+</note>
+</topic>
+<topic id="222" parent="221" guid="Qh7xc4BV0UKYYz6sP_iYcA" x="8035.48" y="1333.51" palette="3" colorinfo="3" text="rebelMouseMother: Good. Now, let&apos;s hope there&apos;s a friendly\Nport of call between here and Castelbrook."/>
+<topic id="223" parent="222" guid="_BvOZG8Q_USjoxZwfCRMSA" x="8035.48" y="1497.68" palette="3" colorinfo="3" text="rebelMouseSon: You must know this coastline\Nup and down, Tilo. Where do you suggest?">
+<parent-relation guid="jZ0dRaI6skGEnajXLalQNA"/>
+<note>
+[completeTask:quest_changeTransportPlan.returnToTransport][counter:quizSafePort=4][showRenown:quizSafePort]
+</note>
+</topic>
+<topic id="224" parent="223" guid="x9-nhRhhvk29mYfi8IgwGA" x="8035.48" y="1634.76" palette="3" colorinfo="3" text="DIALOGUE_HUB"/>
+<topic id="225" parent="224" guid="rk4IBkL0B0K5pbOVdsSPnQ" x="7308.81" y="1794.35" palette="3" colorinfo="3" text="tilo: How about\NYarton-on-Threeve?">
+<parent-relation guid="n3R3k3V74E2QC-QbvYQiJg"/>
+<note>
+[lockableThread:chooseYarnton][lockThread:chooseYarnton]
+</note>
+</topic>
+<topic id="226" parent="225" guid="HXpxYEMLRUibHs69uXpm-Q" x="7308.81" y="2282.68" palette="3" colorinfo="3" text="rebelMouseMother: Yarton&apos;s under\Nquarantine--Lassa Fever.\NBroke out six weeks ago.">
+<note>
+[showRenown:quizSafePort][updateCounter:quizSafePort-1]
+</note>
+</topic>
+<topic id="227" parent="226" guid="fDb-brjo1kyG9YFwHyLGNQ" x="8042.31" y="2651.01" palette="3" colorinfo="3" text="rebelMouseMother: Try again."/>
+<topic id="228" parent="224" guid="sPWnzzpKL0CU_ciA5jV2Kg" x="7590.14" y="1794.35" palette="3" colorinfo="3" text="tilo: I suppose\Nyou could try Thrume?">
+<parent-relation guid="qYhsTn5x5kmue0E_p7-qyA"/>
+<note>
+[lockableThread:chooseThrume][lockThread:chooseThrume]
+</note>
+</topic>
+<topic id="229" parent="228" guid="oZ5EAdLJ0U-9VRQNU9bsbA" x="7590.14" y="2174.18" palette="3" colorinfo="3" text="rebelMouseMother: Thrume? Thrume was\Nabandoned a few years back,\Nafter the floods.">
+<children>
+<image guid="1QYWSlr5uE65I8n_4KOhoQ" name="0e56ba13e4056dac54d164206a036c72bd6028ea" x="-166.25" y="-92.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_tired.png"/>
+</image>
+</children>
+<images>
+<image guid="1QYWSlr5uE65I8n_4KOhoQ" name="0e56ba13e4056dac54d164206a036c72bd6028ea" x="-166.25" y="-92.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_tired.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizSafePort]
+</note>
+</topic>
+<topic id="230" parent="229" guid="6eGJgGZMckurDsjIAH4sjA" x="7590.14" y="2393.35" palette="3" colorinfo="3" text="rebelMouseMother: It will\Nbe a mosquito&apos;s heaven up\Nthere by now...">
+<note>
+[showRenown:quizSafePort][updateCounter:quizSafePort-1]
+</note>
+</topic>
+<topic id="231" parent="224" guid="BR2013InLEaXmdb8FA7LOQ" x="7881.81" y="1794.35" palette="3" colorinfo="3" text="tilo: I&apos;d recommend, I\Ndon&apos;t know... Panbury?">
+<parent-relation guid="WwrfuaoQ1E-LIy4l9z8E7A"/>
+<note>
+[lockableThread:choosePanbury][lockThread:choosePanbury]
+</note>
+</topic>
+<topic id="232" parent="231" guid="NzkK82ZUXUuJtiHWj4T9Nw" x="7881.81" y="2070.68" palette="3" colorinfo="3" text="rebelMouseMother: No, no--Panbury&apos;s a\Ngarrison town, loyal to the [Red Paw].">
+<children>
+<image guid="WRLXHnmjEE-Ov1Jjraq4vQ" name="cbfdff49336c839eddae126f858a309e97f33b11" x="182.61" y="-76.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="WRLXHnmjEE-Ov1Jjraq4vQ" name="cbfdff49336c839eddae126f858a309e97f33b11" x="182.61" y="-76.44" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizSafePort][updateCounter:quizSafePort-1][footnote:red_paw]
+</note>
+</topic>
+<topic id="233" parent="224" guid="9qWAzxWZJk2hmVVjxXuSGg" x="8268.55" y="1796.02" palette="3" colorinfo="3" text="tilo: Hmm... what\Nabout Gadwell?">
+<parent-relation guid="RnCU1081zkCM1kBP6J9LJw"/>
+<note>
+[lockableThread:chooseGadwell][lockThread:chooseGadwell]
+</note>
+</topic>
+<topic id="234" parent="233" guid="DtnBFQVYlEKf6CnUHTxCtA" x="8268.55" y="2094.35" palette="3" colorinfo="3" text="rebelMouseSon: I have a cousin\Nlives not far from Gadwell.">
+<parent-relation guid="POgRDhSAcEueF5HNwBtFsg"/>
+<note>
+[showRenown:quizSafePort]
+</note>
+</topic>
+<topic id="235" parent="234" guid="4pmlf5rZ_k2XAgr2LrUbFw" x="8268.55" y="2284.35" palette="3" colorinfo="3" text="rebelMouseMother: Gadwell...\NGadwell just might do.">
+<parent-relation guid="NZ8oWv1B8kObAnj-RFlQEA"/>
+<children>
+<image guid="kX32zrTtA02vzYbOPclJpA" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-166.59" y="-64.51" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="kX32zrTtA02vzYbOPclJpA" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-166.59" y="-64.51" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+<note>
+[executeAction:grantRenown=quizSafePort]
+</note>
+</topic>
+<topic id="236" parent="235" guid="uB8zFnYvJEOMzZg1gBLJjA" x="8268.55" y="2807.92" palette="3" colorinfo="3" text="rebelMouseMother: Now we&apos;ll just\Nneed the Garrison Commander to\Napprove the new itinerary.">
+<children>
+<image guid="f11B3nKLKkyhhKoxil1x2w" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="194.32" y="-78.14" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="f11B3nKLKkyhhKoxil1x2w" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="194.32" y="-78.14" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_changeTransportPlan.chooseSafeHaven][executeAction:giveItem=paper_manuscript_transportItinerary]
+</note>
+</topic>
+<topic id="237" parent="236" guid="JWviIWOoMEiJbeTo_9CawQ" x="8268.55" y="2976.02" palette="3" colorinfo="3" text="rebelMouseSon: Ha!\NWhat could be easier?">
+<children>
+<image guid="h7EUdQWf902oN_Snn3xEsA" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="140.91" y="-45.76" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="h7EUdQWf902oN_Snn3xEsA" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="140.91" y="-45.76" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+<note>
+[executeAction:receiveItem=paper_manuscript_transportItineraryRevised]
+</note>
+</topic>
+<topic id="238" parent="224" guid="g_rULH0vq0e1oEhBYW---A" x="8600.15" y="1802.68" palette="3" colorinfo="3" text="tilo: What do you\Nthink of Scarrot?">
+<parent-relation guid="-Buyn5xm7UOPoGP3RKyZZQ"/>
+<note>
+[lockableThread:chooseScarrot][lockThread:chooseScarrot]
+</note>
+</topic>
+<topic id="239" parent="238" guid="-hzshW8rl06ic7E-00YH8A" x="8600.15" y="2097.68" palette="3" colorinfo="3" text="rebelMouseSon: Scarrot?!\NScarrot is a den of\Nthieves! Even I know that.">
+<children>
+<image guid="5FGypSCbCk2LRLOFi0GEig" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="164.32" y="20.95" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="5FGypSCbCk2LRLOFi0GEig" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="164.32" y="20.95" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</images>
+<note>
+[showRenown:quizSafePort][updateCounter:quizSafePort-1]
+</note>
+</topic>
+<topic id="240" parent="239" guid="SJJ8nSssxEelWeMEcpAFvQ" x="8600.15" y="2284.35" palette="3" colorinfo="3" text="rebelMouseSon: We&apos;d have\Nour throats cut soon as we set\Nfoot there.">
+<note>
+[showRenown:quizSafePort]
+</note>
+</topic>
+<topic id="241" parent="224" guid="DVxSQwRv8EGvpgIO0eOmOg" x="8926.81" y="1843.16" palette="3" colorinfo="3" text="tilo: Wait, I need to think...">
+<parent-relation guid="phDHAk3xokeoo1QWbCfNMA"/>
+<note>
+[unlockThread:safeHarbour]
+</note>
+</topic>
+<topic id="242" parent="241" guid="DClhkYao-EOybqmW2VJ97g" x="8813.95" y="1992.93" palette="3" colorinfo="3" text="rebelMouseMother: Don&apos;t\Nthink for too long...">
+<children>
+<image guid="Je74o26SfUqnzKjHEiGDKg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-129.09" y="-69.61" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="Je74o26SfUqnzKjHEiGDKg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-129.09" y="-69.61" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][showRenown:quizSafePort]
+</note>
+</topic>
+<topic id="243" parent="241" guid="wYVCk2oPlUOLXeP6yVFNog" x="9030.88" y="2094.35" palette="3" colorinfo="3" text="rebelMouseMother: Again?\NVery well...">
+<note>
+[variationIndex=1][showRenown:quizSafePort]
+</note>
+</topic>
+<topic id="244" parent="241" guid="tVcKHHW2L0-oz7ViJSZXVA" x="9206.60" y="1992.93" palette="3" colorinfo="3" text="rebelMouseMother: Come on,\Nnow--make a decision!">
+<children>
+<image guid="9IkMPWjyX0SiSw9JSCo_dw" name="0e56ba13e4056dac54d164206a036c72bd6028ea" x="158.18" y="-62.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_tired.png"/>
+</image>
+</children>
+<images>
+<image guid="9IkMPWjyX0SiSw9JSCo_dw" name="0e56ba13e4056dac54d164206a036c72bd6028ea" x="158.18" y="-62.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_tired.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2][showRenown:quizSafePort]
+</note>
+</topic>
+<topic id="245" parent="8" guid="N9-_CktW7UGY4MCOLfv5Hg" x="7458.42" y="1333.51" palette="3" colorinfo="3" text="tilo: Alright, I have a\Nsuggestion for your safe\Nharbour.">
+<parent-relation guid="9Ay9mXwYCkWc5eQ8bAM3OQ"/>
+<note>
+[reveal:quest_changeTransportPlan.chooseSafeHaven=active][lockableThread:safeHarbour=true][lockThread:safeHarbour]
+</note>
+</topic>
+<topic id="246" parent="245" guid="a2Z-cawrqEOPR1m0QXklyQ" x="7255.95" y="1497.68" palette="3" colorinfo="3" text="rebelMouseMother: Then,\Nplease, enlighten us...">
+<note>
+[variationIndex=0][showRenown:quizSafePort]
+</note>
+</topic>
+<topic id="247" parent="245" guid="eKAWBf8_80SskKO598YfyA" x="7638.42" y="1497.68" palette="3" colorinfo="3" text="rebelMouseMother: Are\Nyou sure this time?">
+<children>
+<image guid="n0_Pg3vn4UWhYTG_A0ddnQ" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="15.36" y="-70.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="n0_Pg3vn4UWhYTG_A0ddnQ" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="15.36" y="-70.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1][showRenown:quizSafePort]
+</note>
+</topic>
+<topic id="248" parent="8" guid="k3clzXV-nkeYQlgLTW2C1Q" x="9577.14" y="3026.02" palette="3" colorinfo="3" text="tilo: Please, now. Will you tell me\Nwhat you know about Merra?">
+<parent-relation guid="MmW5IRK9WEKh-hyHAsL2oA"/>
+<note>
+[reveal:quest_changeTransportPlan.returnToRebels=complete][lockableThread:theWholeTruthMerra][unlockThread:howKnowMerra;whereMerraTaken]
+</note>
+</topic>
+<topic id="249" parent="248" guid="dSjFAQDn-k-bz_Y91TicMQ" x="9577.14" y="3278.03" palette="3" colorinfo="3" text="rebelMouseMother: Aye, you&apos;ve been patient enough.\NPlease, ask what you will, and I&apos;ll answer best I can.">
+<parent-relation guid="eLj-jiGBM0C2poyIlePAcw"/>
+<note>
+[lockThread:theWholeTruthMerra]
+</note>
+</topic>
+<topic id="250" parent="8" guid="cxdjOSwtGUCihLRDpBeafQ" x="10578.14" y="156.35" palette="3" colorinfo="3" text="tilo: The new itinerary is\Nback in place. It&apos;s done.">
+<parent-relation guid="PgzBQZ6jJ0a8e5Y5qmuikA"/>
+<note>
+[reveal:quest_changeTransportPlan.returnToRebels=active]
+</note>
+</topic>
+<topic id="251" parent="250" guid="lA49TQ1JRkODx-nMOgBN2A" x="10578.14" y="335.35" palette="3" colorinfo="3" text="rebelMouseMother: Well done,\NMouse! Then we&apos;re all set...">
+<note>
+[completeTask:quest_changeTransportPlan.returnToRebels]
+</note>
+</topic>
+<topic id="252" parent="8" guid="CzaP24wTd0CagGMMS_4X-w" x="15961.51" y="2530.32" palette="3" colorinfo="3" text="tilo: The bell... the ship\Nmust be leaving soon.">
+<parent-relation guid="kksYxv9abUOVJ5xH52qg7w"/>
+<note>
+[lockableThread:bellTolls][lockThread:bellTolls][reveal:quest_changeTransportPlan.findSilas=active]
+</note>
+</topic>
+<topic id="253" parent="252" guid="b92slC2XAEKowkQyBJi8wg" x="15961.51" y="2765.88" palette="3" colorinfo="3" text="rebelMouseSon: Aye, the crew will\Nbe on their way back.">
+<note>
+[executeAction:ActivateSilasInCommissary]
+</note>
+</topic>
+<topic id="254" parent="253" guid="toXvgmbhfUyMQcb1-J0XJg" x="15961.51" y="2896.99" palette="3" colorinfo="3" text="rebelMouseMother: Will\Nyou not come with us, Tilo?"/>
+<topic id="255" parent="254" guid="1H-DSWgwkUaN7qYzHEtMTg" x="15961.51" y="3016.15" palette="3" colorinfo="3" text="rebelMouseSon: We\Ncould use a buck like you."/>
+<topic id="256" parent="255" guid="p52i_tYFt0idG71Jltb-zw" x="15961.51" y="3135.32" palette="3" colorinfo="3" text="rebelMouseMother: They won&apos;t\Nnotice one more Mouse aboard.">
+<parent-relation guid="vHM6MI4Ix0mhFp1BwtJGTA"/>
+<children>
+<image guid="bm1voaW4UEC5Z-tDNdhIVg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="209.50" y="22.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="bm1voaW4UEC5Z-tDNdhIVg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="209.50" y="22.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="257" parent="256" guid="UY0cmpcuM0CwXpTHysV6bw" x="15710.68" y="3642.71" palette="3" colorinfo="3" text="tilo: Thank you... but my best\Nchance of finding Merra is still here."/>
+<topic id="258" parent="256" guid="4T2AIugHjEaKK_younvplA" x="16199.01" y="3398.65" palette="3" colorinfo="3" text="tilo: Without Merra?\NHow could I?"/>
+<topic id="259" parent="258" guid="7w33ozItVkawf4mEjJG-BA" x="16199.01" y="3540.54" palette="3" colorinfo="3" text="rebelMouseSon: He&apos;s right,\NMother. Let him go.">
+<children>
+<image guid="BCJb5_LXLUS9FH24si6S4A" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="174.55" y="-19.39" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="BCJb5_LXLUS9FH24si6S4A" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="174.55" y="-19.39" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="260" parent="259" guid="Dkfz6XSHUk6u2mTUamRbBA" x="16199.01" y="3642.71" text="rebelMouseMother: ... Very well. ">
+<children>
+<image guid="yqVIz7gFUEm4K0Vwrds4lg" name="cbfdff49336c839eddae126f858a309e97f33b11" x="204.43" y="4.47" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="yqVIz7gFUEm4K0Vwrds4lg" name="cbfdff49336c839eddae126f858a309e97f33b11" x="204.43" y="4.47" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="261" parent="260" guid="49wqV77v6UWgTAEjIVI-iw" x="16199.01" y="3767.09" text="rebelMouseMother: Farewell,\NTilo--find Merra, whatever it takes.">
+<parent-relation guid="L4ZgYaZ6p0WiTwbwQ30BTw"/>
+<children>
+<image guid="upZFuMlsyEW6Wq_X-CNCjw" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="218.86" y="21.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="upZFuMlsyEW6Wq_X-CNCjw" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="218.86" y="21.86" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="262" parent="261" guid="6catoeK9CU2_jxOIVL480g" x="16199.01" y="3895.60" text="rebelMouseSon: And\Nkeep fighting the fight!"/>
+<topic id="263" parent="262" guid="9OUisDcSvk2qd7bWAqMjig" x="15933.45" y="4222.72" text="tilo: I&apos;ll see what I can do.">
+<parent-relation guid="GbQvl1vqskCorFC8JJjHVA"/>
+</topic>
+<topic id="264" parent="263" guid="uO8XlN8HzkCR3xKJoFOdIg" x="15933.45" y="4307.45" text="rebelMouseSon:\NThat&apos;s the spirit!">
+<children>
+<image guid="nDQsQnvdhkSI_WN0z61Zkw" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="122.73" y="11.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="nDQsQnvdhkSI_WN0z61Zkw" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="122.73" y="11.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="265" parent="264" guid="zzALoKkSG0mVi1VvUDtpSA" x="16189.75" y="4580.23" palette="3" colorinfo="3" text="rebelMouseSon: Make your\Nmark, Tilo, make a statement! Burn\Ntheir colours--set the [Red Paw] aflame!">
+<parent-relation guid="HK-5c0IMpUewrstG6sybMw"/>
+<children>
+<image guid="OgEEb8BQ20C0wnzwbb68lg" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="223.41" y="14.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="OgEEb8BQ20C0wnzwbb68lg" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="223.41" y="14.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+<note>
+[startQuest:quest_burningOfTheRedPaw][footnote:red_paw]
+</note>
+</topic>
+<topic id="266" parent="265" guid="-BGrFdbsh0OSq8QWciVeVw" x="16189.75" y="4725.77" palette="3" colorinfo="3" text="rebelMouseMother: And\Nmake sure the Commander\Nknows whose handiwork it is.">
+<parent-relation guid="7u1hNq2cP0qU41nJximPjA"/>
+<children>
+<image guid="MKowEwwZ4USIabOv2LJXJg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="200.68" y="36.40" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="MKowEwwZ4USIabOv2LJXJg" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="200.68" y="36.40" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="267" parent="266" guid="Q2PGGCqJv0CK_YrVHqfgcA" x="16189.75" y="4863.59" text="rebelMouseSon: Aye, make\Nmischief, brother!"/>
+<topic id="268" parent="267" guid="V0wwG4HoA0aFNs5czflaWQ" x="16189.75" y="4986.68" text="DIALOGUE_HUB"/>
+<topic id="269" parent="268" guid="sZnP2xkeBkqlFoqMWnlf_Q" x="15933.45" y="5186.42" text="tilo: I&apos;ll do it--I swear I will.">
+<parent-relation guid="WK3BNvpSM0Kn0VCVmoyncA"/>
+</topic>
+<topic id="270" parent="269" guid="kTlgdc4UNUGmOJxC1wianw" x="15933.45" y="5409.28" palette="3" colorinfo="3" text="rebelMouseSon: You&apos;re\Na good Mouse, Tilo.">
+<children>
+<image guid="PHeUxAYj50CtBPuzjuV1bQ" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="80.00" y="-85.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="PHeUxAYj50CtBPuzjuV1bQ" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="80.00" y="-85.45" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="271" parent="270" guid="rf-qWNDOqEK1dv4RKPBxaA" x="15933.45" y="5632.14" palette="3" colorinfo="3" text="rebelMouseMother:\NNow go..."/>
+<topic id="272" parent="268" guid="5NPy6Qbey0SzG-FTX5wF_g" x="16471.32" y="5186.42" text="tilo: Will I see you again?">
+<parent-relation guid="no8c23ad1U6J0L-XJYE8dg"/>
+</topic>
+<topic id="273" parent="272" guid="gqIv2ZFkREWV6MjOKEMIEg" x="16471.32" y="5409.28" palette="3" colorinfo="3" text="rebelMouseMother:\NIf [Asper] wills it.">
+<children>
+<image guid="GN2jAypvG0C9hQEJVJr89A" name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="147.78" y="-18.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="GN2jAypvG0C9hQEJVJr89A" name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="147.78" y="-18.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</images>
+<note>
+[footnote:council_asper]
+</note>
+</topic>
+<topic id="274" parent="268" guid="4lR-GqNfEEO7Ds0bI-1EpQ" x="15615.46" y="5287.85" text="tilo: It&apos;s all but done.">
+<parent-relation guid="rcYFYvRqWUetOAkJIfvrJg"/>
+<note>
+[reveal:quest_burningOfTheRedPaw.talkToCommander=active][lockableThread:completedBannerBurn][lockThread:completedBannerBurn]
+</note>
+</topic>
+<topic id="275" parent="262" guid="ZYy-lPNrTUaZhdJvMf_ASQ" x="16406.32" y="4108.41" text="tilo: The fight? I&apos;m no rebel.">
+<parent-relation guid="GEXeIOkrUUiY6g_9GMbm2Q"/>
+</topic>
+<topic id="276" parent="275" guid="RtUkxCACWkS52zUcrkyd6A" x="16406.32" y="4246.71" text="rebelMouseSon: Brother, you&apos;ve\Nbroken out of jail, forged\Ndocuments, impersonated a guard..."/>
+<topic id="277" parent="276" guid="_QFZIFsZ6UyNbgs38ssmVQ" x="16406.32" y="4374.56" palette="3" colorinfo="3" text="rebelMouseSon: If you weren&apos;t\Na rebel before, you&apos;re a rebel now.">
+<parent-relation guid="muTCyn2VM0Ob8y-AvQOtrw"/>
+<children>
+<image guid="osYkGCbYBUScS2iaeH_GcQ" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="192.73" y="-3.94" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="osYkGCbYBUScS2iaeH_GcQ" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="192.73" y="-3.94" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="278" parent="8" guid="eMQlBNfvOkSt0jzHKYChmA" x="3388.65" y="2038.92" palette="3" colorinfo="3" text="tilo: Until Farrow wakes, is\Nthere anything you need?">
+<parent-relation guid="K-D6eYzi8Eqq2q10fiE0wQ"/>
+<note>
+[reveal:quest_transportRendezvous.helpRebelMice=active][lockableThread:needAnything=true][lockThread:needAnything;whenHappen][unlockThread:rebelMiceCharges]
+</note>
+</topic>
+<topic id="279" parent="278" guid="gJ_QjhciWUaWRg3Vy8ZdXQ" x="3388.65" y="2167.41" palette="3" colorinfo="3" text="rebelMouseSon: Aye, if you can\Nfind the key to these chains, I can\Nmake Farrow more comfortable."/>
+<topic id="280" parent="279" guid="3Gb1qSLKj0GmhFEDFVsLkQ" x="3388.65" y="2275.19" palette="3" colorinfo="3" text="rebelMouseSon: We might even have a\Nchance of getting out of here.">
+<children>
+<image guid="M-BKTnC5fEi1fFfxI_gKyQ" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="-223.50" y="-7.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="M-BKTnC5fEi1fFfxI_gKyQ" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="-223.50" y="-7.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_transportRendezvous.helpRebelMice]
+</note>
+</topic>
+<topic id="281" parent="280" guid="2lSZWK2Dak6yxByy708lKQ" x="3223.65" y="2484.64" palette="3" colorinfo="3" text="tilo: The key--where is it?"/>
+<topic id="282" parent="281" guid="mG41tAJHKkOv4tOt2nmlnw" x="3223.65" y="2646.55" palette="3" colorinfo="3" text="rebelMouseSon: One of the guards took it with him.">
+<parent-relation guid="QzzxoUA5ZUmhOqB1l44TmQ"/>
+<children>
+<image guid="i8rI6lPrgESkGXfd98vd6g" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="278.50" y="-12.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="i8rI6lPrgESkGXfd98vd6g" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="278.50" y="-12.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="283" parent="282" guid="TRYetTyNoE2F30sol9QdIg" x="3223.65" y="2825.98" palette="3" colorinfo="3" text="rebelMouseSon: He was\Nheaded for the Harbourmaster&apos;s\Noffice. You might find him there.">
+<parent-relation guid="DY34IUJlw0S0tgkidyduCA"/>
+</topic>
+<topic id="284" parent="280" guid="hb090DM9oEWIbwKR3JzriA" x="3589.00" y="2484.64" palette="3" colorinfo="3" text="tilo: Alright, I&apos;ll\Nsee what I can do."/>
+<topic id="285" parent="0" guid="BVpWRqmfOUWrUt_Sx7za9w" x="4511.16" y="-1640.99" palette="3" colorinfo="3" text="rebelMouseSon: Careful Mouse! Don&apos;t let the guards\Ncatch you, or you&apos;ll end up in here with us.">
+<children>
+<image guid="bMoJ69v4rEiPHccqyDkCgg" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="8.06" y="-81.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</children>
+<images>
+<image guid="bMoJ69v4rEiPHccqyDkCgg" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="8.06" y="-81.98" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</images>
+<note>
+[variationIndex=5][lockableThread:bewareGuards][lockThread:bewareGuards][unlockThread:commanderQuestActive;waterQuestActive;itineraryQuestActive;keyQuestActive]
+</note>
+</topic>
+<topic id="286" parent="285" guid="Dxx_LS2DCUyrixOe8nhKPA" x="4360.84" y="-1492.42" palette="3" colorinfo="3" text="tilo: Don&apos;t worry\Nabout me, I&apos;ll be fine."/>
+<topic id="287" parent="286" guid="uLO5OtOD1ECI-eRLlaJTmA" x="4360.84" y="-1390.16" palette="3" colorinfo="3" text="rebelMouseSon:\NAlright, well..."/>
+<topic id="288" parent="287" guid="vLW7bhLSWUGcRHqBse2pRQ" x="4360.84" y="-1283.36" palette="3" colorinfo="3" text="rebelMouseSon: ... just\Nkeep your voice down.">
+<parent-relation guid="0So5gwbyAEO1DHnYAjrpHw"/>
+</topic>
+<topic id="289" parent="285" guid="vu_62mUpHU-lxYPkdIbK1g" x="4699.87" y="-1492.42" palette="3" colorinfo="3" text="tilo: I&apos;m something of a\Ncriminal myself, so they say."/>
+<topic id="290" parent="289" guid="ZED9bQlD1kuxEPGcXL29rg" x="4699.87" y="-1283.36" palette="3" colorinfo="3" text="rebelMouseSon: That&apos;s\Nnone of my business."/>
+<topic id="291" parent="0" guid="Z_q3e2FQRUOlexWoIDg3TQ" x="4935.50" y="-1699.32" palette="3" colorinfo="3" text="rebelMouseSon: What does\Nthe night bring, Mouse?">
+<note>
+[variationIndex=6][reveal:timeOfDay=night][unlockThread:commanderQuestActive;waterQuestActive;itineraryQuestActive;keyQuestActive]
+</note>
+</topic>
+<topic id="292" parent="0" guid="jiBep6fSTEWyuftn1tZ4bw" x="5350.22" y="-1749.88" palette="3" colorinfo="3" text="rebelMouseMother:\NTilo... how goes it?">
+<note>
+[variationIndex=7][reveal:quest_changeTransportPlan=active|quest_changeTransportPlan=complete][unlockThread:commanderQuestActive;waterQuestActive;itineraryQuestActive;keyQuestActive]
+</note>
+</topic>
+<topic id="293" parent="0" guid="LzAS5xjXREW5vtTSjQePMA" x="3906.69" y="-1712.65" palette="3" colorinfo="3" text="rebelMouseSon: How now, Mouse?">
+<note>
+[variationIndex=3][unlockThread:commanderQuestActive;waterQuestActive;itineraryQuestActive;keyQuestActive]
+</note>
+</topic>
+<topic id="294" parent="0" guid="hzqlXD7mg0OiWowNcu-zwA" x="4115.21" y="-1634.94" palette="3" colorinfo="3" text="rebelMouseSon: Well?">
+<note>
+[variationIndex=4][unlockThread:commanderQuestActive;waterQuestActive;itineraryQuestActive;keyQuestActive]
+</note>
+</topic>
+<topic id="295" parent="0" guid="wiDbJpyqCk6AREVJOVD-wQ" x="4155.17" y="-2970.07" palette="3" colorinfo="3" text="rebelMouseSon: Tilo...">
+<note>
+[priorityOverride][reveal:quest_changeTransportPlan.findSilas=active]
+</note>
+</topic>
+<topic id="296" parent="295" guid="9jhs3ncpG0GPVULjcTgnJw" x="3796.71" y="-2705.78" palette="3" colorinfo="3" text="rebelMouseSon: ... go on, now,\Nyou&apos;ve done enough for us, brother.">
+<children>
+<image guid="Atdwcjl930iPGWMJzu0b5w" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="-207.50" y="0.38" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</children>
+<images>
+<image guid="Atdwcjl930iPGWMJzu0b5w" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="-207.50" y="0.38" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0]
+</note>
+</topic>
+<topic id="297" parent="295" guid="diGzhG3UQE-mFCbGTdztRw" x="4155.17" y="-2787.21" palette="3" colorinfo="3" text="rebelMouseSon:\N... please, you must go.">
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="298" parent="297" guid="4wrH2_rbX06cezTCt8n22g" x="4155.17" y="-2634.35" palette="3" colorinfo="3" text="rebelMouseMother: Aye,\NMerra needs you now.">
+<parent-relation guid="3cA4BfcPQ0WvjCokT2AGpg"/>
+<children>
+<image guid="FZyu_wmzNEKqJ5p24rKASw" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-152.50" y="47.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="FZyu_wmzNEKqJ5p24rKASw" name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="-152.50" y="47.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="299" parent="295" guid="Rntm1qzLkU-azXyCtJzUbg" x="4469.80" y="-2705.78" palette="3" colorinfo="3" text="rebelMouseSon: ... what good\Nwill it do if you&apos;re caught?">
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="300" parent="299" guid="TAWmWkIodkmoPcBA9m5CVA" x="4469.80" y="-2582.14" palette="3" colorinfo="3" text="rebelMouseSon:\NGet ashore!">
+<children>
+<image guid="qiTSmCDBxUqKVuM9Tisb7A" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="-103.75" y="47.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</children>
+<images>
+<image guid="qiTSmCDBxUqKVuM9Tisb7A" name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="-103.75" y="47.88" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</images>
+</topic>
+<topic id="301" parent="0" guid="xpMxpAHh_EOyzHV_TnfXXA" x="1684.08" y="-3879.06" palette="3" colorinfo="3" text="rebelMouseSon: Oh,\Nthat&apos;s a fine sight!">
+<parent-relation guid="tprE9qcFtkayxSU9bmQSrw"/>
+<children>
+<image guid="1HU78FniqE2uFYKL0SJR6w" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="135.00" y="-22.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="1HU78FniqE2uFYKL0SJR6w" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="135.00" y="-22.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:quest_transportRendezvous.talkToPrisonersB=active][unlockThread:lastSeeMerra;needAnything;whenHappen;howWasMerra][executeAction:deactivateBucket]
+</note>
+</topic>
+<topic id="302" parent="301" guid="c06AxQB5m06F0E-XXDJOyw" x="1684.08" y="-3763.55" palette="3" colorinfo="3" text="rebelMouseSon: Mother,\Nhere... try to drink.">
+<parent-relation guid="gq_j-aaMkkerLjHG8szI7w"/>
+<children>
+<image guid="kuzhEVugB0yEBKSNN2psBg" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="152.00" y="-5.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="kuzhEVugB0yEBKSNN2psBg" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="152.00" y="-5.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="303" parent="302" guid="Iu_Klgqi10WYeZTa4yiIxA" x="1684.08" y="-3647.53" palette="3" colorinfo="3" text="rebelMouseSon: That&apos;s it. Good--not too much, now.">
+<children>
+<image guid="QWu7TGHAq02j6QUjkGZFRg" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="287.00" y="-7.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="QWu7TGHAq02j6QUjkGZFRg" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="287.00" y="-7.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_transportRendezvous.talkToPrisonersB]
+</note>
+</topic>
+<topic id="304" parent="303" guid="oXBz7sY2UUWOeQ9HEMkVSw" x="1468.14" y="-3434.50" palette="3" colorinfo="3" text="rebelMouseSon:\NThank you, friend.">
+<note>
+[reveal:costume_guard=false]
+</note>
+</topic>
+<topic id="305" parent="304" guid="TuEZFjB-lka2iiB39ByCZw" x="1468.14" y="-3266.63" palette="3" colorinfo="3" text="tilo: How is she?">
+<parent-relation guid="eACN3Daim0mToVVmeJYXwg"/>
+</topic>
+<topic id="306" parent="305" guid="bRdUWX9J5UqO5apoUDmljQ" x="1468.14" y="-3142.99" palette="3" colorinfo="3" text="rebelMouseSon: She&apos;s very weak."/>
+<topic id="307" parent="306" guid="qYxOvf9doEGphoOc-XbiLg" x="1468.14" y="-3022.08" palette="3" colorinfo="3" text="rebelMouseMother: ...">
+<children>
+<image guid="LdChXh6zlU6tQGEw-hGa9g" name="0e56ba13e4056dac54d164206a036c72bd6028ea" x="-153.50" y="6.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_tired.png"/>
+</image>
+</children>
+<images>
+<image guid="LdChXh6zlU6tQGEw-hGa9g" name="0e56ba13e4056dac54d164206a036c72bd6028ea" x="-153.50" y="6.13" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_tired.png"/>
+</image>
+</images>
+</topic>
+<topic id="308" parent="307" guid="aGOu5V_COk-K-sAcmdVIgA" x="1468.14" y="-2893.40" palette="3" colorinfo="3" text="rebelMouseSon: Don&apos;t try and\Nspeak, Mother. You need to rest.">
+<children>
+<image guid="h7WHCpibWEOMmGcZuSDWOg" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="-194.00" y="-3.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="h7WHCpibWEOMmGcZuSDWOg" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="-194.00" y="-3.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="309" parent="303" guid="ZEOgj19ZVkOhIVyxvGGcqQ" x="1880.35" y="-3434.50" palette="3" colorinfo="3" text="rebelMouseSon: I thought you were a\Nguard, when I first saw you coming.">
+<note>
+[reveal:costume_guard=true|costume_duinlan=true]
+</note>
+</topic>
+<topic id="310" parent="309" guid="XvCXzg7Cz0-UULDC_sVyWw" x="1880.35" y="-3267.74" palette="3" colorinfo="3" text="tilo: Please, I need your help.">
+<parent-relation guid="N8pG9CxSekeu89sUp60gcg"/>
+</topic>
+<topic id="311" parent="310" guid="sCpqySrvjEiZp5V3HrMk5g" x="1743.68" y="-3022.08" palette="3" colorinfo="3" text="rebelMouseSon:\NAye, so you said.">
+<note>
+[lockableThread:firstQuestionMerra]
+</note>
+</topic>
+<topic id="312" parent="311" guid="53m0Hry_s0GK_Qol6OL-dg" x="1880.35" y="-2627.56" palette="3" colorinfo="3" text="rebelMouseSon: ... I’m Tam. This is\NFarrow, my mother. Who are you, friend?">
+<parent-relation guid="FahBNK-1vUu0Kk5i2BBTuw"/>
+<note>
+[executeAction:revealTrueName=character_rebelMouseSon]
+</note>
+</topic>
+<topic id="313" parent="312" guid="RnyIfIvYT0aA1TUYHmhB0w" x="1653.08" y="-2466.07" palette="3" colorinfo="3" text="tilo: Tilo. My name’s Tilo."/>
+<topic id="314" parent="313" guid="bRiSZC_Vn0S_V5DBwRaMKQ" x="1653.08" y="-2321.63" palette="3" colorinfo="3" text="rebelMouseSon: Tilo?\NTilo the minstrel?">
+<children>
+<image guid="cCQlp-Q2LUaZXpUxjH6P3Q" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="-141.25" y="16.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="cCQlp-Q2LUaZXpUxjH6P3Q" name="b495ed977e8c8690183a208f51c725dd34cb6957" x="-141.25" y="16.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="315" parent="314" guid="8hd1DWgyqkScwxhMwvGweA" x="1883.68" y="-2123.69" palette="3" colorinfo="3" text="rebelMouseSon: Mother, this\Nis Tilo, Merra&apos;s husband.">
+<children>
+<image guid="TEZrSJ1m3kSIIu_VLnCOHQ" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="-155.00" y="-52.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="TEZrSJ1m3kSIIu_VLnCOHQ" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="-155.00" y="-52.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</images>
+<note>
+[executeAction:revealTrueName=character_rebelMouseMother]
+</note>
+</topic>
+<topic id="316" parent="315" guid="pPAC1TZKtEegSzuuIjE4Sg" x="1653.08" y="-1943.29" palette="3" colorinfo="3" text="tilo: You know Merra, then?"/>
+<topic id="317" parent="316" guid="_51WFmiKpU65e0QCeHnqHg" x="1653.08" y="-1825.51" palette="3" colorinfo="3" text="rebelMouseSon: Aye, we were\Nheld with Merra for almost a week."/>
+<topic id="318" parent="315" guid="Ew9bNabaLUWLVAZh1Y5k_Q" x="2065.65" y="-1943.29" palette="3" colorinfo="3" text="tilo: I was told she&apos;d\Nbe on this transport."/>
+<topic id="319" parent="318" guid="QMVaPpelbkmEdxlo-qbXNA" x="2065.65" y="-1825.51" palette="3" colorinfo="3" text="rebelMouseSon: By all rights\Nshe should be here, but...">
+<children>
+<image guid="ZvQfbe7DN0qyVnqoWf5Q8A" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="178.75" y="26.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="ZvQfbe7DN0qyVnqoWf5Q8A" name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="178.75" y="26.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="320" parent="319" guid="4htecVR5v0CACcGCMKIcxQ" x="2065.65" y="-1682.11" palette="3" colorinfo="3" text="rebelMouseSon: At the port, Mother and\NI were going to be separated. It happened so quickly...">
+<parent-relation guid="lXC3D3-wAkWbDbJ8EdarWQ"/>
+</topic>
+<topic id="321" parent="320" guid="uCOPYVkNjkagU80HOdPIVQ" x="2065.65" y="-1533.98" palette="3" colorinfo="3" text="rebelMouseSon: Merra--she gave up her\Nplace, so I could take care of Mother.">
+<parent-relation guid="A02aHqcGwkKY5BVwqPBqQw"/>
+<children>
+<image guid="dc8GcPEicUSJTxHtMf3dMQ" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="231.25" y="-8.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="dc8GcPEicUSJTxHtMf3dMQ" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="231.25" y="-8.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_transportRendezvous.askWhereIsMerra]
+</note>
+</topic>
+<topic id="322" parent="321" guid="35hsSzuBWUiG80oamLkwCQ" x="1863.08" y="-1349.26" palette="3" colorinfo="3" text="tilo: ... Merra... should\Nhave been on this ship?"/>
+<topic id="323" parent="322" guid="HXSoVcy9y0yZdNlaLczSmA" x="1863.08" y="-1245.51" palette="3" colorinfo="3" text="rebelMouseSon:\NI&apos;m sorry, brother."/>
+<topic id="324" parent="323" guid="VAKmh77cb0SbFPWR5DNwFw" x="1863.08" y="-1120.51" palette="3" colorinfo="3" text="rebelMouseSon: She couldn&apos;t have\Nknown you&apos;d be waiting for her, and\NMother was too weak to be left alone.">
+<parent-relation guid="SZeIQT4LjkGU_095_FF0Ew"/>
+</topic>
+<topic id="325" parent="324" guid="y3SAYce6pky_8olo8r8gfg" x="2065.65" y="-919.27" palette="3" colorinfo="3" text="rebelMouseSon: ... She did what\Nshe thought was right."/>
+<topic id="326" parent="325" guid="AA_YCT73qkKGUGSkG7r-xw" x="2065.65" y="-774.30" palette="3" colorinfo="3" text="NULL NODE">
+<parent-relation guid="9DG2MyDQhEagtor52-Zs4A"/>
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="327" parent="321" guid="aHDZmEmARkeoj4u9JCjs3Q" x="2293.15" y="-1245.51" palette="3" colorinfo="3" text="tilo: That... sounds\Nlike something\NMerra would do."/>
+<topic id="328" parent="312" guid="vZuJkPxPk0KmIzUawa30hQ" x="2104.18" y="-2466.07" palette="3" colorinfo="3" text="tilo: A prisoner, like you. I&apos;m\Nsearching for Merra, my wife."/>
+<topic id="329" parent="328" guid="Mj0CaDhBy0eB8O9YV7DX8Q" x="2104.18" y="-2321.63" palette="3" colorinfo="3" text="rebelMouseSon: Merra?\NThen you must be Tilo."/>
+<topic id="330" parent="0" guid="b7e7m0eaa021eTxHdddGIg" x="4155.17" y="-2383.67" palette="3" colorinfo="3" text="rebelMouseSon:\NLiking the hat, brother! Very fancy!">
+<children>
+<image guid="a7I2uCuAv0ywFrz0Zcr2gg" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="208.00" y="11.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="a7I2uCuAv0ywFrz0Zcr2gg" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="208.00" y="11.21" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+<note>
+[priorityOverride][reveal:counter.metRebelMice=1;hasItemEquipped=hat_fancy][lockableThread:fancyHat][lockThread:fancyHat][unlockThread:commanderQuestActive;waterQuestActive;itineraryQuestActive;keyQuestActive]
+</note>
+</topic>
+<topic id="331" parent="0" guid="eWCiJ8K19EChCqsHZAuFdg" x="5564.35" y="-1852.58" palette="2" colorinfo="2" text="rebelMouseSon: So... what&apos;s the\Npumpkin for, brother?">
+<note>
+[priorityOverride][reveal:hasItemEquipped=hat_pumpkin][lockableThread:pumpkinIntro=true][lockThread:pumpkinIntro]
+</note>
+</topic>
+<topic id="332" parent="-1" guid="5HD2m7wv1UiS46rNRSADtw" x="13677.98" y="5765.20" palette="1" colorinfo="1" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="333" parent="-1" guid="v5UddR14EkatWVrX73m6vw" x="5649.75" y="6422.50" palette="1" colorinfo="1" text="rebelMouseSon: Alright\Nthen... best of luck, brother."/>
+<topic id="334" parent="-1" guid="4aKUgrEsqEWwCfonO-ECkw" x="5157.75" y="6422.50" palette="2" colorinfo="2" text="rebelMouseSon: Ha!\NI&apos;m can imagine.">
+<children>
+<image guid="DYkFcWGclEGC4G9UtJemwg" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="132.31" y="-30.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="DYkFcWGclEGC4G9UtJemwg" name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="132.31" y="-30.58" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="335" parent="-1" guid="b008uMLaKkiIFuFE-4b5Ng" x="1995.65" y="-3022.08" palette="2" colorinfo="2" text="rebelMouseSon: I&apos;ll do\Nwhat I can, brother.">
+<note>
+[lockableThread:firstQuestionNotMerra=true]
+</note>
+</topic>
+<topic id="336" parent="-1" guid="cQphZvSajk6WlIzL_yETOQ" x="2866.66" y="-3299.84" palette="2" colorinfo="2" text="Tam&amp;farrow"/>
+<topic id="337" parent="336" x="2479.08" y="-2996.09" palette="2" colorinfo="2" text="default">
+<children>
+<image name="7fdab704ac10204410805f605bfd2673cabfa649" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_default.png"/>
+</image>
+</children>
+<images>
+<image name="7fdab704ac10204410805f605bfd2673cabfa649" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="338" parent="336" x="2609.66" y="-2996.09" palette="3" colorinfo="3" text="angry">
+<children>
+<image name="4c172c0be7a5ef5a23fa53f92301ded8ff2032fc" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_angry.png"/>
+</image>
+</children>
+<images>
+<image name="4c172c0be7a5ef5a23fa53f92301ded8ff2032fc" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="339" parent="336" x="2735.91" y="-2996.09" palette="4" colorinfo="4" text="smiling">
+<children>
+<image name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="c4b798ee4af3d3acac5a099eb31e282db885760f" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="340" parent="336" x="2866.66" y="-2996.09" palette="5" colorinfo="5" text="sad">
+<children>
+<image guid="sdxB4FA0s0ai3AxyqwwgCA" name="cbfdff49336c839eddae126f858a309e97f33b11" x="-7.39" y="-98.26" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="sdxB4FA0s0ai3AxyqwwgCA" name="cbfdff49336c839eddae126f858a309e97f33b11" x="-7.39" y="-98.26" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="341" parent="336" x="3008.41" y="-2996.09" palette="6" colorinfo="6" text="stern">
+<children>
+<image name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</children>
+<images>
+<image name="1c6968d6c7ce32547bcd2ac6d8b1fcd0bc7f0735" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="342" parent="336" x="3176.16" y="-2996.09" palette="7" colorinfo="7" text="silly">
+<children>
+<image name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</children>
+<images>
+<image name="65ae0720ea62672ee850ee2d0ac8368573a8f916" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_silly.png"/>
+</image>
+</images>
+</topic>
+<topic id="343" parent="336" x="3326.87" y="-2996.09" palette="8" colorinfo="8" text="tired">
+<children>
+<image name="0e56ba13e4056dac54d164206a036c72bd6028ea" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_tired.png"/>
+</image>
+</children>
+<images>
+<image name="0e56ba13e4056dac54d164206a036c72bd6028ea" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Farrow/portrait_farrow_tired.png"/>
+</image>
+</images>
+</topic>
+<topic id="344" parent="336" x="2477.36" y="-2795.13" palette="2" colorinfo="2" text="default">
+<children>
+<image name="95d7c3ae71e11f17379da0235948b858353ced83" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_default.png"/>
+</image>
+</children>
+<images>
+<image name="95d7c3ae71e11f17379da0235948b858353ced83" x="0.00" y="-81.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="345" parent="336" x="2607.94" y="-2795.13" palette="3" colorinfo="3" text="angry">
+<children>
+<image guid="Cub9YJTGrk-gh0p1vp28zQ" name="2aa41da66f9a19455e83de10b50410f04572403a" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_angry.png"/>
+</image>
+</children>
+<images>
+<image guid="Cub9YJTGrk-gh0p1vp28zQ" name="2aa41da66f9a19455e83de10b50410f04572403a" x="0.00" y="-85.23" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="346" parent="336" x="2734.19" y="-2795.13" palette="4" colorinfo="4" text="smiling">
+<children>
+<image name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="909ae764a828a0dc5597d0c6b59c33d47eec68b2" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="347" parent="336" x="2864.94" y="-2795.13" palette="5" colorinfo="5" text="sad">
+<children>
+<image guid="J3SsWncEs0ufTvZE5P7_Jg" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="J3SsWncEs0ufTvZE5P7_Jg" name="0989eb35f2132b9574c4d44a3e2c9bf91f9d7f05" x="0.00" y="-82.12" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="348" parent="336" x="3006.69" y="-2795.13" palette="6" colorinfo="6" text="stern">
+<children>
+<image name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</children>
+<images>
+<image name="96a489961e86ba69b5f9118e31b96b81d1298b29" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="349" parent="336" x="3174.44" y="-2795.13" palette="7" colorinfo="7" text="surprised">
+<children>
+<image name="b495ed977e8c8690183a208f51c725dd34cb6957" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="b495ed977e8c8690183a208f51c725dd34cb6957" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="350" parent="336" x="3325.15" y="-2795.13" palette="8" colorinfo="8" text="worried">
+<children>
+<image name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</children>
+<images>
+<image name="f4916ba5ee23cdc31c68d4600f1cbba1a228ca10" x="2.50" y="-90.87" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Tamlin/portrait_tamlin_worried.png"/>
+</image>
+</images>
+</topic>
+</topics>
+<relations>
+<relation guid="eFGz3M0gDkOXzjhdMKK_dQ" source="291" target="8"/>
+<relation guid="brGGp0bHzU6yOoso85kR3g" source="292" target="8"/>
+<relation guid="rBD2C4UenU2hPBcoO-j2yA" source="292" target="7"/>
+<relation source="6" target="8"/>
+<relation guid="h3JeHcN0WE2zAwzeOWKfzg" source="33" target="34"/>
+<relation source="329" target="315"/>
+<relation guid="8VmLxIBYhk60BSwqnyGrgw" source="317" target="319"/>
+<relation guid="7cMt791zMUG4kshhmW2tTQ" source="327" target="325"/>
+<relation guid="Imd3WIP4XU2yUZpRncurWg" source="326" target="8"/>
+<relation guid="akdKDpR-VEOCrY4UbcQOGQ" source="179" target="8"/>
+<relation source="56" target="58"/>
+<relation source="37" target="38"/>
+<relation guid="kW2k6WJk-0uqcsNfrH5UpA" source="288" target="8"/>
+<relation source="293" target="8"/>
+<relation guid="WIrU79JcDEybo0WJUh-LSg" source="294" target="8"/>
+<relation source="220" target="204"/>
+<relation guid="D-Wt71NgDk2EL8fU05mFHA" source="216" target="210"/>
+<relation guid="gaLgAGXI1U2QvPjM4-QKgw" source="218" target="210"/>
+<relation source="13" target="14"/>
+<relation guid="prSXrBWGFE6IyVPEDJ3emA" source="213" target="10"/>
+<relation source="44" target="41"/>
+<relation source="43" target="42"/>
+<relation source="44" target="42"/>
+<relation guid="V1TZnlBiFkatjyAqDiuOqQ" source="42" target="8"/>
+<relation source="227" target="225"/>
+<relation source="227" target="228"/>
+<relation guid="GmPexBlJY0emCev-kMEvTw" source="227" target="231"/>
+<relation guid="JcJ27uClh0eVBVMSb6y57A" source="227" target="233"/>
+<relation source="227" target="238"/>
+<relation source="227" target="241"/>
+<relation source="49" target="46"/>
+<relation source="48" target="47"/>
+<relation source="49" target="47"/>
+<relation guid="8C0504zZxkOmEPJVIvSYug" source="47" target="8"/>
+<relation source="36" target="39"/>
+<relation source="37" target="39"/>
+<relation guid="cNoxmkaLpU6kM8Rm-i6u0A" source="39" target="8"/>
+<relation source="76" target="78"/>
+<relation source="82" target="88"/>
+<relation guid="gv6h-ynUl0uQaBdSfoMGaA" source="94" target="8"/>
+<relation source="84" target="88"/>
+<relation source="70" target="73"/>
+<relation source="249" target="332"/>
+<relation source="128" target="125"/>
+<relation source="122" target="124"/>
+<relation source="138" target="125"/>
+<relation guid="hdDU0guVw0a2IuV4xLydBQ" source="147" target="125"/>
+<relation source="149" target="125"/>
+<relation guid="0RzPUVE5tEaZ5We-YODPJQ" source="153" target="125"/>
+<relation source="27" target="18"/>
+<relation guid="Id9Fky5eHE2t945Ujm2Ikw" source="136" target="332"/>
+<relation guid="dAeID0VFoEuaC91H8IB3NA" source="332" target="8"/>
+<relation source="30" target="22"/>
+<relation guid="m0RwlsUzVk-D8rFgm6jqtw" source="230" target="227"/>
+<relation guid="03x7jC8lhEKKhOH6GSyBxQ" source="246" target="224"/>
+<relation source="244" target="242"/>
+<relation source="98" target="115"/>
+<relation guid="N71VgunvD0m9_qdkJGX8ew" source="251" target="8"/>
+<relation source="277" target="265"/>
+<relation guid="Ib7RjdAXcE6wqIDlwpxrNg" source="273" target="270"/>
+<relation source="61" target="179"/>
+<relation source="58" target="179"/>
+<relation source="160" target="179"/>
+<relation source="181" target="178"/>
+<relation source="167" target="179"/>
+<relation source="165" target="179"/>
+<relation source="211" target="10"/>
+<relation source="13" target="214"/>
+<relation source="11" target="14"/>
+<relation source="17" target="26"/>
+<relation source="82" target="83"/>
+<relation guid="PQ_mEDbvHkugTJeVk5izAA" source="82" target="85"/>
+<relation guid="6gWV4uxsLky7roanNa84pw" source="87" target="91"/>
+<relation source="240" target="227"/>
+<relation source="232" target="227"/>
+<relation guid="85ejpxxB6kqcjkSU9BaAHA" source="93" target="332"/>
+<relation source="145" target="147"/>
+<relation source="143" target="147"/>
+<relation source="290" target="288"/>
+<relation source="132" target="136"/>
+<relation source="172" target="170"/>
+<relation source="170" target="167"/>
+<relation guid="i0xFuZZpUkyz9nPEVFX_0A" source="174" target="179"/>
+<relation guid="OUi5fgcSik6REctBrmEAvA" source="188" target="332"/>
+<relation source="116" target="104"/>
+<relation guid="PX_cBR6Yvkucdr0JpflMDA" source="107" target="105"/>
+<relation source="113" target="111"/>
+<relation source="111" target="332"/>
+<relation source="113" target="112"/>
+<relation guid="axjLazDepUeFDdhx8MFahw" source="112" target="8"/>
+<relation source="247" target="224"/>
+<relation source="247" target="246"/>
+<relation guid="DlZEn6bNaE-d8S9RG3zVpg" source="195" target="65"/>
+<relation source="95" target="68"/>
+<relation source="191" target="185"/>
+<relation source="63" target="192"/>
+<relation guid="dCpZ4lW6_ECBBntjkOo9mw" source="196" target="47"/>
+<relation source="299" target="296"/>
+<relation source="59" target="54"/>
+<relation guid="azcfcY5eMkKKGOXzPmAqXA" source="199" target="253"/>
+<relation guid="MMrUj54o-kmqCKDxvW4LOQ" source="156" target="125"/>
+<relation source="158" target="125"/>
+<relation guid="R__GHJMDjEiEAnAzQf-4fg" source="308" target="312"/>
+<relation source="309" target="305"/>
+<relation source="304" target="310"/>
+<relation source="330" target="8"/>
+<relation source="274" target="270"/>
+<relation source="257" target="260"/>
+<relation source="331" target="8"/>
+<relation guid="AwCJhOyZmk2_CtMnI6t3pA" source="25" target="334"/>
+<relation guid="Mv29V-6vCUiDuRLO02CbGQ" source="23" target="334"/>
+<relation source="24" target="333"/>
+<relation source="334" target="333"/>
+<relation source="310" target="335"/>
+<relation source="335" target="312"/>
+</relations>
+</mindmap>
+</simplemind-mindmaps>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="FD6DEF9CEACA488388031C212F54CDF9"/>
+<title text="quest_findTheMaster" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="90" x="339" y="395"/>
+<selection guid="zxKYENawlEmW3vzaQ04msw" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="zxKYENawlEmW3vzaQ04msw" x="1114.91" y="624.98" palette="2" colorinfo="2" text="Unmasking the Master">
+<note>
+version_03-02-18_002-Added renown points award to questversion_100617_001-First draft
+</note>
+</topic>
+<topic id="1" parent="0" guid="VK3XQRA7-0mv52Q1OatUtg" x="1668.74" y="624.98" palette="8" colorinfo="8" text="Track down the Master, leader of the\Nsmuggling ring, by order of the Commander."/>
+<topic id="2" parent="0" guid="iP2jng632kaQIVZAqVeNBQ" x="1114.91" y="881.23" palette="4" colorinfo="4" text="Discover the Master&apos;s\Ntrue identity.">
+<note>
+[taskName=findMastersIdentity][alternate][default]
+</note>
+</topic>
+<topic id="3" parent="2" guid="IZPPM-7UeUae2Z4-oljXiw" x="1668.74" y="881.23" palette="8" colorinfo="8" text="You learned that Ouma\NRezzia is the Master!"/>
+<topic id="4" parent="2" guid="dYB7tGiqHEWXgWGNm_BBog" x="1114.91" y="1090.51" palette="6" colorinfo="6" text="Find evidence to prove\NRezzia is the Master.">
+<note>
+[taskName=findMastersEvidence][alternate][default]
+</note>
+</topic>
+<topic id="5" parent="4" guid="wVAKEH7b3UmIXjlty1VDQA" x="1114.91" y="1299.80" palette="6" colorinfo="6" text="Present evidence to\Nthe commander.">
+<parent-relation guid="SBOZpXXlRke3Cf6YFkASEg"/>
+<note>
+[taskName=talkToCommander][alternate][default][grantRenown=2]
+</note>
+</topic>
+<topic id="6" parent="5" guid="GMblwnK0bEaNhA88o7p-hQ" x="1668.74" y="1299.80" palette="8" colorinfo="8" text="You proved to the Commander\Nthat Rezzia is the Master."/>
+<topic id="7" parent="4" guid="UV0kpsGDFkOvNu7BB4VGTg" x="759.20" y="1306.45" text="Search cancelled.">
+<note>
+[taskName=cancelQuestC][alternate]
+</note>
+</topic>
+<topic id="8" parent="7" x="429.03" y="1306.45" palette="8" colorinfo="8" text="Ouma Rezzia revealed\Nherself to be the Master."/>
+<topic id="9" parent="4" guid="wLW_hcO6h0ywK61w2HRvOw" x="1668.74" y="1090.51" palette="8" colorinfo="8" text="You found evidence proving\NRezzia is the Master."/>
+<topic id="10" parent="2" guid="3YInrjNu6kqFgS8rgbLPHw" x="763.90" y="1126.94" text="Search cancelled.">
+<note>
+[taskName=cancelQuestB][alternate]
+</note>
+</topic>
+<topic id="11" parent="10" guid="4SBTbUmq7k6I4k1d9Lv76w" x="433.73" y="1126.94" palette="8" colorinfo="8" text="Ouma Rezzia revealed\Nherself to be the Master."/>
+<topic id="12" parent="0" guid="Llw_y2j6zkmS9wfrMZE5yw" x="763.90" y="881.23" palette="2" colorinfo="2" text="Search cancelled.">
+<note>
+[taskName=cancelQuestA][alternate]
+</note>
+</topic>
+<topic id="13" parent="12" guid="s8CKiinMiU2zk8aqG-tt1Q" x="433.73" y="881.23" palette="8" colorinfo="8" text="Ouma Rezzia revealed\Nherself to be the Master."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

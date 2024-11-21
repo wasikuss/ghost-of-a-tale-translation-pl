@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="F23A95703CDD42148E21783F8DD38A5E"/>
+<title text="quest_escapePlanDisguises" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="110" x="673" y="405"/>
+<selection guid="5GvSevXt6k6cTGeur0hiag" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="5GvSevXt6k6cTGeur0hiag" x="880.99" y="627.48" palette="2" colorinfo="2" text="Three Pilgrims for Pesa">
+<note>
+version_03-02-18_002-Added renown points award to questversion_110716_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="3-isduHTbUyTCXITnDfEzw" x="880.99" y="792.84" palette="6" colorinfo="6" text="Find sackcloth hoods.">
+<note>
+[taskName=getThreeHoods][itemCounter=hood_penitent/3]
+</note>
+</topic>
+<topic id="2" parent="1" guid="eb3YtpKWwES21yYPMN1GGQ" x="1378.74" y="792.84" palette="8" colorinfo="8" text="You found three sackcloth hoods to use as disguises."/>
+<topic id="3" parent="1" guid="YhFYz12TMEughWsKx-Tl_Q" x="880.99" y="970.69" palette="4" colorinfo="4" text="Return to Gusto and Fatale.">
+<note>
+[taskName=talkToGustoFatale][grantRenown=2]
+</note>
+</topic>
+<topic id="4" parent="3" guid="SiQp7hBtCUu06mzFy9q7qA" x="1378.74" y="970.69" palette="8" colorinfo="8" text="You gave the three sackcloth hoods to Gusto and Fatale."/>
+<topic id="5" parent="0" guid="u7QB0yZETk6uVqXf97dfyA" x="1378.74" y="627.48" palette="8" colorinfo="8" text="Find three sackcloth hoods for Gusto and Fatale."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="D58AF1C394B0476CADE5799AB900C375"/>
+<title text="quest_clearArmoryRockFall" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="110" x="629" y="422"/>
+<selection guid="kW6o0OMwKEytNO54MDYHqw" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="896.01" y="520.54" palette="2" colorinfo="2" text="The Rock Fall">
+<note>
+version_03-02-18_002-Added renown points award to questversion_072817_001-First draft
+</note>
+</topic>
+<topic id="1" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1348.84" y="520.54" palette="8" colorinfo="8" text="The gateway to the northern\Nslopes is blocked by fallen rocks."/>
+<topic id="2" parent="0" guid="mFqRmvYQ5EmiEwD_1YNxHA" x="896.01" y="658.41" palette="6" colorinfo="6" text="Find the\Nbrisance store.">
+<parent-relation guid="ES9FlPDCCkOw48LwO_KH5Q"/>
+<note>
+[taskName=findMagazine]
+</note>
+</topic>
+<topic id="3" parent="2" guid="TS4V0CN6N0mp1eiYerQz0w" x="896.01" y="808.65" palette="6" colorinfo="6" text="Get a key for\Nthe brisance store.">
+<note>
+[taskName=getMagazineKey]
+</note>
+</topic>
+<topic id="4" parent="3" guid="9W718zlNr0-3qKsCZQIbKw" x="1348.84" y="808.65" palette="8" colorinfo="8" text="You fetched the brisance store key."/>
+<topic id="5" parent="3" guid="gtR9LFcl_0iiKBOuQ9xRMg" x="896.01" y="949.91" palette="4" colorinfo="4" text="Fetch brisance.">
+<note>
+[taskName=getExplosive]
+</note>
+</topic>
+<topic id="6" parent="5" guid="KjJzQ02PvEWXebKMqNd-Xw" x="1348.84" y="949.91" palette="8" colorinfo="8" text="You found and fetched a\Nvolatile cask of brisance."/>
+<topic id="7" parent="5" guid="3BiQ3TUcOEeV97ra8IfcLQ" x="896.01" y="1096.24" text="Clear rubble.">
+<parent-relation guid="FAO_6q8c3EOXo-sUF_F-zQ"/>
+<note>
+[taskName=clearRubble][onCompleteQuestCompleteTask=quest_findSecondChest.clearRubble][grantRenown=2]
+</note>
+</topic>
+<topic id="8" parent="7" guid="xox3wQJ_d0eYFRBknnq-ZA" x="1348.84" y="1096.24" palette="8" colorinfo="8" text="The rubble has been cleared,\Nrevealing the gateway to the\Nnorthern slopes."/>
+<topic id="9" parent="2" guid="GT58EdqWNUqWpmTQRvAekA" x="1348.84" y="658.41" palette="8" colorinfo="8" text="The store is locked. A note tells\Nyou the blacksmith has the key."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

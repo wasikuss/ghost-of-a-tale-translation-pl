@@ -1,0 +1,646 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Seith</Author>
+  <LastAuthor>Zoostorm</LastAuthor>
+  <Created>2014-02-06T22:34:15Z</Created>
+  <LastSaved>2018-03-07T18:53:41Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11415</WindowHeight>
+  <WindowWidth>24795</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <TabRatio>237</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Default">
+  </Style>
+  <Style ss:ID="s64" ss:Parent="s62">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s65" ss:Parent="s62">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF6600"
+    ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s66" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s67" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#0066CC" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s68" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#0066CC" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF6600"
+    ss:Bold="1"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#C6E0B4" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#C6E0B4" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF6600"
+    ss:Bold="1"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#C6E0B4" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Items">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="63" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s64" ss:DefaultColumnWidth="60"
+   ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="150"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="270.75"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="633.75"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="142.5"/>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s66">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">XML_id</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">displayName</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">description</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">category</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="135">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">badgers_baladhon</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">The Badgers of Baladhon</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The Badgers of Baladhon are the great seafaring culture of the northern seas. Records of their voyages date back almost five thousand years, and their myths even further. The oldest tells of Baladhon's discovery by the first of the badgers, who drifted down from the heavens on the trunk of a fallen tree. Yet their exploration is driven not by the desire to conquer, but by their natural curiosity, their appetite, and an instinct for foraging.&#10;Baladhon is densely forested, and the Badgers are renowned for their skill in carpentry. The Sylabub tree, which grows in great numbers along the coast of Baladhon, possesses a natural resistance to the corrosive powers of seawater, and ships built from their timber are in high demand.&#10;Indeed, many of the Red Paw's finest vessels began their lives in the forests and shipyards of Baladhon, before being hauled some 800 miles across the northern Rat lands, to languish in the erosive waters of Lake Vaelia.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">institutions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="150">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">baron_osdrik</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Baron Osdrik</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Baron Osdrik is Regional Administrator of the former Mouse lands of Muridea, and one of the five members of the Council of the Red Paw.&#10;Osdrik rose to prominence some forty years ago during the failed Saltarian invasion, when he successfully rallied the Rat Guard following the disappearance of Rodrik, the last Rat king, and led them to victory. Songs of his exploits during the invasion have done much to bolster his renown.&#10;Born in Muridea, the baron has historically been broadly sympathetic to the plight of the Mouse population, and an advocate of increased autonomy for the region. However, following recent unrest in northern Muridea, Osdrik was summoned to the capital for an emergency meeting of the five barons of the Red Paw.  Under pressure to suppress dissent and restore order, Osdrik's guards began efforts to identify and arrest prominent figures in the emerging Muridean separatist movement, known as 'The Sons of Asper'.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">characters</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="105">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">battle_lye_sands</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">The Battle of Lye Sands</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The famed Battle of Lye Sands remains one of the messiest, most complex, least-understood military encounters in recent history, even though it technically involved only two armies in a single engagement.&#10;It began as the formal signing of a peace treaty between the Ferrets of Saltar and the Shrew Knights of Threeve. Some say the admirably restrained Knights lost their temper when the Saltarian emissary was stricken with an uncontrollable fit of laughter as the Threeve elder was seized by a salvo of sneezes, caused by the fine-grained sand for which Lye is renowned.&#10;Alas the truth might never be known, as in a rare breach of guild etiquette the minstrels on both sides dropped their instruments to join the fray, leading to wildly diverging accounts of the battle.&#10;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">events</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="105">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">battle_periclave</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">The Battle of Periclave</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The battle of Periclave is the stuff of legends. When the creatures of the world had all but been defeated by the Army of the Green Flame, the Rats made their final stand at the Tower of Periclave.&#10;Heroic accounts abound regarding high deeds of various heroes, none greater than those attributed to Jahrlan, who led the final assault. His courage inspired eleven comrades to join the fray. Among them was Duinlan of Dhall, astride his golden salamander. Together they fought until the great clarion sounded the battle's end.&#10;What happened in the aftermath of the battle is forgotten history. Only the Magpies of Myghlar know the full and true account of that day, and they will not share it with the likes of us.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">events</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">brin</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Brin</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Son of Merra and Tilo, Brin was only a few years old when he was bitten by a spider in the fields of Hamel, and died on a winter's night, at a checkpoint on the Tern Road.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">characters</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="105">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">brisance</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Brisance</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Brisance is a naturally-occurring oil-like substance that explodes when contained and shaken, dropped, or subjected to heat.&#10;Too volatile to be deployed on the modern battlefield, Brisance is primarily used for quarrying and stonemasonry, and commonly stored in glazed earthenware 'casks'. &#10;Though great care must be taken when transporting or working with brisance to keep it as steady as possible, its behaviour is predictable.&#10;Nevertheless, jars of brisance are known colloquially as 'Stonemason's Coffins' , being as they are the number one cause of death in the profession. </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="120">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">captain_powderkeg</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Captain Otto Powderkeg</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">A stocky, barrel of a Rat with a short fuse, Captain Otto Powderkeg was captain of the 'Lake Witch', a galleon that for more than a dozen years terrorized the merchant ships that ferry goods between the five great ports of Lake Vaelia.  It's said that he'd wax his tail and set it alight before going into battle, and it was this that gave him his name.&#10;Captain Powderkeg gained notoriety for his crimes, and fame from the handsome 'WANTED' poster which he himself had printed up and distributed in order to bolster his renown.&#10;The captain was finally captured when his ship wrecked against submerged rocks, just off the eastern shore of Lake Vaelia, near Dwindling Heights Keep. The cause of the wreck was never established, and will likely remain a mystery, for once the doors of Dwindling Heights closed behind him the captain was never heard of again.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">characters</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">city_pesa</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">The City of Pesa</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">It's rare for Mice to journey far beyond the borders of the parish in which they were born. But every Mouse, on reaching adolescence, must travel to the ancient city of Pesa, and register their name and vocation with the regional authorities. &#10;The journey to Pesa may be long and arduous, but their return home is a joyful occasion, for the Mice can at last put aside the simple sackcloth headwear of their childhood, and don the hood or hat of their given profession.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">locations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">codex_feathers</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Codex Feathers</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">All birds have many different kinds of feathers, each serving a specific purpose&#45;-Remige Feathers for flight, Down for warmth, Bristles for protection, and so on. Magpies alone possess a set of Codex Feathers, concealed beneath their wings. These feathers are preened in such a way as to function as a mnemonic system, enabling the retention and recall of great volumes of information. Each Magpie must take great care to maintain the Codex, for it contains the knowledge of their forebears, and the history of all things.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">council_asper</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">The Council of Asper</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The founding father of Muridea, Asper was a great orator, renowned for his ability to turn discord into harmony with his words. It was Asper who negotiated Muridea's peaceful transition from monarchy to republic, and later established a great council, on which sat as equals a representative of each creature capable of thought and reason. &#10;The council still sits, and still bear's Asper's name, though since the War of the Green Flame his kind are not permitted to attend. It is for this reason the Mice of the northern provinces have adopted his name for their uprising. “Until our voices are heard…” is their motto.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">institutions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">deathsTongue_mushroom</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Death's Tongue mushroom</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Indigenous to the caverns and dark places that line the easternmost shore of Lake Vaelia, the Death's Tongue mushroom is so named on account of its purple cap, said to resemble the lolling, swollen tongue of the victims of its poison.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">desert_porreidan</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Porreidan Desert&#10;</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">An equatorial desert high above sea level, the Porreidan Desert possesses the most arid climate in all of Pangeia. The deserts sole inhabitants are the hardy Jerboa, notable for their unusually large ears, used to radiate heat in the desert winds. The Jerboa are an ancient and cultured tribe; accomplished in mathematics, fearsome in battle... and absolutely adorable. Indeed their civilization has endured where so many have fallen for this simple fact; it's hard to stay angry with the Jerboa, even as their warriors are impaling you atop their fortress walls.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">locations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">dhall</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">City of Dhall</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Built long ago at the confluence of two great rivers, Dhall is the old capital of the Rat lands, and the historical seat of the Rat Kings. At its height Dhall was the largest and most prosperous of the great northern cities, with a population over a million strong.&#10;However, the city never truly regained its status following the War of the Green Flame, for in time the two great rivers ran dry. Nowadays the city is forced to draw its water from a vast aquifer, which some fear is being slowly poisoned by seepage from Lake Vaelia.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">locations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">dwindling_heights_decline</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Dwindling Heights: The Decline</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The tunnels of the lower keep collapsed almost forty years ago, towards the end of King Rodrik's reign, when Dwindling Heights fell under attack from the forces of the Ferrets of Saltar.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">events</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">dwindling_heights_guards</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Dwindling Heights: The Guards</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Like the building itself, the guards of Dwindling Heights have seen better days. For members of the Rat Guard who have displeased the Baron in some way or another, patrolling the keep will be their final assignment, and literally a dead-end job. &#10;As a consequence the Rats stationed there are bitter, ill-disciplined and downright mean, prone to take out their frustration on any creature fool enough to get in their way&#45;-especially a Mouse.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">institutions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">dwindling_heights_keep</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Dwindling Heights Keep</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">For centuries the keep at Duinlan Heights has defended the eastern shore of Lake Vaelia.&#10;Though once a fine building the keep has long since fallen into disrepair, its greatest enemy no longer marauding Ferrets, but instead the acidic waters of the lake, which are slowly eroding the cliff face on which the keep stands.&#10;It's for this reason that, among the locals, the fortress has become known as 'Dwindling Heights'.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">locations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">dying_light</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Dying Lights</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Dying lights are blue flames that burn cold, and without a need for fuel. They cannot be extinguished by traditional means. &#10;The precise alchemical process that gave birth to them has long been forgotten, but they are still used to this day aboard Vaelia's wealthier ships, their steadfast flame impervious to fog and spray.&#10;They are traditionally associated to death, since most known instances have been sourced from tombs and catacombs.&#10;Sailors say that on a calm night, the blue lights can still be seen shining up from the depths of Lake Vaelia, like the ghosts of the wrecks that carried them there.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">locations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ferrets_balls</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Ferret's Balls</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Ferrets are renowned for their wedding festivities which involve magnificent balls, often danced at a breakneck pace.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">events</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ferrets_saltar</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">The Ferrets of Saltar</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">It would be fair to say that Ferrets do not exactly enjoy a stellar reputation amongst the creatures of Pangeia. Then again, most Ferrets would tell you they don’t care. &#10;The Saltarian army, though prone to occasional bouts of disorganization, remains nevertheless a force to be reckoned with. &#10;Ferrets have an effective monopoly on salt-trading over Pangeia. Indeed their mines and salt marshes are reputed to produce several varieties of salts, which they use at every opportunity throughout their daily life. Some say this has left them thirsty for violence, but mainly thirsty.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">institutions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">florin</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Florins</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The florin (f) is the official currency of the five Rat provinces. Its coinage is minted in 1f, 5f and 10f denominations from a naturally-occurring alloy of silver, gold and copper, found only in the Sarastra Mountains.&#10;The coin bears the emblem of the Red Paw on its face, though some older florins featuring a portrait of Rodrik, the last Rat King, are still in circulation. Colloquially known as 'cowards' these coins are greatly prized, for they are substantially larger than their modern counterparts, and so can be melted down and recast in molds struck from the newer coins. Three cowards can be used to make as many as five florins. </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">gallworm</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Gallworms</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Drawn to the catacombs of Dwindling Heights by the stench of decay, gallworms are ghastly creatures, capable of decapitating a Rat with a single, venomous bite. Despite their name gallworms are in fact arthropods; those brave souls willing to get close enough to correctly identify and name the creature evidently also lacked the common sense required to survive the encounter.&#10; Extremely resilient to most poisons, the armoured gallworm is most effectively dealt with using explosive brisance or incendiary pinecones, for the toxic vapours emanating from their burrows are highly volatile.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">great_birham</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Great Birham</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">A minor garrison of the Red Paw, situated in northern Muridea, the fortress at Great Birham was recently razed to the ground during a protest by the local Mouse population. The protest was sparked by the death in custody of a Mouse arrested for insulting a member of the Rat Guard. It later emerged that this Mouse's name was 'Myarsh' and that, far from insulting the guard, he was simply stating for the record his name.  The fire was blamed on the Sons of Asper, and used as justification to round up any Mouse suspected of sympathizing with their cause.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">locations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">great_clarion</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">The Great Clarions</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The collective name for a ring of massive, ancient structures that stand in ruin at the southeastern shore of Lake Vaelia. Most now lie submerged beneath the waters of the lake or beached upon its shore, their wooden ribs half-buried in silt like the bones of some extinct leviathan. Of three there remains almost no trace, save for the timber pilings they once stood upon. Though stripped of its copper skin by scavengers, the clarion high above the shores of Duinlan Heights is nevertheless among the most well-preserved. The clarions derive their name from their unique horn-like design, but their true purpose is a mystery to the new age, long since forgotten by all but the Magpies.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">green_flame</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">The Green Flame</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">No one remembers where the Green Flame appeared first. A force without conscience or thought, it killed and consumed all those standing in its path. When the world was teetering on the edge of the Bright Abyss, it almost caused all life to end.&#10;Some see the Green Flame as a creation myth, others as a metaphor for greed and power. The truth is that the Rats’ influence over Pangeia can be traced all the way back to the legendary Battle of Periclave.&#10;King Rodgar the First, Jahrlan, Duinlan&#45;-those mighty Rat heroes may have died centuries ago, yet all still remember that their sacrifice was necessary to finally destroy the Green Flame.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">characters</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">jahrlan</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Jahrlan</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">A true hero of Rat folklore, Jahrlan was general to Rodgar, the first Rat King, during the final battle of the War of the Green Flame. The general did not survive the war. Contemporary accounts of the Battle of Periclave describe Jahrlan sacrificing his own life in order that the Green Flame be defeated. There are some who believe that had Jahrlan lived he may have stood a chance of challenging Rodgar for the crown.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">characters</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">keem</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Keem</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Also known as the eternal city, Keem is a beacon of knowledge, shining out across the whole of Pangeia, and home of the prestigious eponymous university.&#10;It is said the books contained within the walls of the great library are so numerous they could form a staircase leading up to the heavens. It is also said the scholars of Keem are prone to hyperbole.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">institutions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">king_rodrik</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">King Rodrik</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">King Rodrik possesses the dubious honor of being the last Rat King in history. He famously fled his charge in a time of crisis, more than thirty years ago, just when he was most needed by his subjects. He disappeared with the Singing Stone, in order that no king will ever again sit rightfully upon the throne.&#10;He lives on in infamy, a figure of ridicule in many a song, the most famous being “The Ballad of the Coward King”.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">characters</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">kingfisher</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Kingfisher</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The Kingfisher is the symbol of the Thieves' Guild&#45;-admired by its members for its silence, precision, and flamboyance.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="105">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">kolba</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Kolba</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">A Mouse's hat, or hood, counts among their most prized possessions, and is a source of great pride, representing as it does their profession and their social status. &#10;A Mouse of any repute is never seen by any creature&#45;-save for their spouse&#45;-without their Kolba. There are, however, notable exceptions.&#10;It's said, for example, that while occupying the town watchtower in protest against harsh working conditions, the Quarry Mice of Hume threw off their hoods, emphasizing to all the seriousness of the matter, whilst at the same time making it difficult for the soldiers of the Red Paw to later identify the culprits.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="135">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">lake_vaelia</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Lake Vaelia</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Vaelia is a vast inland sea, spanning from Muridea in the east to the distant shores of Saltar. Once dominated by the sleek ships of the Vaelian Frogs, the lake is now policed by the galleons of the Red Paw, for its ports and trade routes are vital to the service of the Rat empire. The eastern shore of Vaelia is defended by a chain of fortress keeps, of which Duinlan Heights is but one. Vaelia's waters are stagnant and acidic, yet home to a myriad of creatures, including the sundercrab and the gowler eel. &#10;Several leagues offshore, a heavy fog enshrouds the lake&#45;-a hazard for shipping, and a haven for pirates. Legend claims that hidden within lies the mythical island of Periclave&#45;-and that is not the only mystery Vaelia might hold. Ancient texts and lays describe Vaelia not as a lake, but as an endless plain, on which the final battle of the War of the Green Flame took place. The scholars of Keem speculate that the confusion arises from a mistranslation of the original texts... but it is just possible that the truth lies beneath the waters of the lake itself.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">locations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">lutkas</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Lutkas</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Small figurines carved by every Mouse buck to commemorate the occasion of his marriage, and the birth of his children. &#10;Lutkas are made in wood or stone and stained, with lime to represent the living, and ash to commemorate the dead. &#10;Often carried at the waist in a small purse, Lutkas count among a buck's most precious belongings.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="105">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">magpies_knowledge</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Magpies and knowledge</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Among Magpies knowledge is a commodity and a currency, prized above all else. Each fragment of information gathered is carefully evaluated for its relative worth. Rumours, tall tales, even fiction&#45;-all have some value. Indeed rumours can be most valuable of all, rough fragments of knowledge that can be polished up and passed on at a higher price. Even single words can have a value, given context. Some Magpies mine raw information to sell on, while others will break up individual sentences into more valuable parts and pass them on. These Magpies are known in the trade as ‘Liars’. The knowledge of Magpies is prized greatly, as they are considered to be the custodians of absolute truth. Indeed, such value is placed upon their counsel that only heads of state and nobility can afford it.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">magpies_mice</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Magpies and Mice</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Following the War of the Green Flame, noble Mice were stripped of their titles, and mouse lands were confiscated. Mice have no king nor wealth. And so it is that no Magpie has spoken to a Mouse in generations.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">malpetus</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Malpetus the Physician</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Malpetus the Physician was present at the battle of Lye Sands, though he did not personally take part in the mayhem. His claim to high fame stems from the fact he allegedly managed to stitch back on the tail of King Souk of the Ferrets. Or was it King Nor? Accounts of the battle differ. &#10;At the time he was already under scrutiny for his unsavory practices, namely illicit experiments on pre-deceased patients leading to their freshly-deceased condition. Known at first as the “Malpetus-practice”, later shortened to “malpractice”.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">characters</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">master_lewlin</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Master Lewlin</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">One of the most influential minstrels of the new age, Lewlin is renowned for the subtlety and warmth of his playing. Author of 'The Minstrel's Flight', he was known as a wise and compassionate soul, and a favourite amongst noble creatures and kings. Lewlin had but three apprentices, none of whom are nearly as accomplished as their master. He was last seen some years ago, performing in northern Muridea. Given his great age, Master Lewlin's tale must by now surely have reached its end. Yet still he lives on in song, his influence felt&#45;-and heard&#45;-across Pangeia.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">characters</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">muridean</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Muridean</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The language of the Mice, Muridean originated in the Mouselands of Muridea, annexed following the War of the Green Flame, and now under the rule of the Red Paw.  While not outlawed, it is rare to hear Muridean spoken in public, for all trade is conducted, and official pronouncements made, in the common tongue. Still the language survives in the songs of wandering minstrels, and is still spoken freely in the remote villages of what was once Northern Muridea. In recent years the language has seen a resurgence among young Micefolk. For them the use of Muridean is political, a small act of resistance against the ever-present forces of the Red Paw, and the gradual erosion of their culture.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">myghlar</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Myghlar</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">In Magpie mythology Myghlar is the great winged creator. It’s said that she conjured into existence the heavens and the skies, and all the creatures who dwell there, simply by speaking their names. Myghlar needed only to say the word, and her word became the truth. It’s unsurprising, then, that Magpies so greatly value the spoken word, or that they hold lies in such contempt.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">characters</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">nykto</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Nykto</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">While the name of Jahrlan endures in legend, the identity of 'Nykto' has been lost to the passage of time.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">characters</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">obol</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Obol</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">A silver disc, issued to all members of the Rat Guard and inscribed with its bearer's name. The obol is usually only carried into battle, to aid in identification of the dead; the obols of the guards of Dwindling Heights have not seen action in quite some time.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ouma</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Ouma</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Mice share responsibility for raising their young with other members of their village. 'Ouma' literally means 'Second Mother' in the Mousefolk's tongue.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">pangeia</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Pangeia</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The name of the known world in the common tongue. All manner of creatures inhabit Pangeia.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">locations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="105">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">periclave</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Periclave</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Periclave is the subject of a myriad of epic poems and songs, painting for us an evocative, if often contradictory, picture of the lost tower. Some say it rose from the center of a vast plain, a bridge between the earth and the heavens, while others describe Periclave as an island pierced by a black shard at the centre of a great lake. But most historians tend to agree that Periclave was once a place of learning and discovery for all enlightened creatures, greater even than the library at Keem, and the final rallying point for the armies of the living in the War of the Green Flame. As its true nature has long eluded scholars of all disciplines, some have theorized that Periclave is merely a fantasy&#45;-an amalgamation of various enclaves that played a part in the war. Regardless, the Tower of Periclave casts a long shadow over us still.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">locations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="105">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">periclave_cloak</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">The Cloak of Periclave</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Several leagues offshore, a permanent fog hangs over much of Lake Vaelia. Sailors have named this fog 'the Cloak of Periclave' for it's said to enshroud the mythical island of the same name.&#10;While most of Vaelia's ships are shore runners, operating within the relative safety of the lake's shallows, larger trading ships led by experienced captains&#45;-and a Vaelian Frog for a pilot&#45;-will venture further, into the fog.&#10;These merchant routes have been travelled for centuries, their currents and hazards thoroughly charted. Even so, the crew must maintain a constant state of vigilance, for visibility within the Cloak is no more than a few feet. Then, there are the pirate galleons that seemingly sail the Cloak with impunity...</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">periclave_legend</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Periclave in Legend</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Only one contemporary account of Periclave exists, given by the boatswain of a small fishing trawler lost in a storm, and found adrift six months later raving about an island of both great beauty and abject horror, a citadel dominated by a dark tower and populated by the dead. The ship's surgeon who examined him declared him madder than a Saltarian Ferret, forced as he had been to drink the brackish waters of Lake Vaelia in order to survive his ordeal. He recovered in time, but never recanted his testimony. Though his body had returned, it seemed his mind still dwelled on that island he claimed to have found. One night he stole a skiff and disappeared back into the fog that hangs over Vaelia at dawn, never to return.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">locations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">prison_strongbox</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Prisoner's Purse</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Captives brought to Dwindling Heights will often swallow their valuables, in order that they not be confiscated by the guards. They call it the 'Prisoner's Purse'. Inevitably nature will take its course. It’s said that great wealth can be found in the chamber pots and sewers of Dwindling Heights.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">rascal</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Rascal</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">For Mice, grain is measured in 'sacks' and 'rascals'. The amount of grain represented by a sack should be self-evident. A 'rascal' is the amount of grain a mouse can cram into their mouth whilst still being able to run two hundred yards without pausing for breath.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="120">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">red_paw</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">The Red Paw</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Faced with the prospect of invasion Rodrik, the last Rat king, abandoned his crown and fled as his kingdom descended into chaos. In the king's absence the five Rat barons, led by Osdrik, united their forces and drove back the Saltarian warships. &#10;But there was no heir to the throne, and none could be crowned king anew, for the Stone of Ascension had been lost in the shipwreck that also claimed Rodrik's life. And so the barons assembled an emergency ruling council, moving quickly to restore order to the kingdom of the Rats, and the annexed lands of Muridea. &#10;Unrest was quelled with ruthless and bloody efficiency. The council's emblem&#45;-a circle surrounded by five crimson strokes&#45;-was intended to represent the five barons sitting in congress. But in the minds of many it resembled nothing less than a bloody footprint&#45;-the age of the Red Paw had begun...</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">institutions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">red_ranger</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">The Red Rangers</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The rangers are masters of tracking and combat. Sworn to protect the lowly and the weak, they are both feared and celebrated in equal measure.&#10;Though their identity is a closely-guarded secret, the order of the Red Rangers is known to accept creatures of any kind into their ranks. Mice can be rangers, Badgers can be rangers, Shrews would rather not, as no-one takes them seriously.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">institutions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ringtail</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Ringtail</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">A disease that causes a series of painful constrictions along the length of a rodent's tail. If left untreated the appendage can turn gangrenous, and drop off.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">rotgut</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Rotgut</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">An alcohol made from putrescent Oleander wood, and something of an acquired taste. Coincidentally, taste is the first of the five senses to be ruined by Rotgut's consumption.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">rundlet</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Rundlet</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">A small cask of wine, or oil. If you are unable to visualize a rundlet it may help to imagine a cask with approximately twice the volume of a firkin, or three-sevenths that of a tierce, which is itself half a puncheon, better known as a third of a tun. A tun, of course, is defined as the volume of water held by the fabled granite bathtub of Aruik the Clean&#45;-the sixth of the Vole Kings of legend&#45;-who it's said weighed exactly one rundlet.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">sallet</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Sallet</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">A metal helmet with a full face-guard. The Sallet first became popular during the Second War of Abstention, when King Nor sent his artists onto the battlefield to sketch a likeness of the soldiers of the opposing side, in order that they could be properly mocked once the war was over.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="120">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">scarn_port</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">The Five Ports</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Lake Vaelia is served by five great ports:&#10;Albar is the northerly-most port, through which all trade with Baladhon is conducted. Egris is the most heavily fortified, for it sits dangerously close to Saltar on the western shore. Castelbrook to the south is the closest to the capital. Goods unloaded there are taken on by caravan cross land to Dhall. Scarn is the largest of the five ports adorning the shores of Lake Vaelia; Orandas to the northeast is a mere mooring post by comparison. A bustling and vibrant trading centre, Scarn is mostly populated by Rodents and operates under the management of the Red Paw. It is nevertheless a fine example of a diversity of creatures working in harmony, and only rarely descends into sheer chaos when the Merchants Guild goes on strike. Their strikes are scheduled to be held twice-monthly.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">locations</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">scrunt</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Scrunt</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">A word too rude to define.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">singing_stone</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">The Singing Stone</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The Singing Stone of the Rat Kings, or the Stone of Ascension, is a carved, jet black piece of rock, about the size of a Rat's clenched fist. Its origin is lost even to legend, but its importance is known to all. &#10;The heirs of a Rat king are not assured the right of succession. Any Rat may challenge for the right to hold the stone. It’s said that the stone will sing the praises of the future monarch, if they are indeed worthy. But the stone has been lost. Some think Rodrik took it with him as he fled, in order that no usurper could steal the throne in his absence.&#10;Others, however, believe that the barons of the Red Paw have buried the stone, so they might rule the Rat lands unopposed...</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">items</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="75">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">skappbeetle</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Skappbeetle</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">A horned, flying beetle native to the eastern equatorial region. In the wild, the skappbeetle lures its prey by mimicking the mating call of other beetles.&#10;The Signal Guards of the Red Paw use this ability to send messages across great distances, encoded as a series of taps, whistles and clicks that the skappbeetle learns and repeats.&#10;The bond between a Signal Guard and his skapps is extremely strong, the beetles having been reared from larvae by their handler.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">sunder_crab</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Sundercrab</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">A family of huge freshwater crabs that inhabit Lake Vaelia. Though dangerous, the sundercrab may be domesticated as a beast of burden and can be found at work loading and unloading cargo at Port Scarn.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">misc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="135">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">tulong</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Tulong</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Tulong is considered by many (including his peers, and his own self) to be the greatest thief alive. Tales of his daring and guile are near legendary, and with each telling his renown has only grown. But  Tulong is neither hero, nor villain.  Mercurial and capricious, Tulong is a force of nature, impossible to predict&#45;-just as likely to steal gold from the Baron and give it to the lowliest pauper, as he is to then steal the wooden teeth from the pauper's mouth while he's being thanked for the gold. But his most famous deed is, to many, also his most noble.&#10;It’s said that Tulong once risked his own life to warn a small village of the approach of marauding bandits, giving the mud farmers living there just time enough to flee. They returned to find their homes intact but ransacked, their valuables gone. Still, the villagers were grateful to have kept their heads, and organized a banquet in Tulong’s honour, proving that mud farmers are generous, if often terribly naive.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">characters</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">vaelian_frogs</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Vaelian Frogs</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The Frogs of Vaelia represent the lake's only indigenous culture, and their knowledge of the lake's currents and winds is greatly prized. Only the most foolhardy of captains would dare attempt to navigate the lake's treacherous waters without a Vaelian Frog among their crew.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">institutions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">wallowing</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">The Wallowing</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">An annual ritual, held in the forest, when the rains have fallen in earnest, and the ground is at its muddiest. For three days creatures of all kinds (and of questionable character) come together to... wallow, presumably&#45;-the exact nature of the events that take place at the Wallowing remains a mystery. Indeed none can agree exactly what it is that the Wallowing is meant to celebrate, or commemorate.  Some say it represents death and rebirth, or the opportunity to bask in one's misery. Others believe it to be a ritual of unity, in which all creatures are rendered anonymous, and equal, by the mud. What is certain is that fewer creatures than went in ever emerge from the Wallowing. </Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">events</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">wardens_flame</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Wardens of the Green Flame</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The heroes of the Battle of Periclave were laid to rest in twelve great tombs, arranged in a vast circle on the south-eastern edge of Lake Vaelia, symbolically watching over the place where the Green Flame fell. In the centuries since  many of the tombs have fallen into disrepair, or collapsed entirely. Others have been fortified to establish a line of defensive keeps along the shore. &#10;The names of all but four of these heroes have been lost to time, but their deeds are celebrated still, in songs and works of art. It's from these sources that the four greatest are known&#45;-Duinlan, the Guardian of Lost Hope, Karam, the Guardian of Travelers, Jahrlan, the Guardian of Music, and Nykto, the Guardian of the Wind.</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">institutions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">yuva_citadel</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Yuva Citadel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The regional headquarters of the Rat Empire, Yuva Citadel dominates what once was the capital city of the Kingdom of Muridea. &#10;Known colloquially as 'The Nail', it's from this stronghold that the Rat Guard has brutally suppressed any signs of revolt among the Mouse population.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">locations</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.4921259845"/>
+    <Footer x:Margin="0.4921259845"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>43</TopRowBottomPane>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+     <ActiveRow>1</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>2</ActiveRow>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>45</ActiveRow>
+     <ActiveCol>0</ActiveCol>
+     <RangeSelection>R46</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="28B912B915A6439BA143528A2903A016"/>
+<title text="quest_findFaustus" customized="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="100" x="515" y="451"/>
+<selection guid="yQk8pbQpp06tJWmR6207Pg" type="node" id="11"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="rAOw3jrG_UWvG9Jbv93fiQ" x="1030.94" y="573.73" palette="2" colorinfo="2" text="The Apothecarist">
+<note>
+[mainQuest]-Removed alternate branch, as it&apos;s no longer necessary.version_01-16-18_004-Added renown on final node at tier 3 (temp)version_12-20-17_003-Added new tasks to talk with Kerold, and retrieve a key from his cellversion_12-01-16_002-Wrote appropriate quest description for first node.
+</note>
+</topic>
+<topic id="1" parent="0" guid="JeFM7ixy9ke8JXjsHJtiXA" x="1463.49" y="573.73" palette="8" colorinfo="8" text="Before you head into the lower keep you&apos;ll\Nneed an antidote for spider venom. Find the\Nmysterious Faustus and ask for his help."/>
+<topic id="2" parent="0" guid="2axG06Gj10OBxALr3AHf4w" x="1030.94" y="742.88" palette="6" colorinfo="6" text="Steal papers from the\Nramparts guard.">
+<note>
+[taskName=getInstructions]
+</note>
+</topic>
+<topic id="3" parent="2" guid="g2wA5A-wPkSpfhS0HRzCOQ" x="1453.49" y="742.88" palette="8" colorinfo="8" text="You stole papers detailing how to find\NFaustus from the Rat on the ramparts."/>
+<topic id="4" parent="2" guid="2nxcEMAbQkW5ABG2FV4fqw" x="1030.94" y="880.38" palette="4" colorinfo="4" text="Examine papers.">
+<note>
+[taskName=examineInstructions]
+</note>
+</topic>
+<topic id="5" parent="4" guid="iGp4fJSY5EWRBBk_MYlUbQ" x="1030.94" y="1018.51" palette="6" colorinfo="6" text="Talk to Frog prisoner.">
+<note>
+[taskName=talkToKerold]
+</note>
+</topic>
+<topic id="6" parent="5" guid="DVkYrdIHqkaHX-bJasXz-g" x="1030.94" y="1156.32" palette="4" colorinfo="4" text="Collect sewer gate key.">
+<note>
+[taskName=getKey]
+</note>
+</topic>
+<topic id="7" parent="6" guid="9OprOiZpBEiCw4_WLB3OjA" x="1030.94" y="1280.63" palette="6" colorinfo="6" text="Find Faustus.">
+<parent-relation guid="at80LsZB6UOPR97lO2SDgg"/>
+<note>
+[taskName=findFaustus][grantRenown=3]
+</note>
+</topic>
+<topic id="8" parent="7" guid="RtUUIkBG_kCOB_ACaiIqDQ" x="1453.49" y="1288.63" palette="8" colorinfo="8" text="You found Faustus and\Nhis hidden chamber."/>
+<topic id="9" parent="6" guid="UVfZsdFjpEiRcmzWjxSEjw" x="1463.49" y="1156.32" palette="8" colorinfo="8" text="You retrieved the key to the sewer\Ngate from Kerold&apos;s chamber pot."/>
+<topic id="10" parent="5" guid="CfXrXFl6_UOs399cu5cSkQ" x="1463.49" y="1018.51" palette="8" colorinfo="8" text="You spoke with the Frog prisoner, Kerold.\NThe sewer gate key is in his chamber pot."/>
+<topic id="11" parent="4" guid="yQk8pbQpp06tJWmR6207Pg" x="1453.49" y="880.38" palette="8" colorinfo="8" text="The papers show a curious diagram, a list of\Nwords, and a message--&quot;The Frog has the key!&quot;"/>
+</topics>
+<relations/>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

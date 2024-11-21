@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="339082E8B6014A08A87BC018E33D7D9F"/>
+<title text="quest_cureForRingtail" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="100" x="544" y="337"/>
+<selection guid="R8jMCuVdMUeVUYHxS49UxQ" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="R8jMCuVdMUeVUYHxS49UxQ" x="878.24" y="624.98" palette="2" colorinfo="2" text="A Case of Ringtail">
+<note>
+version_03-02-18_002-Added renown points award to questversion_08-21-16_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="JPjf--QjN06UX-RKe6RRQQ" x="877.74" y="821.73" palette="6" colorinfo="6" text="Confer with Faustus.">
+<note>
+[taskName=talkToFaustus]
+</note>
+</topic>
+<topic id="2" parent="1" guid="PcQm9XXzs0CC1w0C-YpqlQ" x="1404.99" y="821.73" palette="8" colorinfo="8" text="Faustus agreed to treat the Commander&apos;s\Ncondition, albeit reluctantly."/>
+<topic id="3" parent="1" guid="skcAXPfo80K4T-DI5nd9Fw" x="877.74" y="1009.98" palette="6" colorinfo="6" text="Return to the Commander">
+<parent-relation guid="jziBoB8M2EutvaCyTbT8zg"/>
+<note>
+[taskName=talkToCommander][grantRenown=2]
+</note>
+</topic>
+<topic id="4" parent="3" guid="pMpptPx1GEOyqkS8UFkxSg" x="1404.99" y="1009.98" palette="8" colorinfo="8" text="You presented the ointment to the Commander.\NIt was a success... with one caveat."/>
+<topic id="5" parent="0" guid="yCpMQszaHUyVd8swiRSDTQ" x="1404.99" y="623.73" palette="8" colorinfo="8" text="The Commander is suffering from\Nringtail. Find him an ointment that\Nmight alleviate his discomfort."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

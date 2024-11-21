@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="A2745D11E3DD4628AF7D9D1DA8D0042A"/>
+<title text="quest_mysteryOfDuinlansTomb" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="60" x="381" y="215"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="dqgdT0XmcEa8CmEzMeDCEA" x="878.82" y="561.37" palette="2" colorinfo="2" text="Mystery of the Catacombs">
+<note>
+[mainQuest]version_01-16-18_007-Added renown on final node at tier 3 (temp)version_07-11-17_006-Added new tasks to complete the questversion_08-05-16_005-Changed name of last quest, and description to enable us to complete the questversion_07-24-15_004-Added a task so quest doesn&apos;t end when Tilo reaches the end of the gameversion_07-21-15_003-Shortened title. removed &apos;the&apos;version_07-05-16_002-Changed name to &apos;the Mystery of the Catacombs&apos;version_110716_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="ekRI3EImBk6-4bIwJB3GGw" x="1378.32" y="561.37" palette="8" colorinfo="8" text="Descend into the catacombs beneath\Nthe keep in search of treasure."/>
+<topic id="2" parent="0" guid="Kogv5bjL4kmGY4Nlupjs0w" x="878.82" y="724.49" palette="6" colorinfo="6" text="Head to the West Gate.">
+<parent-relation guid="J6DsIUhkEky193oB0SQ7kg"/>
+<note>
+[taskName=goToWestGate]
+</note>
+</topic>
+<topic id="3" parent="2" guid="YUFGmIJ1kkyP4ZNoJHPXow" x="1384.43" y="724.99" palette="8" colorinfo="8" text="Disguised as a guard you passed\Nthrough the west gate undetected."/>
+<topic id="4" parent="2" guid="BkAqwfRAMk-mCgNxQuU0Kw" x="878.46" y="896.63" palette="4" colorinfo="4" text="Rendezvous with\Nyour squad.">
+<note>
+[taskName=talkToSquadCommander]
+</note>
+</topic>
+<topic id="5" parent="4" guid="pt-t4UIQYkKr-asMFbWDew" x="1378.32" y="899.49" palette="8" colorinfo="8" text="The squad was ambushed by\Nspiders. You must journey on alone."/>
+<topic id="6" parent="4" guid="8RwBLYKXyU205J76uWwg_w" x="876.96" y="1072.44" palette="6" colorinfo="6" text="Navigate the catacombs\Nand find the altar.">
+<note>
+[taskName=findChest]
+</note>
+</topic>
+<topic id="7" parent="6" guid="ImILQ2B7rUKY7qVvRmm62A" x="1378.32" y="1072.44" palette="8" colorinfo="8" text="Before you at the altar appeared\Nthe ghost of a great warrior..."/>
+<topic id="8" parent="6" guid="QweWg0K4tUCDym881iMgCw" x="876.41" y="1243.35" palette="4" colorinfo="4" text="Confer with the ghost.">
+<parent-relation guid="5j4ub9eeKUq29gwti08BUw"/>
+<note>
+[taskName=talkToDuinlan]
+</note>
+</topic>
+<topic id="9" parent="8" guid="heLaF8doaUaFrC9Xe_Wb2Q" x="1369.69" y="1243.35" palette="8" colorinfo="8" text="The ghost was once the hero Duinlan.\NShe bid you take the treasure chest."/>
+<topic id="10" parent="8" guid="tl5ppD40YU-tzFL5WWIe6g" x="876.41" y="1409.85" palette="4" colorinfo="4" text="Carry the chest\Nback to Silas.">
+<parent-relation guid="-WjQbdsTlE6Jy2SP1kWMoQ"/>
+<note>
+[taskName=getChest]
+</note>
+</topic>
+<topic id="11" parent="10" guid="vHdnp4zJRk-PnTcCrsS1Qw" x="876.41" y="1570.24" palette="6" colorinfo="6" text="Retrieve the contents\Nof the chest.">
+<note>
+[taskName=getChestContents]
+</note>
+</topic>
+<topic id="12" parent="11" guid="vjfo8727H0K3aizC1PWdlA" x="876.41" y="1723.10" palette="5" colorinfo="5" text="Return to Silas.">
+<parent-relation guid="crfrKsM27UmAJQiOM0FDRw"/>
+<note>
+[taskName=talkToSilas][grantRenown=3]
+</note>
+</topic>
+<topic id="13" parent="12" guid="3klalhciykmkHiW-K2yMmA" x="1369.69" y="1723.10" palette="8" colorinfo="8" text="You gave Silas the\Ncontents of the chest."/>
+<topic id="14" parent="11" guid="n05JKsR4AUqF7ThucdfqMg" x="1369.69" y="1570.24" palette="8" colorinfo="8" text="You gathered up the\Ncontents of the chest."/>
+<topic id="15" parent="10" guid="799sZpT_x02sXnq2fVsONA" x="1369.69" y="1409.85" palette="8" colorinfo="8" text="From the shadows a Magpie attacked!\NThe chest was broken open."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

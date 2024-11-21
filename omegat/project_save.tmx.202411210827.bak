@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE simplemind-mindmaps&gt;
+&lt;simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3"&gt;
+&lt;mindmap&gt;
+&lt;meta&gt;
+&lt;guid guid="077CAF8D3B004ACDA09F18F31B93390D"/&gt;
+&lt;title text="quest_flowersForMerra" customized="True"/&gt;
+&lt;style key="system.pastel-palette"/&gt;
+&lt;auto-numbering style="disabled"/&gt;
+&lt;scrollstate zoom="120" x="836" y="336"/&gt;
+&lt;selection guid="pxDv2ilCtUKVmNCBrgnTuQ" type="node" id="3"/&gt;
+&lt;main-centraltheme id="0"/&gt;
+&lt;/meta&gt;
+&lt;topics&gt;
+&lt;topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="896.02" y="620.54" palette="2" colorinfo="2" text="Flowers for Merra"&gt;
+&lt;note&gt;
+version_03-02-18_006
+-Added renown points award to quest
+version_08-03-17_005
+-added four more roses
+version_07-18-16_004
+-added ninth rose
+version_05-05-16_003
+-added eighth rose
+version_05-04-16_002
+-corrected number of roses to seve
+version_110716_001
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="1" parent="0" guid="leSFUphX30e2MKzK6CGNeA" x="896.01" y="722.35" palette="6" colorinfo="6" text="Collect roses."&gt;
+&lt;note&gt;
+[taskName=getFlowersForMerra]
+[itemCounter=rose_red/17]
+[grantRenown=3]
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="2" parent="1" guid="ya4S48AAck6r0s8fPxgW_g" x="1373.84" y="730.62" palette="8" colorinfo="8" text="You collected all seventeen roses."/&gt;
+&lt;topic id="3" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1399.85" y="619.71" palette="8" colorinfo="8" text="Collect seventeen roses in honour of Merra."/&gt;
+&lt;/topics&gt;
+&lt;relations/&gt;
+&lt;/mindmap&gt;
+&lt;/simplemind-mindmaps&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="wasikuss" changedate="20241121T072347Z" creationid="wasikuss" creationdate="20241121T072335Z">
+        <seg>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE simplemind-mindmaps&gt;
+&lt;simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3"&gt;
+&lt;mindmap&gt;
+&lt;meta&gt;
+&lt;guid guid="077CAF8D3B004ACDA09F18F31B93390D"/&gt;
+&lt;title text="quest_flowersForMerra" customized="True"/&gt;
+&lt;style key="system.pastel-palette"/&gt;
+&lt;auto-numbering style="disabled"/&gt;
+&lt;scrollstate zoom="120" x="836" y="336"/&gt;
+&lt;selection guid="pxDv2ilCtUKVmNCBrgnTuQ" type="node" id="3"/&gt;
+&lt;main-centraltheme id="0"/&gt;
+&lt;/meta&gt;
+&lt;topics&gt;
+&lt;topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="896.02" y="620.54" palette="2" colorinfo="2" text="Flowers for Merra"&gt;
+&lt;note&gt;
+version_03-02-18_006
+-Added renown points award to quest
+version_08-03-17_005
+-added four more roses
+version_07-18-16_004
+-added ninth rose
+version_05-05-16_003
+-added eighth rose
+version_05-04-16_002
+-corrected number of roses to seve
+version_110716_001
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="1" parent="0" guid="leSFUphX30e2MKzK6CGNeA" x="896.01" y="722.35" palette="6" colorinfo="6" text="Zbierz róże."&gt;
+&lt;note&gt;
+[taskName=getFlowersForMerra]
+[itemCounter=rose_red/17]
+[grantRenown=3]
+&lt;/note&gt;
+&lt;/topic&gt;
+&lt;topic id="2" parent="1" guid="ya4S48AAck6r0s8fPxgW_g" x="1373.84" y="730.62" palette="8" colorinfo="8" text="You collected all seventeen roses."/&gt;
+&lt;topic id="3" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1399.85" y="619.71" palette="8" colorinfo="8" text="Collect seventeen roses in honour of Merra."/&gt;
+&lt;/topics&gt;
+&lt;relations/&gt;
+&lt;/mindmap&gt;
+&lt;/simplemind-mindmaps&gt;</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

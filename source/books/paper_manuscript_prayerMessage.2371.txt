@@ -1,0 +1,5 @@
+<size=115%>Master of the Salamander, I offer you this ring, relic of noble kings of old. May you accept it in tribute to your grace and as a promise to return what I have took this day.
+
+Warden of the Flame, Guardian of Lost Hope, grant me courage to persevere and strength enough to prevail. For my kingdom, my kind, for Bryndis--my one true love--and Silas, my firstborn son.</size>
+
+<size=150%><align=right>-R.</align></size>

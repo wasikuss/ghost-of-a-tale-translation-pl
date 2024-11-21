@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.20.2" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="D996F95CF01F475DBAD9535F26F6E284"/>
+<title text="dialog_silas_departure" customized="True"/>
+<images containsImages="True"/>
+<style key="quest_style"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="70" x="1018" y="-770"/>
+<selection guid="zx180osvREeQ_Y3vct2zhA" type="node" id="2"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="lqrVD3pT7U-DcKiRt7ncJA" x="2444.59" y="-1474.47" palette="1" colorinfo="1" text="dialog_silas_departure">
+<note>
+VERSION_05-03-18-Added expressions
+</note>
+</topic>
+<topic id="1" parent="0" guid="CfyJ_WE1SkCsb1te5SyuvQ" x="1842.59" y="-1119.70" palette="3" colorinfo="3" text="silas: Are you\Nready to go, Mouse?">
+<parent-relation guid="tLNfCL5BBEOsTpJmsPKt4w"/>
+<children>
+<image guid="lu1T1KqsBEav7Y13qijR7g" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="-108.34" y="-53.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="lu1T1KqsBEav7Y13qijR7g" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="-108.34" y="-53.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][lockableThread:silas][lockThread:silas][updateCounter:dialog_rolo_departure.warningBellTolls+1]
+</note>
+</topic>
+<topic id="2" parent="1" guid="zx180osvREeQ_Y3vct2zhA" x="1842.59" y="-770.99" text="DIALOGUE_HUB"/>
+<topic id="3" parent="2" guid="pmIi_WQwx0OunsBtDvKG8w" x="1707.54" y="-580.07" text="tilo: Will you not\Ncome with me?">
+<parent-relation guid="kL6iY8cWK0SI5c-euWYxzg"/>
+<note>
+[lockableThread:silasComeWithTilo=true][lockThread:silasComeWithTilo]
+</note>
+</topic>
+<topic id="4" parent="3" guid="5oSRWK_B2UKzAVUwbVh0_Q" x="1707.54" y="-458.77" text="silas: And leave these\Nthree to deal with this?">
+<children>
+<image guid="Ad_7AZqxWE6eW3IeGxYVlg" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="-143.34" y="-43.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="Ad_7AZqxWE6eW3IeGxYVlg" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="-143.34" y="-43.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="5" parent="4" guid="IPtlDxsAV0mVqkkyiiXe1A" x="1707.54" y="-334.37" text="silas: No, Mouse. The\NCouncil must be warned...">
+<parent-relation guid="3fCA88Z0J0iIcML24hkfvA"/>
+<children>
+<image guid="p7LYcDrFCk-bvPMqTaEUXg" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="-153.34" y="-17.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="p7LYcDrFCk-bvPMqTaEUXg" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="-153.34" y="-17.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="6" parent="5" guid="OHWsUvCk_0SsUwMfZGBKSg" x="1707.54" y="-212.66" text="silas: ... the [Green\NFlame] has returned.">
+<children>
+<image guid="vctODXQGKEepPqxJlqiSzg" name="4d6d7d96cfbb3e1947b9b3e56bdaf915aa327a85" x="143.33" y="15.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_surprise.png"/>
+</image>
+</children>
+<images>
+<image guid="vctODXQGKEepPqxJlqiSzg" name="4d6d7d96cfbb3e1947b9b3e56bdaf915aa327a85" x="143.33" y="15.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_surprise.png"/>
+</image>
+</images>
+<note>
+[footnote:green_flame]
+</note>
+</topic>
+<topic id="7" parent="6" guid="qDT4smmdykmDOLtarWsNjw" x="1492.90" y="-8.82" text="tilo: And if they\Ndon&apos;t believe you?"/>
+<topic id="8" parent="7" guid="KiYIR4R8yUSDThVJ0HVKOQ" x="1492.90" y="103.60" text="silas: I saw it with my own\Neyes and I can still\Nscarcely believe it.">
+<children>
+<image guid="IcLCOFEPN0GQC7JaAxDSzg" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="166.66" y="-0.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="IcLCOFEPN0GQC7JaAxDSzg" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="166.66" y="-0.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="9" parent="8" guid="vGLBtGLjs0aR1UQvyDeQSw" x="1492.90" y="210.02" text="silas: But I have to try.">
+<children>
+<image guid="JHCPydOR9k28KFq_Ux7ERg" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="148.33" y="14.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="JHCPydOR9k28KFq_Ux7ERg" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="148.33" y="14.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="10" parent="9" guid="K2Cr0Bla00mKRH_QYOryJw" x="1492.90" y="316.43" text="DIALOGUE_HUB">
+<parent-relation guid="vIybMY85SkOuqZzCFIvaAw"/>
+</topic>
+<topic id="11" parent="10" guid="4trhBh9HeUGcrUpQk8YZjw" x="1492.90" y="438.25" text="tilo: I wish you\Nthe best, Silas."/>
+<topic id="12" parent="11" guid="Rw4ekUhjPkaqpwDFXyza4A" x="1492.90" y="549.16" text="silas: ...">
+<children>
+<image guid="u2XB2QGOpEacSjggFaOl5w" name="07e75275ed5e09a8354b4abdc1e50db592d6863e" x="80.00" y="4.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="u2XB2QGOpEacSjggFaOl5w" name="07e75275ed5e09a8354b4abdc1e50db592d6863e" x="80.00" y="4.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="13" parent="12" guid="zV2er1Itgke5kLysqSD1EA" x="1707.54" y="687.49" text="NULL NODE">
+<note>
+[ignore]
+</note>
+</topic>
+<topic id="14" parent="10" guid="mKg61wh8ykq397MtYOwLrA" x="1249.29" y="438.25" text="tilo: Spoken\Nlike a prince.">
+<note>
+[lockableThread:spokenLikeAPrince][lockThread:spokenLikeAPrince]
+</note>
+</topic>
+<topic id="15" parent="14" guid="j9M7AeCGgkCf0JJV4vZSpA" x="1249.29" y="549.16" text="silas: ...">
+<children>
+<image guid="_sBhkoxkpUGSCRPoMyhZ_A" name="07e75275ed5e09a8354b4abdc1e50db592d6863e" x="80.00" y="-2.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="_sBhkoxkpUGSCRPoMyhZ_A" name="07e75275ed5e09a8354b4abdc1e50db592d6863e" x="80.00" y="-2.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="16" parent="6" guid="v46S6mCyRUqAmigf8RfaHA" x="1904.60" y="316.43" text="tilo: One day I&apos;ll be\Nsinging songs about you."/>
+<topic id="17" parent="16" guid="rLWRuL2gg0uaDi-ZICHJmg" x="1904.60" y="438.25" text="silas: Well... let&apos;s see if I can give\Nyou something to write about, then.">
+<parent-relation guid="cBPrLMVMAkSsAVPD_2EypQ"/>
+<children>
+<image guid="l6wQNU8OAU2r-ORt1JxBoA" name="7259d740deae1686eccfd552dd0de15725874ff0" x="203.33" y="15.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="l6wQNU8OAU2r-ORt1JxBoA" name="7259d740deae1686eccfd552dd0de15725874ff0" x="203.33" y="15.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="18" parent="2" guid="yGfqhdioi0e91b9uAd4YcA" x="2064.81" y="-580.07" text="tilo: What will\Nyou do now?">
+<parent-relation guid="Fyl0ieLTf0CJTX3VRJzcQg"/>
+<note>
+[lockableThread:silasWhatNow][lockThread:silasWhatNow][unlockThread:silasComeWithTilo]
+</note>
+</topic>
+<topic id="19" parent="18" guid="izbQ26eOc0y7KFVdLh15WQ" x="2064.81" y="-477.86" text="silas: There&apos;s no going\Nback, that&apos;s for certain.">
+<children>
+<image guid="N8ixFYjaSUGKr7IotKzEpw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="123.33" y="-80.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="N8ixFYjaSUGKr7IotKzEpw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="123.33" y="-80.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="20" parent="2" guid="BWSmylLO8USKSclGFb9cQg" x="2490.78" y="-730.99" text="tilo: Silas... If I find\NMerra... I&apos;m afraid-">
+<note>
+[lockableThread:silasWhoIsMerra][lockThread:silasWhoIsMerra]
+</note>
+</topic>
+<topic id="21" parent="20" guid="ELxiNtmRo02nTS6mhaCPMw" x="2490.78" y="-628.10" text="silas: Afraid?\NOf what?">
+<children>
+<image guid="LDE8fbGSQ02YbyO7__mP1g" name="4d6d7d96cfbb3e1947b9b3e56bdaf915aa327a85" x="-100.01" y="15.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_surprise.png"/>
+</image>
+</children>
+<images>
+<image guid="LDE8fbGSQ02YbyO7__mP1g" name="4d6d7d96cfbb3e1947b9b3e56bdaf915aa327a85" x="-100.01" y="15.75" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_surprise.png"/>
+</image>
+</images>
+</topic>
+<topic id="22" parent="21" guid="MXn-nu77ME2TTLCHiC2GnA" x="2355.18" y="-477.86" text="tilo: ... Who will I find?"/>
+<topic id="23" parent="22" guid="2a08pEWDHkewL3RM_wgVLw" x="2355.18" y="-358.20" text="silas: Your true\Nlove, I&apos;d hope!">
+<parent-relation guid="daSdzacZ7Uub4S2ddtVtxQ"/>
+<children>
+<image guid="kxNeYdzDfUusYl1ehpAyLw" name="7259d740deae1686eccfd552dd0de15725874ff0" x="-115.00" y="12.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="kxNeYdzDfUusYl1ehpAyLw" name="7259d740deae1686eccfd552dd0de15725874ff0" x="-115.00" y="12.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="24" parent="23" guid="PvBydY4jgkqc2ckNOBYuZw" x="2355.18" y="-225.83" text="silas: ... And a rebel.">
+<children>
+<image guid="HgUNl4oYpUmX5VUsT2P-TA" name="4d6d7d96cfbb3e1947b9b3e56bdaf915aa327a85" x="-128.34" y="32.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_surprise.png"/>
+</image>
+</children>
+<images>
+<image guid="HgUNl4oYpUmX5VUsT2P-TA" name="4d6d7d96cfbb3e1947b9b3e56bdaf915aa327a85" x="-128.34" y="32.42" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_surprise.png"/>
+</image>
+</images>
+</topic>
+<topic id="25" parent="21" guid="er-VnAyfUkWb7bQYw2BxqA" x="2641.43" y="-477.86" text="tilo: There&apos;s so much I\Ndon&apos;t know about her."/>
+<topic id="26" parent="25" guid="0JvxnYsql0mBjjUHfAdeHw" x="2641.43" y="-358.20" text="silas: You know the\Nkind of Mouse she is."/>
+<topic id="27" parent="26" guid="m70eflUCb0mEfPV9-ylenQ" x="2641.43" y="-225.83" text="silas: She took a stand. You\Nshould be proud of her.">
+<parent-relation guid="KRy5ivt2ZkSVT2Vhq_9WjA"/>
+<children>
+<image guid="cI4OyMQt-USQ5D-4TfjXFg" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="178.33" y="-2.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="cI4OyMQt-USQ5D-4TfjXFg" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="178.33" y="-2.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="28" parent="27" guid="1jzbBXPgdEmgtCauJWoImQ" x="2641.43" y="-117.20" text="silas: Don&apos;t let it\Nbe for nothing.">
+<children>
+<image guid="5dBYROody0-ejKE5cDZDsQ" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="124.99" y="17.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="5dBYROody0-ejKE5cDZDsQ" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="124.99" y="17.97" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="29" parent="2" guid="HFc0BPE3VUeHiFFLsRG_PQ" x="2813.25" y="-797.99" text="tilo: Silas... I&apos;m\Njust a Mouse...">
+<note>
+[lockableThread:justAMouse][lockThread:justAMouse]
+</note>
+</topic>
+<topic id="30" parent="29" guid="H7x2jsIR5k2tctnu-e9Tcw" x="2813.25" y="-699.43" text="silas: Tilo... I can&apos;t\Nvouch for other Mice...">
+<children>
+<image guid="erMFvPG4L0aM7t8cVuzcZA" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="143.33" y="-43.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="erMFvPG4L0aM7t8cVuzcZA" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="143.33" y="-43.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="31" parent="30" guid="1jTNl6FiO0-hgkBatsElBQ" x="2813.25" y="-601.19" text="silas: ... but there are few\Ncreatures braver than you.">
+<children>
+<image guid="A_JOyBohT0m_g2MnYHGsZA" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="168.33" y="21.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="A_JOyBohT0m_g2MnYHGsZA" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="168.33" y="21.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="32" parent="2" guid="J-djhTFxQE-JL0SiR12Umw" x="2218.59" y="-1012.42" text="tilo: What if Merra\Nisn&apos;t there?">
+<note>
+[lockableThread:magpiesNeverLie][lockThread:magpiesNeverLie]
+</note>
+</topic>
+<topic id="33" parent="32" guid="bMTxP7Cm_EiHkhGlBE9lCQ" x="2218.59" y="-845.28" text="silas: They say\N[Magpies] never lie.">
+<children>
+<image guid="feNKZgJowkCC-n6kgKhKGw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="126.66" y="-57.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="feNKZgJowkCC-n6kgKhKGw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="126.66" y="-57.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+<note>
+[footnote:magpies_knowledge]
+</note>
+</topic>
+<topic id="34" parent="2" guid="ZY3PUuUXIkqh49FlhdHg2A" x="154.59" y="428.52" text="tilo: I&apos;m sorry, I didn&apos;t find\Nall of your skappbeetles.">
+<note>
+[reveal:quest_retrieveMissingBeetles.talkToSilas=inactive][lockableThread:retrieveSkappTaskActive][lockThread:retrieveSkappTaskActive]
+</note>
+</topic>
+<topic id="35" parent="34" guid="sEqOknbc-UiIEn2N7agnWg" x="154.59" y="763.15" text="silas: Forget it. At\Nleast they&apos;re free.">
+<children>
+<image guid="aY98WcwaR0CDcPP8JREl7A" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="131.66" y="11.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="aY98WcwaR0CDcPP8JREl7A" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="131.66" y="11.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="36" parent="2" guid="n3__gy0KN0qTsLCmReksUA" x="630.59" y="428.52" text="tilo: I found all of\Nyour skappbeetles.">
+<note>
+[lockableThread:retrieveSkappTaskComplete][reveal:quest_retrieveMissingBeetles.talkToSilas=active][lockThread:retrieveSkappTaskComplete]
+</note>
+</topic>
+<topic id="37" parent="36" guid="xbKHiHwPKkqRm72R2lxzwg" x="630.59" y="540.06" text="silas: My [skapps]... I&apos;ll\Nnot see them again...">
+<children>
+<image guid="Hann5HEzbUGzXmSDjADUrQ" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="149.99" y="16.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="Hann5HEzbUGzXmSDjADUrQ" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="149.99" y="16.30" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+<note>
+[footnote:skappbeetle]
+</note>
+</topic>
+<topic id="38" parent="37" guid="WnM586NObEWBIg1Fb4vf2g" x="634.10" y="655.98" text="silas: ... but they&apos;ll be\Nwell taken care of.">
+<children>
+<image guid="U2hxQzCJKU-Tso53TarrrQ" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="138.33" y="14.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="U2hxQzCJKU-Tso53TarrrQ" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="138.33" y="14.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_retrieveMissingBeetles.talkToSilas]
+</note>
+</topic>
+<topic id="39" parent="2" guid="kDAONEo1sUmhHEOHVqYG5Q" x="-793.76" y="504.12" text="tilo: Here, I have\Nyour spyglass.">
+<note>
+[reveal:quest_retrieveSpyglass.talkToSilas=active|quest_retrieveSpyglass.talkToSilasAltA=active|quest_retrieveSpyglass.talkToSilasAltB=active][lockableThread:retrieveSpyglassTaskComplete][lockThread:retrieveSpyglassTaskComplete][executeAction:giveItem=spyglass]
+</note>
+</topic>
+<topic id="40" parent="39" guid="BLtAe9u0dk6E9S_1gsZeqg" x="-793.76" y="681.58" text="silas: Ha! Not sure what I&apos;m going\Nto do with this, but thanks.">
+<children>
+<image guid="9qoOG9Dz6kK9k7FNR7n-UQ" name="7259d740deae1686eccfd552dd0de15725874ff0" x="156.67" y="-79.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="9qoOG9Dz6kK9k7FNR7n-UQ" name="7259d740deae1686eccfd552dd0de15725874ff0" x="156.67" y="-79.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</images>
+<note>
+[completeTask:quest_retrieveSpyglass.talkToSilas;quest_retrieveSpyglass.talkToSilasAltA;quest_retrieveSpyglass.talkToSilasAltB]
+</note>
+</topic>
+<topic id="41" parent="40" guid="OSvVyTiKg0q73ee3wuBJcQ" x="-793.76" y="855.22" text="fatale: It&apos;s broken,\Nanyway.">
+<children>
+<image guid="UWhxkip89UWA49pYy047YA" name="24ae171121e8e9e8e719787d04c43c28430931f4" x="-111.67" y="-44.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_annoyed.png"/>
+</image>
+</children>
+<images>
+<image guid="UWhxkip89UWA49pYy047YA" name="24ae171121e8e9e8e719787d04c43c28430931f4" x="-111.67" y="-44.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_annoyed.png"/>
+</image>
+</images>
+</topic>
+<topic id="42" parent="2" guid="BO0wbactI0ehskETPfWCOA" x="2641.43" y="94.04" text="tilo: Farewell, Silas...">
+<parent-relation guid="9CExJ_Cv-UmSu4B_wiyNfg"/>
+</topic>
+<topic id="43" parent="42" guid="Z0xNnqJZYEul37F-LSs1Eg" x="2445.21" y="251.53" text="silas: All ready to go?">
+<parent-relation guid="gA3tU1uufEmA9gvIEHVrcA"/>
+<children>
+<image guid="yg76FURQqEyQM3px36Jrbw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="-96.00" y="-80.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="yg76FURQqEyQM3px36Jrbw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="-96.00" y="-80.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+<note>
+[variationIndex=0][lockableThread:finalExit][lockThread:finalExit]
+</note>
+</topic>
+<topic id="44" parent="43" guid="LHEbdBLXw0ObK4Co6BIB1g" x="2445.21" y="399.50" text="tilo: Wait! There was one last\Nthing I wanted to ask you about."/>
+<topic id="45" parent="44" guid="e78rNSs1D0aMaKxRJAHbSA" x="2445.21" y="542.45" text="silas: I&apos;m listening...">
+<children>
+<image guid="DtZwCBfsp060wkSyfCg4Cw" name="4d6d7d96cfbb3e1947b9b3e56bdaf915aa327a85" x="142.00" y="5.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_surprise.png"/>
+</image>
+</children>
+<images>
+<image guid="DtZwCBfsp060wkSyfCg4Cw" name="4d6d7d96cfbb3e1947b9b3e56bdaf915aa327a85" x="142.00" y="5.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_surprise.png"/>
+</image>
+</images>
+</topic>
+<topic id="46" parent="43" guid="4mms95VCMEmYZkx11iDQwA" x="2859.32" y="399.50" text="tilo: Aye. Thank you, Silas...\Nfor all you&apos;ve done for me."/>
+<topic id="47" parent="46" guid="u2I0MnY6dU2Y2kf8-_Z34A" x="2859.99" y="542.45" text="silas: I want you to have\Nsomething. Here...">
+<parent-relation guid="zmze9ZPVi0W3Un1pBFqFiw"/>
+<children>
+<image guid="wDt8Enpu4kC5XyZ_LkYvuw" name="07e75275ed5e09a8354b4abdc1e50db592d6863e" x="158.00" y="-14.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_sad.png"/>
+</image>
+</children>
+<images>
+<image guid="wDt8Enpu4kC5XyZ_LkYvuw" name="07e75275ed5e09a8354b4abdc1e50db592d6863e" x="158.00" y="-14.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="48" parent="47" guid="FgeRKT-60EqmMBFj7bw1-A" x="2859.99" y="645.09" text="The Rat opens his cupped\Npaws to reveal a [skappbeetle].">
+<note>
+[narration][executeAction:receiveItem=bug_beetle_special][footnote:skappbeetle]
+</note>
+</topic>
+<topic id="49" parent="48" guid="yaUyPAt-UUOT1y4KSQ6Tkw" x="2859.49" y="752.47" text="silas: ... take her--careful,\Nnow."/>
+<topic id="50" parent="49" guid="oSsHpaalOk-8cCShqBrX1w" x="2859.49" y="882.47" text="silas: Keep her with you.\NIf you ever need my help...">
+<children>
+<image guid="LN9h9gtcb0OqQEPjx5scqw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="170.00" y="8.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="LN9h9gtcb0OqQEPjx5scqw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="170.00" y="8.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="51" parent="50" guid="gXaN7H2nCk6L1BgWwVCIiA" x="2603.97" y="1024.14" text="tilo: She&apos;ll be able to find you?"/>
+<topic id="52" parent="51" guid="wnhtmQ-JF02wMk5bYikT9w" x="2603.97" y="1138.75" text="silas: Given time, if I\Ntrained her right.">
+<children>
+<image guid="H4s5PpwFDkKiTEQA0IL_-g" name="7259d740deae1686eccfd552dd0de15725874ff0" x="-134.00" y="5.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="H4s5PpwFDkKiTEQA0IL_-g" name="7259d740deae1686eccfd552dd0de15725874ff0" x="-134.00" y="5.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="53" parent="52" guid="JROGVo8gJkWrJYMdO7BYag" x="2855.64" y="1262.80" text="silas: ... Tilo... about Brin...">
+<parent-relation guid="r3PRQz8cpkmmz2lGFAhktg"/>
+<children>
+<image guid="oxTQcLDRvk6FTAsvQbqiww" name="5e89267659eb7925752f1525da9ef1381b3ced56" x="170.00" y="5.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="oxTQcLDRvk6FTAsvQbqiww" name="5e89267659eb7925752f1525da9ef1381b3ced56" x="170.00" y="5.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="54" parent="53" guid="aDAKFC7n3EKzNVQ7e_G_yQ" x="2996.21" y="1373.80" text="tilo: ... I think it&apos;s\Ntime to move on."/>
+<topic id="55" parent="54" guid="8Rsk-yPc7EqCScA-ZC2vBQ" x="2996.21" y="1482.31" text="silas: ... Aye.">
+<children>
+<image guid="E3StJPhkuUq_KT3IWcNGgw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="100.83" y="3.38" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="E3StJPhkuUq_KT3IWcNGgw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="100.83" y="3.38" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="56" parent="55" guid="eFRv6fWSsEaRe5PR79n-BA" x="2853.39" y="1608.81" text="Silas hands you a\Nscroll of waxed paper.">
+<parent-relation guid="eK2KtANZqEycf4LV50j2Bg"/>
+<note>
+[narration]
+</note>
+</topic>
+<topic id="57" parent="56" guid="CUkD7_vwmEmwp46T9a8vVw" x="2719.10" y="1756.59" text="silas: Here--the\Ncharts for [Periclave].">
+<parent-relation guid="3rtIuwcb-02YHoTLUASuQA"/>
+<children>
+<image guid="PDQPBsRNi0WszNxxmcvQZA" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="-140.67" y="-28.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="PDQPBsRNi0WszNxxmcvQZA" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="-140.67" y="-28.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.dialog_rolo_departure.warningBellTolls&lt;4][footnote:periclave]
+</note>
+</topic>
+<topic id="58" parent="57" guid="0y_Rp3Y7bEGZK5kKxmINNA" x="2720.51" y="1872.04" text="silas: Go on now, and\Nsay your farewells...">
+<children>
+<image guid="-p--F9RbXkCGGZGeU1y-cg" name="7259d740deae1686eccfd552dd0de15725874ff0" x="-146.00" y="9.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="-p--F9RbXkCGGZGeU1y-cg" name="7259d740deae1686eccfd552dd0de15725874ff0" x="-146.00" y="9.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="59" parent="56" guid="_nTp3gc_mkunhdGnuLJjTg" x="2995.21" y="1756.59" text="silas: Here--the\Ncharts for [Periclave].">
+<children>
+<image guid="i6LhQYaZ6kOzfJw1pjoACQ" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="141.33" y="-42.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="i6LhQYaZ6kOzfJw1pjoACQ" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="141.33" y="-42.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+<note>
+[reveal:counter.dialog_rolo_departure.warningBellTolls=4][executeAction:activateFinalBell;playSound=warningBell][footnote:periclave]
+</note>
+</topic>
+<topic id="60" parent="59" guid="PNi4t2jto0-6z6xTKcYcAA" x="2995.21" y="1872.04" text="silas: Go on, now.">
+<children>
+<image guid="6zJS2BsYoEeJM_YtqFKLgg" name="7259d740deae1686eccfd552dd0de15725874ff0" x="122.00" y="3.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="6zJS2BsYoEeJM_YtqFKLgg" name="7259d740deae1686eccfd552dd0de15725874ff0" x="122.00" y="3.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="61" parent="53" guid="9XLh9bzVFUaizPLsrt5AlQ" x="2704.99" y="1373.80" text="tilo: Don&apos;t forget him."/>
+<topic id="62" parent="61" guid="A7wvtk5Hpk2BBPIUYZh4sg" x="2704.99" y="1482.31" text="silas: Never.">
+<children>
+<image guid="cg8ya9vp6UifD2gtK4bbPA" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="103.33" y="4.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="cg8ya9vp6UifD2gtK4bbPA" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="103.33" y="4.63" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="63" parent="50" guid="-kk4mLhvikqlUvWNiAAisA" x="3058.49" y="1073.02" text="tilo: Thank you. I&apos;ll\Nremember that."/>
+<topic id="64" parent="42" guid="Curw-6uEiUSNXhUVHHnTfw" x="2859.32" y="251.53" text="silas: That&apos;s it then?">
+<parent-relation guid="VwZYyEJ1YUmNY4N4bxTdcA"/>
+<children>
+<image guid="sC72FQ-2wUmAushgwVnunQ" name="4d6d7d96cfbb3e1947b9b3e56bdaf915aa327a85" x="108.00" y="-64.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_surprise.png"/>
+</image>
+</children>
+<images>
+<image guid="sC72FQ-2wUmAushgwVnunQ" name="4d6d7d96cfbb3e1947b9b3e56bdaf915aa327a85" x="108.00" y="-64.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_surprise.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="65" parent="0" guid="MBS9alYPDUO3WviFgoJGow" x="2254.26" y="-1171.14" palette="2" colorinfo="2" text="silas: Go on now, say your\Nfarewells, while you have time.">
+<children>
+<image guid="cXCy7vZRTkixUOL5HBgTZw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="20.00" y="-82.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="cXCy7vZRTkixUOL5HBgTZw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="20.00" y="-82.03" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+<note>
+[variationIndex=1]
+</note>
+</topic>
+<topic id="66" parent="0" guid="Ua41Q8idTkav2q_utKGOww" x="2567.59" y="-1219.47" palette="4" colorinfo="4" text="silas: Don&apos;t leave anything\Nleft unsaid, Mouse.">
+<children>
+<image guid="UAeppNGzOkurd5Xa6xIooA" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="5.00" y="-85.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="UAeppNGzOkurd5Xa6xIooA" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="5.00" y="-85.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+<note>
+[variationIndex=2]
+</note>
+</topic>
+<topic id="67" parent="0" guid="IkhS0o4jgEqd8yyB5b4F0A" x="2890.92" y="-1171.14" palette="5" colorinfo="5" text="silas: You&apos;d best not\Nput it off any longer...">
+<children>
+<image guid="Xv_iRy6bIUOyI_ncKEFIbw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="100.00" y="-80.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="Xv_iRy6bIUOyI_ncKEFIbw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="100.00" y="-80.37" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+<note>
+[variationIndex=3]
+</note>
+</topic>
+<topic id="68" parent="-1" guid="RZt6gObtxEmGz5gynZRavQ" x="3413.07" y="-1101.39" palette="1" colorinfo="1" text="silas: The alarm bell... You&apos;d best get\Ngoing, Tilo. The guards will be here soon.">
+<note>
+[priorityOverride][reveal:counter.dialog_rolo_departure.warningBellTolls&gt;3][executeAction:playSound=glassBreak]
+</note>
+</topic>
+<topic id="69" parent="68" guid="dOFZxNVhr0SqPciyZw3Gug" x="3413.07" y="-879.30" palette="2" colorinfo="2" text="silas: Captain... let&apos;s\Nget this boat launched.">
+<children>
+<image guid="hP7YcXfr7U6K0tEweOeTOw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="115.33" y="-80.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image guid="hP7YcXfr7U6K0tEweOeTOw" name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="115.33" y="-80.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="70" parent="69" guid="fHTKrSzQ3Uidy2BiTDw7Lw" x="3413.07" y="-766.87" text="gusto: What?! You really think you&apos;ll\Nget to [Periclave] in that thing?">
+<children>
+<image guid="Z0mc5D41bkGPzZIJSW8Ffg" name="7f953bccc94f2cc39d2ab6ae8730d96e767edabc" x="190.00" y="-39.72" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_surprised.png"/>
+</image>
+</children>
+<images>
+<image guid="Z0mc5D41bkGPzZIJSW8Ffg" name="7f953bccc94f2cc39d2ab6ae8730d96e767edabc" x="190.00" y="-39.72" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_surprised.png"/>
+</image>
+</images>
+<note>
+[footnote:periclave]
+</note>
+</topic>
+<topic id="71" parent="70" guid="NVNCLfcFSkuKZDty4YLCgA" x="3413.07" y="-656.07" text="DIALOGUE_HUB"/>
+<topic id="72" parent="71" guid="A7LjOjckWEGQuib3raCPIg" x="3413.07" y="-541.03" text="tilo: I... I\Nhave to try.">
+<parent-relation guid="Z6x3EZ2qUka6GwGNxkHqQw"/>
+</topic>
+<topic id="73" parent="72" guid="jM-ugMhNNkS87gN4-6AAOA" x="3413.07" y="-438.89" text="rolo: I&apos;ll not lie to you,\Nit won&apos;t be easy...">
+<children>
+<image guid="mF2tJwoCvkGuuPU5EwCFhQ" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="123.33" y="-79.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="mF2tJwoCvkGuuPU5EwCFhQ" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="123.33" y="-79.59" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="74" parent="71" guid="CxWlB1RItUC80157j8pYpA" x="3135.02" y="-541.03" text="tilo: Why? What&apos;s\Nwrong with it?">
+<parent-relation guid="8taZtdyKg0ql_odFhpH-zA"/>
+<note>
+[lockableThread:whatsWrongWithBoat=true][lockThread:whatsWrongWithBoat]
+</note>
+</topic>
+<topic id="75" parent="74" guid="FTdEIsI-kEmH9PGmZ7xqnw" x="3135.02" y="-438.89" text="fatale: Ask the Shrew.">
+<children>
+<image guid="sXY0k5FPCk-4kSzSpQ38Ng" name="21ba1f563f5a2ff1b3d75f57e4d14cf927aa0d8a" x="-148.00" y="39.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="sXY0k5FPCk-4kSzSpQ38Ng" name="21ba1f563f5a2ff1b3d75f57e4d14cf927aa0d8a" x="-148.00" y="39.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="76" parent="71" guid="hde-86MddEKCb8YkJqcypA" x="3708.09" y="-539.03" text="tilo: Merra needs me.">
+<parent-relation guid="IKuFui9sEEGEb-7m7MA8aw"/>
+</topic>
+<topic id="77" parent="76" guid="RMcEoJIGmEGxoO97j3d-2Q" x="3708.09" y="-436.89" text="rolo: [Periclave&apos;s] a\Ndangerous place, Mouse.">
+<parent-relation guid="i2YEOQIVU0yH9G-sx2oGYQ"/>
+<children>
+<image guid="MQIkCLARlUajLmxiqlG3YA" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="171.33" y="-12.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="MQIkCLARlUajLmxiqlG3YA" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="171.33" y="-12.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+<note>
+[footnote:periclave_legend]
+</note>
+</topic>
+<topic id="78" parent="77" guid="j2Iz9XGemUatamiJ8v4ahg" x="3708.09" y="-301.54" text="rolo: I can&apos;t promise\Nyou she&apos;s alive...">
+<children>
+<image guid="V7RA5GcXSEedjiKjdcLwJQ" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="151.33" y="-10.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image guid="V7RA5GcXSEedjiKjdcLwJQ" name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="151.33" y="-10.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="79" parent="78" guid="YJ1P7WXvFkyvkx-DIlhoyw" x="3413.07" y="-301.54" text="rolo: ... but I&apos;ve seen enough to\Nknow that nothing&apos;s impossible.">
+<parent-relation guid="uZE_ps-jSEiLQxFGx1Yb7g"/>
+<children>
+<image guid="skrxZ1HzYUCwToOEUmQv1w" name="a08358dadef114a25e39864e6010ea970287efa3" x="-170.00" y="-42.28" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</children>
+<images>
+<image guid="skrxZ1HzYUCwToOEUmQv1w" name="a08358dadef114a25e39864e6010ea970287efa3" x="-170.00" y="-42.28" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</images>
+</topic>
+<topic id="80" parent="79" guid="vE1mx5RzfECJLYiSt1wrnQ" x="3413.07" y="-165.44" text="rolo: Just head straight out,\NMouse, until the currents take hold.">
+<parent-relation guid="3bnpQin0D0m1tZP0iRymdA"/>
+<children>
+<image guid="4qNw7ZMB20-8GMjngmV9Og" name="a08358dadef114a25e39864e6010ea970287efa3" x="-181.00" y="-30.28" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</children>
+<images>
+<image guid="4qNw7ZMB20-8GMjngmV9Og" name="a08358dadef114a25e39864e6010ea970287efa3" x="-181.00" y="-30.28" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</images>
+</topic>
+<topic id="81" parent="80" guid="ew0o72TVikOXl4EwasT9FA" x="3413.07" y="-12.36" text="You climb into the boat. Silas wades\Ndeeper, and with a gentle push\Nsends the boat out onto the lake.">
+<parent-relation guid="hJVNAEF9BEihxYEU--LITw"/>
+<note>
+[narration]
+</note>
+</topic>
+<topic id="82" parent="81" guid="Y_JPxvPDVE-JZULheU7FPQ" x="3413.07" y="175.46" text="silas: ... You know, you&apos;re the shortest\Ncreature I&apos;ve ever looked up to.">
+<parent-relation guid="ZTOB67D2AkitUdyKYo6i9A"/>
+<children>
+<image guid="FB10Z24u_ESGtDZsT6Yxmw" name="7259d740deae1686eccfd552dd0de15725874ff0" x="188.00" y="-76.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="FB10Z24u_ESGtDZsT6Yxmw" name="7259d740deae1686eccfd552dd0de15725874ff0" x="188.00" y="-76.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="83" parent="82" guid="f-BTPxw5-km7quIgkP0oAQ" x="3413.07" y="291.33" text="silas: Goodbye, my friend.">
+<parent-relation guid="1csWKi1gl0uZtQcWvEUHvg"/>
+<children>
+<image guid="3obxQv88zUebTFpax6qZNw" name="7259d740deae1686eccfd552dd0de15725874ff0" x="162.00" y="3.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</children>
+<images>
+<image guid="3obxQv88zUebTFpax6qZNw" name="7259d740deae1686eccfd552dd0de15725874ff0" x="162.00" y="3.08" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</images>
+<note>
+[executeAction:playEndSequence]
+</note>
+</topic>
+<topic id="84" parent="83" guid="yPAiCI9kIk-40G5tyHU_cA" x="3412.61" y="496.73" text="You begin to row, due west,\Nyour thoughts turning to Merra\Nand Periclave. Somewhere\Nbeyond the horizon both are\Nwaiting for you, shrouded in\Nmystery and fog, made in equal\Nparts of truth, of hope, of\Nmemory, and dreams...">
+<parent-relation guid="StF61ZPP9UCXP05Ho4Q_wg"/>
+<note>
+[narration][lockableThread:farewell=true]
+</note>
+</topic>
+<topic id="85" parent="84" guid="tDSqqV2hlU6RfjvCAfH0zw" x="3412.61" y="724.51" text="... little more than\Nthe ghost of a tale.">
+<note>
+[narration]
+</note>
+</topic>
+<topic id="86" parent="-1" guid="UlF0QfpUkkCXpLxJx4DJvA" x="2499.36" y="-2771.15" palette="1" colorinfo="1" text="portraits"/>
+<topic id="87" parent="86" guid="4bMU0Gr9FESs0qrhonrV9w" x="1922.25" y="-1899.50" palette="2" colorinfo="2" text="rolo"/>
+<topic id="88" parent="87" x="1512.25" y="-1619.50" text="default">
+<children>
+<image name="74cd698f407e49cdb84374c1be8fedd683a0768e" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_default.png"/>
+</image>
+</children>
+<images>
+<image name="74cd698f407e49cdb84374c1be8fedd683a0768e" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="89" parent="87" x="1662.25" y="-1619.50" text="angry">
+<children>
+<image name="873e7fdd80312b9afb84eadedc9bbab459df43aa" x="0.00" y="-89.05" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_angry.png"/>
+</image>
+</children>
+<images>
+<image name="873e7fdd80312b9afb84eadedc9bbab459df43aa" x="0.00" y="-89.05" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="90" parent="87" x="1797.25" y="-1619.50" text="doubtful">
+<children>
+<image name="a08358dadef114a25e39864e6010ea970287efa3" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</children>
+<images>
+<image name="a08358dadef114a25e39864e6010ea970287efa3" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_doubtful.png"/>
+</image>
+</images>
+</topic>
+<topic id="91" parent="87" x="2178.50" y="-1619.50" text="pirate">
+<children>
+<image name="2c245bb5377ed3d7ca66819ad060b3e73c3d0c86" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_pirate.png"/>
+</image>
+</children>
+<images>
+<image name="2c245bb5377ed3d7ca66819ad060b3e73c3d0c86" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_pirate.png"/>
+</image>
+</images>
+</topic>
+<topic id="92" parent="87" x="1922.25" y="-1619.50" text="smiling">
+<children>
+<image name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="9c62262cafe1f1f37636103b7cd15fc56b2668c2" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="93" parent="87" x="2053.75" y="-1619.50" text="stern">
+<children>
+<image name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</children>
+<images>
+<image name="53846ee400819d7e9214f24f2ef50ff853ebb645" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Rolo/portrait_rolo_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="94" parent="86" guid="16MHVwrJCEi6IHy9lnLNCA" x="2875.69" y="-1871.82" palette="3" colorinfo="3" text="silas"/>
+<topic id="95" parent="94" x="2378.19" y="-1628.96" text="default">
+<children>
+<image name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="-6.67" y="-98.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</children>
+<images>
+<image name="0da9cf8dc0104f047458238d447a2069f60f80f1" x="-6.67" y="-98.70" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="96" parent="94" x="2508.19" y="-1628.96" text="drunk">
+<children>
+<image name="f1751d013a216b3d601be6061034c21bbce48b6f" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_drunk.png"/>
+</image>
+</children>
+<images>
+<image name="f1751d013a216b3d601be6061034c21bbce48b6f" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_drunk.png"/>
+</image>
+</images>
+</topic>
+<topic id="97" parent="94" x="2634.44" y="-1628.96" text="drunk shout">
+<children>
+<image name="a1bee70367d50e9a7a4e1d168d96f220c2d60cbe" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_drunkShouting.png"/>
+</image>
+</children>
+<images>
+<image name="a1bee70367d50e9a7a4e1d168d96f220c2d60cbe" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_drunkShouting.png"/>
+</image>
+</images>
+</topic>
+<topic id="98" parent="94" x="2765.19" y="-1628.96" text="laugh">
+<children>
+<image name="f213e23b973887754b6dda63b18906135fd4c1fc" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_laugh.png"/>
+</image>
+</children>
+<images>
+<image name="f213e23b973887754b6dda63b18906135fd4c1fc" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_laugh.png"/>
+</image>
+</images>
+</topic>
+<topic id="99" parent="94" x="2875.69" y="-1628.96" text="sad">
+<children>
+<image name="07e75275ed5e09a8354b4abdc1e50db592d6863e" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_sad.png"/>
+</image>
+</children>
+<images>
+<image name="07e75275ed5e09a8354b4abdc1e50db592d6863e" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="100" parent="94" x="2986.94" y="-1628.96" text="shouting">
+<children>
+<image name="3ffc791091d3f23dcb829922f9595c1a38b2c7fb" x="0.00" y="-84.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_shouting.png"/>
+</image>
+</children>
+<images>
+<image name="3ffc791091d3f23dcb829922f9595c1a38b2c7fb" x="0.00" y="-84.25" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_shouting.png"/>
+</image>
+</images>
+</topic>
+<topic id="101" parent="94" x="3096.94" y="-1628.96" text="smiling">
+<children>
+<image name="7259d740deae1686eccfd552dd0de15725874ff0" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="7259d740deae1686eccfd552dd0de15725874ff0" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="102" parent="94" x="3209.44" y="-1628.96" text="stern">
+<children>
+<image name="5e89267659eb7925752f1525da9ef1381b3ced56" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_stern.png"/>
+</image>
+</children>
+<images>
+<image name="5e89267659eb7925752f1525da9ef1381b3ced56" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_stern.png"/>
+</image>
+</images>
+</topic>
+<topic id="103" parent="94" x="3327.90" y="-1628.96" text="surprise">
+<children>
+<image name="4d6d7d96cfbb3e1947b9b3e56bdaf915aa327a85" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_surprise.png"/>
+</image>
+</children>
+<images>
+<image name="4d6d7d96cfbb3e1947b9b3e56bdaf915aa327a85" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Silas/portrait_silas_surprise.png"/>
+</image>
+</images>
+</topic>
+<topic id="104" parent="86" guid="fey0umiC80emLqy_rbQU4w" x="2501.04" y="-2489.51" palette="4" colorinfo="4" text="gusto&amp;fatale"/>
+<topic id="105" parent="104" x="1906.04" y="-2170.34" text="default">
+<children>
+<image name="5726a9de43479aec921da3d2902d7400dd1a7c43" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_default.png"/>
+</image>
+</children>
+<images>
+<image name="5726a9de43479aec921da3d2902d7400dd1a7c43" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="106" parent="104" x="2180.04" y="-2170.34" text="annoyed">
+<children>
+<image name="24ae171121e8e9e8e719787d04c43c28430931f4" x="0.00" y="-84.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_annoyed.png"/>
+</image>
+</children>
+<images>
+<image name="24ae171121e8e9e8e719787d04c43c28430931f4" x="0.00" y="-84.52" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_annoyed.png"/>
+</image>
+</images>
+</topic>
+<topic id="107" parent="104" x="2306.29" y="-2170.34" text="excited">
+<children>
+<image name="2af4bbfb1a7d8d526d17af8748193807979c736b" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_excited.png"/>
+</image>
+</children>
+<images>
+<image name="2af4bbfb1a7d8d526d17af8748193807979c736b" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_excited.png"/>
+</image>
+</images>
+</topic>
+<topic id="108" parent="104" x="2437.04" y="-2170.34" text="laughing">
+<children>
+<image name="16b48797154944020d80605809c8204fa9d933f8" x="0.00" y="-89.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_laughing.png"/>
+</image>
+</children>
+<images>
+<image name="16b48797154944020d80605809c8204fa9d933f8" x="0.00" y="-89.85" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="109" parent="104" x="2547.54" y="-2170.34" text="sad">
+<children>
+<image name="86b8ada4fa5f8c08271c82dd108e708dba2a05d9" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_sad.png"/>
+</image>
+</children>
+<images>
+<image name="86b8ada4fa5f8c08271c82dd108e708dba2a05d9" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="110" parent="104" x="2658.79" y="-2170.34" text="scared">
+<children>
+<image name="e34c93ebe141486525c6fc0038766af027bc9f52" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_scared.png"/>
+</image>
+</children>
+<images>
+<image name="e34c93ebe141486525c6fc0038766af027bc9f52" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_scared.png"/>
+</image>
+</images>
+</topic>
+<topic id="111" parent="104" x="2768.79" y="-2170.34" text="shifty">
+<children>
+<image name="2536724619ecd0e019adf368f0e93bd8ff44ef39" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_shifty.png"/>
+</image>
+</children>
+<images>
+<image name="2536724619ecd0e019adf368f0e93bd8ff44ef39" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_shifty.png"/>
+</image>
+</images>
+</topic>
+<topic id="112" parent="104" x="2897.25" y="-2170.34" text="smiling">
+<children>
+<image name="21ba1f563f5a2ff1b3d75f57e4d14cf927aa0d8a" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_smiling.png"/>
+</image>
+</children>
+<images>
+<image name="21ba1f563f5a2ff1b3d75f57e4d14cf927aa0d8a" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_smiling.png"/>
+</image>
+</images>
+</topic>
+<topic id="113" parent="104" guid="43BGUn-UZ0yVDXmWcjw7Xw" x="3024.37" y="-2170.34" text="warm">
+<children>
+<image name="e0bcf57a99dfc7127a88a0acd6e8397bece26fd0" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_warm.png"/>
+</image>
+</children>
+<images>
+<image name="e0bcf57a99dfc7127a88a0acd6e8397bece26fd0" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_warm.png"/>
+</image>
+</images>
+</topic>
+<topic id="114" parent="104" x="2038.21" y="-2170.34" text="angry">
+<children>
+<image name="fd8a7fe80cce86c572772c6409b15d72bc8d6d68" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_angry.png"/>
+</image>
+</children>
+<images>
+<image name="fd8a7fe80cce86c572772c6409b15d72bc8d6d68" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Fatale/portrait_fatale_angry.png"/>
+</image>
+</images>
+</topic>
+<topic id="115" parent="104" x="2896.29" y="-1973.44" text="unsure">
+<children>
+<image name="3e1d5a4489e460cb4cc75a858024ba4e0f96515d" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_unsure.png"/>
+</image>
+</children>
+<images>
+<image name="3e1d5a4489e460cb4cc75a858024ba4e0f96515d" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_unsure.png"/>
+</image>
+</images>
+</topic>
+<topic id="116" parent="104" x="2783.79" y="-1973.44" text="surprised">
+<children>
+<image name="7f953bccc94f2cc39d2ab6ae8730d96e767edabc" x="0.00" y="-87.72" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_surprised.png"/>
+</image>
+</children>
+<images>
+<image name="7f953bccc94f2cc39d2ab6ae8730d96e767edabc" x="0.00" y="-87.72" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_surprised.png"/>
+</image>
+</images>
+</topic>
+<topic id="117" parent="104" x="2673.79" y="-1973.44" text="shifty">
+<children>
+<image name="28cb959f918671299afe9d8cd967c0ac2e4bd526" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_shifty.png"/>
+</image>
+</children>
+<images>
+<image name="28cb959f918671299afe9d8cd967c0ac2e4bd526" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_shifty.png"/>
+</image>
+</images>
+</topic>
+<topic id="118" parent="104" x="2562.54" y="-1973.44" text="sad">
+<children>
+<image name="4feb725885ebcb2602331712885271547f2c8277" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_sad.png"/>
+</image>
+</children>
+<images>
+<image name="4feb725885ebcb2602331712885271547f2c8277" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_sad.png"/>
+</image>
+</images>
+</topic>
+<topic id="119" parent="104" x="2452.04" y="-1973.44" text="laughing">
+<children>
+<image name="1a59c3a99fea5f109a8ea0c10056988b62bf24fb" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_laughing.png"/>
+</image>
+</children>
+<images>
+<image name="1a59c3a99fea5f109a8ea0c10056988b62bf24fb" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_laughing.png"/>
+</image>
+</images>
+</topic>
+<topic id="120" parent="104" x="2065.04" y="-1973.44" text="default">
+<children>
+<image name="02a2876555560b02c69488eab93998b4f1952175" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_default.png"/>
+</image>
+</children>
+<images>
+<image name="02a2876555560b02c69488eab93998b4f1952175" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_default.png"/>
+</image>
+</images>
+</topic>
+<topic id="121" parent="104" x="2321.29" y="-1973.44" text="excited">
+<children>
+<image name="eae9b818b0d3102b0b140f4b8ba2272e8d173189" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_excited.png"/>
+</image>
+</children>
+<images>
+<image name="eae9b818b0d3102b0b140f4b8ba2272e8d173189" x="0.00" y="-90.92" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_excited.png"/>
+</image>
+</images>
+</topic>
+<topic id="122" parent="104" x="2195.04" y="-1973.44" text="annoyed">
+<children>
+<image name="633b8feac3d75de8c1f899751cd3cfc6879ba607" x="0.00" y="-84.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_annoyed.png"/>
+</image>
+</children>
+<images>
+<image name="633b8feac3d75de8c1f899751cd3cfc6879ba607" x="0.00" y="-84.79" scale="1.00" angle="0.00">
+<link urllink="C:/Users/Paul/Dropbox/GoaT_Portraits/Gusto/portrait_gusto_annoyed.png"/>
+</image>
+</images>
+</topic>
+</topics>
+<relations>
+<relation source="10" target="16"/>
+<relation source="19" target="2"/>
+<relation guid="ob8d48RnR0Wt6pUslNUcnQ" source="17" target="13"/>
+<relation guid="2BYWEjVz9k6vyFPInRz60A" source="13" target="2"/>
+<relation guid="B74tm6IaIkWfH6OaRejV5w" source="24" target="27"/>
+<relation source="28" target="2"/>
+<relation source="73" target="79"/>
+<relation source="75" target="71"/>
+<relation source="31" target="2"/>
+<relation source="15" target="10"/>
+<relation source="33" target="2"/>
+<relation guid="4afGBT_86kuVQFf64Yv6IQ" source="35" target="2"/>
+<relation guid="4k2Zh_km2kq9hlMc4k2gGg" source="41" target="2"/>
+<relation guid="UXlcr8rbHUCmb7yi0EiKvA" source="38" target="2"/>
+<relation guid="smYQj7hYgkKE5qqiokMJDg" source="0" target="68"/>
+<relation source="62" target="56"/>
+<relation guid="Z27QPDrsRUGelqRUp0dMwQ" source="67" target="65"/>
+<relation source="63" target="53"/>
+<relation source="64" target="43"/>
+<relation source="64" target="44"/>
+<relation source="64" target="46"/>
+<relation source="45" target="2"/>
+</relations>
+<stylesheet>
+<general description="quest_style" timestamp="2014-10-28+11:16:41" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<cross-links line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>

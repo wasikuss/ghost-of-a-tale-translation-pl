@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="F18D3D1E85C8482D90299AAE27508E6B"/>
+<title text="quest_findJailer" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="100" x="161" y="337"/>
+<selection guid="R8jMCuVdMUeVUYHxS49UxQ" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="R8jMCuVdMUeVUYHxS49UxQ" x="878.24" y="624.98" palette="2" colorinfo="2" text="The Vanished Jailer">
+<note>
+version_03-02-18_002-Added renown points award to questversion_08-21-16_001
+</note>
+</topic>
+<topic id="1" parent="0" guid="JPjf--QjN06UX-RKe6RRQQ" x="877.74" y="821.73" palette="6" colorinfo="6" text="Search for the Jailer.">
+<note>
+[taskName=findBody][alternate][default]
+</note>
+</topic>
+<topic id="2" parent="1" guid="PcQm9XXzs0CC1w0C-YpqlQ" x="1308.74" y="821.73" palette="8" colorinfo="8" text="You found the Jailer murdered\Nat the bottom of the well."/>
+<topic id="3" parent="1" guid="skcAXPfo80K4T-DI5nd9Fw" x="877.74" y="1009.98" palette="6" colorinfo="6" text="Return to the Commander.">
+<parent-relation guid="jziBoB8M2EutvaCyTbT8zg"/>
+<note>
+[taskName=talkToCommander][alternate][default][grantRenown=2]
+</note>
+</topic>
+<topic id="4" parent="3" guid="pMpptPx1GEOyqkS8UFkxSg" x="1308.74" y="1009.98" palette="8" colorinfo="8" text="You informed the Commander\Nthat the Jailer is dead."/>
+<topic id="5" parent="1" guid="WEm1lNFPkka0DPhuXj5Lhg" x="599.99" y="1009.98" text="Search cancelled.">
+<note>
+[taskName=cancelQuestB][alternate]
+</note>
+</topic>
+<topic id="6" parent="5" guid="EDa_5-_XHUGeZrYTrIi08Q" x="261.24" y="1009.98" palette="8" colorinfo="8" text="The Jailer has been\Nfound murdered."/>
+<topic id="7" parent="0" guid="yCpMQszaHUyVd8swiRSDTQ" x="1308.74" y="624.98" palette="8" colorinfo="8" text="The Commander has ordered\Nyou to find the Jailer, missing\Nsince last blood moon."/>
+<topic id="8" parent="0" guid="l8BayFj9uk6rbUM725I23g" x="599.99" y="821.73" palette="6" colorinfo="6" text="Search cancelled.">
+<note>
+[taskName=cancelQuestA][alternate]
+</note>
+</topic>
+<topic id="9" parent="8" guid="_Dn02-uZzU2aRI-8MCgDnA" x="261.24" y="821.73" palette="8" colorinfo="8" text="The Jailer has been\Nfound murdered."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

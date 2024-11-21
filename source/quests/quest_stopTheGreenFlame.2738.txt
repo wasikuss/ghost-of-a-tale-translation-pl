@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="E2A020E9BCC84823B62CA39A925B2E5A"/>
+<title text="quest_stopTheGreenFlame" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="110" x="669" y="394"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="896.01" y="586.38" palette="2" colorinfo="2" text="Curse of the Green Flame">
+<note>
+[mainQuest]version_02-25-18_003-Changed task name to reflect the action better.version_01-16-18_002-Added renown on final node at tier 3 (temp)version_10-09-17_001-First draft
+</note>
+</topic>
+<topic id="1" parent="0" guid="leSFUphX30e2MKzK6CGNeA" x="896.01" y="722.35" palette="6" colorinfo="6" text="Recruit help against\Nthe Green Flame.">
+<note>
+[taskName=talkToCommander]
+</note>
+</topic>
+<topic id="2" parent="1" guid="ya4S48AAck6r0s8fPxgW_g" x="1399.85" y="722.35" palette="8" colorinfo="8" text="Silas and the smithy have vowed to join you.\NReturn to the Bone Shore--and be ready for a fight!"/>
+<topic id="3" parent="1" guid="v2-8CiX2yUiKdhkNCWn6QA" x="896.01" y="851.24" palette="4" colorinfo="4" text="Head for the Bone Shore.">
+<note>
+[taskName=goToShore]
+</note>
+</topic>
+<topic id="4" parent="3" guid="A29ejju0a02qk7aaPp6E4A" x="1399.85" y="851.24" palette="8" colorinfo="8" text="On the Bone Shore you joined the smithy\Nin a battle against the Green Flame."/>
+<topic id="5" parent="3" guid="PfyVqJ6PhEKXPWZ998hN3w" x="896.01" y="992.35" palette="6" colorinfo="6" text="Damage chest with brisance.">
+<note>
+[taskName=destroyCrystals][interactionCounter=crystal/3][grantRenown=3]
+</note>
+</topic>
+<topic id="6" parent="5" guid="2agHg3vDtEKUTV04R7atwA" x="1399.85" y="992.35" palette="8" colorinfo="8" text="You used brisance to shatter the crystals.\NThe Green Flame is beaten... for now."/>
+<topic id="7" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1399.85" y="586.38" palette="8" colorinfo="8" text="A long-dormant horror has awoken. Sound\Nthe alarm--the Green Flame has returned!"/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

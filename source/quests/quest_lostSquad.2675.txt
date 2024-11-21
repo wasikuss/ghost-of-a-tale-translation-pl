@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="DA002736EB64465895BB8F3B99FE4B32"/>
+<title text="quest_lostSquad" customized="True"/>
+<style key="system.pastel-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="90" x="385" y="346"/>
+<selection guid="kW6o0OMwKEytNO54MDYHqw" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="kW6o0OMwKEytNO54MDYHqw" x="896.26" y="777.21" palette="2" colorinfo="2" text="The Lost Squad">
+<note>
+version_03-02-18_004-Added renown points award to questversion_01-04-17_003-Simplified to use one item to update the task, instead of three parallel tasksversion_12-26-17_002-Revised to simplify quest to just finding the three guards.
+</note>
+</topic>
+<topic id="1" parent="0" guid="pxDv2ilCtUKVmNCBrgnTuQ" x="1300.71" y="777.21" palette="8" colorinfo="8" text="Search the catacombs for the missing\Nguards--Kith, Bowdle, and Skarf."/>
+<topic id="2" parent="0" guid="Kikwv4WgF0SlIsbBOXVS4g" x="896.26" y="926.09" palette="3" colorinfo="3" text="Find the missing guards.">
+<note>
+[taskName=findGuardDogtags][itemCounter=dogtag_squad/3]
+</note>
+</topic>
+<topic id="3" parent="2" guid="TYNgMvi23kOwsYHTRb8r2Q" x="896.26" y="1057.91" palette="6" colorinfo="6" text="Report to the commander.">
+<parent-relation guid="Dz2Vjwq1p0-KbTKi7AXa8A"/>
+<note>
+[taskName=talkToCommander][grantRenown=2]
+</note>
+</topic>
+<topic id="4" parent="3" guid="REPue3F4G0qN65cO2ylF1g" x="1300.71" y="1057.91" palette="8" colorinfo="8" text="You gave the guards&apos; obols to the Commander."/>
+<topic id="5" parent="2" guid="1UOJsOzYt0qS_LFiF2ag_g" x="1300.71" y="926.09" palette="8" colorinfo="8" text="You found the guards&apos; remains and\Ncollected their identification obols."/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>

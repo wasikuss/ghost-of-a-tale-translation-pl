@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="D29E27E3AB744B2EBD6F6604F737F055"/>
+<title text="quest_silenceMusic" customized="True"/>
+<style key="GoaT_scheme"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="130" x="221" y="858"/>
+<selection guid="o1p2ScQN1EuV01kqY8C2ww" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="o1p2ScQN1EuV01kqY8C2ww" x="909.19" y="779.07" palette="1" colorinfo="1" text="Stop That Racket!">
+<note>
+version_03-02-18_002-Added renown points award to questversion_11-25-17_001-First draft.
+</note>
+</topic>
+<topic id="1" parent="0" guid="nY4IGgV9SEulIMovErriFA" x="543.11" y="779.07" palette="8" colorinfo="8" text="Music from the cells is annoying Kerold.\NHe&apos;ll not help you until silence reigns..."/>
+<topic id="2" parent="0" guid="jIGxBqLd3kCvCuff0Fo4FA" x="909.19" y="946.84" palette="3" colorinfo="3" text="Find the source\Nof the music.">
+<note>
+[taskName=findMusic]
+</note>
+</topic>
+<topic id="3" parent="2" guid="kPd0TZsztkW-VDUg_cDl1w" x="909.19" y="1114.60" text="Speak with Silas.">
+<note>
+[taskName=talkToSilas]
+</note>
+</topic>
+<topic id="4" parent="3" guid="VGU5VKV0SUakX2hqdWNmiQ" x="909.19" y="1282.61" palette="6" colorinfo="6" text="Return to Kerold.">
+<note>
+[taskName=talkToKerold][grantRenown=1]
+</note>
+</topic>
+<topic id="5" parent="4" guid="DMN6l-8qGUSgGtJkRN5b1g" x="543.11" y="1282.61" palette="8" colorinfo="8" text="You returned in silence to Kerold."/>
+<topic id="6" parent="3" guid="CwULop98OUavnLnWN0KUzA" x="543.11" y="1114.60" palette="8" colorinfo="8" text="Silas revealed that he was\Npresent when your son Brin died."/>
+<topic id="7" parent="2" guid="EqPKa0Gfi0CMim6qtvi0yw" x="543.11" y="946.84" palette="8" colorinfo="8" text="You found Silas in your\Nold cell, whistling."/>
+</topics>
+<relations/>
+<stylesheet>
+<general description="GoaT_scheme" timestamp="2015-07-23+00:36:24" levelbased="False" borderstyle="sbsDropRoundRect" penstyle="penDouble">
+<bkgnd-color r="255" g="248" b="220"/>
+<font-color r="0" g="0" b="0"/>
+<shadow-color r="128" g="128" b="128"/>
+</general>
+<style>
+<mindmap connection-style="centered" natural-paths="False"/>
+<topics align="center" borderstyle="sbsDropRoundRect"/>
+<relations>
+<hierarchical-relations line-style="penDouble" path-style="bezier" source-arrow="none" target-arrow="openArrow"/>
+</relations>
+</style>
+<palette>
+<item>
+<fill-color r="221" g="200" b="181"/>
+<stroke-color r="138" g="99" b="63"/>
+</item>
+<item>
+<fill-color r="243" g="177" b="191"/>
+<stroke-color r="183" g="28" b="60"/>
+</item>
+<item>
+<fill-color r="235" g="188" b="74"/>
+<stroke-color r="139" g="102" b="15"/>
+</item>
+<item>
+<fill-color r="223" g="208" b="79"/>
+<stroke-color r="129" g="118" b="23"/>
+</item>
+<item>
+<fill-color r="158" g="198" b="174"/>
+<stroke-color r="66" g="113" b="86"/>
+</item>
+<item>
+<fill-color r="130" g="176" b="199"/>
+<stroke-color r="50" g="94" b="114"/>
+</item>
+<item>
+<fill-color r="146" g="129" b="173"/>
+<stroke-color r="73" g="59" b="93"/>
+</item>
+<item>
+<fill-color r="197" g="188" b="212"/>
+<stroke-color r="95" g="78" b="123"/>
+</item>
+</palette>
+</stylesheet>
+</mindmap>
+</simplemind-mindmaps>
